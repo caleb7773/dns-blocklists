@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 14:40 UTC
-# Version: 2026.0101.1440.24
+# Last modified: 01 Jan 2026 18:41 UTC
+# Version: 2026.0101.1841.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11457
+# Number of entries: 11455
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -394,8 +394,6 @@ local=/9kmovies.homes/
 local=/9kmovies.icu/
 local=/9kmovies.life/
 local=/9kmovies.makeup/
-local=/9kmovies.pet/
-local=/9kmovies.pizza/
 local=/9kmovies.space/
 local=/9kmovies.spot/
 local=/9kmovies.surf/

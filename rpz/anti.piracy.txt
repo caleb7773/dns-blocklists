@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767278400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767292860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 14:40 UTC
-; Version: 2026.0101.1440.24
+; Last modified: 01 Jan 2026 18:41 UTC
+; Version: 2026.0101.1841.22
 ; Syntax: RPZ
-; Number of entries: 22914
+; Number of entries: 22910
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -16956,8 +16956,6 @@ yesmovies.pe CNAME .
 *.yesmovies.pe CNAME .
 1tamilmv.pet CNAME .
 *.1tamilmv.pet CNAME .
-9kmovies.pet CNAME .
-*.9kmovies.pet CNAME .
 altadefinizione.pet CNAME .
 *.altadefinizione.pet CNAME .
 cineblog01.pet CNAME .
@@ -17064,8 +17062,6 @@ kinogo.pink CNAME .
 *.kinogo.pink CNAME .
 streamingcommunity.pink CNAME .
 *.streamingcommunity.pink CNAME .
-9kmovies.pizza CNAME .
-*.9kmovies.pizza CNAME .
 hdmovie2.pizza CNAME .
 *.hdmovie2.pizza CNAME .
 streamingcommunity.pizza CNAME .

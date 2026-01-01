@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 14:42 UTC
-# Version: 2026.0101.1442.32
+# Last modified: 01 Jan 2026 18:43 UTC
+# Version: 2026.0101.1843.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 79311
+# Number of entries: 79310
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -1138,7 +1138,6 @@ local=/6toon.com/
 local=/6vids.com/
 local=/6xnxx.pro/
 local=/6xxx.pro/
-local=/6xxx.vip/
 local=/6xxxxxx.biz/
 local=/6xxxxxx.org/
 local=/6ytube.com/
@@ -1174,7 +1173,6 @@ local=/78sex.net/
 local=/792xxx.com/
 local=/799xxx.com/
 local=/79king.sex/
-local=/7a7zbxxxm.top/
 local=/7au.net/
 local=/7ba.ru/
 local=/7backpage.com/
@@ -56103,6 +56101,7 @@ local=/scrile.com/
 local=/scriptbin.works/
 local=/scrolller.com/
 local=/scrolller.online/
+local=/scrollx.org/
 local=/scrondig.gay/
 local=/scrubfetish.com/
 local=/scsex.xyz/

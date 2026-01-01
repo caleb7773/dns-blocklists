@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767278340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767292800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 14:39 UTC
-; Version: 2026.0101.1439.52
+; Last modified: 01 Jan 2026 18:40 UTC
+; Version: 2026.0101.1840.59
 ; Syntax: RPZ
-; Number of entries: 82622
+; Number of entries: 82590
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -6956,8 +6956,6 @@ nohu90.cash CNAME .
 *.7k.casino CNAME .
 7k-031.casino CNAME .
 *.7k-031.casino CNAME .
-7k-064.casino CNAME .
-*.7k-064.casino CNAME .
 7k-077.casino CNAME .
 *.7k-077.casino CNAME .
 7k-0964.casino CNAME .
@@ -7040,8 +7038,6 @@ nohu90.cash CNAME .
 *.7k0059.casino CNAME .
 7k00777.casino CNAME .
 *.7k00777.casino CNAME .
-7k0376.casino CNAME .
-*.7k0376.casino CNAME .
 7k0453.casino CNAME .
 *.7k0453.casino CNAME .
 7k0955.casino CNAME .
@@ -14894,12 +14890,6 @@ images.484930494.com CNAME .
 *.58win12.com CNAME .
 58win6.com CNAME .
 *.58win6.com CNAME .
-58winpay1.com CNAME .
-*.58winpay1.com CNAME .
-58winpay2.com CNAME .
-*.58winpay2.com CNAME .
-58winpay3.com CNAME .
-*.58winpay3.com CNAME .
 592bet6.com CNAME .
 *.592bet6.com CNAME .
 592bets10.com CNAME .
@@ -14972,8 +14962,6 @@ images.484930494.com CNAME .
 *.5hengcasino.com CNAME .
 5k5kcasino.com CNAME .
 *.5k5kcasino.com CNAME .
-5kbetshop.com CNAME .
-*.5kbetshop.com CNAME .
 5nbetcasino.com CNAME .
 *.5nbetcasino.com CNAME .
 5o4di.com CNAME .
@@ -15014,8 +15002,6 @@ images.484930494.com CNAME .
 *.5y5ycasino.com CNAME .
 604bets10.com CNAME .
 *.604bets10.com CNAME .
-604ne.com CNAME .
-*.604ne.com CNAME .
 609bets10.com CNAME .
 *.609bets10.com CNAME .
 60slottica.com CNAME .
@@ -15356,8 +15342,6 @@ images.6929183.com CNAME .
 *.719betcasino.com CNAME .
 71rcasino.com CNAME .
 *.71rcasino.com CNAME .
-71slottica.com CNAME .
-*.71slottica.com CNAME .
 720179.com CNAME .
 *.720179.com CNAME .
 725betsmove.com CNAME .
@@ -15368,16 +15352,10 @@ images.6929183.com CNAME .
 *.72dcasino.com CNAME .
 72ecasino.com CNAME .
 *.72ecasino.com CNAME .
-734betsmove.com CNAME .
-*.734betsmove.com CNAME .
 734games.com CNAME .
 *.734games.com CNAME .
 735betcasino.com CNAME .
 *.735betcasino.com CNAME .
-736betsmove.com CNAME .
-*.736betsmove.com CNAME .
-737betsmove.com CNAME .
-*.737betsmove.com CNAME .
 737gamecasino.com CNAME .
 *.737gamecasino.com CNAME .
 7392004.com CNAME .
@@ -15388,8 +15366,6 @@ images.6929183.com CNAME .
 *.73hcasino.com CNAME .
 73mcasino.com CNAME .
 *.73mcasino.com CNAME .
-7418825.com CNAME .
-*.7418825.com CNAME .
 747-5.com CNAME .
 *.747-5.com CNAME .
 747-livecasino.com CNAME .
@@ -15628,8 +15604,6 @@ images.6929183.com CNAME .
 *.7893234.com CNAME .
 7893236.com CNAME .
 *.7893236.com CNAME .
-789b0.com CNAME .
-*.789b0.com CNAME .
 789bet.com CNAME .
 *.789bet.com CNAME .
 789betg.com CNAME .
@@ -15776,10 +15750,6 @@ images.6929183.com CNAME .
 *.7lbrcasino.com CNAME .
 7lgcasino.com CNAME .
 *.7lgcasino.com CNAME .
-7lingfk.com CNAME .
-*.7lingfk.com CNAME .
-7longfk.com CNAME .
-*.7longfk.com CNAME .
 7msportvn.com CNAME .
 *.7msportvn.com CNAME .
 7nbcasino.com CNAME .
@@ -15860,8 +15830,6 @@ images.6929183.com CNAME .
 *.7yylucky.com CNAME .
 8006d.com CNAME .
 *.8006d.com CNAME .
-8081meridian.com CNAME .
-*.8081meridian.com CNAME .
 808pb.com CNAME .
 *.808pb.com CNAME .
 80abets.com CNAME .
@@ -33988,6 +33956,8 @@ liga-stavok.com CNAME .
 *.liga-stavok.com CNAME .
 liga365.com CNAME .
 *.liga365.com CNAME .
+light88.com CNAME .
+*.light88.com CNAME .
 lightning-bets.com CNAME .
 *.lightning-bets.com CNAME .
 lightningcasinox.com CNAME .
@@ -80080,8 +80050,6 @@ tik88.vin CNAME .
 *.5casino45.vip CNAME .
 5u.vip CNAME .
 *.5u.vip CNAME .
-66789bet.vip CNAME .
-*.66789bet.vip CNAME .
 668bet8.vip CNAME .
 *.668bet8.vip CNAME .
 67bets.vip CNAME .

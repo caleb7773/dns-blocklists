@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Jan 2026 14:42 UTC
-! Version: 2026.0101.1442.32
+! Last modified: 01 Jan 2026 18:43 UTC
+! Version: 2026.0101.1843.29
 ! Syntax: AdBlock
-! Number of entries: 79311
+! Number of entries: 79310
 !
 ||000000000000000000000000000000000000000000000000000000000000000.gay^
 ||001-adult-toys-n-sex-dolls.com^
@@ -1139,7 +1139,6 @@
 ||6vids.com^
 ||6xnxx.pro^
 ||6xxx.pro^
-||6xxx.vip^
 ||6xxxxxx.biz^
 ||6xxxxxx.org^
 ||6ytube.com^
@@ -1175,7 +1174,6 @@
 ||792xxx.com^
 ||799xxx.com^
 ||79king.sex^
-||7a7zbxxxm.top^
 ||7au.net^
 ||7ba.ru^
 ||7backpage.com^
@@ -56104,6 +56102,7 @@
 ||scriptbin.works^
 ||scrolller.com^
 ||scrolller.online^
+||scrollx.org^
 ||scrondig.gay^
 ||scrubfetish.com^
 ||scsex.xyz^

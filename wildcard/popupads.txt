@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 13:30 UTC
-# Version: 2026.0101.1330.44
+# Last modified: 01 Jan 2026 17:30 UTC
+# Version: 2026.0101.1730.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 59725
+# Number of entries: 59676
 #
 *.0.beer
 *.0.club
@@ -5033,7 +5033,6 @@
 *.5608c7633c.com
 *.561649.com
 *.561890.com
-*.562559.top
 *.562631.top
 *.56305138.com
 *.564a5a0rut08.top
@@ -5163,7 +5162,6 @@
 *.61011fc558.com
 *.611675.top
 *.611b2ec55c.com
-*.612647.photo
 *.613f15a070.com
 *.6182.cc
 *.61847b1398.com
@@ -5179,11 +5177,9 @@
 *.621965.top
 *.6224341.cyou
 *.e91ab5975e.623efad9ac.com
-*.627164.photo
 *.627813.cyou
 *.62842068.xyz
 *.629745.pictures
-*.62a77005fb.com
 *.62ad.com
 *.a25c71de26.62cf6d39c1.com
 *.631wzzhwm72pl73xsk8uu6z9jbuneqwhil40.fun
@@ -5222,7 +5218,6 @@
 *.6657e4f5c2.com
 *.666055.com
 *.66629g.com
-*.quadient-1747992358883.6663.com
 *.666777888abc.com
 *.666bm.com
 *.666kh.com
@@ -5252,7 +5247,6 @@
 *.6792.cn
 *.679tk.com
 *.67fad39954.com
-*.67tcvuqyfyyo.top
 *.67thz.com
 *.680642cdf3.com
 *.737d5238dc.680e6a23f1.com
@@ -5302,7 +5296,6 @@
 *.6e5e20f3c0.com
 *.6e67e233a2.com
 *.3307347c72.6e694b79b9.com
-*.6e6cd153a6.com
 *.52f622e23b.6e8e8a45a9.com
 *.6ef14e40a9.com
 *.6fbce8ec59.com
@@ -5321,14 +5314,12 @@
 *.6qmzvfy0mclc.top
 *.6sbd-offer.com
 *.6ujk8x9soxhm.com
-*.6up471a.cfd
 *.6v41p4bsq.com
 *.6x7sq56hi5.cyou
 *.6xgcklo.cyou
 *.6xgteu3hcsf4.top
 *.6xy-zg.com
 *.6yntfvz61f3v.top
-*.6yzkfqnmxc.cyou
 *.6zy9yqe1ew.com
 *.7-7-7-partner.com
 *.7003128946.com
@@ -5340,7 +5331,6 @@
 *.70b7d98dec.com
 *.70de8b3bd7.com
 *.71623c171a.70ee68b015.com
-*.71065.photo
 *.cdn.710k.com
 *.71213zhazha.com
 *.712439.wang
@@ -5357,7 +5347,6 @@
 *.72123581.xyz
 *.8b7ab78d6c.721474ff09.com
 *.724557.top
-*.727175.top
 *.72722.vip
 *.72730.com
 *.727757.vip
@@ -5411,7 +5400,6 @@
 *.766574.top
 *.766935bca8.com
 *.7673632.cyou
-*.767574.top
 *.768e7f3194.com
 *.769292.com
 *.76cp.com
@@ -5521,7 +5509,6 @@
 *.7flies12.de
 *.7fva8algp45k.com
 *.7heavens.club
-*.7jde4v54du.cyou
 *.7jrahgc.de
 *.7ky.cc
 *.7lyonline.com
@@ -5530,14 +5517,12 @@
 *.7nt9p4d4.de
 *.7pp03u7tzoo5.top
 *.7re8.com
-*.7sb3.com
 *.7seas.asia
 *.7techitservices.com
 *.vz.7vid.net
 *.7vuoh5i80tys.top
 *.7wbb.com
 *.7xfw.com
-*.7xnggcqels.cyou
 *.7zip.es
 *.7zip.fr
 *.7zip.it
@@ -5601,10 +5586,7 @@
 *.858581.com
 *.858akaman.xyz
 *.85a90880b9.com
-*.1337ul.8609.cc
-*.908.8609.cc
-*.985.8609.cc
-*.988.8609.cc
+*.8609.cc
 *.86165466.xyz
 *.75003826de.8619047757.com
 *.861shop.com
@@ -5791,11 +5773,7 @@
 *.93a72bfca9.com
 *.93febf18c6.com
 *.93tc.com
-*.495.9415.cc
-*.904.9415.cc
-*.914.9415.cc
-*.926.9415.cc
-*.928.9415.cc
+*.9415.cc
 *.9421d59b1d.com
 *.942442.top
 *.94444717.xyz
@@ -11013,8 +10991,7 @@
 *.bcpbtqpumbarw.online
 *.bcppd.gdn
 *.bcprm.com
-*.dciclc.bctnodv.top
-*.dcivlv.bctnodv.top
+*.bctnodv.top
 *.bctuafpdwarbm.site
 *.track.bcvc.mobi
 *.bcwpdvigokzca.space
@@ -15535,9 +15512,7 @@
 *.cmprotraf.club
 *.cmpuwps.com
 *.cmrdr.com
-*.276eefe2165e.cmsdurbv.top
-*.a38f0f2b74c4.cmsdurbv.top
-*.b84c7e3bdff5.cmsdurbv.top
+*.cmsdurbv.top
 *.cmtrk.com
 *.cmtrkg.com
 *.cmuasrcit.com
@@ -15549,10 +15524,7 @@
 *.everpharmanet.cn.tv
 *.cn2f.cn
 *.cn846.com
-*.526c5dc94e12.cndsdsva.top
-*.530076989109.cndsdsva.top
-*.5d58890195ae.cndsdsva.top
-*.e49e0b120ad5.cndsdsva.top
+*.cndsdsva.top
 *.cndw.top
 *.cnesnnavxumlh.online
 *.cngcpy.com
@@ -15566,8 +15538,7 @@
 *.cntrealize.com
 *.cnwafglwlbcro.life
 *.dciclc.cnwuamf.top
-*.dciclc.cnwucnf.top
-*.dcivlv.cnwucnf.top
+*.cnwucnf.top
 *.cnyojprieezzh.store
 *.cnzixiang.com
 *.cnzz.biz
@@ -17571,8 +17542,7 @@
 *.cuzqaskcyjyut.site
 *.cuzsadabc.com
 *.cvastico.com
-*.dciclc.cvcnmtf.top
-*.dcivlv.cvcnmtf.top
+*.cvcnmtf.top
 *.cvdbvcrpzjrgv.website
 *.cvdinc.com
 *.cvfr74t.com
@@ -20947,8 +20917,7 @@
 *.ectedithconsuk.com
 *.ectenepenury.com
 *.ecteneunroven.shop
-*.dciclc.ectnodw.top
-*.dcivlv.ectnodw.top
+*.ectnodw.top
 *.ectsofcukorpor.com
 *.ectuklyeconen.com
 *.ecuelleribose.com
@@ -29178,8 +29147,7 @@
 *.huzi.com
 *.huzytgmqsnecd.website
 *.huzzahwhatintently.com
-*.dciclc.hvcnmtu.top
-*.dcivlv.hvcnmtu.top
+*.hvcnmtu.top
 *.hvdzdrovccwom.site
 *.hvefnbufkpxou.website
 *.hvert.site
@@ -30890,8 +30858,7 @@
 *.ivajnwwpadtow.love
 *.ivanchinastandard.com
 *.ivangrammarfalling.com
-*.dciclc.ivcnmto.top
-*.dcivlv.ivcnmto.top
+*.ivcnmto.top
 *.ivcsmrt.com
 *.iveecups.net
 *.iviralpartners.com
@@ -31223,11 +31190,8 @@
 *.jemtaucmowhu.top
 *.jenkinkuttab.com
 *.jennduncanphoto.com
-*.max.jenny4.fun
-*.wew.jenny4.fun
-*.wmx.jenny4.fun
+*.jenny4.fun
 *.wnw.jenny4.com
-*.wow.jenny4.fun
 *.news.jennydanny.com
 *.jennyvisits.com
 *.jenoga.xyz
@@ -31961,8 +31925,7 @@
 *.juxtaposetextbookcaptivate.com
 *.juywkhbpmswmq.website
 *.juzaugleed.com
-*.dciclc.jvcnmta.top
-*.dcivlv.jvcnmta.top
+*.jvcnmta.top
 *.jvebyd.com
 *.jviot.com
 *.jvlrcbfxijxgk.store
@@ -32229,7 +32192,8 @@
 *.kchhccjmzipel.site
 *.kcjmivforjixu.online
 *.kcmstredk.com
-*.kcolb.site
+*.js.kcolb.site
+*.mngr.kcolb.site
 *.kcqbrwygxixdh.site
 *.dciclc.kctnodd.top
 *.kcxljicqwzjfd.space
@@ -32952,8 +32916,7 @@
 *.kvaaa.com
 *.kvarcureeny.com
 *.kvbojuxkwvcfk.global
-*.dciclc.kvcnmtd.top
-*.dcivlv.kvcnmtd.top
+*.kvcnmtd.top
 *.kvcon.de
 *.kvdnetmzqvwxw.store
 *.kvdqzsytlcxuf.space
@@ -33366,8 +33329,7 @@
 *.lclocation.com
 *.lcnmoccchdoij.vip
 *.lcskincarecenter.com
-*.dciclc.lctnodl.top
-*.dcivlv.lctnodl.top
+*.lctnodl.top
 *.lcuaerlknisgy.space
 *.lcwfab1.com
 *.lcwfab2.com
@@ -39580,8 +39542,7 @@
 *.ocpsimamdza.com
 *.octaviantraprelease.com
 *.octinvemb.com
-*.dciclc.octnodk.top
-*.dcivlv.octnodk.top
+*.octnodk.top
 *.octo25.me
 *.octoberads.space
 *.octoberreplicalocate.com
@@ -40536,6 +40497,7 @@
 *.otarinealaska.top
 *.otbuzvqq8fm5.com
 *.otbydhpfhzbjd.today
+*.otcongoqn.com
 *.oteblowdxltre.online
 *.otgyufesofpmu.online
 *.othabqmag.com
@@ -40930,7 +40892,8 @@
 *.pachegaimax.net
 *.pacificbank.asia
 *.pacificdentalcenterhuntingtonpark.com
-*.pacifics.sbs
+*.si.pacifics.sbs
+*.vi.pacifics.sbs
 *.pacifyinvalid.com
 *.packagebellysmoothly.com
 *.packerta.com
@@ -44145,8 +44108,7 @@
 *.qcnragymlulzk.website
 *.qcqfkzglgynfr.site
 *.qcqobpxpeeiwh.store
-*.dciclc.qctnody.top
-*.dcivlv.qctnody.top
+*.qctnody.top
 *.qcuoyo.icu
 *.qcuwpicccoscr.online
 *.qcwnfoqtqgvau.icu
@@ -47301,8 +47263,7 @@
 *.scrupulousyet.com
 *.scrutinizeordealscrutinize.com
 *.sctaylor.com
-*.dciclc.sctnodb.top
-*.dcivlv.sctnodb.top
+*.sctnodb.top
 *.scuffleputrefy.com
 *.ld.scuftockster.com
 *.sculkerwrite.com
@@ -47969,9 +47930,7 @@
 *.ko.sheltaransack.com
 *.shemalesofhentai.com
 *.eo.shemdipolar.shop
-*.bnrs.shemrec.cc
-*.proll.shemrec.cc
-*.pundr.shemrec.cc
+*.shemrec.cc
 *.shenbingask.com
 *.shengfleming.com
 *.shengheimin.com
@@ -51330,8 +51289,7 @@
 *.tcrtidleivyai.space
 *.tcskitchensandcatering.xyz
 *.tcsmgstagingserver.com
-*.dciclc.tctnodi.top
-*.dcivlv.tctnodi.top
+*.tctnodi.top
 *.tctrbtdxbscuw.site
 *.tcvlrtqsfqkbo.store
 *.tcwgmjsjgtsrm.space
@@ -53698,8 +53656,7 @@
 *.uciot.com
 *.uckiaaoul.rest
 *.ucpfezjbcrmwh.space
-*.dciclc.uctnodt.top
-*.dcivlv.uctnodt.top
+*.uctnodt.top
 *.ucuhyu.com
 *.ucuoknexq.global
 *.ucwkvipzetzxc.space
@@ -55613,9 +55570,7 @@
 *.vipmilan69.com
 *.viporalsurgery.com
 *.vipriver28.net
-*.cw32brt.vipspotflirts.life
-*.gwqpmrg.vipspotflirts.life
-*.k8cpmrdll.vipspotflirts.life
+*.vipspotflirts.life
 *.vipvs.com
 *.vipwealthmanagement.net
 *.viral782.com
@@ -56409,8 +56364,7 @@
 *.wcpgtxpzhpdgy.website
 *.wcpmoh.com
 *.wct.link
-*.dciclc.wctnode.top
-*.dcivlv.wctnode.top
+*.wctnode.top
 *.wcuggkuxfgutu.today
 *.wcuxkyjwndqxj.top
 *.wcvevntrztrdi.site
@@ -57911,9 +57865,7 @@
 *.xgiiioziwwayu.store
 *.xgks.com
 *.xgolyqyfjuuwn.online
-*.1048877cc998.xgoxwcldkz.top
-*.680ad07504ce.xgoxwcldkz.top
-*.f971bc9f9ae8.xgoxwcldkz.top
+*.xgoxwcldkz.top
 *.xgozhrjmwwgxf.site
 *.xgraph.net
 *.xgsxkzscxapvj.online
@@ -58955,7 +58907,8 @@
 *.yueyinglighting.com
 *.yugjwgg.top
 *.yuhuads.com
-*.yuhuan.cc
+*.59557com.yuhuan.cc
+*.wwwtk1976com.yuhuan.cc
 *.yuiiy.com
 *.yuintbradshed.com
 *.mv.yuitvr.com
@@ -59094,7 +59047,6 @@
 *.zahard.win
 *.zaidarealestateproperties.com
 *.zaimads.com
-*.zaiteegraity.net
 *.zaiteeth.net
 *.zakjvvjpjzesp.store
 *.zakld.com
@@ -59675,8 +59627,7 @@
 *.zxfqtqmtlldld.world
 *.zxgjrlpmaqyek.website
 *.zxinihfgkdpfb.space
-*.2774c5d7b48b.zxmenhmo.top
-*.bb6b7391a692.zxmenhmo.top
+*.zxmenhmo.top
 *.zxnymrendoxms.space
 *.zxttvkshqbded.space
 *.zxvhxdpyordan.store

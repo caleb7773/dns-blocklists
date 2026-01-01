@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767278520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767292980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 14:42 UTC
-; Version: 2026.0101.1442.32
+; Last modified: 01 Jan 2026 18:43 UTC
+; Version: 2026.0101.1843.29
 ; Syntax: RPZ
-; Number of entries: 158622
+; Number of entries: 158620
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -116156,6 +116156,8 @@ schambereich.org CNAME .
 *.schambereich.org CNAME .
 schoolgirls-asia.org CNAME .
 *.schoolgirls-asia.org CNAME .
+scrollx.org CNAME .
+*.scrollx.org CNAME .
 sdfo.org CNAME .
 *.sdfo.org CNAME .
 seaporn.org CNAME .
@@ -128362,8 +128364,6 @@ undressme.tools CNAME .
 *.666cams.top CNAME .
 71udgay2.top CNAME .
 *.71udgay2.top CNAME .
-7a7zbxxxm.top CNAME .
-*.7a7zbxxxm.top CNAME .
 8899xxx.top CNAME .
 *.8899xxx.top CNAME .
 8kun.top CNAME .
@@ -134444,8 +134444,6 @@ sexviet.vin CNAME .
 *.584xxx.vip CNAME .
 6sextz.vip CNAME .
 *.6sextz.vip CNAME .
-6xxx.vip CNAME .
-*.6xxx.vip CNAME .
 768xxx.vip CNAME .
 *.768xxx.vip CNAME .
 8208xxx.vip CNAME .
