@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Jan 2026 09:35 UTC
-! Version: 2026.0101.0935.24
+! Last modified: 01 Jan 2026 13:35 UTC
+! Version: 2026.0101.1335.40
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -211,7 +211,6 @@
 @@||31productions.de^
 @@||321url.com^
 @@||350.my^
-@@||360link.id^
 @@||369.xn--6frz82g^
 @@||389sport.fun^
 @@||389sport.store^

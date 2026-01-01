@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767259980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767274380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 09:33 UTC
-; Version: 2026.0101.0933.34
+; Last modified: 01 Jan 2026 13:33 UTC
+; Version: 2026.0101.1333.36
 ; Syntax: RPZ
-; Number of entries: 28336
+; Number of entries: 28332
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1682,8 +1682,6 @@ eoutlet.2023shoponline.com CNAME .
 *.2wheelshero.com CNAME .
 303e.com CNAME .
 *.303e.com CNAME .
-30essentialsco.com CNAME .
-*.30essentialsco.com CNAME .
 360reinigungsmittel.com CNAME .
 *.360reinigungsmittel.com CNAME .
 3racingparts.com CNAME .
@@ -4012,6 +4010,8 @@ cable-scheune.com CNAME .
 *.cable-scheune.com CNAME .
 cachetone.com CNAME .
 *.cachetone.com CNAME .
+cacyro.com CNAME .
+*.cacyro.com CNAME .
 cadlicenseseller.com CNAME .
 *.cadlicenseseller.com CNAME .
 cafivo.com CNAME .
@@ -26794,8 +26794,6 @@ impulsa.shop CNAME .
 *.impulsa.shop CNAME .
 incude.shop CNAME .
 *.incude.shop CNAME .
-yhead.infoloan.shop CNAME .
-*.yhead.infoloan.shop CNAME .
 ingridemil.shop CNAME .
 *.ingridemil.shop CNAME .
 inksterdeava.shop CNAME .
@@ -26826,8 +26824,6 @@ jpins.shop CNAME .
 *.jpins.shop CNAME .
 juliahufnagelava.shop CNAME .
 *.juliahufnagelava.shop CNAME .
-junobi.shop CNAME .
-*.junobi.shop CNAME .
 aodlchangwangyj.jxckd.shop CNAME .
 *.aodlchangwangyj.jxckd.shop CNAME .
 kaminholzrhein.shop CNAME .

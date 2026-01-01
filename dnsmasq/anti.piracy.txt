@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 10:37 UTC
-# Version: 2026.0101.1037.12
+# Last modified: 01 Jan 2026 14:40 UTC
+# Version: 2026.0101.1440.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11405
+# Number of entries: 11457
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -377,6 +377,31 @@ local=/9animetv.to/
 local=/9divx.com/
 local=/9goal.tv/
 local=/9kmovies.agency/
+local=/9kmovies.bar/
+local=/9kmovies.beauty/
+local=/9kmovies.buzz/
+local=/9kmovies.cfd/
+local=/9kmovies.chat/
+local=/9kmovies.christmas/
+local=/9kmovies.click/
+local=/9kmovies.fit/
+local=/9kmovies.forum/
+local=/9kmovies.fun/
+local=/9kmovies.garden/
+local=/9kmovies.gripe/
+local=/9kmovies.hair/
+local=/9kmovies.homes/
+local=/9kmovies.icu/
+local=/9kmovies.life/
+local=/9kmovies.makeup/
+local=/9kmovies.pet/
+local=/9kmovies.pizza/
+local=/9kmovies.space/
+local=/9kmovies.spot/
+local=/9kmovies.surf/
+local=/9kmovies.tattoo/
+local=/9kmovies.wiki/
+local=/9kmovies.xin/
 local=/9mod.com/
 local=/9pm.to/
 local=/9xflix.golf/
@@ -3715,6 +3740,7 @@ local=/flmsdown.net/
 local=/ns1.floads.com/
 local=/ns2.floads.com/
 local=/flood.to/
+local=/flowermangas.net/
 local=/fluxyrepacks.xyz/
 local=/vpn.flying-datacenter.de/
 local=/flywarez.info/
@@ -8578,6 +8604,7 @@ local=/somosmovies.com/
 local=/songslover.cam/
 local=/songswave.com/
 local=/sonofshun.com/
+local=/tracker.soshifanclub.com/
 local=/sosulki.com/
 local=/sosulki.net/
 local=/soul-anime.us/
@@ -8920,28 +8947,53 @@ local=/streamingcommunity.wang/
 local=/streamingcommunity.work/
 local=/streamingcommunity.ws/
 local=/streamingcommunityz.agency/
+local=/streamingcommunityz.asia/
 local=/streamingcommunityz.autos/
+local=/streamingcommunityz.bar/
 local=/streamingcommunityz.beauty/
+local=/streamingcommunityz.beer/
 local=/streamingcommunityz.bio/
 local=/streamingcommunityz.biz/
 local=/streamingcommunityz.blog/
 local=/streamingcommunityz.boats/
+local=/streamingcommunityz.boutique/
+local=/streamingcommunityz.buzz/
 local=/streamingcommunityz.cam/
 local=/streamingcommunityz.cc/
+local=/streamingcommunityz.cfd/
 local=/streamingcommunityz.chat/
 local=/streamingcommunityz.city/
+local=/streamingcommunityz.click/
+local=/streamingcommunityz.codes/
 local=/streamingcommunityz.com/
+local=/streamingcommunityz.cool/
+local=/streamingcommunityz.coupons/
+local=/streamingcommunityz.credit/
 local=/streamingcommunityz.cz/
 local=/streamingcommunityz.date/
 local=/streamingcommunityz.digital/
+local=/streamingcommunityz.download/
 local=/streamingcommunityz.email/
+local=/streamingcommunityz.fun/
+local=/streamingcommunityz.gold/
+local=/streamingcommunityz.golf/
+local=/streamingcommunityz.guru/
+local=/streamingcommunityz.help/
 local=/streamingcommunityz.info/
+local=/streamingcommunityz.irish/
 local=/streamingcommunityz.it/
+local=/streamingcommunityz.kim/
 local=/streamingcommunityz.li/
 local=/streamingcommunityz.lol/
 local=/streamingcommunityz.me/
 local=/streamingcommunityz.media/
+local=/streamingcommunityz.one/
+local=/streamingcommunityz.pro/
+local=/streamingcommunityz.qpon/
+local=/streamingcommunityz.sbs/
+local=/streamingcommunityz.shop/
 local=/streamingcommunityz.site/
+local=/streamingcommunityz.top/
 local=/streamingcommunityz.tv/
 local=/streamingdivx.ch/
 local=/streaminggratuit.cc/

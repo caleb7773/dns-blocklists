@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 09:33 UTC
-# Version: 2026.0101.0933.34
+# Last modified: 01 Jan 2026 13:33 UTC
+# Version: 2026.0101.1333.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14168
+# Number of entries: 14166
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -46,7 +46,6 @@ local=/2cequipements.com/
 local=/2smart4me.de/
 local=/2wheelshero.com/
 local=/303e.com/
-local=/30essentialsco.com/
 local=/360reinigungsmittel.com/
 local=/3d-printing.store/
 local=/3racingparts.com/
@@ -1995,6 +1994,7 @@ local=/cabanor.com/
 local=/cabergbrema.com/
 local=/cable-scheune.com/
 local=/cachetone.com/
+local=/cacyro.com/
 local=/cadlicenseseller.com/
 local=/cafe-hardenberg.de/
 local=/cafivo.com/
@@ -6476,7 +6476,6 @@ local=/info-euservice.com/
 local=/info-shop-online.com/
 local=/infodir.net/
 local=/infodux.de/
-local=/yhead.infoloan.shop/
 local=/infosterreich365.com/
 local=/infox24.de/
 local=/infupa.com/
@@ -6798,7 +6797,6 @@ local=/jungleim.com/
 local=/jungleknnt.de/
 local=/juniq-tech.de/
 local=/junkersthermenwartung.at/
-local=/junobi.shop/
 local=/jupiter-web3.com/
 local=/juretro.com/
 local=/justdance-events.nl/
