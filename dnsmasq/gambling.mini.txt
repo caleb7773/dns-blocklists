@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 18:40 UTC
-# Version: 2026.0101.1840.59
+# Last modified: 01 Jan 2026 22:39 UTC
+# Version: 2026.0101.2239.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 41295
+# Number of entries: 41282
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -3785,7 +3785,6 @@ local=/87aa87.com/
 local=/87betslot.com/
 local=/87n.casino/
 local=/87phcasino.com/
-local=/88-clb.com/
 local=/8811betss.com/
 local=/881betsy.com/
 local=/881c.casino/
@@ -3982,7 +3981,6 @@ local=/890022.com/
 local=/8923.casino/
 local=/892spinania.com/
 local=/8956.casino/
-local=/8961.casino/
 local=/897909.com/
 local=/898bet.me/
 local=/899luckcasino.com/
@@ -4061,7 +4059,6 @@ local=/8pgslot.net/
 local=/8pokers.com/
 local=/8pokertables.com/
 local=/8rd.casino/
-local=/8s.world/
 local=/8toptrends.com/
 local=/8u9388.top/
 local=/8usclub.pro/
@@ -4278,7 +4275,6 @@ local=/99ok5.com/
 local=/99q.casino/
 local=/99qh88.com/
 local=/99riocasino.com/
-local=/99ruaygame.com/
 local=/99s.casino/
 local=/99sscasino.com/
 local=/99vncasino.com/
@@ -4402,7 +4398,6 @@ local=/aaajiliapp.com/
 local=/aaajl.vip/
 local=/aaajlapp.shop/
 local=/aachendutchshepherds.com/
-local=/aahebulletin.com/
 local=/aajili.site/
 local=/aajogo.com/
 local=/aajogo-1.com/
@@ -4478,7 +4473,6 @@ local=/acecasinos.ca/
 local=/acedbet.buzz/
 local=/acedbetcasino.com/
 local=/acegame-casino-arg.com/
-local=/acegarden-golf.com/
 local=/acehpoker.icu/
 local=/acelucky.buzz/
 local=/aceluckycasino.com/
@@ -4491,7 +4485,6 @@ local=/aces.gg/
 local=/acesgoldcasino.com/
 local=/acesportsbook.com/
 local=/acffarms.org/
-local=/acfpoker.fr/
 local=/acolourher.com/
 local=/acookiebeforedinner.com/
 local=/acornfun.com/
@@ -4550,8 +4543,6 @@ local=/admiral-slots41.info/
 local=/admiral-x.com/
 local=/admiral-x17.com/
 local=/admiral-x18.com/
-local=/admiral-x20.win/
-local=/admiral-x21.win/
 local=/admiral-xxx.com/
 local=/admiral-xxx.net/
 local=/admiral-xxx.org/
@@ -4582,7 +4573,6 @@ local=/adslot.vip/
 local=/adsqq.com/
 local=/adssistem.com/
 local=/adultcareconnections.com/
-local=/adultoirresponsable.com/
 local=/adupoker.net/
 local=/adupoker88.net/
 local=/advantage-gambling.com/
@@ -4631,7 +4621,6 @@ local=/aftergambling.com/
 local=/afun.com/
 local=/afun.mx/
 local=/afun777casino.com/
-local=/ag24hs.com/
 local=/ag44.online/
 local=/ag666.store/
 local=/ag777.store/
@@ -4640,7 +4629,6 @@ local=/agam99terpecaya.xyz/
 local=/agamble.com/
 local=/agb138slot.site/
 local=/agb188.net/
-local=/agb99slot.online/
 local=/agbong88.com/
 local=/agen-slot-online.net/
 local=/agen99bets.net/
@@ -4664,7 +4652,6 @@ local=/agents1xbet.com/
 local=/agentsino.buzz/
 local=/agenvip77.net/
 local=/agilabets.com/
-local=/agilegovleaders.com/
 local=/agjogo.com/
 local=/aglbet.com/
 local=/agn880824.com/

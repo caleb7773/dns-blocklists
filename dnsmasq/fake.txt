@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 13:33 UTC
-# Version: 2026.0101.1333.36
+# Last modified: 01 Jan 2026 21:33 UTC
+# Version: 2026.0101.2133.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14166
+# Number of entries: 14161
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -99,7 +99,6 @@ local=/absoluteo.com/
 local=/absorbpath.com/
 local=/absorrption.com/
 local=/abstractp.com/
-local=/abtrucks-trailers.com/
 local=/abugarciaangelwelt.com/
 local=/abus-de.com/
 local=/acaciapecas.com/
@@ -121,12 +120,10 @@ local=/acc.accgn.net/
 local=/accidentalw.com/
 local=/accomplishk.com/
 local=/accsmarket.net/
-local=/acer-de.com/
 local=/achat-bitcoin.com/
 local=/achatbois.com/
 local=/acheterdubitcoin.com/
 local=/achicwomen.com/
-local=/achimreims.de/
 local=/acidoutlet.com/
 local=/acintqucil.com/
 local=/aciquainted.com/
@@ -156,7 +153,6 @@ local=/adapters-ac.com/
 local=/adaptertunerturbo.de/
 local=/adaton.de/
 local=/adboischauffage.com/
-local=/iiroom.adcreate.website/
 local=/addblockcs.com/
 local=/addedtechnology.com/
 local=/addicted2.at/
@@ -174,7 +170,6 @@ local=/adidasyeezyboost.de/
 local=/adidasyeezyofficialwebsite.com/
 local=/adihilfe.com/
 local=/adjoningtem.com/
-local=/adler-ch.com/
 local=/adler-energie.de/
 local=/admiral-markets.com/
 local=/admiralmarketsltd.com/

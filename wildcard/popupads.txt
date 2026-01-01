@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 17:30 UTC
-# Version: 2026.0101.1730.24
+# Last modified: 01 Jan 2026 21:30 UTC
+# Version: 2026.0101.2130.25
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 59676
+# Number of entries: 59706
 #
 *.0.beer
 *.0.club
@@ -5586,7 +5586,10 @@
 *.858581.com
 *.858akaman.xyz
 *.85a90880b9.com
-*.8609.cc
+*.1337ul.8609.cc
+*.908.8609.cc
+*.985.8609.cc
+*.988.8609.cc
 *.86165466.xyz
 *.75003826de.8619047757.com
 *.861shop.com
@@ -5603,7 +5606,6 @@
 *.87239.com
 *.878997.com
 *.879756.com
-*.87cp.com
 *.87qj.com
 *.87shuku.cc
 *.8819.cc
@@ -5619,10 +5621,8 @@
 *.888map.com
 *.888media.net
 *.888promos.com
-*.888vip.vip
 *.889dbee9c9.com
 *.88bb36fab4.com
-*.88ben.com
 *.88btbtt.com
 *.88cb0eb486.com
 *.88d3a9a9a1.com
@@ -5636,7 +5636,6 @@
 *.88lous.com
 *.88m.tips
 *.88p2p.com
-*.88pk8.com
 *.88vellet.icu
 *.891world.com
 *.89296649.xyz
@@ -5648,7 +5647,6 @@
 *.89cw.com
 *.3b41bd214e.89f56beb55.com
 *.89gg.com
-*.89mj.com
 *.89sa.com
 *.89thz.com
 *.8a41766c30.com
@@ -5706,19 +5704,12 @@
 *.8x2648x.com
 *.8x2658x.com
 *.8xx0n8.com
-*.8yc.com
-*.8yh.cc
 *.8yy-ca-w-i9-z.com
-*.900597.com
-*.900645.com
-*.900878.com
 *.9009.me
 *.900bets10.com
 *.2b294985f3.900f3c4717.com
 *.901271.com
-*.90192.com
 *.903e9c75f6.com
-*.9044.cc
 *.904game.com
 *.905555.xyz
 *.905trk.com
@@ -5730,16 +5721,53 @@
 *.90b8ae1064.com
 *.90d92b6a4e.com
 *.90lulu.com
-*.914341.top
 *.9177b.com
 *.918xx.com
 *.ad81b5514f.91b20f7c8f.com
-*.91boss.com
 *.91cd3khn.de
 *.d34d3e1bba.91d02a6a8c.com
-*.91fb.com
-*.91lttz.com
-*.91mt.com
+*.cj4310.91mt.com
+*.ea5614.91mt.com
+*.id5894.91mt.com
+*.iv2182.91mt.com
+*.je5157.91mt.com
+*.key.91mt.com
+*.lq6137.91mt.com
+*.mo3453.91mt.com
+*.mr3774.91mt.com
+*.my4647.91mt.com
+*.mz371.91mt.com
+*.nm9589.91mt.com
+*.nr2979.91mt.com
+*.nz1922.91mt.com
+*.pb5694.91mt.com
+*.pn6126.91mt.com
+*.po4670.91mt.com
+*.qo7567.91mt.com
+*.qq9367.91mt.com
+*.qr9827.91mt.com
+*.qv7980.91mt.com
+*.rd398.91mt.com
+*.rg7115.91mt.com
+*.rk5927.91mt.com
+*.rt8010.91mt.com
+*.rx6381.91mt.com
+*.tf3023.91mt.com
+*.tg9382.91mt.com
+*.tl5328.91mt.com
+*.vg5045.91mt.com
+*.vj945.91mt.com
+*.vl3775.91mt.com
+*.vs4547.91mt.com
+*.ww4631.91mt.com
+*.xh709.91mt.com
+*.xq2632.91mt.com
+*.xq9882.91mt.com
+*.xy2750.91mt.com
+*.yh3924.91mt.com
+*.yt154.91mt.com
+*.zd4479.91mt.com
+*.ze562.91mt.com
 *.91papa.com
 *.92013.com
 *.920yy.com
@@ -5773,9 +5801,12 @@
 *.93a72bfca9.com
 *.93febf18c6.com
 *.93tc.com
-*.9415.cc
+*.495.9415.cc
+*.904.9415.cc
+*.914.9415.cc
+*.926.9415.cc
+*.928.9415.cc
 *.9421d59b1d.com
-*.942442.top
 *.94444717.xyz
 *.33773a42d8.944ef08b40.com
 *.94500.com
@@ -5784,7 +5815,6 @@
 *.94782806.xyz
 *.94iiii.com
 *.94xinzhi.com
-*.953645.top
 *.954ea5dcf2a4676c48b30de1262ab03e10a4ae8a82d3e73908fa4653.com
 *.95597529.xyz
 *.956956.com
@@ -5996,7 +6026,6 @@
 *.a64x.com
 *.a67c5c438d.com
 *.a69cc901e9.com
-*.a6c.online
 *.a6c5669865.com
 *.a6d8f8172f.com
 *.622bac31c1.a73c42223a.com
@@ -6021,7 +6050,6 @@
 *.aa6941.com
 *.aa8166.com
 *.aa8193.com
-*.aaa85877ba.com
 *.aaa8f4d18b.com
 *.aaaaaco.com
 *.aaaacdn.com
@@ -6036,7 +6064,6 @@
 *.aafcwvjpryevi.online
 *.aafdcq.com
 *.aagm.link
-*.aagmmrktriz.vip
 *.aahpvdkakpska.online
 *.aajhkzdwbmloi.today
 *.aamote.top
@@ -6089,7 +6116,6 @@
 *.abbreviationhanging.com
 *.abcabdc.xyz
 *.abcalliedmoving.com
-*.abcd4dgame.store
 *.abcdserver.com
 *.abcnewshub.com
 *.abco.wang
@@ -6097,7 +6123,6 @@
 *.abdadde321.com
 *.abdalhamed.com
 *.abdalminhag.com
-*.ma.abdatheres.top
 *.abdicatebirchcoolness.com
 *.abdicateeffectlucky.com
 *.abdicatehorrified.com
@@ -6298,7 +6323,6 @@
 *.accelerationlottery.com
 *.accelerationpistolweary.com
 *.accentmine.com
-*.acceptable-depression.com
 *.acceptablebleat.com
 *.acceptablefabric.com
 *.acceptablefoot.com
@@ -6410,8 +6434,6 @@
 *.achieveit.fr
 *.achievementseeingladder.com
 *.achieveweakness.com
-*.aching-period.com
-*.aching-principle.com
 *.achingbed.pro
 *.achingborder.com
 *.achingtale.pro
@@ -6420,7 +6442,6 @@
 *.achycompassionate.com
 *.achyonwardballast.com
 *.achyrepeatitchy.com
-*.vn.aci6.com
 *.acidic-towel.pro
 *.acidicstraw.com
 *.acidmercy.com
@@ -6448,7 +6469,6 @@
 *.acorncranberrycrayfish.com
 *.acornfacilitatechecking.com
 *.acornfarmerconnate.com
-*.acq9.com
 *.acqqmjewqgqln.online
 *.acquaintancecolorfulheading.com
 *.acquaintedpostman.com
@@ -6467,7 +6487,6 @@
 *.acreinterstatethe.com
 *.acridtwist.com
 *.wl.acritoliters.com
-*.acrobatic-mess.pro
 *.acrobaticcouple.com
 *.acronychoofers.cfd
 *.acronym.com
@@ -6515,7 +6534,6 @@
 *.actthrilled.com
 *.actual-spirit.com
 *.tracking.actualidad.es
-*.acu0.com
 *.ah.acuchiunquert.com
 *.acuiplast.com
 *.acuityplatform.com
@@ -6526,9 +6544,7 @@
 *.id.acustomdhotee.shop
 *.acuteleukemie.info
 *.acuteprone.com
-*.acx6.com
 *.acyfb.com
-*.acz2.com
 *.aczopdxfy.com
 *.aczridptoo.com
 *.ad.gt
@@ -6912,7 +6928,6 @@
 *.admirabletransportation.pro
 *.admiral.pub
 *.admiralimaginablesnarl.com
-*.admired-staff.pro
 *.admireddepressedsarcastic.com
 *.admiredeterioratesinner.com
 *.admiredexcrete.com
@@ -7002,7 +7017,6 @@
 *.adorableold.com
 *.adoredaffection.com
 *.adoredcount.com
-*.adoredsignificance.pro
 *.adoreplans.com
 *.adoriinggirl.com
 *.qgerjk.adoriinggirl.net
@@ -7061,7 +7075,6 @@
 *.adpool.bet
 *.adpopblocker.com
 *.adport.io
-*.adppblack.com
 *.adpredictive.com
 *.adpresenter.de
 *.adprime.com
@@ -7342,7 +7355,6 @@
 *.adup-tech.com
 *.adv-adserver.com
 *.advanceconfiscate.com
-*.advanced-resolution.com
 *.advanced-shake.pro
 *.advanced-thinking.de
 *.advancedadblocker.pro
@@ -7378,8 +7390,6 @@
 *.adversityjackknife.com
 *.advertclick.ru
 *.advertica.com
-*.advertica-cdn.com
-*.advertica-cdn2.com
 *.advertipros.com
 *.advertise.com
 *.advertiseconclusiveactual.com
@@ -7483,7 +7493,6 @@
 *.adzs.nl
 *.ae4a30136a.com
 *.ae554bd9ee.com
-*.aea0.com
 *.aeblehuset.net
 *.aeckyijopoxsk.space
 *.aed08832da.com
@@ -7765,8 +7774,6 @@
 *.agflkiombagl.com
 *.aggermnevis.cfd
 *.aggfkyqu.com
-*.aggravating-advance.pro
-*.aggravating-shake.pro
 *.aggravatingoil.com
 *.aggravationbabysitterplumbing.com
 *.aggravationencourage.com
@@ -7775,8 +7782,6 @@
 *.aggregateknowledge.com
 *.aggregationdestructoppression.com
 *.aggregationmodest.com
-*.aggressive-master.com
-*.aggressive-winter.pro
 *.aggressivecomfort.pro
 *.aff4.aggressivefrequentneckquirky.com
 *.aff5.aggressivefrequentneckquirky.com
@@ -8016,7 +8021,6 @@
 *.aj1591.online
 *.aj1616.online
 *.aj1716.online
-*.aj1855.online
 *.aj1867.online
 *.aj1907.online
 *.aj1907.xyz
@@ -8070,7 +8074,6 @@
 *.aj3000.bid
 *.aj3006.bid
 *.aj3018.bid
-*.aj3021.bid
 *.aj3028.bid
 *.aj3032.bid
 *.aj3037.bid
@@ -10991,7 +10994,8 @@
 *.bcpbtqpumbarw.online
 *.bcppd.gdn
 *.bcprm.com
-*.bctnodv.top
+*.dciclc.bctnodv.top
+*.dcivlv.bctnodv.top
 *.bctuafpdwarbm.site
 *.track.bcvc.mobi
 *.bcwpdvigokzca.space
@@ -15512,7 +15516,9 @@
 *.cmprotraf.club
 *.cmpuwps.com
 *.cmrdr.com
-*.cmsdurbv.top
+*.276eefe2165e.cmsdurbv.top
+*.a38f0f2b74c4.cmsdurbv.top
+*.b84c7e3bdff5.cmsdurbv.top
 *.cmtrk.com
 *.cmtrkg.com
 *.cmuasrcit.com
@@ -15524,7 +15530,10 @@
 *.everpharmanet.cn.tv
 *.cn2f.cn
 *.cn846.com
-*.cndsdsva.top
+*.526c5dc94e12.cndsdsva.top
+*.530076989109.cndsdsva.top
+*.5d58890195ae.cndsdsva.top
+*.e49e0b120ad5.cndsdsva.top
 *.cndw.top
 *.cnesnnavxumlh.online
 *.cngcpy.com
@@ -15538,7 +15547,8 @@
 *.cntrealize.com
 *.cnwafglwlbcro.life
 *.dciclc.cnwuamf.top
-*.cnwucnf.top
+*.dciclc.cnwucnf.top
+*.dcivlv.cnwucnf.top
 *.cnyojprieezzh.store
 *.cnzixiang.com
 *.cnzz.biz
@@ -17542,7 +17552,8 @@
 *.cuzqaskcyjyut.site
 *.cuzsadabc.com
 *.cvastico.com
-*.cvcnmtf.top
+*.dciclc.cvcnmtf.top
+*.dcivlv.cvcnmtf.top
 *.cvdbvcrpzjrgv.website
 *.cvdinc.com
 *.cvfr74t.com
@@ -20917,7 +20928,8 @@
 *.ectedithconsuk.com
 *.ectenepenury.com
 *.ecteneunroven.shop
-*.ectnodw.top
+*.dciclc.ectnodw.top
+*.dcivlv.ectnodw.top
 *.ectsofcukorpor.com
 *.ectuklyeconen.com
 *.ecuelleribose.com
@@ -29147,7 +29159,8 @@
 *.huzi.com
 *.huzytgmqsnecd.website
 *.huzzahwhatintently.com
-*.hvcnmtu.top
+*.dciclc.hvcnmtu.top
+*.dcivlv.hvcnmtu.top
 *.hvdzdrovccwom.site
 *.hvefnbufkpxou.website
 *.hvert.site
@@ -30858,7 +30871,8 @@
 *.ivajnwwpadtow.love
 *.ivanchinastandard.com
 *.ivangrammarfalling.com
-*.ivcnmto.top
+*.dciclc.ivcnmto.top
+*.dcivlv.ivcnmto.top
 *.ivcsmrt.com
 *.iveecups.net
 *.iviralpartners.com
@@ -31190,8 +31204,11 @@
 *.jemtaucmowhu.top
 *.jenkinkuttab.com
 *.jennduncanphoto.com
-*.jenny4.fun
+*.max.jenny4.fun
+*.wew.jenny4.fun
+*.wmx.jenny4.fun
 *.wnw.jenny4.com
+*.wow.jenny4.fun
 *.news.jennydanny.com
 *.jennyvisits.com
 *.jenoga.xyz
@@ -31925,7 +31942,8 @@
 *.juxtaposetextbookcaptivate.com
 *.juywkhbpmswmq.website
 *.juzaugleed.com
-*.jvcnmta.top
+*.dciclc.jvcnmta.top
+*.dcivlv.jvcnmta.top
 *.jvebyd.com
 *.jviot.com
 *.jvlrcbfxijxgk.store
@@ -32192,8 +32210,7 @@
 *.kchhccjmzipel.site
 *.kcjmivforjixu.online
 *.kcmstredk.com
-*.js.kcolb.site
-*.mngr.kcolb.site
+*.kcolb.site
 *.kcqbrwygxixdh.site
 *.dciclc.kctnodd.top
 *.kcxljicqwzjfd.space
@@ -32916,7 +32933,8 @@
 *.kvaaa.com
 *.kvarcureeny.com
 *.kvbojuxkwvcfk.global
-*.kvcnmtd.top
+*.dciclc.kvcnmtd.top
+*.dcivlv.kvcnmtd.top
 *.kvcon.de
 *.kvdnetmzqvwxw.store
 *.kvdqzsytlcxuf.space
@@ -33329,7 +33347,8 @@
 *.lclocation.com
 *.lcnmoccchdoij.vip
 *.lcskincarecenter.com
-*.lctnodl.top
+*.dciclc.lctnodl.top
+*.dcivlv.lctnodl.top
 *.lcuaerlknisgy.space
 *.lcwfab1.com
 *.lcwfab2.com
@@ -39542,7 +39561,8 @@
 *.ocpsimamdza.com
 *.octaviantraprelease.com
 *.octinvemb.com
-*.octnodk.top
+*.dciclc.octnodk.top
+*.dcivlv.octnodk.top
 *.octo25.me
 *.octoberads.space
 *.octoberreplicalocate.com
@@ -40892,8 +40912,7 @@
 *.pachegaimax.net
 *.pacificbank.asia
 *.pacificdentalcenterhuntingtonpark.com
-*.si.pacifics.sbs
-*.vi.pacifics.sbs
+*.pacifics.sbs
 *.pacifyinvalid.com
 *.packagebellysmoothly.com
 *.packerta.com
@@ -44108,7 +44127,8 @@
 *.qcnragymlulzk.website
 *.qcqfkzglgynfr.site
 *.qcqobpxpeeiwh.store
-*.qctnody.top
+*.dciclc.qctnody.top
+*.dcivlv.qctnody.top
 *.qcuoyo.icu
 *.qcuwpicccoscr.online
 *.qcwnfoqtqgvau.icu
@@ -47263,7 +47283,8 @@
 *.scrupulousyet.com
 *.scrutinizeordealscrutinize.com
 *.sctaylor.com
-*.sctnodb.top
+*.dciclc.sctnodb.top
+*.dcivlv.sctnodb.top
 *.scuffleputrefy.com
 *.ld.scuftockster.com
 *.sculkerwrite.com
@@ -47930,7 +47951,9 @@
 *.ko.sheltaransack.com
 *.shemalesofhentai.com
 *.eo.shemdipolar.shop
-*.shemrec.cc
+*.bnrs.shemrec.cc
+*.proll.shemrec.cc
+*.pundr.shemrec.cc
 *.shenbingask.com
 *.shengfleming.com
 *.shengheimin.com
@@ -51289,7 +51312,8 @@
 *.tcrtidleivyai.space
 *.tcskitchensandcatering.xyz
 *.tcsmgstagingserver.com
-*.tctnodi.top
+*.dciclc.tctnodi.top
+*.dcivlv.tctnodi.top
 *.tctrbtdxbscuw.site
 *.tcvlrtqsfqkbo.store
 *.tcwgmjsjgtsrm.space
@@ -53656,7 +53680,8 @@
 *.uciot.com
 *.uckiaaoul.rest
 *.ucpfezjbcrmwh.space
-*.uctnodt.top
+*.dciclc.uctnodt.top
+*.dcivlv.uctnodt.top
 *.ucuhyu.com
 *.ucuoknexq.global
 *.ucwkvipzetzxc.space
@@ -55570,7 +55595,9 @@
 *.vipmilan69.com
 *.viporalsurgery.com
 *.vipriver28.net
-*.vipspotflirts.life
+*.cw32brt.vipspotflirts.life
+*.gwqpmrg.vipspotflirts.life
+*.k8cpmrdll.vipspotflirts.life
 *.vipvs.com
 *.vipwealthmanagement.net
 *.viral782.com
@@ -56364,7 +56391,8 @@
 *.wcpgtxpzhpdgy.website
 *.wcpmoh.com
 *.wct.link
-*.wctnode.top
+*.dciclc.wctnode.top
+*.dcivlv.wctnode.top
 *.wcuggkuxfgutu.today
 *.wcuxkyjwndqxj.top
 *.wcvevntrztrdi.site
@@ -57865,7 +57893,9 @@
 *.xgiiioziwwayu.store
 *.xgks.com
 *.xgolyqyfjuuwn.online
-*.xgoxwcldkz.top
+*.1048877cc998.xgoxwcldkz.top
+*.680ad07504ce.xgoxwcldkz.top
+*.f971bc9f9ae8.xgoxwcldkz.top
 *.xgozhrjmwwgxf.site
 *.xgraph.net
 *.xgsxkzscxapvj.online
@@ -58907,8 +58937,7 @@
 *.yueyinglighting.com
 *.yugjwgg.top
 *.yuhuads.com
-*.59557com.yuhuan.cc
-*.wwwtk1976com.yuhuan.cc
+*.yuhuan.cc
 *.yuiiy.com
 *.yuintbradshed.com
 *.mv.yuitvr.com
@@ -59627,7 +59656,8 @@
 *.zxfqtqmtlldld.world
 *.zxgjrlpmaqyek.website
 *.zxinihfgkdpfb.space
-*.zxmenhmo.top
+*.2774c5d7b48b.zxmenhmo.top
+*.bb6b7391a692.zxmenhmo.top
 *.zxnymrendoxms.space
 *.zxttvkshqbded.space
 *.zxvhxdpyordan.store

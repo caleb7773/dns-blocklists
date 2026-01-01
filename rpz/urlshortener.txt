@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767274500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767303240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 13:35 UTC
-; Version: 2026.0101.1335.40
+; Last modified: 01 Jan 2026 21:34 UTC
+; Version: 2026.0101.2134.52
 ; Syntax: RPZ
-; Number of entries: 19920
+; Number of entries: 19914
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -13727,8 +13727,6 @@ wb.md CNAME .
 *.30t.me CNAME .
 4ty.me CNAME .
 *.4ty.me CNAME .
-99link.me CNAME .
-*.99link.me CNAME .
 9lick.me CNAME .
 *.9lick.me CNAME .
 a2a.me CNAME .
@@ -14855,8 +14853,6 @@ x10.mx CNAME .
 *.1url.my CNAME .
 350.my CNAME .
 *.350.my CNAME .
-agr.my CNAME .
-*.agr.my CNAME .
 ah.my CNAME .
 *.ah.my CNAME .
 aka.my CNAME .
@@ -15981,8 +15977,6 @@ sah.ooo CNAME .
 *.3dsecure.org CNAME .
 a.6mqw.org CNAME .
 *.a.6mqw.org CNAME .
-9g9.org CNAME .
-*.9g9.org CNAME .
 a1ertavoice.org CNAME .
 *.a1ertavoice.org CNAME .
 a3utocall.org CNAME .

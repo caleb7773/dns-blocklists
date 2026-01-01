@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 10:43 UTC
-# Version: 2026.0101.1043.39
+# Last modified: 01 Jan 2026 22:45 UTC
+# Version: 2026.0101.2245.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6278
+# Number of entries: 6277
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -289,7 +289,6 @@ local=/shield.afixer.app/
 local=/research.africa.com/
 local=/dns.agfiudsv.icu/
 local=/aghdns.com/
-local=/agmath.xyz/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
 local=/blitz-setup.ahadns.com/

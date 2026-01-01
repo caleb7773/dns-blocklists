@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767292800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767307140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 18:40 UTC
-; Version: 2026.0101.1840.59
+; Last modified: 01 Jan 2026 22:39 UTC
+; Version: 2026.0101.2239.19
 ; Syntax: RPZ
-; Number of entries: 82590
+; Number of entries: 82564
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -7288,8 +7288,6 @@ nohu90.cash CNAME .
 *.8923.casino CNAME .
 8956.casino CNAME .
 *.8956.casino CNAME .
-8961.casino CNAME .
-*.8961.casino CNAME .
 8et.casino CNAME .
 *.8et.casino CNAME .
 8kbetting.casino CNAME .
@@ -15930,8 +15928,6 @@ images.6929183.com CNAME .
 *.87betslot.com CNAME .
 87phcasino.com CNAME .
 *.87phcasino.com CNAME .
-88-clb.com CNAME .
-*.88-clb.com CNAME .
 8811betss.com CNAME .
 *.8811betss.com CNAME .
 881betsy.com CNAME .
@@ -16512,8 +16508,6 @@ images.6929183.com CNAME .
 *.99qh88.com CNAME .
 99riocasino.com CNAME .
 *.99riocasino.com CNAME .
-99ruaygame.com CNAME .
-*.99ruaygame.com CNAME .
 99sscasino.com CNAME .
 *.99sscasino.com CNAME .
 99vncasino.com CNAME .
@@ -16664,8 +16658,6 @@ aaajiliapp.com CNAME .
 *.aaajiliapp.com CNAME .
 aachendutchshepherds.com CNAME .
 *.aachendutchshepherds.com CNAME .
-aahebulletin.com CNAME .
-*.aahebulletin.com CNAME .
 aajogo.com CNAME .
 *.aajogo.com CNAME .
 aajogo-1.com CNAME .
@@ -16740,8 +16732,6 @@ acedbetcasino.com CNAME .
 *.acedbetcasino.com CNAME .
 acegame-casino-arg.com CNAME .
 *.acegame-casino-arg.com CNAME .
-acegarden-golf.com CNAME .
-*.acegarden-golf.com CNAME .
 aceluckycasino.com CNAME .
 *.aceluckycasino.com CNAME .
 acemagnetspoker.com CNAME .
@@ -16834,8 +16824,6 @@ adssistem.com CNAME .
 *.adssistem.com CNAME .
 adultcareconnections.com CNAME .
 *.adultcareconnections.com CNAME .
-adultoirresponsable.com CNAME .
-*.adultoirresponsable.com CNAME .
 advantage-gambling.com CNAME .
 *.advantage-gambling.com CNAME .
 adventurecompanygames.com CNAME .
@@ -16896,8 +16884,6 @@ afun.com CNAME .
 *.afun.com CNAME .
 afun777casino.com CNAME .
 *.afun777casino.com CNAME .
-ag24hs.com CNAME .
-*.ag24hs.com CNAME .
 agamble.com CNAME .
 *.agamble.com CNAME .
 agbong88.com CNAME .
@@ -16912,8 +16898,6 @@ agents1xbet.com CNAME .
 *.agents1xbet.com CNAME .
 agilabets.com CNAME .
 *.agilabets.com CNAME .
-agilegovleaders.com CNAME .
-*.agilegovleaders.com CNAME .
 agjogo.com CNAME .
 *.agjogo.com CNAME .
 aglbet.com CNAME .
@@ -51602,8 +51586,6 @@ indorajapoker.forum CNAME .
 *.indorajapoker.forum CNAME .
 1xbetcasino.fr CNAME .
 *.1xbetcasino.fr CNAME .
-acfpoker.fr CNAME .
-*.acfpoker.fr CNAME .
 alexandercasino-bet.fr CNAME .
 *.alexandercasino-bet.fr CNAME .
 amons-casino.fr CNAME .
@@ -60914,8 +60896,6 @@ adventure-palace-casino.online CNAME .
 *.adventure-palace-casino.online CNAME .
 ag44.online CNAME .
 *.ag44.online CNAME .
-agb99slot.online CNAME .
-*.agb99slot.online CNAME .
 ahrefblog.online CNAME .
 *.ahrefblog.online CNAME .
 aladin88.online CNAME .
@@ -80946,10 +80926,6 @@ vz99.wiki CNAME .
 *.8xbet.win CNAME .
 aaad.win CNAME .
 *.aaad.win CNAME .
-admiral-x20.win CNAME .
-*.admiral-x20.win CNAME .
-admiral-x21.win CNAME .
-*.admiral-x21.win CNAME .
 aipokermind.win CNAME .
 *.aipokermind.win CNAME .
 apexbets.win CNAME .
@@ -81226,8 +81202,6 @@ pso999alt.works CNAME .
 *.7slotsgames-online.world CNAME .
 7slotsonline-games.world CNAME .
 *.7slotsonline-games.world CNAME .
-8s.world CNAME .
-*.8s.world CNAME .
 betify.world CNAME .
 *.betify.world CNAME .
 bk8.world CNAME .

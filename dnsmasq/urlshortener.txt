@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 13:35 UTC
-# Version: 2026.0101.1335.40
+# Last modified: 01 Jan 2026 21:34 UTC
+# Version: 2026.0101.2134.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9960
+# Number of entries: 9957
 #
 local=/0.gp/
 local=/00m.in/
@@ -386,8 +386,6 @@ local=/98pro.cc/
 local=/999.sh/
 local=/99forward.com/
 local=/99fw.in/
-local=/99link.me/
-local=/9g9.org/
 local=/9h.dk/
 local=/9k.gg/
 local=/9lick.me/
@@ -570,7 +568,6 @@ local=/agll.ink/
 local=/agmd.win/
 local=/agoz.me/
 local=/agphosting.com/
-local=/agr.my/
 local=/agrd.io/
 local=/agroforestri.id/
 local=/agrolink.me/

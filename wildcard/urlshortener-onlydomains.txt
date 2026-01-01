@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 13:35 UTC
-# Version: 2026.0101.1335.40
+# Last modified: 01 Jan 2026 21:34 UTC
+# Version: 2026.0101.2134.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 9960
+# Number of entries: 9957
 #
 0.gp
 00m.in
@@ -386,8 +386,6 @@ a.94inet.com
 999.sh
 99forward.com
 99fw.in
-99link.me
-9g9.org
 9h.dk
 9k.gg
 9lick.me
@@ -570,7 +568,6 @@ agll.ink
 agmd.win
 agoz.me
 agphosting.com
-agr.my
 agrd.io
 agroforestri.id
 agrolink.me
