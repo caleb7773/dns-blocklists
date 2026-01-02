@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 10:47 UTC
-# Version: 2026.0102.1047.26
+# Last modified: 02 Jan 2026 14:45 UTC
+# Version: 2026.0102.1445.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6321
+# Number of entries: 6318
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1184,13 +1184,11 @@ local=/adguard.gbrossi.com.br/
 local=/german-proxy.com.de/
 local=/germany-proxy.com.de/
 local=/btg.go4it.com.mx/
-local=/securly.com.go4it.com.mx/
 local=/dns2.gregoret.com.ar/
 local=/blackhole.gugainfo.com.br/
 local=/dns.hub.com.de/
 local=/adguardcloud.iasm.com.ar/
 local=/modernlogic.iceage.com.my/
-local=/itrsa.injectoclean.com.mx/
 local=/uptime.injectoclean.com.mx/
 local=/tasks.know.kabindrakajibajracharya.com.np/
 local=/dnssp.koretech.com.br/
@@ -1295,7 +1293,6 @@ local=/croxy.org/
 local=/croxy.red/
 local=/croxy.rocks/
 local=/croxy-proxy.com/
-local=/croxy-proxy.id/
 local=/croxyproxy.app/
 local=/croxyproxy.best/
 local=/croxyproxy.com/

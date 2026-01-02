@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 09:39 UTC
-# Version: 2026.0102.0939.24
+# Last modified: 02 Jan 2026 13:35 UTC
+# Version: 2026.0102.1335.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9943
+# Number of entries: 9941
 #
 local=/0.gp/
 local=/00m.in/
@@ -2047,7 +2047,6 @@ local=/cutli.to/
 local=/cutlink.now/
 local=/cutlinker.com/
 local=/cutlly.com/
-local=/cutlnk.io/
 local=/cutlnk.top/
 local=/cutly.in/
 local=/cutly.me/
@@ -2072,7 +2071,6 @@ local=/cutt.us/
 local=/cutt4.me/
 local=/cuttgoo.com/
 local=/cutth.com/
-local=/cutthis.link/
 local=/cuttly.io/
 local=/cuttly.pro/
 local=/cutto.io/

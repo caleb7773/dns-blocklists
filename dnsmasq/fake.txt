@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 09:37 UTC
-# Version: 2026.0102.0937.31
+# Last modified: 02 Jan 2026 13:33 UTC
+# Version: 2026.0102.1333.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14119
+# Number of entries: 14107
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2420,12 +2420,10 @@ local=/code-ni.com/
 local=/codekithub.com/
 local=/codenatura.com/
 local=/codysocks.shop/
-local=/cofermoveis.com/
 local=/coffee-stock.com/
 local=/coffeecup-sales.com/
 local=/coffeeequipmentsupply.com/
 local=/coffeeliftin.com/
-local=/cogitatio-kauf.de/
 local=/cognissa.com/
 local=/coincorex.com/
 local=/web.coinhouse.top/
@@ -2564,7 +2562,6 @@ local=/comireg-corp.com/
 local=/comme-des-garcons.at/
 local=/commencu.com/
 local=/commercewealth.com/
-local=/commerzsci.com/
 local=/commiodity.com/
 local=/commodityk.com/
 local=/commodityt.com/
@@ -2589,7 +2586,6 @@ local=/completelamps.com/
 local=/compliance-crypto.com/
 local=/componentsglobal.com/
 local=/compostione.com/
-local=/comprafacilss.com/
 local=/compreimagazine.com/
 local=/compressfit.de/
 local=/comptntistur.com/
@@ -2628,7 +2624,6 @@ local=/containerhaus-anhanger.de/
 local=/containersparks.com/
 local=/containert.com/
 local=/containerwelt24.com/
-local=/de-mikoherb.conter-goods.xyz/
 local=/contiflexv.com/
 local=/continentm.com/
 local=/convergek.com/
@@ -2680,7 +2675,6 @@ local=/cottonwears.com/
 local=/couchtischeschranke.com/
 local=/counterpain.net/
 local=/counterpartw.com/
-local=/countryparcel.com/
 local=/countsheepy.com/
 local=/coursados.com/
 local=/courtesya.com/
@@ -2720,7 +2714,6 @@ local=/crestviewlamps.com/
 local=/creworks.store/
 local=/crfp8-carrefour.com/
 local=/crgshopava.shop/
-local=/criffincloset.com/
 local=/crimmitschauer-gartenland.de/
 local=/crispischuhe.at/
 local=/crispischuhe.de/
@@ -2799,7 +2792,6 @@ local=/currext.com/
 local=/curriculumt.com/
 local=/curtainguess.com/
 local=/curvedream.de/
-local=/cusewin.cc/
 local=/cushygait.com/
 local=/custably.com/
 local=/customalls.com/
@@ -2979,13 +2971,10 @@ local=/dealviral.de/
 local=/bergfreunde.dealy-eu.shop/
 local=/dearomatico.com/
 local=/deaspierhireworks.works/
-local=/deaspierhireworks.xyz/
 local=/deautorabatt.com/
 local=/debabyprodukt.com/
 local=/debasketball.com/
 local=/debergercamping.com/
-local=/debilstein.com/
-local=/deboscha.com/
 local=/deboutiqueshop.com/
 local=/debutlersrabatt.com/
 local=/decantersale.com/
@@ -3042,7 +3031,6 @@ local=/deheimtierbedarf.com/
 local=/deherrenmode.com/
 local=/dehiking.de/
 local=/dehiretalent.com/
-local=/dehnershop.com/
 local=/dehnerverkauf.de/
 local=/dehomebutlers.com/
 local=/dehundeeinkauf.com/

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jan 2026 09:39 UTC
-! Version: 2026.0102.0939.24
+! Last modified: 02 Jan 2026 13:35 UTC
+! Version: 2026.0102.1335.05
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1995,7 +1995,6 @@
 @@||cutlink.now^
 @@||cutlinker.com^
 @@||cutlly.com^
-@@||cutlnk.io^
 @@||cutlnk.top^
 @@||cutly.in^
 @@||cutly.me^
@@ -2016,7 +2015,6 @@
 @@||cutt4.me^
 @@||cuttgoo.com^
 @@||cutth.com^
-@@||cutthis.link^
 @@||cuttly.io^
 @@||cuttly.pro^
 @@||cutto.io^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767350460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767364740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 10:41 UTC
-; Version: 2026.0102.1041.16
+; Last modified: 02 Jan 2026 14:39 UTC
+; Version: 2026.0102.1439.36
 ; Syntax: RPZ
-; Number of entries: 22892
+; Number of entries: 22886
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3712,8 +3712,6 @@ crackaio.com CNAME .
 *.crackaio.com CNAME .
 crackcrew.com CNAME .
 *.crackcrew.com CNAME .
-crackdb.com CNAME .
-*.crackdb.com CNAME .
 crackedfully.com CNAME .
 *.crackedfully.com CNAME .
 crackedme.com CNAME .
@@ -15430,8 +15428,6 @@ cotapers.org CNAME .
 *.cotapers.org CNAME .
 cpturbo.org CNAME .
 *.cpturbo.org CNAME .
-crackdb.org CNAME .
-*.crackdb.org CNAME .
 cracked-games.org CNAME .
 *.cracked-games.org CNAME .
 crackhash.org CNAME .
@@ -17730,8 +17726,6 @@ cb01.red CNAME .
 *.cb01.red CNAME .
 cineblog01.red CNAME .
 *.cineblog01.red CNAME .
-corsaro.red CNAME .
-*.corsaro.red CNAME .
 filmstreaming.red CNAME .
 *.filmstreaming.red CNAME .
 guardarefilm.red CNAME .

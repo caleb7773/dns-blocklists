@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767346620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767360780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 09:37 UTC
-; Version: 2026.0102.0937.31
+; Last modified: 02 Jan 2026 13:33 UTC
+; Version: 2026.0102.1333.11
 ; Syntax: RPZ
-; Number of entries: 28238
+; Number of entries: 28214
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1234,8 +1234,6 @@ m.blockchaintransactions.cc CNAME .
 *.m.blockchaintransactions.cc CNAME .
 coco-kick.cc CNAME .
 *.coco-kick.cc CNAME .
-cusewin.cc CNAME .
-*.cusewin.cc CNAME .
 demays.cc CNAME .
 *.demays.cc CNAME .
 digitalworldinnovations46.cc CNAME .
@@ -4506,8 +4504,6 @@ codekithub.com CNAME .
 *.codekithub.com CNAME .
 codenatura.com CNAME .
 *.codenatura.com CNAME .
-cofermoveis.com CNAME .
-*.cofermoveis.com CNAME .
 coffee-stock.com CNAME .
 *.coffee-stock.com CNAME .
 coffeecup-sales.com CNAME .
@@ -4572,8 +4568,6 @@ commencu.com CNAME .
 *.commencu.com CNAME .
 commercewealth.com CNAME .
 *.commercewealth.com CNAME .
-commerzsci.com CNAME .
-*.commerzsci.com CNAME .
 commiodity.com CNAME .
 *.commiodity.com CNAME .
 commodityk.com CNAME .
@@ -4600,8 +4594,6 @@ componentsglobal.com CNAME .
 *.componentsglobal.com CNAME .
 compostione.com CNAME .
 *.compostione.com CNAME .
-comprafacilss.com CNAME .
-*.comprafacilss.com CNAME .
 compreimagazine.com CNAME .
 *.compreimagazine.com CNAME .
 comptntistur.com CNAME .
@@ -4720,8 +4712,6 @@ couchtischeschranke.com CNAME .
 *.couchtischeschranke.com CNAME .
 counterpartw.com CNAME .
 *.counterpartw.com CNAME .
-countryparcel.com CNAME .
-*.countryparcel.com CNAME .
 countsheepy.com CNAME .
 *.countsheepy.com CNAME .
 coursados.com CNAME .
@@ -4778,8 +4768,6 @@ crestviewlamps.com CNAME .
 *.crestviewlamps.com CNAME .
 crfp8-carrefour.com CNAME .
 *.crfp8-carrefour.com CNAME .
-criffincloset.com CNAME .
-*.criffincloset.com CNAME .
 criteheading.com CNAME .
 *.criteheading.com CNAME .
 crivasa.com CNAME .
@@ -5096,10 +5084,6 @@ debasketball.com CNAME .
 *.debasketball.com CNAME .
 debergercamping.com CNAME .
 *.debergercamping.com CNAME .
-debilstein.com CNAME .
-*.debilstein.com CNAME .
-deboscha.com CNAME .
-*.deboscha.com CNAME .
 deboutiqueshop.com CNAME .
 *.deboutiqueshop.com CNAME .
 debutlersrabatt.com CNAME .
@@ -5162,8 +5146,6 @@ deherrenmode.com CNAME .
 *.deherrenmode.com CNAME .
 dehiretalent.com CNAME .
 *.dehiretalent.com CNAME .
-dehnershop.com CNAME .
-*.dehnershop.com CNAME .
 dehomebutlers.com CNAME .
 *.dehomebutlers.com CNAME .
 dehundeeinkauf.com CNAME .
@@ -18732,8 +18714,6 @@ clotha-boutique.de CNAME .
 *.clotha-boutique.de CNAME .
 cloudschuhesale.de CNAME .
 *.cloudschuhesale.de CNAME .
-cogitatio-kauf.de CNAME .
-*.cogitatio-kauf.de CNAME .
 colaboratorstore.de CNAME .
 *.colaboratorstore.de CNAME .
 columbi.de CNAME .
@@ -28170,10 +28150,6 @@ custom.changepool.xyz CNAME .
 *.custom.changepool.xyz CNAME .
 claimshub.xyz CNAME .
 *.claimshub.xyz CNAME .
-de-mikoherb.conter-goods.xyz CNAME .
-*.de-mikoherb.conter-goods.xyz CNAME .
-deaspierhireworks.xyz CNAME .
-*.deaspierhireworks.xyz CNAME .
 depeople-work.xyz CNAME .
 *.depeople-work.xyz CNAME .
 diebestenparfums.xyz CNAME .
