@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767303240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767332160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 21:34 UTC
-; Version: 2026.0101.2134.52
+; Last modified: 02 Jan 2026 05:36 UTC
+; Version: 2026.0102.0536.11
 ; Syntax: RPZ
-; Number of entries: 19914
+; Number of entries: 19890
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -135,8 +135,6 @@ beacons.ai CNAME .
 *.beacons.ai CNAME .
 biofy.ai CNAME .
 *.biofy.ai CNAME .
-bosslinks.ai CNAME .
-*.bosslinks.ai CNAME .
 centi.ai CNAME .
 *.centi.ai CNAME .
 clica.ai CNAME .
@@ -317,8 +315,6 @@ aiurl.app CNAME .
 *.aiurl.app CNAME .
 alter-kpi.app CNAME .
 *.alter-kpi.app CNAME .
-aparca.app CNAME .
-*.aparca.app CNAME .
 artmo.app CNAME .
 *.artmo.app CNAME .
 links.avalaunch.app CNAME .
@@ -3409,8 +3405,6 @@ parg.aparg.com CNAME .
 *.parg.aparg.com CNAME .
 apbiosuccess.com CNAME .
 *.apbiosuccess.com CNAME .
-apcargocourier.com CNAME .
-*.apcargocourier.com CNAME .
 apkpurs.com CNAME .
 *.apkpurs.com CNAME .
 apollo2b.com CNAME .
@@ -3489,8 +3483,6 @@ go.badarinathgella.com CNAME .
 *.go.badarinathgella.com CNAME .
 baileybelladonna.com CNAME .
 *.baileybelladonna.com CNAME .
-baixeapk.com CNAME .
-*.baixeapk.com CNAME .
 it.baltgroup.com CNAME .
 *.it.baltgroup.com CNAME .
 banaccroblox.com CNAME .
@@ -3549,8 +3541,6 @@ bettrechies.com CNAME .
 *.bettrechies.com CNAME .
 bezlink.com CNAME .
 *.bezlink.com CNAME .
-bi-tly.com CNAME .
-*.bi-tly.com CNAME .
 biastonu.com CNAME .
 *.biastonu.com CNAME .
 bigfk.com CNAME .
@@ -3683,8 +3673,6 @@ cdl.booksy.com CNAME .
 *.cdl.booksy.com CNAME .
 boston25.com CNAME .
 *.boston25.com CNAME .
-botelink.com CNAME .
-*.botelink.com CNAME .
 botemoda.com CNAME .
 *.botemoda.com CNAME .
 app.box.com CNAME .
@@ -9365,8 +9353,6 @@ agroforestri.id CNAME .
 *.agroforestri.id CNAME .
 amzn.id CNAME .
 *.amzn.id CNAME .
-awobio.id CNAME .
-*.awobio.id CNAME .
 bca.id CNAME .
 *.bca.id CNAME .
 arddesign.biz.id CNAME .
@@ -9715,8 +9701,6 @@ byoo.in CNAME .
 *.byoo.in CNAME .
 bytly.in CNAME .
 *.bytly.in CNAME .
-bz2.in CNAME .
-*.bz2.in CNAME .
 c-o.in CNAME .
 *.c-o.in CNAME .
 c2d.in CNAME .
@@ -11239,8 +11223,6 @@ axees.ir CNAME .
 *.axees.ir CNAME .
 b2n.ir CNAME .
 *.b2n.ir CNAME .
-c1i.ir CNAME .
-*.c1i.ir CNAME .
 c4x.ir CNAME .
 *.c4x.ir CNAME .
 clikr.ir CNAME .
@@ -12195,8 +12177,6 @@ bchf.life CNAME .
 *.bchf.life CNAME .
 bee-kz.life CNAME .
 *.bee-kz.life CNAME .
-binancetransactionf077171f1gl1od17ro1asecure.life CNAME .
-*.binancetransactionf077171f1gl1od17ro1asecure.life CNAME .
 bopvu.life CNAME .
 *.bopvu.life CNAME .
 bose.life CNAME .
@@ -12435,8 +12415,6 @@ bitri.link CNAME .
 *.bitri.link CNAME .
 bliter.link CNAME .
 *.bliter.link CNAME .
-boldphoto.link CNAME .
-*.boldphoto.link CNAME .
 boofola.link CNAME .
 *.boofola.link CNAME .
 bookstw.link CNAME .
@@ -18853,8 +18831,6 @@ man.ac.uk CNAME .
 *.man.ac.uk CNAME .
 go.soton.ac.uk CNAME .
 *.go.soton.ac.uk CNAME .
-alexswanmysteries.uk CNAME .
-*.alexswanmysteries.uk CNAME .
 amapps.uk CNAME .
 *.amapps.uk CNAME .
 1url.co.uk CNAME .

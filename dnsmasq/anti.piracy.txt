@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 18:41 UTC
-# Version: 2026.0101.1841.22
+# Last modified: 02 Jan 2026 07:03 UTC
+# Version: 2026.0102.0703.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11455
+# Number of entries: 11448
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -496,7 +496,6 @@ local=/akiba-online.com/
 local=/aklivetv.com/
 local=/alabout.com/
 local=/alagoz.beer/
-local=/tracker.alaskantf.com/
 local=/aletorrenty.pl/
 local=/alexlan.org/
 local=/alfafile.net/
@@ -603,10 +602,8 @@ local=/altadefinizione.id/
 local=/altadefinizione.info/
 local=/altadefinizione.it/
 local=/altadefinizione.kim/
-local=/altadefinizione.legal/
 local=/altadefinizione.li/
 local=/altadefinizione.life/
-local=/altadefinizione.limo/
 local=/altadefinizione.live/
 local=/altadefinizione.love/
 local=/altadefinizione.ma/
@@ -619,7 +616,6 @@ local=/altadefinizione.news/
 local=/altadefinizione.one/
 local=/altadefinizione.online/
 local=/altadefinizione.org/
-local=/altadefinizione.pet/
 local=/altadefinizione.ph/
 local=/altadefinizione.pink/
 local=/altadefinizione.re/
@@ -1565,7 +1561,6 @@ local=/btgigs.info/
 local=/btjunkie.org/
 local=/btkitty.red/
 local=/btmon.com/
-local=/btmusic.eu/
 local=/btmusic.org/
 local=/btnext.com/
 local=/btor.org/
@@ -2332,7 +2327,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -8752,7 +8746,6 @@ local=/starshare.ro/
 local=/startflix.site/
 local=/startseite.cc/
 local=/startseite.to/
-local=/tracker.startwork.cv/
 local=/starwarez.to/
 local=/stealth.si/
 local=/steam-repacks.com/
@@ -9747,7 +9740,6 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
-local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/
@@ -9890,6 +9882,7 @@ local=/tracker810.xyz/
 local=/trackerlist.xyz/
 local=/trackerok.ru/
 local=/trackerpmr.com/
+local=/node01.trackerstatus.live/
 local=/trackerturk.biz/
 local=/tracker.trackton.ga/
 local=/traderz.org/

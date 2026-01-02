@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Jan 2026 21:34 UTC
-! Version: 2026.0101.2134.52
+! Last modified: 02 Jan 2026 05:36 UTC
+! Version: 2026.0102.0536.11
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -609,7 +609,6 @@
 @@||alav.link^
 @@||albn.org^
 @@||alexa.design^
-@@||alexswanmysteries.uk^
 @@||alexvaltchev.com^
 @@||link.alfamonkey.com^
 @@||ali.onl^
@@ -725,12 +724,10 @@
 @@||aorracer.com^
 @@||aosconnect.net^
 @@||aozczwj.life^
-@@||aparca.app^
 @@||parg.aparg.com^
 @@||apb2.de^
 @@||apbiosuccess.com^
 @@||s.apc.org^
-@@||apcargocourier.com^
 @@||apelink.info^
 @@||apertibumn.org^
 @@||apexhost.gg^
@@ -870,7 +867,6 @@
 @@||awactools.com^
 @@||awc.li^
 @@||awenje.com^
-@@||awobio.id^
 @@||aws.tl^
 @@||aws3.link^
 @@||aws3-demo.link^
@@ -935,7 +931,6 @@
 @@||baid.us^
 @@||baidam.services^
 @@||baileybelladonna.com^
-@@||baixeapk.com^
 @@||baktifranchise.live^
 @@||balls.no^
 @@||it.baltgroup.com^
@@ -1040,7 +1035,6 @@
 @@||bhpho.to^
 @@||bhrt.io^
 @@||bhx.one^
-@@||bi-tly.com^
 @@||biaotee.top^
 @@||biastonu.com^
 @@||bibl.es^
@@ -1057,7 +1051,6 @@
 @@||biltiy.com^
 @@||bim.im^
 @@||s.bimoweb.com^
-@@||binancetransactionf077171f1gl1od17ro1asecure.life^
 @@||binbucks.com^
 @@||binged.it^
 @@||bio.link^
@@ -1236,7 +1229,6 @@
 @@||bolagroup.vip^
 @@||bolagroup.xyz^
 @@||bolahiu.vip^
-@@||boldphoto.link^
 @@||bolstr.online^
 @@||boltsly.com^
 @@||bom88.store^
@@ -1259,10 +1251,8 @@
 @@||boshoki.biz^
 @@||bosi.me^
 @@||boskale.me^
-@@||bosslinks.ai^
 @@||boston25.com^
 @@||bot.fi^
-@@||botelink.com^
 @@||botemoda.com^
 @@||boudie.link^
 @@||boudoirads.cc^
@@ -1396,7 +1386,6 @@
 @@||bytly.in^
 @@||bytr.ee^
 @@||byuroscope.com^
-@@||bz2.in^
 @@||bz9.com^
 @@||bzfd.it^
 @@||bzh.me^
@@ -1406,7 +1395,6 @@
 @@||c0ntactplus.org^
 @@||c1.to^
 @@||c11.kr^
-@@||c1i.ir^
 @@||c1k.co^
 @@||c24.cn^
 @@||c2c.fm^

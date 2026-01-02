@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:01 UTC
-# Version: 2025.1225.1801.35
+# Last modified: 02 Jan 2026 06:13 UTC
+# Version: 2026.0102.0613.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1319
+# Number of entries: 1318
 #
 local=/000a.de/
 local=/000space.com/
@@ -209,7 +209,6 @@ local=/bandungberita.com/
 local=/banksurvey.biz/
 local=/bappy.com/
 local=/batcave.net/
-local=/bateicpoint.vip/
 local=/bazefrost.ru/
 local=/bcz.com/
 local=/be.gp/

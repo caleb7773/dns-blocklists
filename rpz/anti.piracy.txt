@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767292860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767337380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jan 2026 18:41 UTC
-; Version: 2026.0101.1841.22
+; Last modified: 02 Jan 2026 07:03 UTC
+; Version: 2026.0102.0703.31
 ; Syntax: RPZ
-; Number of entries: 22910
+; Number of entries: 22896
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1616,8 +1616,6 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
-node02.torrentonline.cc CNAME .
-*.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .
@@ -2774,8 +2772,6 @@ aklivetv.com CNAME .
 *.aklivetv.com CNAME .
 alabout.com CNAME .
 *.alabout.com CNAME .
-tracker.alaskantf.com CNAME .
-*.tracker.alaskantf.com CNAME .
 alfanotv.com CNAME .
 *.alfanotv.com CNAME .
 alifanet.com CNAME .
@@ -8316,8 +8312,6 @@ hdmovie2.cricket CNAME .
 *.hdmovie2.cricket CNAME .
 vegamovies.cricket CNAME .
 *.vegamovies.cricket CNAME .
-tracker.startwork.cv CNAME .
-*.tracker.startwork.cv CNAME .
 allin1.cx CNAME .
 *.allin1.cx CNAME .
 altadefinizione.cx CNAME .
@@ -8448,8 +8442,6 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -8904,8 +8896,6 @@ bosscast.eu CNAME .
 *.bosscast.eu CNAME .
 btdb.eu CNAME .
 *.btdb.eu CNAME .
-btmusic.eu CNAME .
-*.btmusic.eu CNAME .
 btscene.eu CNAME .
 *.btscene.eu CNAME .
 tracker.btzoo.eu CNAME .
@@ -11212,8 +11202,6 @@ yts.lc CNAME .
 *.yts.lc CNAME .
 hdmovie2.lease CNAME .
 *.hdmovie2.lease CNAME .
-altadefinizione.legal CNAME .
-*.altadefinizione.legal CNAME .
 hdmovie2.lgbt CNAME .
 *.hdmovie2.lgbt CNAME .
 vegamovies.lgbt CNAME .
@@ -11322,8 +11310,6 @@ yts.life CNAME .
 *.yts.life CNAME .
 hdmovie2.lifestyle CNAME .
 *.hdmovie2.lifestyle CNAME .
-altadefinizione.limo CNAME .
-*.altadefinizione.limo CNAME .
 liber3.eth.limo CNAME .
 *.liber3.eth.limo CNAME .
 123movies.link CNAME .
@@ -11556,6 +11542,8 @@ topflix.live CNAME .
 *.topflix.live CNAME .
 torlock.live CNAME .
 *.torlock.live CNAME .
+node01.trackerstatus.live CNAME .
+*.node01.trackerstatus.live CNAME .
 tufan.live CNAME .
 *.tufan.live CNAME .
 tvbd.live CNAME .
@@ -16956,8 +16944,6 @@ yesmovies.pe CNAME .
 *.yesmovies.pe CNAME .
 1tamilmv.pet CNAME .
 *.1tamilmv.pet CNAME .
-altadefinizione.pet CNAME .
-*.altadefinizione.pet CNAME .
 cineblog01.pet CNAME .
 *.cineblog01.pet CNAME .
 dood.pet CNAME .

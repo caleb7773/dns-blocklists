@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 21:34 UTC
-# Version: 2026.0101.2134.52
+# Last modified: 02 Jan 2026 05:36 UTC
+# Version: 2026.0102.0536.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9957
+# Number of entries: 9945
 #
 local=/0.gp/
 local=/00m.in/
@@ -631,7 +631,6 @@ local=/alas.click/
 local=/alav.link/
 local=/albn.org/
 local=/alexa.design/
-local=/alexswanmysteries.uk/
 local=/alexvaltchev.com/
 local=/link.alfamonkey.com/
 local=/ali.onl/
@@ -751,12 +750,10 @@ local=/aorracer.com/
 local=/aosconnect.net/
 local=/aozczwj.life/
 local=/ap.lc/
-local=/aparca.app/
 local=/parg.aparg.com/
 local=/apb2.de/
 local=/apbiosuccess.com/
 local=/s.apc.org/
-local=/apcargocourier.com/
 local=/apelink.info/
 local=/apertibumn.org/
 local=/apexhost.gg/
@@ -900,7 +897,6 @@ local=/avydn.co/
 local=/awactools.com/
 local=/awc.li/
 local=/awenje.com/
-local=/awobio.id/
 local=/aws.tl/
 local=/aws3.link/
 local=/aws3-demo.link/
@@ -965,7 +961,6 @@ local=/bagi.link/
 local=/baid.us/
 local=/baidam.services/
 local=/baileybelladonna.com/
-local=/baixeapk.com/
 local=/baktifranchise.live/
 local=/balls.no/
 local=/it.baltgroup.com/
@@ -1072,7 +1067,6 @@ local=/bg4.me/
 local=/bhpho.to/
 local=/bhrt.io/
 local=/bhx.one/
-local=/bi-tly.com/
 local=/biaotee.top/
 local=/biastonu.com/
 local=/bibl.es/
@@ -1089,7 +1083,6 @@ local=/biibly.com/
 local=/biltiy.com/
 local=/bim.im/
 local=/s.bimoweb.com/
-local=/binancetransactionf077171f1gl1od17ro1asecure.life/
 local=/binbucks.com/
 local=/binged.it/
 local=/bio.link/
@@ -1276,7 +1269,6 @@ local=/bola.mx/
 local=/bolagroup.vip/
 local=/bolagroup.xyz/
 local=/bolahiu.vip/
-local=/boldphoto.link/
 local=/bolstr.online/
 local=/boltsly.com/
 local=/bom.so/
@@ -1301,10 +1293,8 @@ local=/bose.life/
 local=/boshoki.biz/
 local=/bosi.me/
 local=/boskale.me/
-local=/bosslinks.ai/
 local=/boston25.com/
 local=/bot.fi/
-local=/botelink.com/
 local=/botemoda.com/
 local=/boudie.link/
 local=/boudoirads.cc/
@@ -1440,7 +1430,6 @@ local=/bytl.fr/
 local=/bytly.in/
 local=/bytr.ee/
 local=/byuroscope.com/
-local=/bz2.in/
 local=/bz9.com/
 local=/bzfd.it/
 local=/bzh.me/
@@ -1450,7 +1439,6 @@ local=/c0municax.org/
 local=/c0ntactplus.org/
 local=/c1.to/
 local=/c11.kr/
-local=/c1i.ir/
 local=/c1k.co/
 local=/c24.cn/
 local=/c2c.fm/

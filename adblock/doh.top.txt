@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Jan 2026 10:43 UTC
-! Version: 2026.0101.1043.31
+! Last modified: 02 Jan 2026 07:09 UTC
+! Version: 2026.0102.0709.35
 ! Syntax: AdBlock
-! Number of entries: 823
+! Number of entries: 824
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -413,6 +413,7 @@
 ||i-puppy.ru^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
+||ib.systems^
 ||mask.icloud.com^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
