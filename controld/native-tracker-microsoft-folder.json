@@ -22,13 +22,6 @@
       }
     },
     {
-      "PK": "ac3.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "activity.windows.com",
       "action": {
         "do": 0,
@@ -1234,13 +1227,6 @@
     },
     {
       "PK": "hme-live-loganalytics-namespace.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "h.msn.com",
       "action": {
         "do": 0,
         "status": 1

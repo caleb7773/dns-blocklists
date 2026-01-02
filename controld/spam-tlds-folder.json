@@ -1849,13 +1849,6 @@
       }
     },
     {
-      "PK": "*.vlaanderen",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.vote",
       "action": {
         "do": 0,

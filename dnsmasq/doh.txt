@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 10:46 UTC
-# Version: 2026.0102.1046.47
+# Last modified: 02 Jan 2026 17:58 UTC
+# Version: 2026.0102.1758.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3387
+# Number of entries: 3383
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -841,7 +841,6 @@ local=/eka.dilli.dev/
 local=/dns.dimantus.com/
 local=/dingdangnao.com/
 local=/dns.dionperera.com/
-local=/s6.dipper315.tech/
 local=/disbish.com/
 local=/doh.disconnect.app/
 local=/blackdragon6699.diskstation.me/
@@ -925,7 +924,6 @@ local=/dus02.dnscry.pt/
 local=/dus03.dnscry.pt/
 local=/evn01.dnscry.pt/
 local=/eyg01.dnscry.pt/
-local=/fet01.dnscry.pt/
 local=/fet02.dnscry.pt/
 local=/fjr01.dnscry.pt/
 local=/fnt01.dnscry.pt/
@@ -1070,7 +1068,6 @@ local=/b.family.ns.dnslify.com/
 local=/a.safe.ns.dnslify.com/
 local=/b.safe.ns.dnslify.com/
 local=/dnslow.me/
-local=/dnsmurray.de/
 local=/dns.dnsoverhttps.net/
 local=/adguard2.dnsovertor.cc/
 local=/chuncheon.dnsovertor.cc/
@@ -1236,7 +1233,6 @@ local=/enclosr.co/
 local=/gdns.end.pub/
 local=/hk.end.pub/
 local=/adguard.ender.fr/
-local=/dns.enderblocks.net/
 local=/dns.engineer-lib.ru/
 local=/dnssec.dns.enginyring.com/
 local=/dns01.enginyring.com/

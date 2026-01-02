@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767365100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767376740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 14:45 UTC
-; Version: 2026.0102.1445.59
+; Last modified: 02 Jan 2026 17:59 UTC
+; Version: 2026.0102.1759.27
 ; Syntax: RPZ
-; Number of entries: 12636
+; Number of entries: 12626
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4983,8 +4983,6 @@ dnsforge.de CNAME .
 *.dnsforge.de CNAME .
 dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
-dnsmurray.de CNAME .
-*.dnsmurray.de CNAME .
 dns.dremaxx.de CNAME .
 *.dns.dremaxx.de CNAME .
 duii.de CNAME .
@@ -8095,8 +8093,6 @@ dd.elashri.net CNAME .
 *.dd.elashri.net CNAME .
 pdns.elecura.net CNAME .
 *.pdns.elecura.net CNAME .
-dns.enderblocks.net CNAME .
-*.dns.enderblocks.net CNAME .
 home.enjoymylife.net CNAME .
 *.home.enjoymylife.net CNAME .
 shield1.eranext.net CNAME .
@@ -10445,8 +10441,6 @@ evn01.dnscry.pt CNAME .
 *.evn01.dnscry.pt CNAME .
 eyg01.dnscry.pt CNAME .
 *.eyg01.dnscry.pt CNAME .
-fet01.dnscry.pt CNAME .
-*.fet01.dnscry.pt CNAME .
 fet02.dnscry.pt CNAME .
 *.fet02.dnscry.pt CNAME .
 fjr01.dnscry.pt CNAME .
@@ -11425,8 +11419,6 @@ mustafaiguess.app.tc CNAME .
 *.mustafaiguess.app.tc CNAME .
 dns.cybertonic.tech CNAME .
 *.dns.cybertonic.tech CNAME .
-s6.dipper315.tech CNAME .
-*.s6.dipper315.tech CNAME .
 easyproxy.tech CNAME .
 *.easyproxy.tech CNAME .
 dns.everdns.tech CNAME .
@@ -11473,8 +11465,6 @@ i.dns-over-https.tk CNAME .
 *.i.dns-over-https.tk CNAME .
 duyyen.tk CNAME .
 *.duyyen.tk CNAME .
-adunanini.edurapp.tk CNAME .
-*.adunanini.edurapp.tk CNAME .
 jp1.f7b6h9.tk CNAME .
 *.jp1.f7b6h9.tk CNAME .
 dns.kapoww.tk CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 18:05 UTC
-# Version: 2025.1226.1805.05
+# Last modified: 02 Jan 2026 18:08 UTC
+# Version: 2026.0102.1808.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 382
+# Number of entries: 380
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -219,7 +219,6 @@ t-ring-s2.msedge.net
 t-s1-ring.msedge.net
 win10-trt.msedge.net
 ac2.msn.com
-ac3.msn.com
 ad.msn.com
 adevents.msn.com
 ads.msn.com
@@ -253,7 +252,6 @@ flex.msn.com
 c.fr.msn.com
 g00.msn.com
 c.gr.msn.com
-h.msn.com
 h6.msn.com
 c.hk.msn.com
 c.id.msn.com

@@ -1128,13 +1128,6 @@
       }
     },
     {
-      "PK": "info.analysis.kp.sec.miui.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "in-miuilog.sms.intl.xiaomi.com",
       "action": {
         "do": 0,

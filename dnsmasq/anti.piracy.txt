@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 14:39 UTC
-# Version: 2026.0102.1439.36
+# Last modified: 02 Jan 2026 18:00 UTC
+# Version: 2026.0102.1800.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11443
+# Number of entries: 11435
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2464,7 +2464,6 @@ local=/demonii.com/
 local=/open.demonii.si/
 local=/demonoid.com/
 local=/demonoid.is/
-local=/demonoid.ph/
 local=/demonoid.pw/
 local=/inferno.demonoid.me/
 local=/open.demonoid.ch/
@@ -2502,7 +2501,6 @@ local=/dezflight-underground.com/
 local=/dfast.app/
 local=/dfichiers.com/
 local=/dflix.live/
-local=/em.dfnbd.net/
 local=/tube.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
@@ -2703,7 +2701,6 @@ local=/dood.rip/
 local=/dood.ro/
 local=/dood.sbs/
 local=/dood.sh/
-local=/dood.show/
 local=/dood.so/
 local=/dood.stream/
 local=/dood.team/
@@ -2805,7 +2802,6 @@ local=/downparadise.com/
 local=/downparadise.ws/
 local=/downpit.com/
 local=/downthem.org/
-local=/downtr.cc/
 local=/downturk.net/
 local=/doxma.com/
 local=/dp27.ru/
@@ -2975,14 +2971,11 @@ local=/fightingmagic.edwardk.info/
 local=/iscariote.edwardk.info/
 local=/ee3.me/
 local=/efilmy.tv/
-local=/egydead.art/
 local=/egydead.ca/
-local=/egydead.cam/
 local=/egydead.center/
 local=/egydead.fun/
 local=/egydead.fyi/
 local=/egydead.info/
-local=/egydead.ink/
 local=/egydead.live/
 local=/egydead.me/
 local=/egydead.onl/
@@ -3034,7 +3027,6 @@ local=/emovies.si/
 local=/emp3juices.cc/
 local=/empire-stream.com/
 local=/empornium.us/
-local=/tracker.empornium.is/
 local=/tracker.empornium.sx/
 local=/empresstorrents.com/
 local=/emtrek.org/

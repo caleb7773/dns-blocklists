@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767364740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767376800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 14:39 UTC
-; Version: 2026.0102.1439.36
+; Last modified: 02 Jan 2026 18:00 UTC
+; Version: 2026.0102.1800.36
 ; Syntax: RPZ
-; Number of entries: 22886
+; Number of entries: 22870
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -380,8 +380,6 @@ tracker.army CNAME .
 *.123unblock.art CNAME .
 dood.art CNAME .
 *.dood.art CNAME .
-egydead.art CNAME .
-*.egydead.art CNAME .
 eurekaddl.art CNAME .
 *.eurekaddl.art CNAME .
 indoxx1.art CNAME .
@@ -1190,8 +1188,6 @@ altadefinizione.cam CNAME .
 *.altadefinizione.cam CNAME .
 doodstream.cam CNAME .
 *.doodstream.cam CNAME .
-egydead.cam CNAME .
-*.egydead.cam CNAME .
 film-streaming-ita.cam CNAME .
 *.film-streaming-ita.cam CNAME .
 flemmix.cam CNAME .
@@ -1356,8 +1352,6 @@ ddl-warez.cc CNAME .
 *.ddl-warez.cc CNAME .
 dopebox.cc CNAME .
 *.dopebox.cc CNAME .
-downtr.cc CNAME .
-*.downtr.cc CNAME .
 dpstream.cc CNAME .
 *.dpstream.cc CNAME .
 dunia21.cc CNAME .
@@ -10514,8 +10508,6 @@ cineblog01.ink CNAME .
 *.cineblog01.ink CNAME .
 dood.ink CNAME .
 *.dood.ink CNAME .
-egydead.ink CNAME .
-*.egydead.ink CNAME .
 eurostreaming.ink CNAME .
 *.eurostreaming.ink CNAME .
 extraflix.ink CNAME .
@@ -10854,8 +10846,6 @@ dood.is CNAME .
 *.dood.is CNAME .
 tracker.ds.is CNAME .
 *.tracker.ds.is CNAME .
-tracker.empornium.is CNAME .
-*.tracker.empornium.is CNAME .
 tracker.flatuslifir.is CNAME .
 *.tracker.flatuslifir.is CNAME .
 fmovies-to.is CNAME .
@@ -13024,8 +13014,6 @@ defconpro.net CNAME .
 *.defconpro.net CNAME .
 deviloid.net CNAME .
 *.deviloid.net CNAME .
-em.dfnbd.net CNAME .
-*.em.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
 *.tube.dfnbd.net CNAME .
 diakov.net CNAME .
@@ -16950,8 +16938,6 @@ vegamovies.pet CNAME .
 *.vegamovies.pet CNAME .
 altadefinizione.ph CNAME .
 *.altadefinizione.ph CNAME .
-demonoid.ph CNAME .
-*.demonoid.ph CNAME .
 eurostreaming.ph CNAME .
 *.eurostreaming.ph CNAME .
 filmpertutti.ph CNAME .
@@ -18874,8 +18860,6 @@ zeegwet.shop CNAME .
 *.123movie.show CNAME .
 couchtuner.show CNAME .
 *.couchtuner.show CNAME .
-dood.show CNAME .
-*.dood.show CNAME .
 egydead.show CNAME .
 *.egydead.show CNAME .
 eurostreaming.show CNAME .

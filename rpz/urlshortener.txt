@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767360900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767376800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 13:35 UTC
-; Version: 2026.0102.1335.05
+; Last modified: 02 Jan 2026 18:00 UTC
+; Version: 2026.0102.1800.07
 ; Syntax: RPZ
-; Number of entries: 19882
+; Number of entries: 19874
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1029,8 +1029,6 @@ cus.bio CNAME .
 *.cus.bio CNAME .
 dat.bio CNAME .
 *.dat.bio CNAME .
-denki.bio CNAME .
-*.denki.bio CNAME .
 exi.bio CNAME .
 *.exi.bio CNAME .
 followmy.bio CNAME .
@@ -11373,8 +11371,6 @@ bre.is CNAME .
 *.bre.is CNAME .
 cmu.is CNAME .
 *.cmu.is CNAME .
-dfy.is CNAME .
-*.dfy.is CNAME .
 dyx.is CNAME .
 *.dyx.is CNAME .
 flink.is CNAME .
@@ -12483,8 +12479,6 @@ dardz.link CNAME .
 *.dardz.link CNAME .
 delphin.link CNAME .
 *.delphin.link CNAME .
-dhort.link CNAME .
-*.dhort.link CNAME .
 digily.link CNAME .
 *.digily.link CNAME .
 disini.link CNAME .
@@ -17585,8 +17579,6 @@ easyurl.site CNAME .
 *.easyurl.site CNAME .
 elx.site CNAME .
 *.elx.site CNAME .
-empukjeru.site CNAME .
-*.empukjeru.site CNAME .
 gglink.site CNAME .
 *.gglink.site CNAME .
 hisweb.site CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 13:35 UTC
-# Version: 2026.0102.1335.05
+# Last modified: 02 Jan 2026 18:00 UTC
+# Version: 2026.0102.1800.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9941
+# Number of entries: 9937
 #
 local=/0.gp/
 local=/00m.in/
@@ -2198,7 +2198,6 @@ local=/asset.deme-group.com/
 local=/qr.democame.pe/
 local=/demoxpress.xyz/
 local=/dems.me/
-local=/denki.bio/
 local=/depedzn.net/
 local=/descontosachados.com/
 local=/descuentoahora.com/
@@ -2224,7 +2223,6 @@ local=/dfkr77.com/
 local=/dfl8.me/
 local=/dft.ba/
 local=/dfthethao.com/
-local=/dfy.is/
 local=/dgkad.com/
 local=/dglnk.me/
 local=/dgms.es/
@@ -2234,7 +2232,6 @@ local=/dgt77.click/
 local=/dhe.one/
 local=/dhk.gg/
 local=/dho.li/
-local=/dhort.link/
 local=/dhrgl.ink/
 local=/dhu.li/
 local=/di.sn/
@@ -2555,7 +2552,6 @@ local=/emixon.pro/
 local=/emmelinebrickner.com/
 local=/emojied.net/
 local=/emp.onl/
-local=/empukjeru.site/
 local=/emu.li/
 local=/enbl.tech/
 local=/encurta.ae/

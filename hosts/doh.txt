@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 10:46 UTC
-# Version: 2026.0102.1046.47
+# Last modified: 02 Jan 2026 17:58 UTC
+# Version: 2026.0102.1758.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3868
+# Number of entries: 3864
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1004,7 +1004,6 @@
 0.0.0.0 code.dingdangnao.com
 0.0.0.0 t.dingdangnao.com
 0.0.0.0 dns.dionperera.com
-0.0.0.0 s6.dipper315.tech
 0.0.0.0 disbish.com
 0.0.0.0 doh.disconnect.app
 0.0.0.0 blackdragon6699.diskstation.me
@@ -1109,7 +1108,6 @@
 0.0.0.0 dus03.dnscry.pt
 0.0.0.0 evn01.dnscry.pt
 0.0.0.0 eyg01.dnscry.pt
-0.0.0.0 fet01.dnscry.pt
 0.0.0.0 fet02.dnscry.pt
 0.0.0.0 fjr01.dnscry.pt
 0.0.0.0 fnt01.dnscry.pt
@@ -1262,7 +1260,6 @@
 0.0.0.0 a.safe.ns.dnslify.com
 0.0.0.0 b.safe.ns.dnslify.com
 0.0.0.0 dnslow.me
-0.0.0.0 dnsmurray.de
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 adguard2.dnsovertor.cc
 0.0.0.0 chuncheon.dnsovertor.cc
@@ -1466,7 +1463,6 @@
 0.0.0.0 gdns.end.pub
 0.0.0.0 hk.end.pub
 0.0.0.0 adguard.ender.fr
-0.0.0.0 dns.enderblocks.net
 0.0.0.0 dns.engineer-lib.ru
 0.0.0.0 dnssec.dns.enginyring.com
 0.0.0.0 dns01.enginyring.com

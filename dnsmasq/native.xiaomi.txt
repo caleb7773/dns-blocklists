@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 18:11 UTC
-# Version: 2025.1219.1811.09
+# Last modified: 02 Jan 2026 18:14 UTC
+# Version: 2026.0102.1814.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 354
+# Number of entries: 353
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -132,7 +132,6 @@ local=/flow.sec.miui.com/
 local=/gamebox.sec.miui.com/
 local=/srv.greenguard.sec.miui.com/
 local=/app.greengurad.sec.miui.com/
-local=/info.analysis.kp.sec.miui.com/
 local=/mazu.sec.miui.com/
 local=/nav.sec.miui.com/
 local=/p.sec.miui.com/

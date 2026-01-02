@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 18:11 UTC
-# Version: 2025.1226.1811.26
+# Last modified: 02 Jan 2026 18:15 UTC
+# Version: 2026.0102.1815.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 268
+# Number of entries: 270
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -131,7 +131,9 @@
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls-udc.dqa.samsung.com
 0.0.0.0 event-tracking.samsung.com
+0.0.0.0 eumarketing.event-tracking.samsung.com
 0.0.0.0 europe.event-tracking.samsung.com
+0.0.0.0 marketing.event-tracking.samsung.com
 0.0.0.0 images.frbusiness.samsung.com
 0.0.0.0 bldr.mkt.samsung.com
 0.0.0.0 analytics.mpay.samsung.com

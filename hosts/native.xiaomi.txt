@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 18:11 UTC
-# Version: 2025.1219.1811.09
+# Last modified: 02 Jan 2026 18:14 UTC
+# Version: 2026.0102.1814.45
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 464
+# Number of entries: 463
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -161,7 +161,6 @@
 0.0.0.0 gamebox.sec.miui.com
 0.0.0.0 srv.greenguard.sec.miui.com
 0.0.0.0 app.greengurad.sec.miui.com
-0.0.0.0 info.analysis.kp.sec.miui.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 nav.sec.miui.com
 0.0.0.0 p.sec.miui.com

@@ -820,13 +820,6 @@
       }
     },
     {
-      "PK": "cleanmasters.store",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "cleanup.pictures",
       "action": {
         "do": 1,
@@ -1703,13 +1696,6 @@
     },
     {
       "PK": "frame.work",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "freedium.cfd",
       "action": {
         "do": 1,
         "status": 1

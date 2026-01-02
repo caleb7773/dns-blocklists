@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 14:45 UTC
-# Version: 2026.0102.1445.59
+# Last modified: 02 Jan 2026 17:59 UTC
+# Version: 2026.0102.1759.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6318
+# Number of entries: 6313
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1503,7 +1503,6 @@ local=/elstafantactida.dinprima.ro/
 local=/vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro/
 local=/whyarewearewhatarewearewhatarewe.dinprima.ro/
 local=/dns.dionperera.com/
-local=/s6.dipper315.tech/
 local=/directoryproxy.info/
 local=/dirtyworkproxy.com/
 local=/disbish.com/
@@ -1598,7 +1597,6 @@ local=/dus02.dnscry.pt/
 local=/dus03.dnscry.pt/
 local=/evn01.dnscry.pt/
 local=/eyg01.dnscry.pt/
-local=/fet01.dnscry.pt/
 local=/fet02.dnscry.pt/
 local=/fjr01.dnscry.pt/
 local=/fnt01.dnscry.pt/
@@ -1743,7 +1741,6 @@ local=/b.family.ns.dnslify.com/
 local=/a.safe.ns.dnslify.com/
 local=/b.safe.ns.dnslify.com/
 local=/dnslow.me/
-local=/dnsmurray.de/
 local=/dns.dnsoverhttps.net/
 local=/adguard2.dnsovertor.cc/
 local=/chuncheon.dnsovertor.cc/
@@ -1944,7 +1941,6 @@ local=/agh.amber.edu.vn/
 local=/adblocker.institutobancario.edu.mx/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
-local=/adunanini.edurapp.tk/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
 local=/dns.efficientdocuments.com/
@@ -1977,7 +1973,6 @@ local=/gdns.end.pub/
 local=/hk.end.pub/
 local=/endente.com/
 local=/adguard.ender.fr/
-local=/dns.enderblocks.net/
 local=/schoology.engalsaati.com/
 local=/dns.engineer-lib.ru/
 local=/dnssec.dns.enginyring.com/
