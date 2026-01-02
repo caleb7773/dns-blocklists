@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767337740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767350820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 07:09 UTC
-; Version: 2026.0102.0709.43
+; Last modified: 02 Jan 2026 10:47 UTC
+; Version: 2026.0102.1047.26
 ; Syntax: RPZ
-; Number of entries: 12640
+; Number of entries: 12642
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4019,8 +4019,12 @@ eu3-browse.startpage.com CNAME .
 *.eu3-browse.startpage.com CNAME .
 proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
+proxy5.startpage.com CNAME .
+*.proxy5.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us-browse.startpage.com CNAME .
@@ -8173,8 +8177,6 @@ es-ma.foxyfy.net CNAME .
 *.es-ma.foxyfy.net CNAME .
 jp-to.foxyfy.net CNAME .
 *.jp-to.foxyfy.net CNAME .
-o-bu.foxyfy.net CNAME .
-*.o-bu.foxyfy.net CNAME .
 ro-bu.foxyfy.net CNAME .
 *.ro-bu.foxyfy.net CNAME .
 us-ny.foxyfy.net CNAME .

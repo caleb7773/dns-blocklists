@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767337380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767350460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 07:03 UTC
-; Version: 2026.0102.0703.31
+; Last modified: 02 Jan 2026 10:41 UTC
+; Version: 2026.0102.1041.16
 ; Syntax: RPZ
-; Number of entries: 22896
+; Number of entries: 22892
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3612,8 +3612,6 @@ cinemanija.com CNAME .
 *.cinemanija.com CNAME .
 cinemaunlocked.com CNAME .
 *.cinemaunlocked.com CNAME .
-cinewhale.com CNAME .
-*.cinewhale.com CNAME .
 city9x.com CNAME .
 *.city9x.com CNAME .
 citycloudbd.com CNAME .
@@ -10056,8 +10054,6 @@ cb01.in CNAME .
 *.cb01.in CNAME .
 cineblog01.in CNAME .
 *.cineblog01.in CNAME .
-cinemay.in CNAME .
-*.cinemay.in CNAME .
 an1.co.in CNAME .
 *.an1.co.in CNAME .
 apk4all.co.in CNAME .

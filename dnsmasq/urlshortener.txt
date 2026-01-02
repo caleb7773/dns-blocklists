@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 05:36 UTC
-# Version: 2026.0102.0536.11
+# Last modified: 02 Jan 2026 09:39 UTC
+# Version: 2026.0102.0939.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9945
+# Number of entries: 9943
 #
 local=/0.gp/
 local=/00m.in/
@@ -1551,7 +1551,6 @@ local=/certifyde.app/
 local=/cesinthi.com/
 local=/ceyss.link/
 local=/cf2.me/
-local=/cf6.co/
 local=/cfg.me/
 local=/cfh.li/
 local=/cfl.re/
@@ -1641,7 +1640,6 @@ local=/cjn.mx/
 local=/cjyzkqj.homes/
 local=/ck2.it/
 local=/ckbe.at/
-local=/ckirlx.lat/
 local=/cl.ly/
 local=/cl03.ch/
 local=/cl1.nl/

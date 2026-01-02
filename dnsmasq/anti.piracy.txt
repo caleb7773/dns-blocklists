@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 07:03 UTC
-# Version: 2026.0102.0703.31
+# Last modified: 02 Jan 2026 10:41 UTC
+# Version: 2026.0102.1041.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11448
+# Number of entries: 11446
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1938,13 +1938,11 @@ local=/cinemastore.hu/
 local=/cinemathek.net/
 local=/cinematik.net/
 local=/cinemaunlocked.com/
-local=/cinemay.in/
 local=/tracker.cinemaz.to/
 local=/cinemitas.tv/
 local=/cineplex21.online/
 local=/cinevid.tv/
 local=/cinevision.online/
-local=/cinewhale.com/
 local=/circleftp.net/
 local=/circlenetworkbd.net/
 local=/city9x.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 07:03 UTC
-# Version: 2026.0102.0703.31
+# Last modified: 02 Jan 2026 10:41 UTC
+# Version: 2026.0102.1041.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11448
+# Number of entries: 11446
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -1938,13 +1938,11 @@
 *.cinemathek.net
 *.cinematik.net
 *.cinemaunlocked.com
-*.cinemay.in
 *.tracker.cinemaz.to
 *.cinemitas.tv
 *.cineplex21.online
 *.cinevid.tv
 *.cinevision.online
-*.cinewhale.com
 *.circleftp.net
 *.circlenetworkbd.net
 *.city9x.com

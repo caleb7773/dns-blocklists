@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 07:09 UTC
-# Version: 2026.0102.0709.43
+# Last modified: 02 Jan 2026 10:47 UTC
+# Version: 2026.0102.1047.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6320
+# Number of entries: 6321
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2225,7 +2225,6 @@ local=/de-f1.foxyfy.net/
 local=/dns.foxyfy.net/
 local=/es-ma.foxyfy.net/
 local=/jp-to.foxyfy.net/
-local=/o-bu.foxyfy.net/
 local=/ro-bu.foxyfy.net/
 local=/us-ny.foxyfy.net/
 local=/us-sj.foxyfy.net/
@@ -5120,7 +5119,9 @@ local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/eu3-browse.startpage.com/
 local=/proxy1.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
+local=/proxy5.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/
 local=/us2-browse.startpage.com/

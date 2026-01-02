@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 05:36 UTC
-# Version: 2026.0102.0536.11
+# Last modified: 02 Jan 2026 09:39 UTC
+# Version: 2026.0102.0939.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 9945
+# Number of entries: 9943
 #
 0.gp
 00m.in
@@ -1551,7 +1551,6 @@ certifyde.app
 cesinthi.com
 ceyss.link
 cf2.me
-cf6.co
 cfg.me
 cfh.li
 cfl.re
@@ -1641,7 +1640,6 @@ cjn.mx
 cjyzkqj.homes
 ck2.it
 ckbe.at
-ckirlx.lat
 cl.ly
 cl03.ch
 cl1.nl

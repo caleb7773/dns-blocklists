@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 07:09 UTC
-# Version: 2026.0102.0709.05
+# Last modified: 02 Jan 2026 10:46 UTC
+# Version: 2026.0102.1046.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3869
+# Number of entries: 3868
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1608,7 +1608,6 @@
 0.0.0.0 dns.foxyfy.net
 0.0.0.0 es-ma.foxyfy.net
 0.0.0.0 jp-to.foxyfy.net
-0.0.0.0 o-bu.foxyfy.net
 0.0.0.0 ro-bu.foxyfy.net
 0.0.0.0 us-ny.foxyfy.net
 0.0.0.0 us-sj.foxyfy.net

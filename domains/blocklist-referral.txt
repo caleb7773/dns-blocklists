@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jan 2026 09:20 UTC
-# Version: 2026.0101.0920.41
+# Last modified: 02 Jan 2026 09:25 UTC
+# Version: 2026.0102.0925.18
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1735
+# Number of entries: 1737
 #
 1-aclk.net
 1aurl.io
@@ -157,7 +157,6 @@ atlassbx.com
 attorneyandlegal.com
 tm.attrxs.de
 r.audible.de
-aumtrack.com
 auth-analytics.com
 auth-analytix.com
 auto-swiat.pl
@@ -247,6 +246,7 @@ seu.cleverreach.com
 32521.seu.cleverreach.com
 34164.seu.cleverreach.com
 341764.seu.cleverreach.com
+36427.seu.cleverreach.com
 8437.seu.cleverreach.com
 8820.seu.cleverreach.com
 seu1.cleverreach.com
@@ -418,6 +418,7 @@ convertkit-mail.com
 click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
+af5d45b9.open.convertkit-mail.com
 efba0d60.open.convertkit-mail.com
 preferences.convertkit-mail.com
 preview.convertkit-mail.com
@@ -754,6 +755,7 @@ fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 lner-cdn.exponea.com
 cdn.mie.exponea.com
+neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 ri-cdn.exponea.com

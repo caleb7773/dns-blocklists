@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767331980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767346620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 05:33 UTC
-; Version: 2026.0102.0533.57
+; Last modified: 02 Jan 2026 09:37 UTC
+; Version: 2026.0102.0937.31
 ; Syntax: RPZ
-; Number of entries: 28254
+; Number of entries: 28238
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -208,8 +208,6 @@ chrissie.at CNAME .
 *.chrissie.at CNAME .
 clarachristine-wien.at CNAME .
 *.clarachristine-wien.at CNAME .
-clarksaustria.at CNAME .
-*.clarksaustria.at CNAME .
 austria-partner.co.at CNAME .
 *.austria-partner.co.at CNAME .
 brooks.co.at CNAME .
@@ -3988,8 +3986,6 @@ camila-geneve.com CNAME .
 *.camila-geneve.com CNAME .
 campcord.com CNAME .
 *.campcord.com CNAME .
-campeaoequipamentos.com CNAME .
-*.campeaoequipamentos.com CNAME .
 camperschuh.com CNAME .
 *.camperschuh.com CNAME .
 camperseur.com CNAME .
@@ -4172,10 +4168,6 @@ cascosoffroad.com CNAME .
 *.cascosoffroad.com CNAME .
 caseetepen.com CNAME .
 *.caseetepen.com CNAME .
-cassidriss.com CNAME .
-*.cassidriss.com CNAME .
-castaria.com CNAME .
-*.castaria.com CNAME .
 castellipesados.com CNAME .
 *.castellipesados.com CNAME .
 catalunyafarm.com CNAME .
@@ -4454,8 +4446,6 @@ clisicerity.com CNAME .
 *.clisicerity.com CNAME .
 clivechristianuk.com CNAME .
 *.clivechristianuk.com CNAME .
-cllusatoam.com CNAME .
-*.cllusatoam.com CNAME .
 clockwisek.com CNAME .
 *.clockwisek.com CNAME .
 clolas.com CNAME .
@@ -5452,6 +5442,8 @@ discoverculture.com CNAME .
 *.discoverculture.com CNAME .
 discoversm.com CNAME .
 *.discoversm.com CNAME .
+discustsion.com CNAME .
+*.discustsion.com CNAME .
 distanceg.com CNAME .
 *.distanceg.com CNAME .
 distant-lands.com CNAME .
@@ -5818,8 +5810,6 @@ egapark-erfurt.com CNAME .
 *.egapark-erfurt.com CNAME .
 egooutdoortools.com CNAME .
 *.egooutdoortools.com CNAME .
-egoryspecies.com CNAME .
-*.egoryspecies.com CNAME .
 eheringede.com CNAME .
 *.eheringede.com CNAME .
 ehreer.com CNAME .
@@ -10098,8 +10088,6 @@ li-me.com CNAME .
 *.li-me.com CNAME .
 liabilis.com CNAME .
 *.liabilis.com CNAME .
-liberalm.com CNAME .
-*.liberalm.com CNAME .
 liberalw.com CNAME .
 *.liberalw.com CNAME .
 lichtprofis.com CNAME .
@@ -26344,8 +26332,6 @@ cascade-luzern.shop CNAME .
 *.cascade-luzern.shop CNAME .
 cataldoonlinedeeur.shop CNAME .
 *.cataldoonlinedeeur.shop CNAME .
-cathybentley.shop CNAME .
-*.cathybentley.shop CNAME .
 cbeoeql.shop CNAME .
 *.cbeoeql.shop CNAME .
 chcdrcberts.shop CNAME .
@@ -27560,8 +27546,6 @@ buypresents.store CNAME .
 *.buypresents.store CNAME .
 californiawhitewine.store CNAME .
 *.californiawhitewine.store CNAME .
-casaamarela.store CNAME .
-*.casaamarela.store CNAME .
 cavella.store CNAME .
 *.cavella.store CNAME .
 cazadecorbrasil.store CNAME .

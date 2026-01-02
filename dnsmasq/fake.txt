@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 05:33 UTC
-# Version: 2026.0102.0533.57
+# Last modified: 02 Jan 2026 09:37 UTC
+# Version: 2026.0102.0937.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14127
+# Number of entries: 14119
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1978,7 +1978,6 @@ local=/camila-geneve.com/
 local=/camion-europeo.co/
 local=/camode.de/
 local=/campcord.com/
-local=/campeaoequipamentos.com/
 local=/camper-schuhe.at/
 local=/camperschuh.com/
 local=/camperschuhe.at/
@@ -2086,7 +2085,6 @@ local=/carvana-mgr.com/
 local=/carvana-team.com/
 local=/carvanamarkt.com/
 local=/casa-nl.com/
-local=/casaamarela.store/
 local=/casaclothing.de/
 local=/casadchocollat.site/
 local=/casadefieras.co/
@@ -2100,8 +2098,6 @@ local=/caseetepen.com/
 local=/casira.de/
 local=/casiva.de/
 local=/casoum.net/
-local=/cassidriss.com/
-local=/castaria.com/
 local=/castellipesados.com/
 local=/castolonios.de/
 local=/cataldoonlinedeeur.shop/
@@ -2119,7 +2115,6 @@ local=/caterpillarschuhe.de/
 local=/caterpillarsuomi.com/
 local=/caterpillarwien.com/
 local=/catfootwear-at.com/
-local=/cathybentley.shop/
 local=/catrutes.com/
 local=/catsquishy.com/
 local=/cavella.store/
@@ -2282,7 +2277,6 @@ local=/help.claritycheck.com/
 local=/clarks-germany.com/
 local=/clarks-osterreich.com/
 local=/clarks-schweiz.com/
-local=/clarksaustria.at/
 local=/clarksdeutschland.de/
 local=/clarksdeutschlandsale.com/
 local=/clarksgermany.com/
@@ -2334,7 +2328,6 @@ local=/clickworker.de/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
-local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clolas.com/
 local=/clorislife.com/
@@ -3299,6 +3292,7 @@ local=/discountsrc.com/
 local=/discountsshoe.com/
 local=/discoverculture.com/
 local=/discoversm.com/
+local=/discustsion.com/
 local=/dishwasherprada.de/
 local=/diskrete-apotheke.de/
 local=/disneykinder.de/
@@ -3622,7 +3616,6 @@ local=/effiziente-taubenabwehr.at/
 local=/egapark-erfurt.com/
 local=/eggelingen.de/
 local=/egooutdoortools.com/
-local=/egoryspecies.com/
 local=/ehandler.de/
 local=/eheringede.com/
 local=/ehkschutzengel.de/
@@ -7508,7 +7501,6 @@ local=/lhvw-profis.de/
 local=/li-me.com/
 local=/liabilis.com/
 local=/liaopo.top/
-local=/liberalm.com/
 local=/liberalw.com/
 local=/libri24.net/
 local=/lichtenraderfeuerwerkverkaufava.shop/

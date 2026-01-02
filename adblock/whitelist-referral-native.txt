@@ -5,8 +5,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Jan 2026 09:20 UTC
-! Version: 2026.0101.0920.41
+! Last modified: 02 Jan 2026 09:25 UTC
+! Version: 2026.0102.0925.18
 ! Syntax: AdBlock
 ! Number of entries: 1376
 !
@@ -157,7 +157,6 @@
 @@||attorneyandlegal.com^
 @@||tm.attrxs.de^
 @@||r.audible.de^
-@@||aumtrack.com^
 @@||auth-analytics.com^
 @@||auth-analytix.com^
 @@||auto-swiat.pl^
@@ -516,6 +515,7 @@
 @@||cdn.ftspecialist.exponea.com^
 @@||lner-cdn.exponea.com^
 @@||cdn.mie.exponea.com^
+@@||neoengage-va-cdn.exponea.com^
 @@||cdn.network.exponea.com^
 @@||pan-cdn.exponea.com^
 @@||ri-cdn.exponea.com^
