@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767408240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767422940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 02:44 UTC
-; Version: 2026.0103.0244.08
+; Last modified: 03 Jan 2026 06:49 UTC
+; Version: 2026.0103.0649.47
 ; Syntax: RPZ
-; Number of entries: 12612
+; Number of entries: 12604
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -543,8 +543,6 @@ dns.huanmave.cc CNAME .
 *.dns.huanmave.cc CNAME .
 d.hxhd.cc CNAME .
 *.d.hxhd.cc CNAME .
-dns.interhub.cc CNAME .
-*.dns.interhub.cc CNAME .
 irrelevant.cc CNAME .
 *.irrelevant.cc CNAME .
 bt.luoo.cc CNAME .
@@ -2563,8 +2561,6 @@ hsselite.com CNAME .
 *.hsselite.com CNAME .
 httpdns.huaweicloud.com CNAME .
 *.httpdns.huaweicloud.com CNAME .
-dns.huizhechi.com CNAME .
-*.dns.huizhechi.com CNAME .
 ads.hunga1k47.com CNAME .
 *.ads.hunga1k47.com CNAME .
 solidgeo.hunnur.com CNAME .
@@ -6999,8 +6995,6 @@ dns.green-ping.lol CNAME .
 *.dns.green-ping.lol CNAME .
 rt.http3.lol CNAME .
 *.rt.http3.lol CNAME .
-ilysk.lol CNAME .
-*.ilysk.lol CNAME .
 iproxy.lol CNAME .
 *.iproxy.lol CNAME .
 adguard.konnkors.lol CNAME .
@@ -10915,8 +10909,10 @@ v1552270.hosted-by-vdsina.ru CNAME .
 *.v1552270.hosted-by-vdsina.ru CNAME .
 adg.hostingab.ru CNAME .
 *.adg.hostingab.ru CNAME .
-i-puppy.ru CNAME .
-*.i-puppy.ru CNAME .
+ec.i-puppy.ru CNAME .
+*.ec.i-puppy.ru CNAME .
+ru.i-puppy.ru CNAME .
+*.ru.i-puppy.ru CNAME .
 az.i81.ru CNAME .
 *.az.i81.ru CNAME .
 hr.i81.ru CNAME .
@@ -11129,8 +11125,6 @@ b-dns.se CNAME .
 *.b-dns.se CNAME .
 dns.haka.se CNAME .
 *.dns.haka.se CNAME .
-ipredator.se CNAME .
-*.ipredator.se CNAME .
 kokesh.se CNAME .
 *.kokesh.se CNAME .
 resolver.sunet.se CNAME .
@@ -11959,8 +11953,6 @@ dns.scott-smith.us CNAME .
 *.dns.scott-smith.us CNAME .
 adguard.senthil.us CNAME .
 *.adguard.senthil.us CNAME .
-serverxray.us CNAME .
-*.serverxray.us CNAME .
 shelljacket.us CNAME .
 *.shelljacket.us CNAME .
 shopping-website.us CNAME .

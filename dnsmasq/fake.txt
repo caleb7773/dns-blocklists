@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 01:32 UTC
-# Version: 2026.0103.0132.51
+# Last modified: 03 Jan 2026 05:32 UTC
+# Version: 2026.0103.0532.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14051
+# Number of entries: 14041
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -6113,7 +6113,6 @@ local=/hsn24.de/
 local=/hte-handel.de/
 local=/hte-is.com/
 local=/htfrasen.com/
-local=/htk-spedition.de/
 local=/htlrecruits.com/
 local=/huaihaigc.com/
 local=/hubcitysale.com/
@@ -6393,7 +6392,6 @@ local=/inov-8osterreich.com/
 local=/inov-8suomi.com/
 local=/inovekt.com/
 local=/insektnotdienst.at/
-local=/insideinvest.pro/
 local=/insightfulyou.net/
 local=/insolesgeeks.com/
 local=/inspectionk.com/
@@ -6431,12 +6429,10 @@ local=/intellectokids.com/
 local=/intelligents.store/
 local=/intellisynex.com/
 local=/intentionalk.com/
-local=/inter-investissement-holding.com/
 local=/interactionm.com/
 local=/interactivecoins.com/
 local=/interactiveoption.com/
 local=/interactp.com/
-local=/interfacecapital.de/
 local=/interiordome.com/
 local=/interiorlightingshop.com/
 local=/interpellet.at/
@@ -6499,7 +6495,6 @@ local=/irrasch.at/
 local=/irsaltransport.com/
 local=/irsolution.io/
 local=/isabel-modehaus.de/
-local=/isabellefrancois.shop/
 local=/iscop.it/
 local=/ism-capital.com/
 local=/isoccerkit.com/
@@ -6534,7 +6529,6 @@ local=/jackensalestore.com/
 local=/jacketshopdeutschland.com/
 local=/jacmusfashion.com/
 local=/jacoobss.store/
-local=/jaeger-brennstoffe.de/
 local=/jaeger-ra.net/
 local=/jafana.de/
 local=/jagfa.com/
@@ -6565,7 +6559,6 @@ local=/jbcapitals.com/
 local=/adl.jccjm.shop/
 local=/jclaysocken.com/
 local=/jdbr-investissements.com/
-local=/jdfimportexportgmbh.de/
 local=/jdflmportexport.de/
 local=/jdrmoveis.online/
 local=/je-decouvre.fr/
@@ -6586,7 +6579,6 @@ local=/jellycatkuscheltiere.de/
 local=/jellycats.de/
 local=/jellylight.at/
 local=/jenuss-boutik.de/
-local=/jerering.com/
 local=/jerseymonsters.com/
 local=/jerseyneu.com/
 local=/jessena.com/
@@ -6672,14 +6664,12 @@ local=/julia-alea.de/
 local=/juliahufnagelava.shop/
 local=/juliastil.de/
 local=/juma-finanzen.de/
-local=/jumbokicks.com/
 local=/jumigoods.com/
 local=/junaberlin.de/
 local=/junctionh.com/
 local=/jundongshop.com/
 local=/junge-dailyshop.com/
 local=/jungle-shoes.com/
-local=/jungleim.com/
 local=/jungleknnt.de/
 local=/juniq-tech.de/
 local=/junkersthermenwartung.at/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767408180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767422940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 02:43 UTC
-; Version: 2026.0103.0243.32
+; Last modified: 03 Jan 2026 06:49 UTC
+; Version: 2026.0103.0649.11
 ; Syntax: RPZ
-; Number of entries: 6758
+; Number of entries: 6756
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -279,8 +279,6 @@ dns.huanmave.cc CNAME .
 *.dns.huanmave.cc CNAME .
 d.hxhd.cc CNAME .
 *.d.hxhd.cc CNAME .
-dns.interhub.cc CNAME .
-*.dns.interhub.cc CNAME .
 irrelevant.cc CNAME .
 *.irrelevant.cc CNAME .
 bt.luoo.cc CNAME .
@@ -1225,8 +1223,6 @@ dns.hostingim.com CNAME .
 *.dns.hostingim.com CNAME .
 httpdns.huaweicloud.com CNAME .
 *.httpdns.huaweicloud.com CNAME .
-dns.huizhechi.com CNAME .
-*.dns.huizhechi.com CNAME .
 ads.hunga1k47.com CNAME .
 *.ads.hunga1k47.com CNAME .
 doth.huque.com CNAME .
@@ -5631,8 +5627,10 @@ v1552270.hosted-by-vdsina.ru CNAME .
 *.v1552270.hosted-by-vdsina.ru CNAME .
 adg.hostingab.ru CNAME .
 *.adg.hostingab.ru CNAME .
-i-puppy.ru CNAME .
-*.i-puppy.ru CNAME .
+ec.i-puppy.ru CNAME .
+*.ec.i-puppy.ru CNAME .
+ru.i-puppy.ru CNAME .
+*.ru.i-puppy.ru CNAME .
 az.i81.ru CNAME .
 *.az.i81.ru CNAME .
 hr.i81.ru CNAME .

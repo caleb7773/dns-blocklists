@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767404040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767418440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 01:34 UTC
-; Version: 2026.0103.0134.36
+; Last modified: 03 Jan 2026 05:34 UTC
+; Version: 2026.0103.0534.29
 ; Syntax: RPZ
-; Number of entries: 19932
+; Number of entries: 19924
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1051,8 +1051,6 @@ inlink.bio CNAME .
 *.inlink.bio CNAME .
 jempolhoki.bio CNAME .
 *.jempolhoki.bio CNAME .
-jks.bio CNAME .
-*.jks.bio CNAME .
 jos.bio CNAME .
 *.jos.bio CNAME .
 kazma.bio CNAME .
@@ -10263,8 +10261,6 @@ htawp.info CNAME .
 *.htawp.info CNAME .
 ialert-maps.info CNAME .
 *.ialert-maps.info CNAME .
-ild.info CNAME .
-*.ild.info CNAME .
 ilinky.info CNAME .
 *.ilinky.info CNAME .
 iplogger.info CNAME .
@@ -12271,8 +12267,6 @@ go.integritymatters.life CNAME .
 *.go.integritymatters.life CNAME .
 iyc.life CNAME .
 *.iyc.life CNAME .
-jeso.life CNAME .
-*.jeso.life CNAME .
 kerang.life CNAME .
 *.kerang.life CNAME .
 linelive.life CNAME .
@@ -14771,8 +14765,6 @@ intwitspin.motorcycles CNAME .
 *.intwitspin.motorcycles CNAME .
 aces.mp CNAME .
 *.aces.mp CNAME .
-j.mp CNAME .
-*.j.mp CNAME .
 ju.mp CNAME .
 *.ju.mp CNAME .
 jv.mp CNAME .

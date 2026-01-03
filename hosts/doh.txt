@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 02:43 UTC
-# Version: 2026.0103.0243.32
+# Last modified: 03 Jan 2026 06:49 UTC
+# Version: 2026.0103.0649.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3860
+# Number of entries: 3857
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1866,7 +1866,6 @@
 0.0.0.0 httpdns.huaweicloud.com
 0.0.0.0 doh.hugang8.cn
 0.0.0.0 dns.huizegunsing.nl
-0.0.0.0 dns.huizhechi.com
 0.0.0.0 dns.hujiayucc.cn
 0.0.0.0 ads.hunga1k47.com
 0.0.0.0 huntllcx.cn
@@ -1883,7 +1882,6 @@
 0.0.0.0 hkg.hytec.org
 0.0.0.0 ur.hytec.org
 0.0.0.0 ns1.i-evolve.net
-0.0.0.0 i-puppy.ru
 0.0.0.0 ec.i-puppy.ru
 0.0.0.0 ru.i-puppy.ru
 0.0.0.0 opennic.i2pd.xyz
@@ -2020,7 +2018,6 @@
 0.0.0.0 www.inpssh.online
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 premiumtier-network.instadart.net
-0.0.0.0 dns.interhub.cc
 0.0.0.0 intertop.link
 0.0.0.0 dns.invent.hr
 0.0.0.0 adb.intienquan.io.vn

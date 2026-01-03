@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 01:34 UTC
-# Version: 2026.0103.0134.36
+# Last modified: 03 Jan 2026 05:34 UTC
+# Version: 2026.0103.0534.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9966
+# Number of entries: 9962
 #
 local=/0.gp/
 local=/00m.in/
@@ -3595,7 +3595,6 @@ local=/ikhti.ar/
 local=/ikwer.com/
 local=/iky.fr/
 local=/ilang.in/
-local=/ild.info/
 local=/ilink-to.net/
 local=/ilinky.info/
 local=/ilix.in/
@@ -3787,7 +3786,6 @@ local=/izip.me/
 local=/izt.link/
 local=/izumikanagata.com/
 local=/j.gs/
-local=/j.mp/
 local=/j-it.su/
 local=/j0n.de/
 local=/j1n.uk/
@@ -3836,7 +3834,6 @@ local=/jempolhoki.bio/
 local=/jenniferronzo.com/
 local=/jepebanget.xyz/
 local=/jeruk.link/
-local=/jeso.life/
 local=/jetzt.work/
 local=/jevilink.com/
 local=/jewhate.info/
@@ -3857,7 +3854,6 @@ local=/jitupro.org/
 local=/jjlco.net/
 local=/jjtaylor.link/
 local=/jkf.lv/
-local=/jks.bio/
 local=/jktc.pro/
 local=/jlsfcd.com/
 local=/jmal.top/

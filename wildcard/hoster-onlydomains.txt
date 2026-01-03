@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 14:04 UTC
-# Version: 2026.0102.1404.56
+# Last modified: 03 Jan 2026 06:03 UTC
+# Version: 2026.0103.0603.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 1317
+# Number of entries: 1316
 #
 000a.de
 000space.com
@@ -409,7 +409,6 @@ blogspot.com.ar
 blogspot.com.au
 blogspot.com.br
 blogspot.com.by
-blogspot.com.cn
 blogspot.com.co
 blogspot.com.cy
 blogspot.com.ee

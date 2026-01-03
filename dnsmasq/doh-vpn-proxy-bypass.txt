@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 02:44 UTC
-# Version: 2026.0103.0244.08
+# Last modified: 03 Jan 2026 06:49 UTC
+# Version: 2026.0103.0649.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6306
+# Number of entries: 6302
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2763,7 +2763,6 @@ local=/httpdns.huaweicloud.com/
 local=/doh.hugang8.cn/
 local=/hugeph.art/
 local=/dns.huizegunsing.nl/
-local=/dns.huizhechi.com/
 local=/dns.hujiayucc.cn/
 local=/ads.hunga1k47.com/
 local=/solidgeo.hunnur.com/
@@ -2783,7 +2782,8 @@ local=/hyperbyte.net/
 local=/hkg.hytec.org/
 local=/ur.hytec.org/
 local=/ns1.i-evolve.net/
-local=/i-puppy.ru/
+local=/ec.i-puppy.ru/
+local=/ru.i-puppy.ru/
 local=/i2p-projekt.de/
 local=/i2pd.xyz/
 local=/az.i81.ru/
@@ -2838,7 +2838,6 @@ local=/iksde.com/
 local=/ilinhy.com/
 local=/ilmxs.com/
 local=/ilumu.com/
-local=/ilysk.lol/
 local=/ad.imblien.com/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
@@ -2889,7 +2888,6 @@ local=/courses.bolt.installgentoo.com/
 local=/instant-vpn.com/
 local=/instantunblock.com/
 local=/intego.com/
-local=/dns.interhub.cc/
 local=/interncloud.info/
 local=/internetbypass.com/
 local=/internetcloak.com/
@@ -2915,7 +2913,6 @@ local=/ipnproxy.com/
 local=/dns.ipoac.nl/
 local=/iportal.me/
 local=/ipprotectionauth.goog/
-local=/ipredator.se/
 local=/iprivatevpn.com/
 local=/iprovpn.com/
 local=/iproxy.lol/
@@ -4859,7 +4856,6 @@ local=/nirbytesxshadow.servernux.com/
 local=/adguard.serverrune.be/
 local=/serverssh.net/
 local=/assets-prod-a230.s3.serverwild.com/
-local=/serverxray.us/
 local=/servis4u.top/
 local=/dns.servizimv.it/
 local=/sescloud.club/

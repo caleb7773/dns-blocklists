@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jan 2026 02:37 UTC
-! Version: 2026.0103.0237.46
+! Last modified: 03 Jan 2026 06:44 UTC
+! Version: 2026.0103.0644.10
 ! Syntax: AdBlock
-! Number of entries: 11448
+! Number of entries: 11446
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -678,11 +678,9 @@
 ||altadefinizionegratis.group^
 ||altadefinizionegratis.help^
 ||altadefinizionegratis.ink^
-||altadefinizionegratis.love^
 ||altadefinizionegratis.mom^
 ||altadefinizionegratis.news^
 ||altadefinizionegratis.onl^
-||altadefinizionegratis.pics^
 ||altadefinizionegratis.qpon^
 ||altadefinizionegratis.sbs^
 ||altadefinizionegratis.shop^

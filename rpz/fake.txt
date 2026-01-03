@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767403920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767418320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 01:32 UTC
-; Version: 2026.0103.0132.51
+; Last modified: 03 Jan 2026 05:32 UTC
+; Version: 2026.0103.0532.24
 ; Syntax: RPZ
-; Number of entries: 28102
+; Number of entries: 28082
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -8904,8 +8904,6 @@ intellisynex.com CNAME .
 *.intellisynex.com CNAME .
 intentionalk.com CNAME .
 *.intentionalk.com CNAME .
-inter-investissement-holding.com CNAME .
-*.inter-investissement-holding.com CNAME .
 interactionm.com CNAME .
 *.interactionm.com CNAME .
 interactivecoins.com CNAME .
@@ -9082,8 +9080,6 @@ jellycat-speichern.com CNAME .
 *.jellycat-speichern.com CNAME .
 jellycatde.com CNAME .
 *.jellycatde.com CNAME .
-jerering.com CNAME .
-*.jerering.com CNAME .
 jerseymonsters.com CNAME .
 *.jerseymonsters.com CNAME .
 jerseyneu.com CNAME .
@@ -9196,8 +9192,6 @@ jtshoponline.com CNAME .
 *.jtshoponline.com CNAME .
 jtssr.com CNAME .
 *.jtssr.com CNAME .
-jumbokicks.com CNAME .
-*.jumbokicks.com CNAME .
 jumigoods.com CNAME .
 *.jumigoods.com CNAME .
 junctionh.com CNAME .
@@ -9208,8 +9202,6 @@ junge-dailyshop.com CNAME .
 *.junge-dailyshop.com CNAME .
 jungle-shoes.com CNAME .
 *.jungle-shoes.com CNAME .
-jungleim.com CNAME .
-*.jungleim.com CNAME .
 jupiter-web3.com CNAME .
 *.jupiter-web3.com CNAME .
 juretro.com CNAME .
@@ -20506,8 +20498,6 @@ hsn24.de CNAME .
 *.hsn24.de CNAME .
 hte-handel.de CNAME .
 *.hte-handel.de CNAME .
-htk-spedition.de CNAME .
-*.htk-spedition.de CNAME .
 huber-garten24.de CNAME .
 *.huber-garten24.de CNAME .
 hugoverkauf.de CNAME .
@@ -20624,8 +20614,6 @@ inosoltec.de CNAME .
 *.inosoltec.de CNAME .
 instawirbel.de CNAME .
 *.instawirbel.de CNAME .
-interfacecapital.de CNAME .
-*.interfacecapital.de CNAME .
 intimewatches.de CNAME .
 *.intimewatches.de CNAME .
 iphone16-refurbed.de CNAME .
@@ -20640,8 +20628,6 @@ ivacuum.de CNAME .
 *.ivacuum.de CNAME .
 ix-consulting.de CNAME .
 *.ix-consulting.de CNAME .
-jaeger-brennstoffe.de CNAME .
-*.jaeger-brennstoffe.de CNAME .
 jafana.de CNAME .
 *.jafana.de CNAME .
 jagute.de CNAME .
@@ -20654,8 +20640,6 @@ jawoll-berlin.de CNAME .
 *.jawoll-berlin.de CNAME .
 jb-store.de CNAME .
 *.jb-store.de CNAME .
-jdfimportexportgmbh.de CNAME .
-*.jdfimportexportgmbh.de CNAME .
 jdflmportexport.de CNAME .
 *.jdflmportexport.de CNAME .
 jeansrabatt.de CNAME .
@@ -25966,8 +25950,6 @@ honestcapital.pro CNAME .
 *.honestcapital.pro CNAME .
 impecspalm.pro CNAME .
 *.impecspalm.pro CNAME .
-insideinvest.pro CNAME .
-*.insideinvest.pro CNAME .
 introtrade.pro CNAME .
 *.introtrade.pro CNAME .
 ipgatetrade.pro CNAME .
@@ -26582,8 +26564,6 @@ inksterdeava.shop CNAME .
 *.inksterdeava.shop CNAME .
 instocks.shop CNAME .
 *.instocks.shop CNAME .
-isabellefrancois.shop CNAME .
-*.isabellefrancois.shop CNAME .
 itecshopeur.shop CNAME .
 *.itecshopeur.shop CNAME .
 ixdoh.shop CNAME .
