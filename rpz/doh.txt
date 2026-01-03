@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767436860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767468420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 10:41 UTC
-; Version: 2026.0103.1041.58
+; Last modified: 03 Jan 2026 19:27 UTC
+; Version: 2026.0103.1927.56
 ; Syntax: RPZ
-; Number of entries: 6724
+; Number of entries: 6720
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1433,8 +1433,6 @@ dns.miyun1.com CNAME .
 *.dns.miyun1.com CNAME .
 doh.mmmalia.com CNAME .
 *.doh.mmmalia.com CNAME .
-mo0on15.com CNAME .
-*.mo0on15.com CNAME .
 dnstls.mobik.com CNAME .
 *.dnstls.mobik.com CNAME .
 query.mobyds.com CNAME .
@@ -2839,8 +2837,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 be2aja.my.id CNAME .
 *.be2aja.my.id CNAME .
-dns.dodhymikrotik.my.id CNAME .
-*.dns.dodhymikrotik.my.id CNAME .
 dns.freddys.my.id CNAME .
 *.dns.freddys.my.id CNAME .
 dns.iki.my.id CNAME .

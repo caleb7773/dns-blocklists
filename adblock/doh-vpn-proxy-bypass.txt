@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jan 2026 10:42 UTC
-! Version: 2026.0103.1042.38
+! Last modified: 03 Jan 2026 19:28 UTC
+! Version: 2026.0103.1928.33
 ! Syntax: AdBlock
-! Number of entries: 6284
+! Number of entries: 6278
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3385,7 +3385,6 @@
 ||dns.mandre.dev^
 ||doh.manish.ltd^
 ||adguard.manmademagic.com^
-||use.manutec.be^
 ||dns.maolaohei.xyz^
 ||adguard.mapor.co^
 ||mapspublications.us^
@@ -3444,7 +3443,6 @@
 ||doh.meetz.pw^
 ||redsea.meetz.pw^
 ||testguard.meexx.de^
-||mega123proxy.com^
 ||meganerd.nl^
 ||dns.megaong.com^
 ||megaproxy.biz^
@@ -3508,7 +3506,6 @@
 ||doh.mmmalia.com^
 ||dns.mnet-online.de^
 ||dns.mni.li^
-||mo0on15.com^
 ||dnstls.mobik.com^
 ||mobilejump.mobi^
 ||mobilevpn.net^
@@ -3573,7 +3570,6 @@
 ||d.apemlegit.my.id^
 ||be2aja.my.id^
 ||vpnto.bhadrikais.my.id^
-||dns.dodhymikrotik.my.id^
 ||dns.freddys.my.id^
 ||dns.iki.my.id^
 ||dns-idx1.itsec.my.id^
@@ -3640,7 +3636,6 @@
 ||egshe.myqnapcloud.com^
 ||newlibrarian.myqnapcloud.com^
 ||myrusvpn.de^
-||mysiteunblocked.com^
 ||mysolod.xyz^
 ||myspaceunlock.com^
 ||mysteriumvpn.com^
@@ -4098,7 +4093,6 @@
 ||papervpn.info^
 ||paradise-human.shop^
 ||dns.pari.network^
-||parkviewenglish.buzz^
 ||meow.partedu.club^
 ||pashagame456.com^
 ||paskam.xyz^

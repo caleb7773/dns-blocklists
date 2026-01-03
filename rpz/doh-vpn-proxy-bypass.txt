@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767436920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767468480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 10:42 UTC
-; Version: 2026.0103.1042.38
+; Last modified: 03 Jan 2026 19:28 UTC
+; Version: 2026.0103.1928.33
 ; Syntax: RPZ
-; Number of entries: 12568
+; Number of entries: 12556
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -261,8 +261,6 @@ dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
 *.dns.jimirobaer.be CNAME .
-use.manutec.be CNAME .
-*.use.manutec.be CNAME .
 dns1.nielsdb.be CNAME .
 *.dns1.nielsdb.be CNAME .
 dns1.pietjacobs.be CNAME .
@@ -391,8 +389,6 @@ dns-br.leonardo.tec.br CNAME .
 *.dns-br.leonardo.tec.br CNAME .
 doh.buzz CNAME .
 *.doh.buzz CNAME .
-parkviewenglish.buzz CNAME .
-*.parkviewenglish.buzz CNAME .
 unblocked.buzz CNAME .
 *.unblocked.buzz CNAME .
 doh.datahata.by CNAME .
@@ -2991,8 +2987,6 @@ mediahint.com CNAME .
 *.mediahint.com CNAME .
 mediavpn.com CNAME .
 *.mediavpn.com CNAME .
-mega123proxy.com CNAME .
-*.mega123proxy.com CNAME .
 dns.megaong.com CNAME .
 *.dns.megaong.com CNAME .
 megaproxy.com CNAME .
@@ -3027,8 +3021,6 @@ dns.miyun1.com CNAME .
 *.dns.miyun1.com CNAME .
 doh.mmmalia.com CNAME .
 *.doh.mmmalia.com CNAME .
-mo0on15.com CNAME .
-*.mo0on15.com CNAME .
 dnstls.mobik.com CNAME .
 *.dnstls.mobik.com CNAME .
 query.mobyds.com CNAME .
@@ -3109,8 +3101,6 @@ egshe.myqnapcloud.com CNAME .
 *.egshe.myqnapcloud.com CNAME .
 newlibrarian.myqnapcloud.com CNAME .
 *.newlibrarian.myqnapcloud.com CNAME .
-mysiteunblocked.com CNAME .
-*.mysiteunblocked.com CNAME .
 myspaceunlock.com CNAME .
 *.myspaceunlock.com CNAME .
 mysteriumvpn.com CNAME .
@@ -6027,8 +6017,6 @@ be2aja.my.id CNAME .
 *.be2aja.my.id CNAME .
 vpnto.bhadrikais.my.id CNAME .
 *.vpnto.bhadrikais.my.id CNAME .
-dns.dodhymikrotik.my.id CNAME .
-*.dns.dodhymikrotik.my.id CNAME .
 dns.freddys.my.id CNAME .
 *.dns.freddys.my.id CNAME .
 dns.iki.my.id CNAME .

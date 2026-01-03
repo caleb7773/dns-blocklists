@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 10:42 UTC
-# Version: 2026.0103.1042.38
+# Last modified: 03 Jan 2026 19:28 UTC
+# Version: 2026.0103.1928.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6284
+# Number of entries: 6278
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3384,7 +3384,6 @@ local=/mallocprivacy.com/
 local=/dns.mandre.dev/
 local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
-local=/use.manutec.be/
 local=/dns.maolaohei.xyz/
 local=/adguard.mapor.co/
 local=/mapspublications.us/
@@ -3443,7 +3442,6 @@ local=/dns.meeo.win/
 local=/doh.meetz.pw/
 local=/redsea.meetz.pw/
 local=/testguard.meexx.de/
-local=/mega123proxy.com/
 local=/meganerd.nl/
 local=/dns.megaong.com/
 local=/megaproxy.biz/
@@ -3507,7 +3505,6 @@ local=/dns.miyun1.com/
 local=/doh.mmmalia.com/
 local=/dns.mnet-online.de/
 local=/dns.mni.li/
-local=/mo0on15.com/
 local=/dnstls.mobik.com/
 local=/mobilejump.mobi/
 local=/mobilevpn.net/
@@ -3572,7 +3569,6 @@ local=/muxyuji.ru/
 local=/d.apemlegit.my.id/
 local=/be2aja.my.id/
 local=/vpnto.bhadrikais.my.id/
-local=/dns.dodhymikrotik.my.id/
 local=/dns.freddys.my.id/
 local=/dns.iki.my.id/
 local=/dns-idx1.itsec.my.id/
@@ -3639,7 +3635,6 @@ local=/myproxysite.org/
 local=/egshe.myqnapcloud.com/
 local=/newlibrarian.myqnapcloud.com/
 local=/myrusvpn.de/
-local=/mysiteunblocked.com/
 local=/mysolod.xyz/
 local=/myspaceunlock.com/
 local=/mysteriumvpn.com/
@@ -4097,7 +4092,6 @@ local=/papaproxy.net/
 local=/papervpn.info/
 local=/paradise-human.shop/
 local=/dns.pari.network/
-local=/parkviewenglish.buzz/
 local=/meow.partedu.club/
 local=/pashagame456.com/
 local=/paskam.xyz/

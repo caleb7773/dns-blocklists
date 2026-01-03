@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 10:01 UTC
-# Version: 2026.0103.1001.36
+# Last modified: 03 Jan 2026 18:47 UTC
+# Version: 2026.0103.1847.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1315
+# Number of entries: 1314
 #
 *.000a.de
 *.000space.com
@@ -840,7 +840,6 @@
 *.majesticbank.de
 *.maminforum.com
 *.manfeature.club
-*.mapsweight.shop
 *.mashstaffing.com
 *.mdtwo.top
 *.me.gp
