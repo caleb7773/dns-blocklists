@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 19:27 UTC
-# Version: 2026.0103.1927.56
+# Last modified: 03 Jan 2026 22:44 UTC
+# Version: 2026.0103.2244.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3838
+# Number of entries: 3832
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2954,8 +2954,6 @@
 0.0.0.0 orpi.privado.ovh
 0.0.0.0 oury.privado.ovh
 0.0.0.0 privatebard.com
-0.0.0.0 lmc.privatedns.org
-0.0.0.0 lmc1.privatedns.org
 0.0.0.0 test.privatenode.ru
 0.0.0.0 any.test.privatenode.ru
 0.0.0.0 f4.test.privatenode.ru
@@ -2974,12 +2972,9 @@
 0.0.0.0 dns.propheci.xyz
 0.0.0.0 adg.proprietarypenguin.com
 0.0.0.0 dns.proprietarypenguin.com
-0.0.0.0 prostoclub.ru
-0.0.0.0 www.prostoclub.ru
 0.0.0.0 psociety.de
 0.0.0.0 dns.psociety.de
 0.0.0.0 bit.psyk.fr
-0.0.0.0 dns.psyk.fr
 0.0.0.0 publicdnsserver.com
 0.0.0.0 dns.pumpkinvrar.com
 0.0.0.0 puredns.org
@@ -3109,7 +3104,6 @@
 0.0.0.0 adg.rokh.biz
 0.0.0.0 dns.romain.tech
 0.0.0.0 dns.ronc.ru
-0.0.0.0 dns.root.me
 0.0.0.0 dns.rotunneling.net
 0.0.0.0 adguard.rowdyengeesje.nl
 0.0.0.0 roycom.win

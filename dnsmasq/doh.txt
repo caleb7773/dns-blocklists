@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 19:27 UTC
-# Version: 2026.0103.1927.56
+# Last modified: 03 Jan 2026 22:44 UTC
+# Version: 2026.0103.2244.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3360
+# Number of entries: 3355
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2560,8 +2560,6 @@ local=/dns.privado.ovh/
 local=/orpi.privado.ovh/
 local=/oury.privado.ovh/
 local=/privatebard.com/
-local=/lmc.privatedns.org/
-local=/lmc1.privatedns.org/
 local=/test.privatenode.ru/
 local=/dns.privateservices.pro/
 local=/de.dns.privex.io/
@@ -2571,10 +2569,8 @@ local=/project-evoex.de/
 local=/dns.propheci.xyz/
 local=/adg.proprietarypenguin.com/
 local=/dns.proprietarypenguin.com/
-local=/prostoclub.ru/
 local=/psociety.de/
 local=/bit.psyk.fr/
-local=/dns.psyk.fr/
 local=/publicdnsserver.com/
 local=/dns.pumpkinvrar.com/
 local=/puredns.org/
@@ -2698,7 +2694,6 @@ local=/dns.rogpurs.com/
 local=/adg.rokh.biz/
 local=/dns.romain.tech/
 local=/dns.ronc.ru/
-local=/dns.root.me/
 local=/dns.rotunneling.net/
 local=/adguard.rowdyengeesje.nl/
 local=/roycom.win/

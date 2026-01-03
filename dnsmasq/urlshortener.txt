@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 18:19 UTC
-# Version: 2026.0103.1819.47
+# Last modified: 03 Jan 2026 21:34 UTC
+# Version: 2026.0103.2134.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10064
+# Number of entries: 10061
 #
 local=/0.gp/
 local=/00m.in/
@@ -6207,7 +6207,6 @@ local=/url.prepo.io/
 local=/prepostseo.tools/
 local=/pressthis.link/
 local=/m.presto.app/
-local=/prets.life/
 local=/prf.hn/
 local=/prfd.net/
 local=/y.prfd.aero/
@@ -6308,7 +6307,6 @@ local=/py6.ru/
 local=/pygy.co/
 local=/pym.se/
 local=/pymd.org/
-local=/pymhm.pro/
 local=/pymoinfo.com/
 local=/pyt.app/
 local=/pzdls.co/
@@ -6326,7 +6324,6 @@ local=/qclickbio.com/
 local=/qd.rs/
 local=/qdl.pw/
 local=/qdls.io/
-local=/qdrop.link/
 local=/qeichy.ir/
 local=/qevime.com/
 local=/url.qhon.com/

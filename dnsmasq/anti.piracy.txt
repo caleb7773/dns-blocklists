@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 19:22 UTC
-# Version: 2026.0103.1922.13
+# Last modified: 03 Jan 2026 22:39 UTC
+# Version: 2026.0103.2239.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11427
+# Number of entries: 11426
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -7566,7 +7566,6 @@ local=/projectfreetv.watch/
 local=/projectfreetv.xyz/
 local=/udp.tracker.projectk.org/
 local=/prolikewoah.com/
-local=/promoddl.com/
 local=/pron.tv/
 local=/proncams.tv/
 local=/propernoun.net/

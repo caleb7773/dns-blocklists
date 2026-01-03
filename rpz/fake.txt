@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767464280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767475920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 18:18 UTC
-; Version: 2026.0103.1818.04
+; Last modified: 03 Jan 2026 21:32 UTC
+; Version: 2026.0103.2132.23
 ; Syntax: RPZ
-; Number of entries: 27952
+; Number of entries: 27924
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -746,8 +746,6 @@ quantum-ai.at CNAME .
 *.quantum-ai.at CNAME .
 rcard-service.at CNAME .
 *.rcard-service.at CNAME .
-redwing.at CNAME .
-*.redwing.at CNAME .
 reinigung-experten.at CNAME .
 *.reinigung-experten.at CNAME .
 reparaturheld24.at CNAME .
@@ -13118,8 +13116,6 @@ providedes.com CNAME .
 *.providedes.com CNAME .
 provise24.com CNAME .
 *.provise24.com CNAME .
-prowerkparts.com CNAME .
-*.prowerkparts.com CNAME .
 proximitye.com CNAME .
 *.proximitye.com CNAME .
 proximityi.com CNAME .
@@ -13206,8 +13202,6 @@ quarmart.com CNAME .
 *.quarmart.com CNAME .
 quartersoap.com CNAME .
 *.quartersoap.com CNAME .
-quatclub.com CNAME .
-*.quatclub.com CNAME .
 quayoutlet.com CNAME .
 *.quayoutlet.com CNAME .
 quayparis.com CNAME .
@@ -13278,8 +13272,6 @@ radiadoresadicionales.com CNAME .
 *.radiadoresadicionales.com CNAME .
 radiator-selling.com CNAME .
 *.radiator-selling.com CNAME .
-radieuxcorebit.com CNAME .
-*.radieuxcorebit.com CNAME .
 radiotradeus.com CNAME .
 *.radiotradeus.com CNAME .
 radiusor.com CNAME .
@@ -13350,8 +13342,6 @@ rcarrowmax.com CNAME .
 *.rcarrowmax.com CNAME .
 rcaxon.com CNAME .
 *.rcaxon.com CNAME .
-rccarhobao.com CNAME .
-*.rccarhobao.com CNAME .
 rcelectronicsale.com CNAME .
 *.rcelectronicsale.com CNAME .
 rcfastrax.com CNAME .
@@ -13372,8 +13362,6 @@ re-ts.com CNAME .
 *.re-ts.com CNAME .
 realestate-unique.com CNAME .
 *.realestate-unique.com CNAME .
-reality-golf.com CNAME .
-*.reality-golf.com CNAME .
 realmadridassets.com CNAME .
 *.realmadridassets.com CNAME .
 realyiyi.com CNAME .
@@ -13428,8 +13416,6 @@ reifen-dreyer.com CNAME .
 *.reifen-dreyer.com CNAME .
 reifenangebote.com CNAME .
 *.reifenangebote.com CNAME .
-reifenhandel-24.com CNAME .
-*.reifenhandel-24.com CNAME .
 reifensverkauf.com CNAME .
 *.reifensverkauf.com CNAME .
 reignsprime.com CNAME .
@@ -17244,6 +17230,8 @@ worldsgreatpills.com CNAME .
 *.worldsgreatpills.com CNAME .
 woumc.com CNAME .
 *.woumc.com CNAME .
+wowgyu.com CNAME .
+*.wowgyu.com CNAME .
 wpautopecas.com CNAME .
 *.wpautopecas.com CNAME .
 wps-register.com CNAME .
@@ -22366,8 +22354,6 @@ radzyklen.de CNAME .
 *.radzyklen.de CNAME .
 ragwearoutlet.de CNAME .
 *.ragwearoutlet.de CNAME .
-rahr-gesellschaft.de CNAME .
-*.rahr-gesellschaft.de CNAME .
 rainer-baumarkt.de CNAME .
 *.rainer-baumarkt.de CNAME .
 rakaa24.de CNAME .
@@ -22382,8 +22368,6 @@ rangau-musikzug.de CNAME .
 *.rangau-musikzug.de CNAME .
 rangnau-versand.de CNAME .
 *.rangnau-versand.de CNAME .
-rapaja-tech.de CNAME .
-*.rapaja-tech.de CNAME .
 rasen-profis.de CNAME .
 *.rasen-profis.de CNAME .
 rasenmaherwendik.de CNAME .
@@ -22406,8 +22390,6 @@ rebornbabydeutschland.de CNAME .
 *.rebornbabydeutschland.de CNAME .
 reborntraumland.de CNAME .
 *.reborntraumland.de CNAME .
-recordkontor.de CNAME .
-*.recordkontor.de CNAME .
 reduktionszone.de CNAME .
 *.reduktionszone.de CNAME .
 reebok-schuhe.de CNAME .
@@ -22470,8 +22452,6 @@ reynolds-gartenhandel.de CNAME .
 *.reynolds-gartenhandel.de CNAME .
 rezeptfrei-bestellung.de CNAME .
 *.rezeptfrei-bestellung.de CNAME .
-rezeptfrei-guenstiger.de CNAME .
-*.rezeptfrei-guenstiger.de CNAME .
 rheimz.de CNAME .
 *.rheimz.de CNAME .
 rhein-trends24.de CNAME .
@@ -22546,8 +22526,6 @@ ronald-schminke.de CNAME .
 *.ronald-schminke.de CNAME .
 ronovia.de CNAME .
 *.ronovia.de CNAME .
-rontis.de CNAME .
-*.rontis.de CNAME .
 rosche-bedachungen.de CNAME .
 *.rosche-bedachungen.de CNAME .
 rosenbaum-berlin.de CNAME .
@@ -26828,8 +26806,6 @@ rituals-outlet.shop CNAME .
 *.rituals-outlet.shop CNAME .
 rituals-outletvip.shop CNAME .
 *.rituals-outletvip.shop CNAME .
-rituals-vip.shop CNAME .
-*.rituals-vip.shop CNAME .
 ritualsecretododesligue.shop CNAME .
 *.ritualsecretododesligue.shop CNAME .
 ritualsnectar.shop CNAME .
@@ -27410,8 +27386,6 @@ rentin.store CNAME .
 *.rentin.store CNAME .
 ridger.store CNAME .
 *.ridger.store CNAME .
-robertoserafini.store CNAME .
-*.robertoserafini.store CNAME .
 shadowwear.store CNAME .
 *.shadowwear.store CNAME .
 shopparts.store CNAME .
@@ -27862,8 +27836,6 @@ gesund.world CNAME .
 *.gesund.world CNAME .
 investingideas.world CNAME .
 *.investingideas.world CNAME .
-quaerocapital.world CNAME .
-*.quaerocapital.world CNAME .
 quantum-banc.world CNAME .
 *.quantum-banc.world CNAME .
 thermomix.world CNAME .

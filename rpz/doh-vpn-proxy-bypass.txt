@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767468480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767480300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 19:28 UTC
-; Version: 2026.0103.1928.33
+; Last modified: 03 Jan 2026 22:45 UTC
+; Version: 2026.0103.2245.37
 ; Syntax: RPZ
-; Number of entries: 12556
+; Number of entries: 12544
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3703,8 +3703,6 @@ dns.rayanbab.com CNAME .
 *.dns.rayanbab.com CNAME .
 rayobyte.com CNAME .
 *.rayobyte.com CNAME .
-edu.readerwrangler.com CNAME .
-*.edu.readerwrangler.com CNAME .
 hk.reaticle.com CNAME .
 *.hk.reaticle.com CNAME .
 redscrape.com CNAME .
@@ -5741,8 +5739,6 @@ nas.patrick-antoine.fr CNAME .
 *.nas.patrick-antoine.fr CNAME .
 bit.psyk.fr CNAME .
 *.bit.psyk.fr CNAME .
-dns.psyk.fr CNAME .
-*.dns.psyk.fr CNAME .
 purevpn.fr CNAME .
 *.purevpn.fr CNAME .
 dns.qkc.fr CNAME .
@@ -7253,8 +7249,6 @@ dns.reitmeier.me CNAME .
 *.dns.reitmeier.me CNAME .
 dns.rjls.me CNAME .
 *.dns.rjls.me CNAME .
-dns.root.me CNAME .
-*.dns.root.me CNAME .
 f1.dns.s3cure.me CNAME .
 *.f1.dns.s3cure.me CNAME .
 se3v5tjfff3aet.me CNAME .
@@ -9835,10 +9829,6 @@ pproxy.org CNAME .
 *.pproxy.org CNAME .
 office.pramanik.org CNAME .
 *.office.pramanik.org CNAME .
-lmc.privatedns.org CNAME .
-*.lmc.privatedns.org CNAME .
-lmc1.privatedns.org CNAME .
-*.lmc1.privatedns.org CNAME .
 privoxy.org CNAME .
 *.privoxy.org CNAME .
 prostovpn.org CNAME .
@@ -10961,8 +10951,6 @@ dns.ploshadi.ru CNAME .
 *.dns.ploshadi.ru CNAME .
 test.privatenode.ru CNAME .
 *.test.privatenode.ru CNAME .
-prostoclub.ru CNAME .
-*.prostoclub.ru CNAME .
 proxybox.ru CNAME .
 *.proxybox.ru CNAME .
 owa.pvmedia.ru CNAME .

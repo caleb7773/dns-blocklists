@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 19:28 UTC
-# Version: 2026.0103.1928.33
+# Last modified: 03 Jan 2026 22:45 UTC
+# Version: 2026.0103.2245.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6278
+# Number of entries: 6272
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4262,8 +4262,6 @@ local=/orpi.privado.ovh/
 local=/oury.privado.ovh/
 local=/privadovpn.com/
 local=/privatebard.com/
-local=/lmc.privatedns.org/
-local=/lmc1.privatedns.org/
 local=/privateinternetaccess.com/
 local=/test.privatenode.ru/
 local=/privateproxy.me/
@@ -4284,7 +4282,6 @@ local=/dns.propheci.xyz/
 local=/adg.proprietarypenguin.com/
 local=/dns.proprietarypenguin.com/
 local=/edu.prostitutki-na-vyezd.com/
-local=/prostoclub.ru/
 local=/prostovpn.org/
 local=/vpn-api.proton.me/
 local=/protonstatus.com/
@@ -4466,7 +4463,6 @@ local=/psiphon3.com/
 local=/psociety.de/
 local=/psybolt.com/
 local=/bit.psyk.fr/
-local=/dns.psyk.fr/
 local=/ptoserver.com/
 local=/publicdnsserver.com/
 local=/publicproxy.org/
@@ -4581,7 +4577,6 @@ local=/dns.rbn.gr/
 local=/rcsm.ir/
 local=/searxng.rcxpony.name/
 local=/adguard.rdekuyper.nl/
-local=/edu.readerwrangler.com/
 local=/login.readinghelper.online/
 local=/dns.readlook.tk/
 local=/agh.realwap.net/
@@ -4661,7 +4656,6 @@ local=/dns.ronc.ru/
 local=/roodel.com/
 local=/roogen.com/
 local=/roonyx.com/
-local=/dns.root.me/
 local=/alishnekdi.rotorootie.net/
 local=/asimplesanirb.rotorootie.net/
 local=/dns.rotunneling.net/

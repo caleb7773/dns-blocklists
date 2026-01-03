@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767464340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767476040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 18:19 UTC
-; Version: 2026.0103.1819.47
+; Last modified: 03 Jan 2026 21:34 UTC
+; Version: 2026.0103.2134.11
 ; Syntax: RPZ
-; Number of entries: 20128
+; Number of entries: 20122
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -12433,8 +12433,6 @@ ovo99sports.life CNAME .
 *.ovo99sports.life CNAME .
 phaiphai.life CNAME .
 *.phaiphai.life CNAME .
-prets.life CNAME .
-*.prets.life CNAME .
 redditp2pcredit.life CNAME .
 *.redditp2pcredit.life CNAME .
 redditsp2pcredit.life CNAME .
@@ -12971,8 +12969,6 @@ puny.link CNAME .
 *.puny.link CNAME .
 q8at.link CNAME .
 *.q8at.link CNAME .
-qdrop.link CNAME .
-*.qdrop.link CNAME .
 qlic.link CNAME .
 *.qlic.link CNAME .
 qrcreator.link CNAME .
@@ -16949,8 +16945,6 @@ onbit.pro CNAME .
 *.onbit.pro CNAME .
 payspot.pro CNAME .
 *.payspot.pro CNAME .
-pymhm.pro CNAME .
-*.pymhm.pro CNAME .
 qlink.pro CNAME .
 *.qlink.pro CNAME .
 rajaolympus.pro CNAME .

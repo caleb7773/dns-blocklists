@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jan 2026 18:19 UTC
-! Version: 2026.0103.1819.47
+! Last modified: 03 Jan 2026 21:34 UTC
+! Version: 2026.0103.2134.11
 ! Syntax: AdBlock
-! Number of entries: 10064
+! Number of entries: 10061
 !
 ||0.gp^
 ||00m.in^
@@ -6208,7 +6208,6 @@
 ||prepostseo.tools^
 ||pressthis.link^
 ||m.presto.app^
-||prets.life^
 ||prf.hn^
 ||prfd.net^
 ||y.prfd.aero^
@@ -6309,7 +6308,6 @@
 ||pygy.co^
 ||pym.se^
 ||pymd.org^
-||pymhm.pro^
 ||pymoinfo.com^
 ||pyt.app^
 ||pzdls.co^
@@ -6327,7 +6325,6 @@
 ||qd.rs^
 ||qdl.pw^
 ||qdls.io^
-||qdrop.link^
 ||qeichy.ir^
 ||qevime.com^
 ||url.qhon.com^

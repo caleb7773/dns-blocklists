@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 18:47 UTC
-# Version: 2026.0103.1847.47
+# Last modified: 03 Jan 2026 22:03 UTC
+# Version: 2026.0103.2203.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1314
+# Number of entries: 1313
 #
 local=/000a.de/
 local=/000space.com/
@@ -1010,7 +1010,6 @@ local=/regruhosting.ru/
 local=/rentvalues.biz/
 local=/rf.gd/
 local=/ro.gp/
-local=/romesuper.shop/
 local=/royal-host.com/
 local=/rozblog.com/
 local=/rssing.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767468120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767479940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 19:22 UTC
-; Version: 2026.0103.1922.13
+; Last modified: 03 Jan 2026 22:39 UTC
+; Version: 2026.0103.2239.30
 ; Syntax: RPZ
-; Number of entries: 22854
+; Number of entries: 22852
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6378,8 +6378,6 @@ programaswarez.com CNAME .
 *.programaswarez.com CNAME .
 prolikewoah.com CNAME .
 *.prolikewoah.com CNAME .
-promoddl.com CNAME .
-*.promoddl.com CNAME .
 prophecywatch.com CNAME .
 *.prophecywatch.com CNAME .
 protvcollection.com CNAME .
