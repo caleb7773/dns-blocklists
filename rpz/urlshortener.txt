@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767418440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767432840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 05:34 UTC
-; Version: 2026.0103.0534.29
+; Last modified: 03 Jan 2026 09:34 UTC
+; Version: 2026.0103.0934.53
 ; Syntax: RPZ
-; Number of entries: 19924
+; Number of entries: 19898
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1389,8 +1389,6 @@ k33.bz CNAME .
 *.k33.bz CNAME .
 lnk.bz CNAME .
 *.lnk.bz CNAME .
-lyn.bz CNAME .
-*.lyn.bz CNAME .
 m-rx.bz CNAME .
 *.m-rx.bz CNAME .
 met.bz CNAME .
@@ -1709,8 +1707,6 @@ lihi2.cc CNAME .
 *.lihi2.cc CNAME .
 lihi3.cc CNAME .
 *.lihi3.cc CNAME .
-liik.cc CNAME .
-*.liik.cc CNAME .
 lin-k.cc CNAME .
 *.lin-k.cc CNAME .
 link.cc CNAME .
@@ -5021,8 +5017,6 @@ linkdoer.com CNAME .
 *.linkdoer.com CNAME .
 linkdrip.com CNAME .
 *.linkdrip.com CNAME .
-linkedin-jobmkt.com CNAME .
-*.linkedin-jobmkt.com CNAME .
 linkedinmkt.com CNAME .
 *.linkedinmkt.com CNAME .
 linkexpander.com CNAME .
@@ -5189,8 +5183,6 @@ linkyvicky.com CNAME .
 *.linkyvicky.com CNAME .
 linmetrics.com CNAME .
 *.linmetrics.com CNAME .
-linply.com CNAME .
-*.linply.com CNAME .
 linqry.com CNAME .
 *.linqry.com CNAME .
 lintlink.com CNAME .
@@ -8545,8 +8537,6 @@ li-nk.eu CNAME .
 *.li-nk.eu CNAME .
 lin-k.eu CNAME .
 *.lin-k.eu CNAME .
-linkifyx.eu CNAME .
-*.linkifyx.eu CNAME .
 linkshort.eu CNAME .
 *.linkshort.eu CNAME .
 linkto.eu CNAME .
@@ -10291,8 +10281,6 @@ lf8.info CNAME .
 *.lf8.info CNAME .
 lihat.info CNAME .
 *.lihat.info CNAME .
-linkedinjobmkt.info CNAME .
-*.linkedinjobmkt.info CNAME .
 linkgacor33.info CNAME .
 *.linkgacor33.info CNAME .
 linkly.info CNAME .
@@ -10789,8 +10777,6 @@ linksplit.io CNAME .
 *.linksplit.io CNAME .
 linksqueeze.io CNAME .
 *.linksqueeze.io CNAME .
-littl.io CNAME .
-*.littl.io CNAME .
 s.livstick.io CNAME .
 *.s.livstick.io CNAME .
 lkdin.io CNAME .
@@ -12273,8 +12259,6 @@ linelive.life CNAME .
 *.linelive.life CNAME .
 livesport88.life CNAME .
 *.livesport88.life CNAME .
-lucylipps.life CNAME .
-*.lucylipps.life CNAME .
 mainaku.life CNAME .
 *.mainaku.life CNAME .
 matten1.life CNAME .
@@ -16759,8 +16743,6 @@ linkinbio.pro CNAME .
 *.linkinbio.pro CNAME .
 linkpad.pro CNAME .
 *.linkpad.pro CNAME .
-linxy.pro CNAME .
-*.linxy.pro CNAME .
 loginmaxwin.pro CNAME .
 *.loginmaxwin.pro CNAME .
 lowrihouston.pro CNAME .
@@ -17507,8 +17489,6 @@ jio.sh CNAME .
 *.jio.sh CNAME .
 jmp.sh CNAME .
 *.jmp.sh CNAME .
-kut.sh CNAME .
-*.kut.sh CNAME .
 linko.sh CNAME .
 *.linko.sh CNAME .
 lmt.sh CNAME .
@@ -17751,8 +17731,6 @@ yadi.sk CNAME .
 *.yadi.sk CNAME .
 caro.sl CNAME .
 *.caro.sl CNAME .
-links.sl CNAME .
-*.links.sl CNAME .
 mechani.sm CNAME .
 *.mechani.sm CNAME .
 tiny.sm CNAME .
@@ -19525,8 +19503,6 @@ d.looks.wang CNAME .
 *.d.looks.wang CNAME .
 fb.watch CNAME .
 *.fb.watch CNAME .
-livebetter.website CNAME .
-*.livebetter.website CNAME .
 loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
@@ -19615,8 +19591,6 @@ thght.works CNAME .
 *.thght.works CNAME .
 kku.world CNAME .
 *.kku.world CNAME .
-letsmeetup.world CNAME .
-*.letsmeetup.world CNAME .
 s0.world CNAME .
 *.s0.world CNAME .
 shorten.world CNAME .

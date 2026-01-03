@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 06:49 UTC
-# Version: 2026.0103.0649.11
+# Last modified: 03 Jan 2026 10:41 UTC
+# Version: 2026.0103.1041.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3857
+# Number of entries: 3841
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2150,7 +2150,6 @@
 0.0.0.0 server01.karl.one
 0.0.0.0 adguard.kasbot.net
 0.0.0.0 dns.kastner-online.de
-0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kc2wbx.com
 0.0.0.0 kcolspacrm.ir
@@ -2288,7 +2287,6 @@
 0.0.0.0 us.libost.xyz
 0.0.0.0 doh.libredns.gr
 0.0.0.0 dot.libredns.gr
-0.0.0.0 lifeisa.live
 0.0.0.0 dns.lifeym.xyz
 0.0.0.0 dns.lightmaster.pw
 0.0.0.0 dns.lihj.me
@@ -2322,7 +2320,6 @@
 0.0.0.0 ddd.loukky.com
 0.0.0.0 lovekers.cn
 0.0.0.0 n5.lsasss.com
-0.0.0.0 dns.lsho.top
 0.0.0.0 lslnyjq.uk
 0.0.0.0 dns1.luan.contact
 0.0.0.0 dns.luismm2311.com
@@ -2342,19 +2339,6 @@
 0.0.0.0 orjp4.lz0724.com
 0.0.0.0 addns1.m-it.ro
 0.0.0.0 ag.m0fo.com
-0.0.0.0 mabuktogel.builders
-0.0.0.0 mabuktogel.business
-0.0.0.0 mabuktogel.cards
-0.0.0.0 mabuktogel.creditcard
-0.0.0.0 mabuktogel.degree
-0.0.0.0 mabuktogel.directory
-0.0.0.0 mabuktogel.enterprises
-0.0.0.0 mabuktogel.immobilien
-0.0.0.0 mabuktogel.limited
-0.0.0.0 mabuktogel.ltd
-0.0.0.0 mabuktogel.marketing
-0.0.0.0 mabuktogel.properties
-0.0.0.0 mabuktogel.solutions
 0.0.0.0 v971850.macloud.host
 0.0.0.0 dns.mafyuh.io
 0.0.0.0 guard.magic-pics.tk

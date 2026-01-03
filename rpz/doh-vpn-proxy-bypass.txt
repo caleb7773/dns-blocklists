@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767422940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767436920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 06:49 UTC
-; Version: 2026.0103.0649.47
+; Last modified: 03 Jan 2026 10:42 UTC
+; Version: 2026.0103.1042.38
 ; Syntax: RPZ
-; Number of entries: 12604
+; Number of entries: 12568
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -389,10 +389,6 @@ dflexy.house.nom.br CNAME .
 *.dflexy.house.nom.br CNAME .
 dns-br.leonardo.tec.br CNAME .
 *.dns-br.leonardo.tec.br CNAME .
-mabuktogel.builders CNAME .
-*.mabuktogel.builders CNAME .
-mabuktogel.business CNAME .
-*.mabuktogel.business CNAME .
 doh.buzz CNAME .
 *.doh.buzz CNAME .
 parkviewenglish.buzz CNAME .
@@ -457,8 +453,6 @@ dns.omada.cafe CNAME .
 *.dns.omada.cafe CNAME .
 ram.kdot.cam CNAME .
 *.ram.kdot.cam CNAME .
-mabuktogel.cards CNAME .
-*.mabuktogel.cards CNAME .
 dns.casadecampo.casa CNAME .
 *.dns.casadecampo.casa CNAME .
 pds.cfornas.casa CNAME .
@@ -2897,8 +2891,6 @@ br2.lezainski.com CNAME .
 *.br2.lezainski.com CNAME .
 dns2.lezainski.com CNAME .
 *.dns2.lezainski.com CNAME .
-kagurabachilover.lgmnow.com CNAME .
-*.kagurabachilover.lgmnow.com CNAME .
 dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
 nd.lgprk.com CNAME .
@@ -4813,8 +4805,6 @@ dns1.luan.contact CNAME .
 *.123proxy.cool CNAME .
 noad.kipp.cool CNAME .
 *.noad.kipp.cool CNAME .
-mabuktogel.creditcard CNAME .
-*.mabuktogel.creditcard CNAME .
 vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 freedom.cx CNAME .
@@ -5237,8 +5227,6 @@ zproxy.de CNAME .
 *.zproxy.de CNAME .
 surfshark.deals CNAME .
 *.surfshark.deals CNAME .
-mabuktogel.degree CNAME .
-*.mabuktogel.degree CNAME .
 constitutional.design CNAME .
 *.constitutional.design CNAME .
 gingerbread.design CNAME .
@@ -5371,8 +5359,6 @@ dns.goertz.digital CNAME .
 *.dns.goertz.digital CNAME .
 onion.direct CNAME .
 *.onion.direct CNAME .
-mabuktogel.directory CNAME .
-*.mabuktogel.directory CNAME .
 anycast.censurfridns.dk CNAME .
 *.anycast.censurfridns.dk CNAME .
 unicast2.servers.censurfridns.dk CNAME .
@@ -5429,8 +5415,6 @@ family.sinuabi.ee CNAME .
 *.family.sinuabi.ee CNAME .
 ahoj.email CNAME .
 *.ahoj.email CNAME .
-mabuktogel.enterprises CNAME .
-*.mabuktogel.enterprises CNAME .
 prdot.cldsrv.es CNAME .
 *.prdot.cldsrv.es CNAME .
 proxyweb.com.es CNAME .
@@ -6155,8 +6139,6 @@ unp.im CNAME .
 *.unp.im CNAME .
 zpn.im CNAME .
 *.zpn.im CNAME .
-mabuktogel.immobilien CNAME .
-*.mabuktogel.immobilien CNAME .
 y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
 *.y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
 dot.anir0y.in CNAME .
@@ -6937,8 +6919,6 @@ dns.txq.life CNAME .
 *.dns.txq.life CNAME .
 solution.w10.life CNAME .
 *.solution.w10.life CNAME .
-mabuktogel.limited CNAME .
-*.mabuktogel.limited CNAME .
 atsilva.link CNAME .
 *.atsilva.link CNAME .
 sabine.bruno2000.link CNAME .
@@ -6969,8 +6949,6 @@ skipdns.link CNAME .
 *.skipdns.link CNAME .
 adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
-lifeisa.live CNAME .
-*.lifeisa.live CNAME .
 solaxy.live CNAME .
 *.solaxy.live CNAME .
 xins.live CNAME .
@@ -7047,8 +7025,6 @@ dns.ourvau.lt CNAME .
 *.dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 *.dns.redvau.lt CNAME .
-mabuktogel.ltd CNAME .
-*.mabuktogel.ltd CNAME .
 doh.manish.ltd CNAME .
 *.doh.manish.ltd CNAME .
 sink.nolo.ltd CNAME .
@@ -7087,8 +7063,6 @@ onion.ly CNAME .
 *.onion.ly CNAME .
 d0.tada.ly CNAME .
 *.d0.tada.ly CNAME .
-mabuktogel.marketing CNAME .
-*.mabuktogel.marketing CNAME .
 bl.eq.md CNAME .
 *.bl.eq.md CNAME .
 ns.00dani.me CNAME .
@@ -7429,8 +7403,6 @@ bwg.sooda.moe CNAME .
 *.bwg.sooda.moe CNAME .
 adg.g3.monster CNAME .
 *.adg.g3.monster CNAME .
-kavkaz.monster CNAME .
-*.kavkaz.monster CNAME .
 dns.sev.monster CNAME .
 *.dns.sev.monster CNAME .
 anything.dontbreakthiswildcard.doge.motorcycles CNAME .
@@ -10341,8 +10313,6 @@ unblockit.pro CNAME .
 *.unblockit.pro CNAME .
 doh.xcom.pro CNAME .
 *.doh.xcom.pro CNAME .
-mabuktogel.properties CNAME .
-*.mabuktogel.properties CNAME .
 abe01.dnscry.pt CNAME .
 *.abe01.dnscry.pt CNAME .
 abn01.dnscry.pt CNAME .
@@ -10651,8 +10621,6 @@ yyz02.dnscry.pt CNAME .
 *.yyz02.dnscry.pt CNAME .
 zal01.dnscry.pt CNAME .
 *.zal01.dnscry.pt CNAME .
-e.luismedeiros.pt CNAME .
-*.e.luismedeiros.pt CNAME .
 bore.pub CNAME .
 *.bore.pub CNAME .
 dns.pub CNAME .
@@ -11279,8 +11247,6 @@ dns.cloudtrust.solutions CNAME .
 *.dns.cloudtrust.solutions CNAME .
 dns.lupine.solutions CNAME .
 *.dns.lupine.solutions CNAME .
-mabuktogel.solutions CNAME .
-*.mabuktogel.solutions CNAME .
 webteufel-it.solutions CNAME .
 *.webteufel-it.solutions CNAME .
 unblock.soy CNAME .
@@ -11551,8 +11517,6 @@ xm.ln7371.top CNAME .
 *.xm.ln7371.top CNAME .
 an.loliconapp.top CNAME .
 *.an.loliconapp.top CNAME .
-dns.lsho.top CNAME .
-*.dns.lsho.top CNAME .
 doh.lujiacai.top CNAME .
 *.doh.lujiacai.top CNAME .
 dot.modsh.top CNAME .

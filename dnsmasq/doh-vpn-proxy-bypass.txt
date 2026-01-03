@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 06:49 UTC
-# Version: 2026.0103.0649.47
+# Last modified: 03 Jan 2026 10:42 UTC
+# Version: 2026.0103.1042.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6302
+# Number of entries: 6284
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3111,7 +3111,6 @@ local=/dns.karl.one/
 local=/server01.karl.one/
 local=/adguard.kasbot.net/
 local=/dns.kastner-online.de/
-local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kc2wbx.com/
 local=/kcolspacrm.ir/
@@ -3272,7 +3271,6 @@ local=/letsvpn.world/
 local=/dns.levonet.sk/
 local=/br2.lezainski.com/
 local=/dns2.lezainski.com/
-local=/kagurabachilover.lgmnow.com/
 local=/dns.lgprk.com/
 local=/nd.lgprk.com/
 local=/dns.liberador.net/
@@ -3281,7 +3279,6 @@ local=/dns.libost.xyz/
 local=/us.libost.xyz/
 local=/doh.libredns.gr/
 local=/dot.libredns.gr/
-local=/lifeisa.live/
 local=/neon.lifepixeled.com/
 local=/dns.lifeym.xyz/
 local=/dns.lightmaster.pw/
@@ -3338,12 +3335,10 @@ local=/deweerd.loseyourip.com/
 local=/ddd.loukky.com/
 local=/lovekers.cn/
 local=/n5.lsasss.com/
-local=/dns.lsho.top/
 local=/lslnyjq.uk/
 local=/ltlxvxjjmvhn.me/
 local=/dns1.luan.contact/
 local=/btg.ludopop.cl/
-local=/e.luismedeiros.pt/
 local=/dns.luismm2311.com/
 local=/doh.lujiacai.top/
 local=/lukscasino-479-tr.xyz/
@@ -3364,19 +3359,6 @@ local=/orau.lz0724.com/
 local=/orjp4.lz0724.com/
 local=/addns1.m-it.ro/
 local=/ag.m0fo.com/
-local=/mabuktogel.builders/
-local=/mabuktogel.business/
-local=/mabuktogel.cards/
-local=/mabuktogel.creditcard/
-local=/mabuktogel.degree/
-local=/mabuktogel.directory/
-local=/mabuktogel.enterprises/
-local=/mabuktogel.immobilien/
-local=/mabuktogel.limited/
-local=/mabuktogel.ltd/
-local=/mabuktogel.marketing/
-local=/mabuktogel.properties/
-local=/mabuktogel.solutions/
 local=/v971850.macloud.host/
 local=/iloveshrek.madhacker.biz/
 local=/dns.mafyuh.io/

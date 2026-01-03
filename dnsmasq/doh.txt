@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 06:49 UTC
-# Version: 2026.0103.0649.11
+# Last modified: 03 Jan 2026 10:41 UTC
+# Version: 2026.0103.1041.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3378
+# Number of entries: 3362
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1832,7 +1832,6 @@ local=/dns.karl.one/
 local=/server01.karl.one/
 local=/adguard.kasbot.net/
 local=/dns.kastner-online.de/
-local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/dns.kc2wbx.com/
 local=/kcolspacrm.ir/
@@ -1961,7 +1960,6 @@ local=/dns.libost.xyz/
 local=/us.libost.xyz/
 local=/doh.libredns.gr/
 local=/dot.libredns.gr/
-local=/lifeisa.live/
 local=/dns.lifeym.xyz/
 local=/dns.lightmaster.pw/
 local=/dns.lihj.me/
@@ -1995,7 +1993,6 @@ local=/deweerd.loseyourip.com/
 local=/ddd.loukky.com/
 local=/lovekers.cn/
 local=/n5.lsasss.com/
-local=/dns.lsho.top/
 local=/lslnyjq.uk/
 local=/dns1.luan.contact/
 local=/dns.luismm2311.com/
@@ -2015,19 +2012,6 @@ local=/orau.lz0724.com/
 local=/orjp4.lz0724.com/
 local=/addns1.m-it.ro/
 local=/ag.m0fo.com/
-local=/mabuktogel.builders/
-local=/mabuktogel.business/
-local=/mabuktogel.cards/
-local=/mabuktogel.creditcard/
-local=/mabuktogel.degree/
-local=/mabuktogel.directory/
-local=/mabuktogel.enterprises/
-local=/mabuktogel.immobilien/
-local=/mabuktogel.limited/
-local=/mabuktogel.ltd/
-local=/mabuktogel.marketing/
-local=/mabuktogel.properties/
-local=/mabuktogel.solutions/
 local=/v971850.macloud.host/
 local=/dns.mafyuh.io/
 local=/guard.magic-pics.tk/

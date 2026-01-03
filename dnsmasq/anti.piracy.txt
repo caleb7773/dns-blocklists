@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 06:44 UTC
-# Version: 2026.0103.0644.10
+# Last modified: 03 Jan 2026 10:36 UTC
+# Version: 2026.0103.1036.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11446
+# Number of entries: 11438
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5309,7 +5309,6 @@ local=/kaztorka.org/
 local=/kbnonlinebd.net/
 local=/kcnawatch.org/
 local=/0d.kebhana.mx/
-local=/kedimanga.com/
 local=/tracker.keepfrds.com/
 local=/keepvid.online/
 local=/keke.re/
@@ -5387,7 +5386,6 @@ local=/kinogoo.zone/
 local=/kinogruz.net/
 local=/kinoindian.net/
 local=/kinoking.cc/
-local=/kinokiste.live/
 local=/kinokong.bz/
 local=/kinokong.net/
 local=/kinokong.pro/
@@ -5496,7 +5494,6 @@ local=/kinox.style/
 local=/kinox.su/
 local=/kinox.sx/
 local=/kinox.tattoo/
-local=/kinox.tax/
 local=/kinox.taxi/
 local=/kinox.tel/
 local=/kinox.to/
@@ -5506,7 +5503,6 @@ local=/kinox.town/
 local=/kinox.toys/
 local=/kinox.tube/
 local=/kinox.tv/
-local=/kinox.vc/
 local=/kinox.wtf/
 local=/kinoz.co/
 local=/kinoz.to/
@@ -5524,10 +5520,8 @@ local=/kissanime.nz/
 local=/kissanime.ru/
 local=/kissanimes.tv/
 local=/kissasian.video/
-local=/kisscartoon.info/
 local=/kisscartoon.love/
 local=/kisscartoon.nz/
-local=/kisscartoon.xyz/
 local=/kisssub.org/
 local=/kisstvshow.to/
 local=/tracker.kitaujisub.site/
@@ -5779,7 +5773,6 @@ local=/loadbaba.com/
 local=/tracker.loadbt.com/
 local=/tracker.loadpeers.org/
 local=/tracker.logirl.moe/
-local=/lolfile.xyz/
 local=/open.lolicon.eu/
 local=/tracker.loligirl.cn/
 local=/lolokino.biz/
@@ -5875,7 +5868,6 @@ local=/macappstorrent.com/
 local=/macbb.org/
 local=/macbed.com/
 local=/macbff.com/
-local=/macdrop.net/
 local=/macfiles.org/
 local=/macgamesland.com/
 local=/macgamesworld.com/

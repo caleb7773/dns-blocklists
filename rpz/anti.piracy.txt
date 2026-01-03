@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767422640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767436560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 06:44 UTC
-; Version: 2026.0103.0644.10
+; Last modified: 03 Jan 2026 10:36 UTC
+; Version: 2026.0103.1036.32
 ; Syntax: RPZ
-; Number of entries: 22892
+; Number of entries: 22876
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5232,8 +5232,6 @@ kawsarit.com CNAME .
 *.kawsarit.com CNAME .
 kayoanime.com CNAME .
 *.kayoanime.com CNAME .
-kedimanga.com CNAME .
-*.kedimanga.com CNAME .
 tracker.keepfrds.com CNAME .
 *.tracker.keepfrds.com CNAME .
 data.kenecolor.com CNAME .
@@ -10322,8 +10320,6 @@ iphonebooks.info CNAME .
 *.iphonebooks.info CNAME .
 itoma.info CNAME .
 *.itoma.info CNAME .
-kisscartoon.info CNAME .
-*.kisscartoon.info CNAME .
 lapache.info CNAME .
 *.lapache.info CNAME .
 legittorrents.info CNAME .
@@ -11440,8 +11436,6 @@ jhakkas.live CNAME .
 *.jhakkas.live CNAME .
 juraganfilm.live CNAME .
 *.juraganfilm.live CNAME .
-kinokiste.live CNAME .
-*.kinokiste.live CNAME .
 lightmist83.live CNAME .
 *.lightmist83.live CNAME .
 kora.live-koora.live CNAME .
@@ -13518,8 +13512,6 @@ mabula.net CNAME .
 *.mabula.net CNAME .
 mac-torrent-download.net CNAME .
 *.mac-torrent-download.net CNAME .
-macdrop.net CNAME .
-*.macdrop.net CNAME .
 macwarez.net CNAME .
 *.macwarez.net CNAME .
 mangapark.net CNAME .
@@ -19626,8 +19618,6 @@ guardaserie.tax CNAME .
 *.guardaserie.tax CNAME .
 hdmovie2.tax CNAME .
 *.hdmovie2.tax CNAME .
-kinox.tax CNAME .
-*.kinox.tax CNAME .
 streamingcommunity.tax CNAME .
 *.streamingcommunity.tax CNAME .
 vegamovies.tax CNAME .
@@ -21616,8 +21606,6 @@ gogoanime.vc CNAME .
 *.gogoanime.vc CNAME .
 hdmovie2.vc CNAME .
 *.hdmovie2.vc CNAME .
-kinox.vc CNAME .
-*.kinox.vc CNAME .
 myflixer.vc CNAME .
 *.myflixer.vc CNAME .
 primewire.vc CNAME .
@@ -22652,8 +22640,6 @@ kickass2.xyz CNAME .
 *.kickass2.xyz CNAME .
 kipwatch.xyz CNAME .
 *.kipwatch.xyz CNAME .
-kisscartoon.xyz CNAME .
-*.kisscartoon.xyz CNAME .
 knaben.xyz CNAME .
 *.knaben.xyz CNAME .
 lightdl.xyz CNAME .
@@ -22662,8 +22648,6 @@ limetorrent.xyz CNAME .
 *.limetorrent.xyz CNAME .
 limetorrents.xyz CNAME .
 *.limetorrents.xyz CNAME .
-lolfile.xyz CNAME .
-*.lolfile.xyz CNAME .
 wfzrbhp.luxevpn.xyz CNAME .
 *.wfzrbhp.luxevpn.xyz CNAME .
 lyin.xyz CNAME .

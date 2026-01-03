@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jan 2026 06:03 UTC
-! Version: 2026.0103.0603.49
+! Last modified: 03 Jan 2026 10:01 UTC
+! Version: 2026.0103.1001.36
 ! Syntax: AdBlock
-! Number of entries: 1316
+! Number of entries: 1315
 !
 ||000a.de^
 ||000space.com^
@@ -809,7 +809,6 @@
 ||laden.biz^
 ||laexchange.top^
 ||land.to^
-||landmen.shop^
 ||launchaco.com^
 ||leaguelineup.com^
 ||leastupdate.top^

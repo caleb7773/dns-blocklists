@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 05:34 UTC
-# Version: 2026.0103.0534.29
+# Last modified: 03 Jan 2026 09:34 UTC
+# Version: 2026.0103.0934.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9962
+# Number of entries: 9949
 #
 local=/0.gp/
 local=/00m.in/
@@ -4112,7 +4112,6 @@ local=/kurly.it/
 local=/kurv.gr/
 local=/kurz.jetzt/
 local=/kurzelinks.de/
-local=/kut.sh/
 local=/kuta.ir/
 local=/kutlink.com/
 local=/kutt.in/
@@ -4214,7 +4213,6 @@ local=/lessnmore.net/
 local=/lesterchan.net/
 local=/letsconnect.fun/
 local=/letsharu.cc/
-local=/letsmeetup.world/
 local=/letx.be/
 local=/letz.kr/
 local=/leuralla.com/
@@ -4269,7 +4267,6 @@ local=/lihi3.me/
 local=/lihipro.com/
 local=/lihivip.com/
 local=/liii.ink/
-local=/liik.cc/
 local=/liink.ir/
 local=/liinkee.com/
 local=/liip.to/
@@ -4392,8 +4389,6 @@ local=/linkdom.me/
 local=/linkdpx.xyz/
 local=/linkdrip.com/
 local=/linke.to/
-local=/linkedin-jobmkt.com/
-local=/linkedinjobmkt.info/
 local=/linkedinmkt.com/
 local=/linkeep.pro/
 local=/linkel.pro/
@@ -4422,7 +4417,6 @@ local=/linki.run/
 local=/linkia.co/
 local=/linkify.page/
 local=/linkifyer.com/
-local=/linkifyx.eu/
 local=/linkila.com/
 local=/linkim.cc/
 local=/linkin.icu/
@@ -4526,7 +4520,6 @@ local=/linkrefferal.vip/
 local=/linkrif.co/
 local=/linkrjb.me/
 local=/links.ec/
-local=/links.sl/
 local=/links-bio.com/
 local=/links2.me/
 local=/links4money.com/
@@ -4620,7 +4613,6 @@ local=/linkzap.in/
 local=/linkze.me/
 local=/linkzone.live/
 local=/linmetrics.com/
-local=/linply.com/
 local=/linq.ist/
 local=/linqer.me/
 local=/linqr.cc/
@@ -4629,7 +4621,6 @@ local=/linqup.in/
 local=/lintlink.com/
 local=/linux.mom/
 local=/linxonly.com/
-local=/linxy.pro/
 local=/lionl.ink/
 local=/liquid.loans/
 local=/lisar.lisaraeswan.com/
@@ -4641,7 +4632,6 @@ local=/litfuel.me/
 local=/litl.cc/
 local=/litly.net/
 local=/litt.xyz/
-local=/littl.io/
 local=/little.im/
 local=/little-link.co/
 local=/littlelinkapp.com/
@@ -4652,7 +4642,6 @@ local=/litty.in/
 local=/littylink.com/
 local=/liu.es/
 local=/liurl.cn/
-local=/livebetter.website/
 local=/livemu.sc/
 local=/livemybio.com/
 local=/liveparle.com/
@@ -4822,7 +4811,6 @@ local=/lttr.ai/
 local=/go.lu-h.de/
 local=/lua.sh/
 local=/luang.in/
-local=/lucylipps.life/
 local=/ludia.gg/
 local=/luis.im/
 local=/lukeo.link/
@@ -4849,7 +4837,6 @@ local=/lwfabu.top/
 local=/ly.my/
 local=/lyksoomu.com/
 local=/lyli.fi/
-local=/lyn.bz/
 local=/lync.cc/
 local=/lynk.ec/
 local=/lynk.la/
