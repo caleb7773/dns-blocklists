@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 17:58 UTC
-# Version: 2026.0102.1758.29
+# Last modified: 03 Jan 2026 02:43 UTC
+# Version: 2026.0103.0243.32
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3864
+# Number of entries: 3860
 #
 ss.0001.xyz
 003153.xyz
@@ -1265,6 +1265,7 @@ adguard2.dnsovertor.cc
 chuncheon.dnsovertor.cc
 japan.dnsovertor.cc
 seoul.dnsovertor.cc
+dnspod.com
 dnssilo.top
 bilidon.dnsuser.info
 ns.dnsviewer.org
@@ -1581,9 +1582,6 @@ adg.fiyaajans.com
 dns.fizz.studio
 resolve.fknw.de
 doh.flashstart.com
-spyro-the-bat.fleuryk.ovh
-spyrothebat.fleuryk.ovh
-vps.fleuryk.ovh
 dns.flightspace.net
 dns01.flm9.net
 ns1.flodns.net
@@ -1667,7 +1665,6 @@ dns.geekbyte.de
 adg.geili.me
 genscorp.es
 dns.geohide.ru
-adguard.georgev22.com
 gersoctruda.ru
 vpn.geshido.ru
 geshido.vpn.geshido.ru
@@ -1778,7 +1775,6 @@ dns.hanmey.de
 dns.hannielzhang.com
 jp.hannielzhang.com
 d.hansj.cc
-happy365.me
 resolver.haringstad.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud

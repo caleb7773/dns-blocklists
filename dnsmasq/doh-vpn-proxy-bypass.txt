@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 17:59 UTC
-# Version: 2026.0102.1759.27
+# Last modified: 03 Jan 2026 02:44 UTC
+# Version: 2026.0103.0244.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6313
+# Number of entries: 6306
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -336,6 +336,7 @@ local=/aliyunhttpdns.com/
 local=/alleesph.online/
 local=/scholastic.allez.la/
 local=/gaagleclassroom.tci.iready.school.allisons.org/
+local=/allorigins.win/
 local=/dns.alloxr.info/
 local=/micro.alloxr.info/
 local=/vps.alloxr.info/
@@ -1746,6 +1747,7 @@ local=/adguard2.dnsovertor.cc/
 local=/chuncheon.dnsovertor.cc/
 local=/japan.dnsovertor.cc/
 local=/seoul.dnsovertor.cc/
+local=/dnspod.com/
 local=/dnssilo.top/
 local=/bilidon.dnsuser.info/
 local=/ns.dnsviewer.org/
@@ -2104,7 +2106,6 @@ local=/farewellkou.click/
 local=/dns.farshidhakimy.de/
 local=/fastestvpn.com/
 local=/fastfoxvpn.com/
-local=/fastfreeproxy.info/
 local=/desmossciencehelp.global.ssl.fastly.net/
 local=/fastlyusers.global.ssl.fastly.net/
 local=/fastp.org/
@@ -2174,9 +2175,6 @@ local=/flashput.net/
 local=/flashputon.net/
 local=/doh.flashstart.com/
 local=/flashvpn.li/
-local=/spyro-the-bat.fleuryk.ovh/
-local=/spyrothebat.fleuryk.ovh/
-local=/vps.fleuryk.ovh/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/
 local=/ns1.flodns.net/
@@ -2295,7 +2293,6 @@ local=/freeproxyweb.net/
 local=/freesafeip.com/
 local=/freesupervpn.com/
 local=/freetrialvpn.com/
-local=/freetunnel.net/
 local=/freeukvpn.com/
 local=/freevideoproxy.com/
 local=/freevmess.com/
@@ -2368,15 +2365,12 @@ local=/nodes.gen4.ninja/
 local=/genmirror.com/
 local=/genscorp.es/
 local=/dns.geohide.ru/
-local=/adfree-games-at.geometry-games.online/
-local=/browser.geometry-games.online/
 local=/play-games-at.geometry-games.online/
 local=/rammerhead.geometry-games.online/
 local=/shameless-plug-for.geometry-games.online/
 local=/unblocked-games-at.geometry-games.online/
 local=/geonix.com/
 local=/geonode.com/
-local=/adguard.georgev22.com/
 local=/geosurf.io/
 local=/german-proxy.de/
 local=/gersoctruda.ru/
@@ -2581,14 +2575,12 @@ local=/jp.hannielzhang.com/
 local=/d.hansj.cc/
 local=/classroom.haoqiw.com/
 local=/happy-vpn.com/
-local=/happy365.me/
 local=/happydata.info/
 local=/cars.happyforever.com/
 local=/skibidiparkergoon.happyforever.com/
 local=/turtle.happyforever.com/
 local=/yessir.happyforever.com/
 local=/courses.happyrobotics.com/
-local=/harbaletsstudy.com/
 local=/resolver.haringstad.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
@@ -3197,8 +3189,7 @@ local=/www-pro.kosite.net/
 local=/dns.kostydenis.me/
 local=/dns1.kostydenis.me/
 local=/koxy.de/
-local=/interesting-molli-qj-9c49db8e.koyeb.app/
-local=/puzzled-dulci-ballpit-1-5f558a50.koyeb.app/
+local=/koyeb.app/
 local=/hkt.kozow.com/
 local=/mechanikdns.kozow.com/
 local=/notebooks.kozow.com/
@@ -4868,6 +4859,7 @@ local=/nirbytesxshadow.servernux.com/
 local=/adguard.serverrune.be/
 local=/serverssh.net/
 local=/assets-prod-a230.s3.serverwild.com/
+local=/serverxray.us/
 local=/servis4u.top/
 local=/dns.servizimv.it/
 local=/sescloud.club/
@@ -5074,6 +5066,7 @@ local=/ssh-free.com/
 local=/ssh-storage.ru/
 local=/sshagan.net/
 local=/sshdropbear.net/
+local=/sshgofast.com/
 local=/sshkit.com/
 local=/sshmax.net/
 local=/sshmyanmar.com/

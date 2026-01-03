@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jan 2026 10:47 UTC
-! Version: 2026.0102.1047.18
+! Last modified: 03 Jan 2026 02:44 UTC
+! Version: 2026.0103.0244.00
 ! Syntax: AdBlock
-! Number of entries: 835
+! Number of entries: 836
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -291,6 +291,7 @@
 ||dnslow.me^
 ||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
+||dnspod.com^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
 ||doh.dnswarden.com^

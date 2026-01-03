@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jan 2026 18:00 UTC
-! Version: 2026.0102.1800.07
+! Last modified: 03 Jan 2026 01:34 UTC
+! Version: 2026.0103.0134.36
 ! Syntax: AdBlock
-! Number of entries: 9937
+! Number of entries: 9966
 !
 ||0.gp^
 ||00m.in^
@@ -217,6 +217,7 @@
 ||301.link^
 ||301.tv^
 ||301l.ir^
+||302.pl^
 ||30na.ma^
 ||30t.me^
 ||30tools.com^
@@ -586,6 +587,7 @@
 ||go.aim.edu^
 ||aim2.cc^
 ||aimetath.com^
+||aimqr.com^
 ||aintok.com^
 ||ainurl.pro^
 ||airrlink.com^
@@ -725,6 +727,7 @@
 ||andauth.co^
 ||andmdo.com^
 ||aneed.net^
+||anetbio.com^
 ||angl.at^
 ||anh.to^
 ||animxo.com^
@@ -1175,11 +1178,14 @@
 ||bitshort.vip^
 ||bitshrt.com^
 ||bitstackhub.com^
+||bitsy.my^
 ||bittylink.com^
 ||bittyurl.co^
+||bittyvi.com^
 ||biturl.in^
 ||biturl.site^
 ||biturl.top^
+||bitvn.co^
 ||bitw.in^
 ||bitx.bio^
 ||bity.la^
@@ -1195,6 +1201,7 @@
 ||biv.to^
 ||bix.how^
 ||bixurl.com^
+||aje.biz.id^
 ||arddesign.biz.id^
 ||dnl.biz.id^
 ||url.nafi.biz.id^
@@ -1202,6 +1209,7 @@
 ||shandigital.biz.id^
 ||biz15.co^
 ||bizlinks.info^
+||bizrockers.com^
 ||bj88php.fun^
 ||bjl.ink^
 ||bjli.in^
@@ -1668,6 +1676,7 @@
 ||clica.link^
 ||clicae.net^
 ||clicai.xyz^
+||click.krd^
 ||click.ps^
 ||click-genius.com^
 ||click-goo.com^
@@ -1858,6 +1867,7 @@
 ||iup.com.tr^
 ||linkboard.com.br^
 ||links.luckreceptivo.com.br^
+||conteudo.megasoft.com.br^
 ||mpfi.com.ph^
 ||nabio.com.br^
 ||natura.com.vc^
@@ -2064,6 +2074,7 @@
 ||cuts2.com^
 ||cutt.al^
 ||cutt.cx^
+||cutt.ee^
 ||cutt.eu^
 ||cutt.lol^
 ||cutt.ly^
@@ -2692,6 +2703,7 @@
 ||fast-linker.com^
 ||fastbio.app^
 ||fasthouse.me^
+||fastjpeg.net^
 ||fastserp.com^
 ||fasttory.com^
 ||fasturl.link^
@@ -2806,7 +2818,6 @@
 ||fly.yt^
 ||fly2.ws^
 ||fly4win.com^
-||flyra.link^
 ||flys.pw^
 ||flyurls.com^
 ||fmurl.cc^
@@ -2829,7 +2840,6 @@
 ||link.fomf.de^
 ||fon.gs^
 ||fondby.com^
-||fonhoa.lat^
 ||font.ai^
 ||foodtv.com^
 ||fooji.info^
@@ -2886,7 +2896,6 @@
 ||fur.ly^
 ||furl.in^
 ||fuxx.us^
-||fvglvsex.lol^
 ||fvrr.co^
 ||fw.ax^
 ||fwb4me.us^
@@ -2921,10 +2930,8 @@
 ||gacha.christmas^
 ||gacoer.win^
 ||gacor.app^
-||gacor.tokyo^
 ||gacor123.red^
 ||gacor22.me^
-||gacor66.me^
 ||gacor99-vip.xyz^
 ||gacora.biz^
 ||gacorbos.me^
@@ -2950,6 +2957,7 @@
 ||gaw.kr^
 ||gaysi.live^
 ||gbc.sh^
+||gbob.pk^
 ||gbod.org^
 ||gbpg.net^
 ||gbte.tech^
@@ -2959,7 +2967,6 @@
 ||s.gdngs.de^
 ||gdurl.com^
 ||ge.tt^
-||geefi.me^
 ||gef.me^
 ||geg.li^
 ||gejje.in^
@@ -3243,9 +3250,7 @@
 ||gtne.ws^
 ||gtnr.it^
 ||gtrv.info^
-||gtusk.com^
 ||gudang.me^
-||gumtr.ee^
 ||gurl.to^
 ||gw.ie^
 ||gyanilinks.com^
@@ -3673,6 +3678,7 @@
 ||intwitspin.motorcycles^
 ||intx.ltd^
 ||inui.in^
+||invata-acum.ro^
 ||invent.ge^
 ||invest.tr^
 ||invisioncode.com^
@@ -3822,6 +3828,7 @@
 ||jdem.cz^
 ||jdev.uk^
 ||board.jdownloader.org^
+||jdp.am^
 ||jek.it^
 ||jelink.id^
 ||jellylink.com^
@@ -4214,6 +4221,7 @@
 ||letsharu.cc^
 ||letsmeetup.world^
 ||letx.be^
+||letz.kr^
 ||leuralla.com^
 ||lexus.tw^
 ||lf8.info^
@@ -4351,6 +4359,7 @@
 ||linkbear.me^
 ||linkbee.me^
 ||linkbeton.com^
+||linkbio.ch^
 ||linkbio.co^
 ||linkbio.space^
 ||linkbirdy.com^
@@ -4551,6 +4560,7 @@
 ||linkshortner.online^
 ||linkshrink.net^
 ||linkshrink.org^
+||linksi.me^
 ||linksimple.io^
 ||linksimplify.com^
 ||linksite.bio^
@@ -4589,6 +4599,7 @@
 ||linktrap.co^
 ||linktrimmer.com^
 ||linktw.in^
+||linkulb.com^
 ||linkunshorten.com^
 ||linkup.at^
 ||linkur.co^
@@ -5228,6 +5239,7 @@
 ||moveurls.com^
 ||app.moviequik.com^
 ||moxe.me^
+||moy.kr^
 ||mpa.li^
 ||url.mpay.pl^
 ||mpit.io^
@@ -5294,6 +5306,7 @@
 ||mumy.me^
 ||munbyn.biz^
 ||munchbet.live^
+||mupf.me^
 ||murl.com^
 ||murl.gg^
 ||t.musixmatch.com^
@@ -5314,6 +5327,7 @@
 ||googl.my.id^
 ||rcx.my.id^
 ||unp.my.id^
+||yusite.my.id^
 ||my-ab.co^
 ||my-google.live^
 ||my-link.in^
@@ -5342,6 +5356,7 @@
 ||myfonts.us^
 ||myglamm.in^
 ||myikoniq.info^
+||myip.kr^
 ||myjq.info^
 ||mylink.ar^
 ||mylinkbio.com^
@@ -6273,6 +6288,7 @@
 ||qclickbio.com^
 ||qd.rs^
 ||qdl.pw^
+||qdls.io^
 ||qdrop.link^
 ||qeichy.ir^
 ||qevime.com^
@@ -6318,6 +6334,7 @@
 ||qraus.com^
 ||qrb.us^
 ||qrbee.net^
+||qrbiolink.com^
 ||qrcaard.com^
 ||qrcc.me^
 ||qrcd.org^
@@ -6340,6 +6357,7 @@
 ||qrfy.com^
 ||qrfy.io^
 ||qrgenerator.org^
+||qrily.com^
 ||qrisni.me^
 ||qrkard.it^
 ||qrkiss.com^
@@ -6949,6 +6967,7 @@
 ||to.servers.com^
 ||sev.ag^
 ||u.seva.id^
+||seylinks.com^
 ||sf3c.tw^
 ||sfca.re^
 ||sfcne.ws^
@@ -7022,6 +7041,7 @@
 ||shopgo.live^
 ||shopifie.com^
 ||shoptapkich.site^
+||shopurls.com^
 ||shor.td^
 ||shorix.ru^
 ||shorkit.com^
@@ -7057,6 +7077,7 @@
 ||short-url.org^
 ||short-url.run^
 ||short1.link^
+||short1.org^
 ||short24.pw^
 ||short2cut.com^
 ||short360s.com^
@@ -7876,6 +7897,7 @@
 ||goto.synapse.com^
 ||s.synapsis.id^
 ||synd.co^
+||syr.im^
 ||syr.us^
 ||sysclicks.com^
 ||syurl.com^
@@ -8080,6 +8102,7 @@
 ||thetim.es^
 ||thetinyurls.com^
 ||links.thetravelbirds.at^
+||theuitly.com^
 ||theupconsult.com^
 ||theurl.to^
 ||theurlshortener.com^
@@ -8725,6 +8748,7 @@
 ||url-shortener.in^
 ||url-shortener.me^
 ||url-shortening.com^
+||url-solutions.com^
 ||url1.io^
 ||url11xx.com^
 ||url127x.com^
@@ -8971,6 +8995,7 @@
 ||usego.net^
 ||uselinkwizard.com^
 ||usenw.net^
+||userhits.com^
 ||userlinks.in^
 ||useshort.com^
 ||usetiny.link^
@@ -9328,6 +9353,7 @@
 ||wa.sv^
 ||waa.ai^
 ||waad.co^
+||wafflebook.io^
 ||wahoowa.net^
 ||wajinlong.pro^
 ||wakgengs.pro^
@@ -9442,6 +9468,7 @@
 ||whts.cc^
 ||go.whyd.net^
 ||whyiwu.com^
+||wi.sa^
 ||wi.se^
 ||wibu.me^
 ||wideo.fr^
@@ -9803,6 +9830,7 @@
 ||2b1s.zacharyhurdle.com^
 ||zain.jo^
 ||zak.by^
+||zami.bio^
 ||zap.buzz^
 ||zaplinkz.com^
 ||url.zaptian.com^
@@ -9860,6 +9888,7 @@
 ||zipbio.co^
 ||ziphly.com^
 ||zipmyurl.com^
+||zippourl.com^
 ||zippylink.io^
 ||zipth.at^
 ||zipurl.fr^

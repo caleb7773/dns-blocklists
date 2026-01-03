@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 17:58 UTC
-# Version: 2026.0102.1758.29
+# Last modified: 03 Jan 2026 02:43 UTC
+# Version: 2026.0103.0243.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3864
+# Number of entries: 3860
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1265,6 +1265,7 @@
 0.0.0.0 chuncheon.dnsovertor.cc
 0.0.0.0 japan.dnsovertor.cc
 0.0.0.0 seoul.dnsovertor.cc
+0.0.0.0 dnspod.com
 0.0.0.0 dnssilo.top
 0.0.0.0 bilidon.dnsuser.info
 0.0.0.0 ns.dnsviewer.org
@@ -1581,9 +1582,6 @@
 0.0.0.0 dns.fizz.studio
 0.0.0.0 resolve.fknw.de
 0.0.0.0 doh.flashstart.com
-0.0.0.0 spyro-the-bat.fleuryk.ovh
-0.0.0.0 spyrothebat.fleuryk.ovh
-0.0.0.0 vps.fleuryk.ovh
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
@@ -1667,7 +1665,6 @@
 0.0.0.0 adg.geili.me
 0.0.0.0 genscorp.es
 0.0.0.0 dns.geohide.ru
-0.0.0.0 adguard.georgev22.com
 0.0.0.0 gersoctruda.ru
 0.0.0.0 vpn.geshido.ru
 0.0.0.0 geshido.vpn.geshido.ru
@@ -1778,7 +1775,6 @@
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
-0.0.0.0 happy365.me
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud

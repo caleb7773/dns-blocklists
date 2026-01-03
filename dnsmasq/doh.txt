@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 17:58 UTC
-# Version: 2026.0102.1758.29
+# Last modified: 03 Jan 2026 02:43 UTC
+# Version: 2026.0103.0243.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3383
+# Number of entries: 3379
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1073,6 +1073,7 @@ local=/adguard2.dnsovertor.cc/
 local=/chuncheon.dnsovertor.cc/
 local=/japan.dnsovertor.cc/
 local=/seoul.dnsovertor.cc/
+local=/dnspod.com/
 local=/dnssilo.top/
 local=/bilidon.dnsuser.info/
 local=/ns.dnsviewer.org/
@@ -1343,9 +1344,6 @@ local=/adg.fiyaajans.com/
 local=/dns.fizz.studio/
 local=/resolve.fknw.de/
 local=/doh.flashstart.com/
-local=/spyro-the-bat.fleuryk.ovh/
-local=/spyrothebat.fleuryk.ovh/
-local=/vps.fleuryk.ovh/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/
 local=/ns1.flodns.net/
@@ -1427,7 +1425,6 @@ local=/dns.geekbyte.de/
 local=/adg.geili.me/
 local=/genscorp.es/
 local=/dns.geohide.ru/
-local=/adguard.georgev22.com/
 local=/gersoctruda.ru/
 local=/vpn.geshido.ru/
 local=/getdnsapi.net/
@@ -1531,7 +1528,6 @@ local=/dns.hanmey.de/
 local=/dns.hannielzhang.com/
 local=/jp.hannielzhang.com/
 local=/d.hansj.cc/
-local=/happy365.me/
 local=/resolver.haringstad.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/

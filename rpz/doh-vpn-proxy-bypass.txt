@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767376740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767408240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 17:59 UTC
-; Version: 2026.0102.1759.27
+; Last modified: 03 Jan 2026 02:44 UTC
+; Version: 2026.0103.0244.08
 ; Syntax: RPZ
-; Number of entries: 12626
+; Number of entries: 12612
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -75,10 +75,8 @@ gointerstellar.app CNAME .
 *.gointerstellar.app CNAME .
 dns-01.hir.app CNAME .
 *.dns-01.hir.app CNAME .
-interesting-molli-qj-9c49db8e.koyeb.app CNAME .
-*.interesting-molli-qj-9c49db8e.koyeb.app CNAME .
-puzzled-dulci-ballpit-1-5f558a50.koyeb.app CNAME .
-*.puzzled-dulci-ballpit-1-5f558a50.koyeb.app CNAME .
+koyeb.app CNAME .
+*.koyeb.app CNAME .
 larva.app CNAME .
 *.larva.app CNAME .
 dns.narl.app CNAME .
@@ -1951,6 +1949,8 @@ a.safe.ns.dnslify.com CNAME .
 *.a.safe.ns.dnslify.com CNAME .
 b.safe.ns.dnslify.com CNAME .
 *.b.safe.ns.dnslify.com CNAME .
+dnspod.com CNAME .
+*.dnspod.com CNAME .
 adblock-dot.dnswarden.com CNAME .
 *.adblock-dot.dnswarden.com CNAME .
 adult-filter-dot.dnswarden.com CNAME .
@@ -2283,8 +2283,6 @@ geonix.com CNAME .
 *.geonix.com CNAME .
 geonode.com CNAME .
 *.geonode.com CNAME .
-adguard.georgev22.com CNAME .
-*.adguard.georgev22.com CNAME .
 get-express-vpn.com CNAME .
 *.get-express-vpn.com CNAME .
 get-vuze-vpn.com CNAME .
@@ -2447,8 +2445,6 @@ yessir.happyforever.com CNAME .
 *.yessir.happyforever.com CNAME .
 courses.happyrobotics.com CNAME .
 *.courses.happyrobotics.com CNAME .
-harbaletsstudy.com CNAME .
-*.harbaletsstudy.com CNAME .
 resolver.haringstad.com CNAME .
 *.resolver.haringstad.com CNAME .
 resolver-eu.haringstad.com CNAME .
@@ -3981,6 +3977,8 @@ doh.srv00.com CNAME .
 *.doh.srv00.com CNAME .
 ssh-free.com CNAME .
 *.ssh-free.com CNAME .
+sshgofast.com CNAME .
+*.sshgofast.com CNAME .
 sshkit.com CNAME .
 *.sshkit.com CNAME .
 sshmyanmar.com CNAME .
@@ -6341,8 +6339,6 @@ everyproxies.info CNAME .
 *.everyproxies.info CNAME .
 expressvpn.info CNAME .
 *.expressvpn.info CNAME .
-fastfreeproxy.info CNAME .
-*.fastfreeproxy.info CNAME .
 adh.fastpacefixit.info CNAME .
 *.adh.fastpacefixit.info CNAME .
 fasttime.info CNAME .
@@ -7201,8 +7197,6 @@ gztech.me CNAME .
 *.gztech.me CNAME .
 yryeeisreallystupid.h4ck.me CNAME .
 *.yryeeisreallystupid.h4ck.me CNAME .
-happy365.me CNAME .
-*.happy365.me CNAME .
 hdnsadguardhome.me CNAME .
 *.hdnsadguardhome.me CNAME .
 herbalserver.me CNAME .
@@ -8185,8 +8179,6 @@ freedome-vpn.net CNAME .
 *.freedome-vpn.net CNAME .
 freeproxyweb.net CNAME .
 *.freeproxyweb.net CNAME .
-freetunnel.net CNAME .
-*.freetunnel.net CNAME .
 freevpn4you.net CNAME .
 *.freevpn4you.net CNAME .
 freevpnsoftware.net CNAME .
@@ -9283,10 +9275,6 @@ sutausfjsajfas.englishpapers.online CNAME .
 *.sutausfjsajfas.englishpapers.online CNAME .
 freeproxylist.online CNAME .
 *.freeproxylist.online CNAME .
-adfree-games-at.geometry-games.online CNAME .
-*.adfree-games-at.geometry-games.online CNAME .
-browser.geometry-games.online CNAME .
-*.browser.geometry-games.online CNAME .
 play-games-at.geometry-games.online CNAME .
 *.play-games-at.geometry-games.online CNAME .
 rammerhead.geometry-games.online CNAME .
@@ -10179,12 +10167,6 @@ adguardhome.favrep.ovh CNAME .
 *.adguardhome.favrep.ovh CNAME .
 fezgate.ovh CNAME .
 *.fezgate.ovh CNAME .
-spyro-the-bat.fleuryk.ovh CNAME .
-*.spyro-the-bat.fleuryk.ovh CNAME .
-spyrothebat.fleuryk.ovh CNAME .
-*.spyrothebat.fleuryk.ovh CNAME .
-vps.fleuryk.ovh CNAME .
-*.vps.fleuryk.ovh CNAME .
 ablock.fuckit.ovh CNAME .
 *.ablock.fuckit.ovh CNAME .
 dns.gussguss.ovh CNAME .
@@ -11977,6 +11959,8 @@ dns.scott-smith.us CNAME .
 *.dns.scott-smith.us CNAME .
 adguard.senthil.us CNAME .
 *.adguard.senthil.us CNAME .
+serverxray.us CNAME .
+*.serverxray.us CNAME .
 shelljacket.us CNAME .
 *.shelljacket.us CNAME .
 shopping-website.us CNAME .
@@ -12117,6 +12101,8 @@ dns.4-the.win CNAME .
 *.dns.4-the.win CNAME .
 vpn.4-the.win CNAME .
 *.vpn.4-the.win CNAME .
+allorigins.win CNAME .
+*.allorigins.win CNAME .
 webdav.cubecloud.win CNAME .
 *.webdav.cubecloud.win CNAME .
 dns.dotnet.win CNAME .
