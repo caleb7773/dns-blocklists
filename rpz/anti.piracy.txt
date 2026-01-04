@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767479940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767495600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 22:39 UTC
-; Version: 2026.0103.2239.30
+; Last modified: 04 Jan 2026 03:00 UTC
+; Version: 2026.0104.0300.29
 ; Syntax: RPZ
-; Number of entries: 22852
+; Number of entries: 22844
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -958,8 +958,6 @@ nossoplayeronlinehd.blog CNAME .
 *.nossoplayeronlinehd.blog CNAME .
 pelisplus.blog CNAME .
 *.pelisplus.blog CNAME .
-seriesflix.blog CNAME .
-*.seriesflix.blog CNAME .
 streamingcommunity.blog CNAME .
 *.streamingcommunity.blog CNAME .
 streamingcommunityz.blog CNAME .
@@ -8434,8 +8432,6 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -10428,8 +10424,6 @@ speedshare.info CNAME .
 *.speedshare.info CNAME .
 sportlemon.info CNAME .
 *.sportlemon.info CNAME .
-sportsurge.info CNAME .
-*.sportsurge.info CNAME .
 stafaband.info CNAME .
 *.stafaband.info CNAME .
 streamingcommunity.info CNAME .
@@ -21804,8 +21798,6 @@ putlocker.vip CNAME .
 *.putlocker.vip CNAME .
 saiko.vip CNAME .
 *.saiko.vip CNAME .
-seriesflix.vip CNAME .
-*.seriesflix.vip CNAME .
 soaper.vip CNAME .
 *.soaper.vip CNAME .
 streamingcommunity.vip CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767480300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767496020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 22:45 UTC
-; Version: 2026.0103.2245.37
+; Last modified: 04 Jan 2026 03:07 UTC
+; Version: 2026.0104.0307.48
 ; Syntax: RPZ
-; Number of entries: 12544
+; Number of entries: 12540
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -809,8 +809,6 @@ sudo.rm-rf.cloud CNAME .
 *.sudo.rm-rf.cloud CNAME .
 dns.roedel.cloud CNAME .
 *.dns.roedel.cloud CNAME .
-sinesprox.cloud CNAME .
-*.sinesprox.cloud CNAME .
 dns.stud.cloud CNAME .
 *.dns.stud.cloud CNAME .
 guard.thefather.cloud CNAME .
@@ -8715,8 +8713,6 @@ myprivityvpn.softether.net CNAME .
 *.myprivityvpn.softether.net CNAME .
 solidproxy.net CNAME .
 *.solidproxy.net CNAME .
-adguard.som-it.net CNAME .
-*.adguard.som-it.net CNAME .
 adguard.spaceindex.net CNAME .
 *.adguard.spaceindex.net CNAME .
 sshagan.net CNAME .

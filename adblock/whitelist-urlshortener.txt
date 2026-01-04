@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jan 2026 21:34 UTC
-! Version: 2026.0103.2134.11
+! Last modified: 04 Jan 2026 01:59 UTC
+! Version: 2026.0104.0159.41
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -6586,7 +6586,6 @@
 @@||rss.care^
 @@||rsshort.com^
 @@||rstr.me^
-@@||rsurl.site^
 @@||rtc.la^
 @@||rtk.tools^
 @@||rtr.sh^
@@ -6849,7 +6848,6 @@
 @@||sfwx.me^
 @@||sfx.su^
 @@||sg0.co^
-@@||sgq.io^
 @@||sgrtldm.com^
 @@||sgsg.sg^
 @@||sgsu.ru^
@@ -6970,7 +6968,6 @@
 @@||shortduck.com^
 @@||shorte.bio^
 @@||shorte.net^
-@@||shorte.pro^
 @@||shorte.st^
 @@||shortearn.to^
 @@||shortearner.in^
@@ -7011,14 +7008,12 @@
 @@||shortenn.org^
 @@||shortenn.site^
 @@||shortenpay.com^
-@@||shortenpro.com^
 @@||shortenr.de^
 @@||shortenurl.app^
 @@||shortenurl.org^
 @@||shortenurls.eu^
 @@||shortenworld.com^
 @@||shortenx.com^
-@@||shortenx.eu^
 @@||shorter.gg^
 @@||shorterflix.com^
 @@||shorterin.com^
@@ -7087,7 +7082,6 @@
 @@||shortlynks.com^
 @@||shortlyqr.com^
 @@||shortlyurl.in^
-@@||shortlyx.de^
 @@||shortma.de^
 @@||shortmds.xyz^
 @@||shortme.me^
@@ -7218,7 +7212,6 @@
 @@||shrinkrl.com^
 @@||shrinkster.com^
 @@||shrinkuri.com^
-@@||shrinkway.com^
 @@||shrinky.pro^
 @@||shrinkz.org^
 @@||shrinqly.com^

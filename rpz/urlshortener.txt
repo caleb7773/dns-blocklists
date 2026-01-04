@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767476040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767491940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jan 2026 21:34 UTC
-; Version: 2026.0103.2134.11
+; Last modified: 04 Jan 2026 01:59 UTC
+; Version: 2026.0104.0159.41
 ; Syntax: RPZ
-; Number of entries: 20122
+; Number of entries: 20108
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6415,8 +6415,6 @@ shortenlinkurl.com CNAME .
 *.shortenlinkurl.com CNAME .
 shortenpay.com CNAME .
 *.shortenpay.com CNAME .
-shortenpro.com CNAME .
-*.shortenpro.com CNAME .
 shortenworld.com CNAME .
 *.shortenworld.com CNAME .
 shortenx.com CNAME .
@@ -6547,8 +6545,6 @@ shrinkster.com CNAME .
 *.shrinkster.com CNAME .
 shrinkuri.com CNAME .
 *.shrinkuri.com CNAME .
-shrinkway.com CNAME .
-*.shrinkway.com CNAME .
 shrinqly.com CNAME .
 *.shrinqly.com CNAME .
 shrnkz.com CNAME .
@@ -8181,8 +8177,6 @@ s04.de CNAME .
 *.s04.de CNAME .
 shortenr.de CNAME .
 *.shortenr.de CNAME .
-shortlyx.de CNAME .
-*.shortlyx.de CNAME .
 shortma.de CNAME .
 *.shortma.de CNAME .
 shrtco.de CNAME .
@@ -8691,8 +8685,6 @@ seeinfo.eu CNAME .
 *.seeinfo.eu CNAME .
 shortenurls.eu CNAME .
 *.shortenurls.eu CNAME .
-shortenx.eu CNAME .
-*.shortenx.eu CNAME .
 shrty.eu CNAME .
 *.shrty.eu CNAME .
 shtlink.eu CNAME .
@@ -11107,8 +11099,6 @@ seby.io CNAME .
 *.seby.io CNAME .
 sfty.io CNAME .
 *.sfty.io CNAME .
-sgq.io CNAME .
-*.sgq.io CNAME .
 share2.io CNAME .
 *.share2.io CNAME .
 shareurl.io CNAME .
@@ -16957,8 +16947,6 @@ bio.rocketapps.pro CNAME .
 *.bio.rocketapps.pro CNAME .
 scanly.pro CNAME .
 *.scanly.pro CNAME .
-shorte.pro CNAME .
-*.shorte.pro CNAME .
 shortedge.pro CNAME .
 *.shortedge.pro CNAME .
 shorten.pro CNAME .
@@ -17849,8 +17837,6 @@ reive.site CNAME .
 *.reive.site CNAME .
 rj99.site CNAME .
 *.rj99.site CNAME .
-rsurl.site CNAME .
-*.rsurl.site CNAME .
 sdfq3cf.site CNAME .
 *.sdfq3cf.site CNAME .
 sdr168.site CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 21:34 UTC
-# Version: 2026.0103.2134.11
+# Last modified: 04 Jan 2026 01:59 UTC
+# Version: 2026.0104.0159.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10061
+# Number of entries: 10054
 #
 local=/0.gp/
 local=/00m.in/
@@ -6750,7 +6750,6 @@ local=/rsmonkey.com/
 local=/rss.care/
 local=/rsshort.com/
 local=/rstr.me/
-local=/rsurl.site/
 local=/rtc.la/
 local=/rtk.tools/
 local=/rtr.sh/
@@ -7017,7 +7016,6 @@ local=/sfty.io/
 local=/sfwx.me/
 local=/sfx.su/
 local=/sg0.co/
-local=/sgq.io/
 local=/sgrtldm.com/
 local=/sgsg.sg/
 local=/sgsu.ru/
@@ -7138,7 +7136,6 @@ local=/shortcuturl.com/
 local=/shortduck.com/
 local=/shorte.bio/
 local=/shorte.net/
-local=/shorte.pro/
 local=/shorte.st/
 local=/shortearn.to/
 local=/shortearner.in/
@@ -7183,14 +7180,12 @@ local=/shortenme.me/
 local=/shortenn.org/
 local=/shortenn.site/
 local=/shortenpay.com/
-local=/shortenpro.com/
 local=/shortenr.de/
 local=/shortenurl.app/
 local=/shortenurl.org/
 local=/shortenurls.eu/
 local=/shortenworld.com/
 local=/shortenx.com/
-local=/shortenx.eu/
 local=/shorter.gg/
 local=/shorter.me/
 local=/shorterflix.com/
@@ -7262,7 +7257,6 @@ local=/shortlync.com/
 local=/shortlynks.com/
 local=/shortlyqr.com/
 local=/shortlyurl.in/
-local=/shortlyx.de/
 local=/shortma.de/
 local=/shortmds.xyz/
 local=/shortme.me/
@@ -7396,7 +7390,6 @@ local=/shrinkr.io/
 local=/shrinkrl.com/
 local=/shrinkster.com/
 local=/shrinkuri.com/
-local=/shrinkway.com/
 local=/shrinky.pro/
 local=/shrinkz.org/
 local=/shrinqly.com/

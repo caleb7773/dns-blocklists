@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 22:45 UTC
-# Version: 2026.0103.2245.37
+# Last modified: 04 Jan 2026 03:07 UTC
+# Version: 2026.0104.0307.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6272
+# Number of entries: 6270
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4888,7 +4888,6 @@ local=/simplevpn.net/
 local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/dns.sineone.icu/
-local=/sinesprox.cloud/
 local=/sinovpn.com/
 local=/family.sinuabi.ee/
 local=/sitdns.com/
@@ -4980,7 +4979,6 @@ local=/solidproxy.net/
 local=/adguard.soloanvill.ru/
 local=/ns.solutics.ec/
 local=/ns.solutionsbest.de/
-local=/adguard.som-it.net/
 local=/somelikeitproxy.com/
 local=/bwg.sooda.moe/
 local=/r.soraapp.gq/

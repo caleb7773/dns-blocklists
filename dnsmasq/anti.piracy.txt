@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 22:39 UTC
-# Version: 2026.0103.2239.30
+# Last modified: 04 Jan 2026 03:00 UTC
+# Version: 2026.0104.0300.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11426
+# Number of entries: 11422
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2349,7 +2349,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -8231,7 +8230,6 @@ local=/seriesfilmestorrent.net/
 local=/seriesflix.app/
 local=/seriesflix.beauty/
 local=/seriesflix.bio/
-local=/seriesflix.blog/
 local=/seriesflix.boats/
 local=/seriesflix.bond/
 local=/seriesflix.cc/
@@ -8264,7 +8262,6 @@ local=/seriesflix.top/
 local=/seriesflix.trade/
 local=/seriesflix.tv/
 local=/seriesflix.video/
-local=/seriesflix.vip/
 local=/seriesflix.world/
 local=/seriesflix.ws/
 local=/serieslan.com/
@@ -8655,7 +8652,6 @@ local=/sportsurge.beer/
 local=/sportsurge.bz/
 local=/sportsurge.gay/
 local=/sportsurge.id/
-local=/sportsurge.info/
 local=/sportsurge.lat/
 local=/sportsurge.locker/
 local=/sportsurge.mobi/
