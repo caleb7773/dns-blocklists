@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767508920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767522960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 06:42 UTC
-; Version: 2026.0104.0642.27
+; Last modified: 04 Jan 2026 10:36 UTC
+; Version: 2026.0104.1036.51
 ; Syntax: RPZ
-; Number of entries: 12536
+; Number of entries: 12528
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4339,8 +4339,6 @@ unblockedv4.com CNAME .
 *.unblockedv4.com CNAME .
 unblockedwarez.com CNAME .
 *.unblockedwarez.com CNAME .
-unblockfav.com CNAME .
-*.unblockfav.com CNAME .
 unblockfreeproxy.com CNAME .
 *.unblockfreeproxy.com CNAME .
 unblockmate.com CNAME .
@@ -5615,8 +5613,6 @@ vpn.express CNAME .
 *.vpn.express CNAME .
 dns.connect.fail CNAME .
 *.dns.connect.fail CNAME .
-vpn.fail CNAME .
-*.vpn.fail CNAME .
 proxydude.faith CNAME .
 *.proxydude.faith CNAME .
 dns.christerwaren.fi CNAME .
@@ -5763,8 +5759,6 @@ ad.visbran.fr CNAME .
 *.ad.visbran.fr CNAME .
 vpn0109.voodonline.fr CNAME .
 *.vpn0109.voodonline.fr CNAME .
-vrehm.fr CNAME .
-*.vrehm.fr CNAME .
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr CNAME .
 *.lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr CNAME .
 dns.warrior.fr CNAME .
@@ -8853,8 +8847,6 @@ unblockedstreaming.net CNAME .
 *.unblockedstreaming.net CNAME .
 unblocker.net CNAME .
 *.unblocker.net CNAME .
-unblocks.net CNAME .
-*.unblocks.net CNAME .
 unblockyoutubefree.net CNAME .
 *.unblockyoutubefree.net CNAME .
 universityproxy.net CNAME .

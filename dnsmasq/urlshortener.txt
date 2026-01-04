@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 05:31 UTC
-# Version: 2026.0104.0531.58
+# Last modified: 04 Jan 2026 09:29 UTC
+# Version: 2026.0104.0929.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10048
+# Number of entries: 10041
 #
 local=/0.gp/
 local=/00m.in/
@@ -8564,7 +8564,6 @@ local=/ttc.is/
 local=/ttcclear.io/
 local=/ttco.io/
 local=/ttdt.info/
-local=/ttis.us/
 local=/tto.jp/
 local=/ttoo.top/
 local=/ttr.ir/
@@ -9128,7 +9127,6 @@ local=/vars.us/
 local=/vast.link/
 local=/vats.im/
 local=/vav.li/
-local=/vaza.me/
 local=/s.vazo.vn/
 local=/vbg-spezial.de/
 local=/vbly.us/
@@ -9143,7 +9141,6 @@ local=/vea.link/
 local=/belink.vebto.com/
 local=/vedem.fr/
 local=/vefsupply.ca/
-local=/vegalinks.net/
 local=/vehi.co/
 local=/veja.me/
 local=/velink.me/
@@ -9317,7 +9314,6 @@ local=/visit2earn.com/
 local=/visitame.app/
 local=/visitmy.link/
 local=/visitmylinks.com/
-local=/visitmypage.org/
 local=/visitsitenow.com/
 local=/visiyta.com/
 local=/vivir.pro/
@@ -9373,7 +9369,6 @@ local=/vrnda.us/
 local=/vrv.su/
 local=/vshorturl.com/
 local=/vsl.im/
-local=/vslinks.com/
 local=/vslinks.in/
 local=/vt802.us/
 local=/shorturl.vtcode.vn/
@@ -9384,7 +9379,6 @@ local=/vtred.net/
 local=/vtru.xyz/
 local=/vttje.top/
 local=/vtu.cc/
-local=/vturl.net/
 local=/vu.fr/
 local=/vuiet.com/
 local=/vultio.biz/
@@ -9429,7 +9423,6 @@ local=/wal.ee/
 local=/walk.sc/
 local=/walkjc.org/
 local=/wall.sh/
-local=/walmart-to.com/
 local=/wangzhanzhubo.com/
 local=/wapo.st/
 local=/wapp.to/

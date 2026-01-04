@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 06:42 UTC
-# Version: 2026.0104.0642.27
+# Last modified: 04 Jan 2026 10:36 UTC
+# Version: 2026.0104.1036.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6268
+# Number of entries: 6264
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -5620,7 +5620,6 @@ local=/unblockedv4.com/
 local=/unblockedwarez.com/
 local=/unblocker.net/
 local=/unblocker.us/
-local=/unblockfav.com/
 local=/unblockfreeproxy.com/
 local=/unblockit.app/
 local=/unblockit.club/
@@ -5639,7 +5638,6 @@ local=/unblockninja.com/
 local=/unblockprox.com/
 local=/unblockproxy.me/
 local=/unblockproxy.win/
-local=/unblocks.net/
 local=/unblocksite.biz/
 local=/unblocksite.fun/
 local=/unblocksite.id/
@@ -5826,7 +5824,6 @@ local=/vpn.ac/
 local=/vpn.asia/
 local=/vpn.com/
 local=/vpn.express/
-local=/vpn.fail/
 local=/vpn.ht/
 local=/vpn.lat/
 local=/vpn.net/
@@ -5926,7 +5923,6 @@ local=/vpnwebsite.com/
 local=/vpnwelt.com/
 local=/dns.vps.pw/
 local=/antispam.vpsvpn.com/
-local=/vrehm.fr/
 local=/vtcuong.site/
 local=/vuivn.site/
 local=/45.32.17.58.vultrusercontent.com/

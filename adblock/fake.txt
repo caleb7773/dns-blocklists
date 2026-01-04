@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jan 2026 05:30 UTC
-! Version: 2026.0104.0530.12
+! Last modified: 04 Jan 2026 09:28 UTC
+! Version: 2026.0104.0928.02
 ! Syntax: AdBlock
-! Number of entries: 13904
+! Number of entries: 13886
 !
 ||01broker.com^
 ||01crypto.com^
@@ -465,8 +465,7 @@
 ||amazenda.com^
 ||amaznboxde.com^
 ||amazonboxus.com^
-||7238.amazoncoin.su^
-||8826.amazoncoin.su^
+||amazoncoin.su^
 ||amazongori.com^
 ||amazonliw.com^
 ||amazonspallet.com^
@@ -1245,6 +1244,7 @@
 ||bender-baumarkt.com^
 ||bendoffice.com^
 ||beneathk.com^
+||beneficialx.com^
 ||benefitw.com^
 ||benettonaustria.at^
 ||benjamin-scheuer.de^
@@ -2695,7 +2695,6 @@
 ||cozyhoome.com^
 ||cozyixe.com^
 ||cozysleepzone.com^
-||cp24.pl^
 ||cpket.com^
 ||cpopnow.com^
 ||cqqodsports.com^
@@ -3071,6 +3070,7 @@
 ||delebensmittel.com^
 ||delegacar.com^
 ||delhihurricanes.com^
+||delicioush.com^
 ||delightsky.store^
 ||delishpetfoodde.com^
 ||parcel.deliv.com^
@@ -3594,6 +3594,7 @@
 ||egapark-erfurt.com^
 ||eggelingen.de^
 ||egooutdoortools.com^
+||egoryspecies.com^
 ||ehandler.de^
 ||eheringede.com^
 ||ehkschutzengel.de^
@@ -4396,6 +4397,7 @@
 ||firat-shopping.de^
 ||firegemss.com^
 ||firewood-versand.de^
+||firmadmire.com^
 ||firmeneintrag.net^
 ||first-bikes.de^
 ||first-investcapital.com^
@@ -4670,7 +4672,6 @@
 ||frmusicland.com^
 ||froehlich-keit.de^
 ||frohe-herzen.de^
-||frontaley.com^
 ||frontrunningbot.net^
 ||frovity.store^
 ||frtendance.com^
@@ -6133,6 +6134,7 @@
 ||hudyrc.com^
 ||huelstamoebelhaus.com^
 ||huewi.xyz^
+||hugetsky.com^
 ||hugfirst.com^
 ||hugoverkauf.de^
 ||huiiltn.shop^
@@ -9014,6 +9016,7 @@
 ||northwaveoff.com^
 ||northwavestore.com^
 ||norvatix.io^
+||norwayhotel.net^
 ||norya.de^
 ||not-bad.shop^
 ||not-schlosser.at^
@@ -12452,7 +12455,6 @@
 ||trachtentrends.com^
 ||tracksmithdeutschland.com^
 ||tracybudd.shop^
-||tracycallari.shop^
 ||tradabank.com^
 ||tradarea.com^
 ||tradaxa.com^
@@ -12490,7 +12492,6 @@
 ||traderush.com^
 ||traderxp.com^
 ||tradeswim.com^
-||tradevestcrypto.com^
 ||tradeviewforex.com^
 ||tradewave.live^
 ||tradezila.com^
@@ -12502,7 +12503,6 @@
 ||trageli-tech.de^
 ||tragleicht.de^
 ||trailer-container.com^
-||trailertour.com^
 ||trakkerbillig.com^
 ||traktoren-werner.de^
 ||traktorheld.de^
@@ -12541,9 +12541,7 @@
 ||travisscottofficial.com^
 ||traxxas-de.com^
 ||treasuresshop.top^
-||tregfinance.com^
 ||tremel.at^
-||trena-trade.de^
 ||trencystore.com^
 ||trend-fuchs.de^
 ||trend-handel.de^
@@ -12553,7 +12551,6 @@
 ||trendgardinen.de^
 ||trendigetasche.com^
 ||trendito.de^
-||trendofficially.com^
 ||trendpunt.nl^
 ||trendsdelight.com^
 ||trendsmodern.com^
@@ -12615,9 +12612,7 @@
 ||trustss.com^
 ||trustuu.com^
 ||trustytime888.io^
-||truthaboutyem.com^
 ||trx-on-chain.de^
-||trx-staking.net^
 ||try-virium.com^
 ||tryapp.de^
 ||trybal.net^
@@ -12656,7 +12651,6 @@
 ||tvidler.com^
 ||tvsale24.com^
 ||tvshop-us.com^
-||tvssportsline.com^
 ||tw-access.com^
 ||twelvewhales.com^
 ||twelvewhales.net^
@@ -12676,7 +12670,6 @@
 ||tyu-trade.com^
 ||u-inv.com^
 ||uaedisscount.com^
-||uaqcx.shop^
 ||ubadindies.top^
 ||ubereatse.com^
 ||ubinary.com^
@@ -12790,7 +12783,6 @@
 ||urbmale.cc^
 ||urbradeln.de^
 ||urdotx.com^
-||urgalaxy.com^
 ||urnsey.shop^
 ||ursulam.com^
 ||urzadomzone.com^
@@ -12970,10 +12962,8 @@
 ||velvacosmetics.com^
 ||velvet-mode.store^
 ||velvetparfumde.com^
-||velvezev.ru^
 ||vemaxx.de^
 ||vemoso-shop.de^
-||vendifysave.com^
 ||vendit24.de^
 ||venditt24.de^
 ||vendome-logistique.com^
@@ -12997,7 +12987,6 @@
 ||veranoclothing.de^
 ||verbazenkoperss.de^
 ||verbraucher-profis.de^
-||verifizierungamericanexpress.com^
 ||vering-24.de^
 ||veripro.de^
 ||verkauf-garten.com^
@@ -13009,7 +12998,6 @@
 ||verkehrsbande.com^
 ||verkettet-dogs.com^
 ||vermoegensvermittler.com^
-||fastrepair.verolixz.cloud^
 ||veromida.de^
 ||veroshell.com^
 ||versand-ogitoys.de^
@@ -13046,9 +13034,7 @@
 ||vetntilate.com^
 ||vetrinecubi.com^
 ||vettuma.com^
-||vex-group.pro^
 ||vex-network.com^
-||vexor17.com^
 ||vexxsel.online^
 ||vgr8.com^
 ||via-bestdeal24.com^
@@ -13089,7 +13075,6 @@
 ||vignobles-terroirs.com^
 ||vigoroussport.com^
 ||vigorousu.com^
-||viilleroyboch.com^
 ||viking-cnc.com^
 ||viking-solutions.com^
 ||vikingchic.de^
@@ -13101,7 +13086,6 @@
 ||vilow.de^
 ||vimoraberlin.com^
 ||vincentteh.com^
-||vincet-tech.de^
 ||vinero.at^
 ||vinissage.de^
 ||vinospezial.com^
@@ -13122,7 +13106,6 @@
 ||viporama.com^
 ||vipprogrammer.com^
 ||vipsupport-eu.com^
-||viqra.shop^
 ||virgoexpress.com^
 ||viri-blue.de^
 ||viroset.store^
@@ -13198,7 +13181,6 @@
 ||voguezeitberlin.store^
 ||volanixedgeai.com^
 ||volcomaustria.at^
-||volcomskiwear.com^
 ||volcomwien.at^
 ||volerio.de^
 ||volex.io^

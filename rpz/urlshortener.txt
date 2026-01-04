@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767504660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767518940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 05:31 UTC
-; Version: 2026.0104.0531.58
+; Last modified: 04 Jan 2026 09:29 UTC
+; Version: 2026.0104.0929.47
 ; Syntax: RPZ
-; Number of entries: 20096
+; Number of entries: 20082
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7615,8 +7615,6 @@ vretive.com CNAME .
 *.vretive.com CNAME .
 vshorturl.com CNAME .
 *.vshorturl.com CNAME .
-vslinks.com CNAME .
-*.vslinks.com CNAME .
 vtity.com CNAME .
 *.vtity.com CNAME .
 vuiet.com CNAME .
@@ -7629,8 +7627,6 @@ w2link.com CNAME .
 *.w2link.com CNAME .
 w3dv.com CNAME .
 *.w3dv.com CNAME .
-walmart-to.com CNAME .
-*.walmart-to.com CNAME .
 wangzhanzhubo.com CNAME .
 *.wangzhanzhubo.com CNAME .
 wasapbro.com CNAME .
@@ -14687,8 +14683,6 @@ ushort.me CNAME .
 *.ushort.me CNAME .
 vaila.me CNAME .
 *.vaila.me CNAME .
-vaza.me CNAME .
-*.vaza.me CNAME .
 veja.me CNAME .
 *.veja.me CNAME .
 velink.me CNAME .
@@ -15663,8 +15657,6 @@ v1m.net CNAME .
 *.v1m.net CNAME .
 v3d.net CNAME .
 *.v3d.net CNAME .
-vegalinks.net CNAME .
-*.vegalinks.net CNAME .
 url.veym.net CNAME .
 *.url.veym.net CNAME .
 url.vhearts.net CNAME .
@@ -15675,8 +15667,6 @@ viprupiah138.net CNAME .
 *.viprupiah138.net CNAME .
 vtred.net CNAME .
 *.vtred.net CNAME .
-vturl.net CNAME .
-*.vturl.net CNAME .
 wahoowa.net CNAME .
 *.wahoowa.net CNAME .
 waveurl.net CNAME .
@@ -16549,8 +16539,6 @@ go.uumeriden.org CNAME .
 *.go.uumeriden.org CNAME .
 vestil.org CNAME .
 *.vestil.org CNAME .
-visitmypage.org CNAME .
-*.visitmypage.org CNAME .
 w3t.org CNAME .
 *.w3t.org CNAME .
 walkjc.org CNAME .
@@ -19423,8 +19411,6 @@ toyota.us CNAME .
 *.toyota.us CNAME .
 tprk.us CNAME .
 *.tprk.us CNAME .
-ttis.us CNAME .
-*.ttis.us CNAME .
 d.tuor.us CNAME .
 *.d.tuor.us CNAME .
 turo.us CNAME .

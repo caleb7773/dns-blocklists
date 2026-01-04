@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jan 2026 10:42 UTC
-! Version: 2026.0103.1042.29
+! Last modified: 04 Jan 2026 10:36 UTC
+! Version: 2026.0104.1036.43
 ! Syntax: AdBlock
-! Number of entries: 817
+! Number of entries: 819
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -59,6 +59,7 @@
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
+||dnsnl.alekberg.net^
 ||httpdns.alicdn.com^
 ||alidns.com^
 ||resolvers-cn.httpdns.aliyuncs.com^
@@ -179,7 +180,6 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
-||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -209,7 +209,6 @@
 ||dingdangnao.com^
 ||doh.disconnect.app^
 ||fdns1.dismail.de^
-||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -231,6 +230,7 @@
 ||ams02.dnscry.pt^
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
+||bne01.dnscry.pt^
 ||bog01.dnscry.pt^
 ||bts01.dnscry.pt^
 ||coe01.dnscry.pt^
@@ -354,6 +354,7 @@
 ||dns01.flm9.net^
 ||ns1.flodns.net^
 ||ns2.flodns.net^
+||resolv.flokinet.net^
 ||dns.floriantinney.de^
 ||biying.flymlc.com^
 ||dns.foxyfy.net^
@@ -593,6 +594,7 @@
 ||resolver.dnsprivacy.org.uk^
 ||dns.paesa.es^
 ||pashagame456.com^
+||i.passcloud.xyz^
 ||dns.pccoach.nl^
 ||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
