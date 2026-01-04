@@ -215,3 +215,7 @@ api.bigdatacloud.net
 
 # Real-time Geolocation & Reverse IP Lookup REST API
 api.ipapi.com
+
+# IP address identification endpoints
+*.seeip.org
+*.jsonip.com

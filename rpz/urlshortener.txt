@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767518940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767547800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 09:29 UTC
-; Version: 2026.0104.0929.47
+; Last modified: 04 Jan 2026 17:30 UTC
+; Version: 2026.0104.1730.07
 ; Syntax: RPZ
-; Number of entries: 20082
+; Number of entries: 20068
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7711,8 +7711,6 @@ on.wsj.com CNAME .
 *.on.wsj.com CNAME .
 wssurl.com CNAME .
 *.wssurl.com CNAME .
-wtfurl.com CNAME .
-*.wtfurl.com CNAME .
 wuniw.com CNAME .
 *.wuniw.com CNAME .
 wurlz.com CNAME .
@@ -11969,8 +11967,6 @@ urls.kr CNAME .
 *.urls.kr CNAME .
 wru.kr CNAME .
 *.wru.kr CNAME .
-xn--9y2bx5mhpm.kr CNAME .
-*.xn--9y2bx5mhpm.kr CNAME .
 zez.kr CNAME .
 *.zez.kr CNAME .
 zrr.kr CNAME .
@@ -12317,8 +12313,6 @@ zdrive.li CNAME .
 *.zdrive.li CNAME .
 zebra.li CNAME .
 *.zebra.li CNAME .
-zxc.li CNAME .
-*.zxc.li CNAME .
 aozczwj.life CNAME .
 *.aozczwj.life CNAME .
 bchf.life CNAME .
@@ -13427,8 +13421,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-webprotech.live CNAME .
-*.webprotech.live CNAME .
 wns-academy.live CNAME .
 *.wns-academy.live CNAME .
 wolftravels.live CNAME .
@@ -15695,8 +15687,6 @@ yoretube.net CNAME .
 *.yoretube.net CNAME .
 yourateus.net CNAME .
 *.yourateus.net CNAME .
-yourls.net CNAME .
-*.yourls.net CNAME .
 z9n.net CNAME .
 *.z9n.net CNAME .
 zapurl.net CNAME .
@@ -16093,8 +16083,6 @@ vibegaming.online CNAME .
 *.vibegaming.online CNAME .
 witly.online CNAME .
 *.witly.online CNAME .
-wlicc.online CNAME .
-*.wlicc.online CNAME .
 wplinks.online CNAME .
 *.wplinks.online CNAME .
 xboys.online CNAME .
@@ -20073,8 +20061,6 @@ url.yousufraissi.xyz CNAME .
 *.url.yousufraissi.xyz CNAME .
 zeroshort.xyz CNAME .
 *.zeroshort.xyz CNAME .
-zonearcad.xyz CNAME .
-*.zonearcad.xyz CNAME .
 lkdg.yoga CNAME .
 *.lkdg.yoga CNAME .
 flu.yt CNAME .

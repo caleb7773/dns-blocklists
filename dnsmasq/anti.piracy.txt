@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 10:31 UTC
-# Version: 2026.0104.1031.03
+# Last modified: 04 Jan 2026 18:30 UTC
+# Version: 2026.0104.1830.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11396
+# Number of entries: 11388
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2068,7 +2068,6 @@ local=/watch.coen.ovh/
 local=/coexist.biz/
 local=/coflix.tv/
 local=/coldplaybootlegs.com/
-local=/colivioo.com/
 local=/colombo-bt.org/
 local=/123movies.com.pk/
 local=/www.aenianos.com.br/
@@ -5582,6 +5581,7 @@ local=/kuyhaa-me.site/
 local=/kwik.si/
 local=/tr.kxmp.cf/
 local=/l33t-raws.org/
+local=/la-cale.space/
 local=/la123movies.com/
 local=/labaia.ws/
 local=/labtor.tv/
@@ -6737,7 +6737,6 @@ local=/new-team.org/
 local=/new-warez.com/
 local=/newalbumreleases.net/
 local=/newcomic.info/
-local=/newcracks.net/
 local=/newerastreams.com/
 local=/newerteam.com/
 local=/newkatcr.co/
@@ -10964,7 +10963,6 @@ local=/worldofpcgames.com/
 local=/worldsrc.net/
 local=/worldsrc.org/
 local=/worldwidetorrents.me/
-local=/worldwrestlingtorrents.net/
 local=/wotaku.wiki/
 local=/wovietv.com/
 local=/wow-films.com/
@@ -11007,7 +11005,6 @@ local=/xatab-repack.net/
 local=/xatab-repack.rip/
 local=/xbins.org/
 local=/xbit.pw/
-local=/bt.xbox-sky.com/
 local=/xbox360iso.com/
 local=/xcine.click/
 local=/xcine.cx/
@@ -11043,7 +11040,6 @@ local=/xmovies8.org/
 local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
-local=/xn--950bz4kqroyzjblb.com/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/
@@ -11098,7 +11094,6 @@ local=/garaje.ya.com/
 local=/yabancidizi.now/
 local=/yabse.com/
 local=/yalla-shoot.fun/
-local=/yalla-shootv.live/
 local=/yamgo.com/
 local=/yams.tf/
 local=/yaplukon.org/
@@ -11213,7 +11208,6 @@ local=/yourserie.com/
 local=/yoursports.stream/
 local=/youserials.com/
 local=/youtorrent.com/
-local=/youtrade.tv/
 local=/youwatch.org/
 local=/yowaapp.com/
 local=/ntorrent.yoyo.pl/
@@ -11318,7 +11312,6 @@ local=/zdstresser.net/
 local=/zecircle.xyz/
 local=/zeduga.com/
 local=/zeegwet.shop/
-local=/zeflix.online/
 local=/mail2.zelenaya.net/
 local=/zelka.org/
 local=/tracker.zemoj.com/
@@ -11326,7 +11319,6 @@ local=/zenithpaltrow.com/
 local=/zeoez.com/
 local=/zer0day.ch/
 local=/zer0day.to/
-local=/t.zerg.pw/
 local=/zerion.cc/
 local=/tracker.zerobytes.xyz/
 local=/media.zerointernet.net/

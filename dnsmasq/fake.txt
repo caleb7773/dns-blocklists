@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 09:28 UTC
-# Version: 2026.0104.0928.02
+# Last modified: 04 Jan 2026 17:28 UTC
+# Version: 2026.0104.1728.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13886
+# Number of entries: 13875
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -13320,7 +13320,6 @@ local=/wbecrisfro.com/
 local=/wealth-phantom.com/
 local=/wealtigotrade.com/
 local=/wearablemerch.com/
-local=/wearblis.com/
 local=/wearbreeze.de/
 local=/wearebrew-en.com/
 local=/wearekinglife.com/
@@ -13518,7 +13517,6 @@ local=/wittelsbach-partner.com/
 local=/wittelsheimholz.com/
 local=/wivaro.de/
 local=/reiseweltat6.wixsite.com/
-local=/wizzers.shop/
 local=/wjfsports.com/
 local=/shop.wkffku.top/
 local=/wlinme.com/
@@ -13547,11 +13545,9 @@ local=/wojas.top/
 local=/wolant.com/
 local=/wolffashion.de/
 local=/wolffashiondeutschland.com/
-local=/wolfffashion.de/
 local=/wolfmode.de/
 local=/wolfytienda.cl/
 local=/wolke-hundebett.de/
-local=/wolkenweichboutique.de/
 local=/wolkyschuheoutlet.de/
 local=/wolkyschuheoutlets.de/
 local=/wolverinebootsde.com/
@@ -13568,7 +13564,6 @@ local=/wonea.shop/
 local=/woodenelse.com/
 local=/woodeu.de/
 local=/woodoclock.de/
-local=/woodstand-at.com/
 local=/woofgear.de/
 local=/woofz.com/
 local=/wooljacket-shop.com/
@@ -13576,7 +13571,6 @@ local=/woolyroots.com/
 local=/wordmarkets.com/
 local=/workfusionat.com/
 local=/workhomeoffice.de/
-local=/workingtoolsstore.com/
 local=/workshlutch.com/
 local=/workshopequipmentshop.com/
 local=/workshopgearonline.com/
@@ -13618,7 +13612,6 @@ local=/wynnvest.com/
 local=/x-clarity.com/
 local=/x-wallart.com/
 local=/x-watches.co/
-local=/x24customs.de/
 local=/xaperni.com/
 local=/xaslnsh.com/
 local=/xatix-beratung.de/
@@ -13752,7 +13745,6 @@ local=/yummycrystal.com/
 local=/yumor.shop/
 local=/yumpulses.com/
 local=/wwujiao2w.x.yupoo.com/
-local=/yuuerste.com/
 local=/yuvfireer.com/
 local=/yvarrd.shop/
 local=/yvipharmacy.com/
@@ -13794,7 +13786,6 @@ local=/zarela-luzern.com/
 local=/zarforex.com/
 local=/zarofia.de/
 local=/zartbio.com/
-local=/zasarrot.shop/
 local=/zaubelkid.com/
 local=/zaunfursicherheit.com/
 local=/zava-valencia.com/
@@ -13833,7 +13824,6 @@ local=/zeroplay.de/
 local=/zerova.de/
 local=/zertifikate24.online/
 local=/zertifiziert.de/
-local=/zesavi-tech.de/
 local=/zesbit.com/
 local=/zestara-berlin.de/
 local=/zetko-waren.de/
@@ -13893,6 +13883,5 @@ local=/zweirad-dach.de/
 local=/zwergspitzpomeranian.com/
 local=/zwischenportal.com/
 local=/zxmcm.com/
-local=/zycrian.com/
 local=/zynexorai.at/
 local=/zynexorai.com/

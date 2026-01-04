@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767522960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767551760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 10:36 UTC
-; Version: 2026.0104.1036.51
+; Last modified: 04 Jan 2026 18:36 UTC
+; Version: 2026.0104.1836.08
 ; Syntax: RPZ
-; Number of entries: 12528
+; Number of entries: 12524
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -977,8 +977,6 @@ xiaoxinhui.cn CNAME .
 *.xiaoxinhui.cn CNAME .
 dns.xinwujiang.cn CNAME .
 *.dns.xinwujiang.cn CNAME .
-yujunwanwu.cn CNAME .
-*.yujunwanwu.cn CNAME .
 dns.zoogle.cn CNAME .
 *.dns.zoogle.cn CNAME .
 dns.zzuhacker.cn CNAME .
@@ -4703,8 +4701,6 @@ yogavpn.com CNAME .
 *.yogavpn.com CNAME .
 adguard.youler.com CNAME .
 *.adguard.youler.com CNAME .
-younblocked.com CNAME .
-*.younblocked.com CNAME .
 youproxything.com CNAME .
 *.youproxything.com CNAME .
 youproxytube.com CNAME .

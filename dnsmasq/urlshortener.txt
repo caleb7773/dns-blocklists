@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 09:29 UTC
-# Version: 2026.0104.0929.47
+# Last modified: 04 Jan 2026 17:30 UTC
+# Version: 2026.0104.1730.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10041
+# Number of entries: 10034
 #
 local=/0.gp/
 local=/00m.in/
@@ -9475,7 +9475,6 @@ local=/weblink.biz/
 local=/webmienphi.net/
 local=/url.webof.xyz/
 local=/l.webopt.eu/
-local=/webprotech.live/
 local=/webrc.net/
 local=/webshon.com/
 local=/webshort.org/
@@ -9567,7 +9566,6 @@ local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/
 local=/wl.gl/
-local=/wlicc.online/
 local=/wlink.us/
 local=/wlinky.com/
 local=/wm.edu/
@@ -9626,7 +9624,6 @@ local=/wso.li/
 local=/wssurl.com/
 local=/wsurl.link/
 local=/wtc.la/
-local=/wtfurl.com/
 local=/wu.cz/
 local=/wu.vc/
 local=/wun.io/
@@ -9698,7 +9695,6 @@ local=/xlnk.eu/
 local=/xmlr.link/
 local=/xn--0ca.co/
 local=/xn--57h.ws/
-local=/xn--9y2bx5mhpm.kr/
 local=/xn--a-4ka.eu/
 local=/xn--bj0bm0rf3a.xn--bm4b52j.com/
 local=/xn--jvrr59b7kt3rm.com/
@@ -9852,7 +9848,6 @@ local=/yourl.pro/
 local=/yourls.ch/
 local=/yourls.info/
 local=/yourls.lu/
-local=/yourls.net/
 local=/yourls.org/
 local=/yourls.pro/
 local=/yourls.website/
@@ -9998,7 +9993,6 @@ local=/zoho.to/
 local=/bio.zoluu.co/
 local=/zom.ink/
 local=/zom.io/
-local=/zonearcad.xyz/
 local=/l.zonepl.net/
 local=/zoneurl.net/
 local=/zoodl.com/
@@ -10044,7 +10038,6 @@ local=/zweep.co/
 local=/zweet.link/
 local=/zws.im/
 local=/zxc.im/
-local=/zxc.li/
 local=/zxq.net/
 local=/zyguer.com/
 local=/zynga.my/

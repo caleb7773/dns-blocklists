@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 10:36 UTC
-# Version: 2026.0104.1036.14
+# Last modified: 04 Jan 2026 18:35 UTC
+# Version: 2026.0104.1835.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3828
+# Number of entries: 3826
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3781,8 +3781,6 @@
 0.0.0.0 dus.ysbs.uk
 0.0.0.0 dns2.ytpom.ru
 0.0.0.0 dns.yu.dev
-0.0.0.0 yujunwanwu.cn
-0.0.0.0 www.yujunwanwu.cn
 0.0.0.0 adguard.yuki2th.xyz
 0.0.0.0 yundun.icu
 0.0.0.0 httpdns.yunxindns.com

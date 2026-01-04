@@ -1,6 +1,9 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/8632
+*.fb.html-load.com
+
 # https://github.com/hagezi/dns-blocklists/issues/8404
 # https://github.com/hagezi/dns-blocklists/issues/8563
 xga-serving-pa.googleapis.com
@@ -886,10 +889,6 @@ c0cfly.rbxcdn.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2793
 *.msrareservices.com
-
-# IP address identification endpoints
-*.seeip.org
-*.jsonip.com
 
 # https://github.com/hagezi/dns-blocklists/issues/2774
 clarity.*.moventus.com

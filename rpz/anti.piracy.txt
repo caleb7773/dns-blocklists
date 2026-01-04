@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767522660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767551400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 10:31 UTC
-; Version: 2026.0104.1031.03
+; Last modified: 04 Jan 2026 18:30 UTC
+; Version: 2026.0104.1830.22
 ; Syntax: RPZ
-; Number of entries: 22792
+; Number of entries: 22776
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3642,8 +3642,6 @@ codeskeys24.com CNAME .
 *.codeskeys24.com CNAME .
 coldplaybootlegs.com CNAME .
 *.coldplaybootlegs.com CNAME .
-colivioo.com CNAME .
-*.colivioo.com CNAME .
 comandofilmetorrent.com CNAME .
 *.comandofilmetorrent.com CNAME .
 comandohdtorrents.com CNAME .
@@ -8000,8 +7998,6 @@ ns-1.x-fins.com CNAME .
 *.ns-1.x-fins.com CNAME .
 x-oo.com CNAME .
 *.x-oo.com CNAME .
-bt.xbox-sky.com CNAME .
-*.bt.xbox-sky.com CNAME .
 xbox360iso.com CNAME .
 *.xbox360iso.com CNAME .
 xcine-tv.com CNAME .
@@ -8014,8 +8010,6 @@ share.xfsub.com CNAME .
 *.share.xfsub.com CNAME .
 xn--80a4b.com CNAME .
 *.xn--80a4b.com CNAME .
-xn--950bz4kqroyzjblb.com CNAME .
-*.xn--950bz4kqroyzjblb.com CNAME .
 xpdf4u.com CNAME .
 *.xpdf4u.com CNAME .
 xplorenetbd.com CNAME .
@@ -11518,8 +11512,6 @@ watchmovierulz.live CNAME .
 *.watchmovierulz.live CNAME .
 wearechecking.live CNAME .
 *.wearechecking.live CNAME .
-yalla-shootv.live CNAME .
-*.yalla-shootv.live CNAME .
 yassflix.live CNAME .
 *.yassflix.live CNAME .
 tantifilm.living CNAME .
@@ -13618,8 +13610,6 @@ new-line.net CNAME .
 *.new-line.net CNAME .
 newalbumreleases.net CNAME .
 *.newalbumreleases.net CNAME .
-newcracks.net CNAME .
-*.newcracks.net CNAME .
 nextwap.net CNAME .
 *.nextwap.net CNAME .
 nexus-games.net CNAME .
@@ -14422,8 +14412,6 @@ worldmags.net CNAME .
 *.worldmags.net CNAME .
 worldsrc.net CNAME .
 *.worldsrc.net CNAME .
-worldwrestlingtorrents.net CNAME .
-*.worldwrestlingtorrents.net CNAME .
 x-torrent.net CNAME .
 *.x-torrent.net CNAME .
 xatab-repack.net CNAME .
@@ -15038,8 +15026,6 @@ z2999.online CNAME .
 *.z2999.online CNAME .
 z8341.online CNAME .
 *.z8341.online CNAME .
-zeflix.online CNAME .
-*.zeflix.online CNAME .
 zlib520.online CNAME .
 *.zlib520.online CNAME .
 zlib996.online CNAME .
@@ -17584,8 +17570,6 @@ x360club.pw CNAME .
 *.x360club.pw CNAME .
 xbit.pw CNAME .
 *.xbit.pw CNAME .
-t.zerg.pw CNAME .
-*.t.zerg.pw CNAME .
 altadefinizionegratis.qpon CNAME .
 *.altadefinizionegratis.qpon CNAME .
 cineblog01.qpon CNAME .
@@ -19178,6 +19162,8 @@ hesgoal-tv.space CNAME .
 *.hesgoal-tv.space CNAME .
 kinox.space CNAME .
 *.kinox.space CNAME .
+la-cale.space CNAME .
+*.la-cale.space CNAME .
 moviesmod.space CNAME .
 *.moviesmod.space CNAME .
 mrunlock.space CNAME .
@@ -21254,8 +21240,6 @@ youmoviz.tv CNAME .
 *.youmoviz.tv CNAME .
 youreasyip.tv CNAME .
 *.youreasyip.tv CNAME .
-youtrade.tv CNAME .
-*.youtrade.tv CNAME .
 yseries.tv CNAME .
 *.yseries.tv CNAME .
 ytanime.tv CNAME .
