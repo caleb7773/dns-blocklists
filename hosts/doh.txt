@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 18:35 UTC
-# Version: 2026.0104.1835.29
+# Last modified: 04 Jan 2026 22:35 UTC
+# Version: 2026.0104.2235.15
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3826
+# Number of entries: 3827
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1953,6 +1953,7 @@
 0.0.0.0 dns.iamninja.ru
 0.0.0.0 sec.iamninja.ru
 0.0.0.0 ib.systems
+0.0.0.0 dns-public.ibakerserver.pt
 0.0.0.0 dns.iblockads.net
 0.0.0.0 dns-us.ibmcloud.top
 0.0.0.0 mask.icloud.com

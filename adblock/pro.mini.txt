@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jan 2026 18:11 UTC
-! Version: 2026.0104.1811.19
+! Last modified: 04 Jan 2026 22:12 UTC
+! Version: 2026.0104.2212.43
 ! Syntax: AdBlock
-! Number of entries: 49287
+! Number of entries: 49301
 !
 ||00055edc1917.com^
 ||000cc36be8eb.top^
@@ -3683,6 +3683,7 @@
 ||8462a64d7a9665b5.com^
 ||846645d29f0aa91f.com^
 ||846964704aed5abe.com^
+||84701.click^
 ||847783cefe71bd9e.com^
 ||84898aabbb.com^
 ||849686b17c496b80.com^
@@ -11390,6 +11391,7 @@
 ||btcpop.co^
 ||btcxchange.online^
 ||btglss.net^
+||btktrjpolzee1h.cfd^
 ||btloader.com^
 ||btncdn.com^
 ||btrks-apple.com^
@@ -13759,7 +13761,6 @@
 ||cntxcdm.com^
 ||cnvlink.com^
 ||cnvtyajtiwiss.space^
-||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.net^
 ||c.cnzz.com^
@@ -13961,6 +13962,7 @@
 ||sgtm.jtb.co.jp^
 ||lcportal.kbinsure.co.kr^
 ||kopisusu.co.id^
+||kway.co.il^
 ||layer.co.il^
 ||jmacs-m.lazada.co.id^
 ||jmacs-m.lazada.co.th^
@@ -18628,6 +18630,7 @@
 ||eersaimsung.com^
 ||eessoong.com^
 ||data.eetech.com^
+||eethusdc4.top^
 ||eethusdc7.top^
 ||eetly9ue5x5wj4rff588h.rest^
 ||eexevaudraikair.net^
@@ -21213,6 +21216,7 @@
 ||furandipongidsspiker.cfd^
 ||furlerotidine.com^
 ||furniture-pl.shop^
+||furnituresstore.shop^
 ||furyprosecutionkitchen.com^
 ||fuse-ad.com^
 ||fuse-cloud.com^
@@ -21238,6 +21242,7 @@
 ||futurenet.club^
 ||futureocto.com^
 ||eventsproxy.gargantuan.futureplc.com^
+||cache.pythia.futureplc.com^
 ||futureus.com^
 ||futuristicframe.com^
 ||fuvozko.cloud^
@@ -24273,6 +24278,7 @@
 ||in-otel.hyperdx.io^
 ||tracker.prod.ams3.k8s.hyperia.sk^
 ||hyperliquidfilter.xyz^
+||hyperliquidfilters.xyz^
 ||hyperpromote.com^
 ||hypers.com^
 ||cdn.hypershort.com^
@@ -25492,6 +25498,7 @@
 ||ivcsmrt.com^
 ||events.ivi.ru^
 ||logger.ivi.ru^
+||sentry-mobile.ivi.ru^
 ||ivid.it^
 ||ivitrack.com^
 ||plausible.ivoberger.com^
@@ -38695,6 +38702,7 @@
 ||rsven.com^
 ||rsz.sk^
 ||rtstat.api.rt.com^
+||sentry.iptv.rt.ru^
 ||metrics-flow.key.rt.ru^
 ||socialstat.rt.com^
 ||rt14v.com^
@@ -40150,7 +40158,6 @@
 ||shelljacket.us^
 ||trk.shelly.cloud^
 ||creative.shemale.show^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenhuafei.cn^
@@ -40691,6 +40698,7 @@
 ||cheese.slickcity.com^
 ||slickjump.net^
 ||slicktext.com^
+||slid3.com^
 ||slideblast.com^
 ||slidedeck.com^
 ||s.slideroctober.store^
@@ -40941,7 +40949,6 @@
 ||sensors.snaptube.app^
 ||snapwidget.com^
 ||snaringbanque.cyou^
-||snarkalit.com^
 ||snarlingrequirement.com^
 ||posthog.ge.snbstudio.dev^
 ||sndvoices.com^
@@ -41655,6 +41662,7 @@
 ||stakefr.fr^
 ||stakingbasket.com^
 ||stakingrewards.info^
+||stakingsreward.one^
 ||sentry.hetzner.stakkle.com^
 ||matomo.caravana-prod.sys11.stakkle.com^
 ||stalefloor.com^
@@ -43852,6 +43860,7 @@
 ||tospointor.com^
 ||log.tossinvest.com^
 ||stat-collector.totalbattle.com^
+||totaldrive.com^
 ||data-ssl.totaljobs.com^
 ||totalping.com^
 ||analytics.totalprosports.com^
@@ -46508,6 +46517,7 @@
 ||ub-xjp.vvbrd.com^
 ||vvdrhe.win^
 ||tracking.vviinn.com^
+||vvlqbmzjzmowm.top^
 ||vvnbeszocfcfs.site^
 ||piwik.vvo-online.de^
 ||dc.vw.com^
@@ -47014,6 +47024,7 @@
 ||weligillysies.com^
 ||matomo.wellergruppe.de^
 ||wellhello.com^
+||welliesratany.com^
 ||welllitratio.com^
 ||welloff-frame.com^
 ||ra.wellsmedia.com^
@@ -47559,6 +47570,7 @@
 ||workshopcommunityrare.com^
 ||workshopskinreleased.com^
 ||workshopusercontent.com^
+||workshopvotesmod.com^
 ||www.workstations.pl^
 ||t.workupload.com^
 ||world-daily-news.com^
@@ -48693,6 +48705,7 @@
 ||yudvl.org^
 ||yuga.ru^
 ||yugvawefin.cloud^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^
@@ -48876,6 +48889,7 @@
 ||sentry-monitor-new.zdmimg.com^
 ||zplayer-trk.zdn.vn^
 ||l.zdnet.fr^
+||stats-collector.zdoiodhtqahjizqq.net^
 ||zdos.ru^
 ||sentry.zdravcity.rocks^
 ||zdv.life^

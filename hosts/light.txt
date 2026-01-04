@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 18:06 UTC
-# Version: 2026.0104.1806.15
+# Last modified: 04 Jan 2026 22:07 UTC
+# Version: 2026.0104.2207.51
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 89581
+# Number of entries: 89594
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000cc36be8eb.top
@@ -7115,6 +7115,7 @@
 0.0.0.0 8462a64d7a9665b5.com
 0.0.0.0 846645d29f0aa91f.com
 0.0.0.0 846964704aed5abe.com
+0.0.0.0 84701.click
 0.0.0.0 847783cefe71bd9e.com
 0.0.0.0 84898aabbb.com
 0.0.0.0 849686b17c496b80.com
@@ -29448,6 +29449,7 @@
 0.0.0.0 iqmetrics.btc-echo.de
 0.0.0.0 btc-us.gift
 0.0.0.0 btcclicks.com
+0.0.0.0 btktrjpolzee1h.cfd
 0.0.0.0 btloader.com
 0.0.0.0 api.btloader.com
 0.0.0.0 cdn.btloader.com
@@ -35954,7 +35956,6 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnvtyajtiwiss.space
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -36170,6 +36171,7 @@
 0.0.0.0 jean-patrique.co.uk
 0.0.0.0 jshosting.co.uk
 0.0.0.0 sgtm.jtb.co.jp
+0.0.0.0 kway.co.il
 0.0.0.0 layer.co.il
 0.0.0.0 jmacs-m.lazada.co.id
 0.0.0.0 jmacs-m.lazada.co.th
@@ -38050,7 +38052,6 @@
 0.0.0.0 counterimageawoke.com
 0.0.0.0 counteronline.de
 0.0.0.0 counterstation.de
-0.0.0.0 countingmainly.com
 0.0.0.0 countlessdispleased.com
 0.0.0.0 countly.com
 0.0.0.0 flex.countly.com
@@ -46516,6 +46517,7 @@
 0.0.0.0 eersaimsung.com
 0.0.0.0 eessoong.com
 0.0.0.0 data.eetech.com
+0.0.0.0 eethusdc4.top
 0.0.0.0 eethusdc7.top
 0.0.0.0 eetly9ue5x5wj4rff588h.rest
 0.0.0.0 eexevaudraikair.net
@@ -49695,6 +49697,7 @@
 0.0.0.0 furandipongidsspiker.cfd
 0.0.0.0 furlerotidine.com
 0.0.0.0 furniture-pl.shop
+0.0.0.0 furnituresstore.shop
 0.0.0.0 furyprosecutionkitchen.com
 0.0.0.0 fuse-ad.com
 0.0.0.0 paychat.fuse-ad.com
@@ -49732,6 +49735,7 @@
 0.0.0.0 futurenet.club
 0.0.0.0 futureocto.com
 0.0.0.0 eventsproxy.gargantuan.futureplc.com
+0.0.0.0 cache.pythia.futureplc.com
 0.0.0.0 futureus.com
 0.0.0.0 futuristicframe.com
 0.0.0.0 fuvozko.cloud
@@ -55254,6 +55258,7 @@
 0.0.0.0 hyperbanner.net
 0.0.0.0 tracker.prod.ams3.k8s.hyperia.sk
 0.0.0.0 hyperliquidfilter.xyz
+0.0.0.0 hyperliquidfilters.xyz
 0.0.0.0 hyperpromote.com
 0.0.0.0 cdn.hyperpromote.com
 0.0.0.0 hypers.com
@@ -57858,6 +57863,8 @@
 0.0.0.0 stat.its.porn
 0.0.0.0 itsaol.com
 0.0.0.0 itseagleswig.com
+0.0.0.0 itskiddien.club
+0.0.0.0 cdn.itskiddien.club
 0.0.0.0 countly.itslearning.com
 0.0.0.0 itstuffnews.com
 0.0.0.0 www.itstuffnews.com
@@ -74872,6 +74879,7 @@
 0.0.0.0 saidairakas.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 sail-personalize.com
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 aws-api.sail-personalize.com
 0.0.0.0 sail-track.com
@@ -76543,7 +76551,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenhuafei.cn
@@ -77484,6 +77491,7 @@
 0.0.0.0 cdn.slicktext.com
 0.0.0.0 static.slicktext.com
 0.0.0.0 www.slicktext.com
+0.0.0.0 slid3.com
 0.0.0.0 slideblast.com
 0.0.0.0 s.slideroctober.store
 0.0.0.0 slideruleanalytics.com
@@ -78864,6 +78872,7 @@
 0.0.0.0 stakebetvip.com
 0.0.0.0 stakingbasket.com
 0.0.0.0 stakingrewards.info
+0.0.0.0 stakingsreward.one
 0.0.0.0 matomo.caravana-prod.sys11.stakkle.com
 0.0.0.0 stalefloor.com
 0.0.0.0 stalesummer.com
@@ -86398,6 +86407,7 @@
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 vvdrhe.win
 0.0.0.0 tracking.vviinn.com
+0.0.0.0 vvlqbmzjzmowm.top
 0.0.0.0 vvnbeszocfcfs.site
 0.0.0.0 piwik.vvo-online.de
 0.0.0.0 dc.vw.com
@@ -86908,6 +86918,7 @@
 0.0.0.0 matomo.wellergruppe.de
 0.0.0.0 wellhello.com
 0.0.0.0 secure.wellhello.com
+0.0.0.0 welliesratany.com
 0.0.0.0 welllitratio.com
 0.0.0.0 welloff-frame.com
 0.0.0.0 ra.wellsmedia.com
@@ -87489,6 +87500,7 @@
 0.0.0.0 workshopcommunityrare.com
 0.0.0.0 workshopskinreleased.com
 0.0.0.0 workshopusercontent.com
+0.0.0.0 workshopvotesmod.com
 0.0.0.0 www.workstations.pl
 0.0.0.0 t.workupload.com
 0.0.0.0 world-daily-news.com
@@ -88931,6 +88943,7 @@
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yudvl.org
 0.0.0.0 yugvawefin.cloud
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com

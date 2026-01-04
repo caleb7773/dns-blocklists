@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 18:32 UTC
-# Version: 2026.0104.1832.22
+# Last modified: 04 Jan 2026 22:32 UTC
+# Version: 2026.0104.2232.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 77442
+# Number of entries: 77443
 #
 local=/0-xxx.com/
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
@@ -1343,6 +1343,7 @@ local=/69dubai.com/
 local=/69dv.com/
 local=/69ebony.com/
 local=/69flv.com/
+local=/69fr.tel/
 local=/69games.xxx/
 local=/69indian.com/
 local=/69indiansex.com/
