@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 01:59 UTC
-# Version: 2026.0104.0159.41
+# Last modified: 04 Jan 2026 05:31 UTC
+# Version: 2026.0104.0531.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10054
+# Number of entries: 10048
 #
 local=/0.gp/
 local=/00m.in/
@@ -7830,7 +7830,6 @@ local=/steps2unlock.com/
 local=/steveendow.link/
 local=/stfly.me/
 local=/stgevent.com/
-local=/sthpz.pro/
 local=/stick.bio/
 local=/stk.so/
 local=/stke.xyz/
@@ -7922,7 +7921,6 @@ local=/swag.run/
 local=/go.swalah.co/
 local=/swalp.in/
 local=/swank.ly/
-local=/sway.my/
 local=/swff.us/
 local=/swi.nu/
 local=/l.swift.be/
@@ -8203,7 +8201,6 @@ local=/tiger388.life/
 local=/tiger77.monster/
 local=/tigerlink.me/
 local=/tighturl.com/
-local=/tiis.cc/
 local=/tik.la/
 local=/tik.lat/
 local=/tik.lol/
@@ -8290,7 +8287,6 @@ local=/tinyurl.dev/
 local=/tinyurl.direct/
 local=/tinyurl.ee/
 local=/tinyurl.hu/
-local=/tinyurl.mobi/
 local=/tinyurl.ph/
 local=/tinyurl.rest/
 local=/tinyurl.rocks/
@@ -8299,7 +8295,6 @@ local=/tinyurl.win/
 local=/tinyurlforbusiness.com/
 local=/tinyurls.biz/
 local=/tinyurls.io/
-local=/tinyurlshortener.com/
 local=/tinyurlwebsite.com/
 local=/tinyurlz.co/
 local=/tinyvid.io/
@@ -8443,7 +8438,6 @@ local=/tov1.net/
 local=/tox.cx/
 local=/toyota.tw/
 local=/toyota.us/
-local=/tp90.link/
 local=/tpaper.my/
 local=/tpc.io/
 local=/tpishz.net/

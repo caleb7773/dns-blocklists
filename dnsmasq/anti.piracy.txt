@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 03:00 UTC
-# Version: 2026.0104.0300.29
+# Last modified: 04 Jan 2026 06:36 UTC
+# Version: 2026.0104.0636.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11422
+# Number of entries: 11412
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -8760,7 +8760,6 @@ local=/streamboox.com/
 local=/streamcenter.cc/
 local=/streamcloud.cx/
 local=/streamcloud.my/
-local=/streamcomplet.com/
 local=/streamcomplet.io/
 local=/streamcomplet.me/
 local=/streamcomplets.net/
@@ -8874,7 +8873,6 @@ local=/streamingcommunity.mobi/
 local=/streamingcommunity.net/
 local=/streamingcommunity.nl/
 local=/streamingcommunity.one/
-local=/streamingcommunity.ooo/
 local=/streamingcommunity.org/
 local=/streamingcommunity.ovh/
 local=/streamingcommunity.paris/
@@ -9153,7 +9151,6 @@ local=/tantifilm.coach/
 local=/tantifilm.com/
 local=/tantifilm.cool/
 local=/tantifilm.date/
-local=/tantifilm.delivery/
 local=/tantifilm.diy/
 local=/tantifilm.education/
 local=/tantifilm.eu/
@@ -9202,7 +9199,6 @@ local=/taringa.net/
 local=/tarjetaroja.me/
 local=/tarjetarojaenvivo.me/
 local=/tarjetarojaonline.org/
-local=/tarjetarojatv.run/
 local=/tarjetarojatvhd.com/
 local=/tracker.tasvideos.org/
 local=/tata.to/
@@ -9277,7 +9273,6 @@ local=/the-potato.net/
 local=/the-underdogs.org/
 local=/the-zomb.com/
 local=/the123movies.eu/
-local=/the7sky.org/
 local=/bt1.the9.com/
 local=/theaudiobookbay.com/
 local=/thebay.tv/
@@ -9506,7 +9501,6 @@ local=/todayvisionbd.com/
 local=/todoilegal.net/
 local=/todotorrents.com/
 local=/toffeeboba.com/
-local=/t1.tokhmi.xyz/
 local=/tokis.xyz/
 local=/toku.fun/
 local=/tokybook.com/
@@ -9574,7 +9568,6 @@ local=/tracker.tornevall.net/
 local=/toromod.com/
 local=/toros.co/
 local=/torproxy.org/
-local=/torr.by/
 local=/torrage.info/
 local=/torrends.to/
 local=/torrent.ai/
@@ -9600,7 +9593,6 @@ local=/torrent-igruha.ru/
 local=/torrent-igry.org/
 local=/torrent-pirat.com/
 local=/torrent-polska.info/
-local=/torrent-soft.pro/
 local=/torrent-soft.top/
 local=/torrent-stats.info/
 local=/torrent-team.net/
@@ -9613,12 +9605,10 @@ local=/torrent411.li/
 local=/torrent411.to/
 local=/torrent4you.me/
 local=/torrent4you.org/
-local=/torrent9.biz/
 local=/torrent9.fm/
 local=/torrent9.games/
 local=/torrent9.gg/
 local=/torrent9.is/
-local=/torrent9.ph/
 local=/torrent9.pl/
 local=/torrent9.sh/
 local=/torrent9.site/

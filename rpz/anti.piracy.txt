@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767495600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767508560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 03:00 UTC
-; Version: 2026.0104.0300.29
+; Last modified: 04 Jan 2026 06:36 UTC
+; Version: 2026.0104.0636.02
 ; Syntax: RPZ
-; Number of entries: 22844
+; Number of entries: 22824
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -902,8 +902,6 @@ thepiratefilmestorrent.biz CNAME .
 *.thepiratefilmestorrent.biz CNAME .
 thestreameast.biz CNAME .
 *.thestreameast.biz CNAME .
-torrent9.biz CNAME .
-*.torrent9.biz CNAME .
 trackerturk.biz CNAME .
 *.trackerturk.biz CNAME .
 turktorrent.biz CNAME .
@@ -1096,8 +1094,6 @@ retracker.telecom.by CNAME .
 *.retracker.telecom.by CNAME .
 thepiratebay.by CNAME .
 *.thepiratebay.by CNAME .
-torr.by CNAME .
-*.torr.by CNAME .
 torrent.by CNAME .
 *.torrent.by CNAME .
 torrents.by CNAME .
@@ -6990,8 +6986,6 @@ storeplayapk.com CNAME .
 *.storeplayapk.com CNAME .
 streamboox.com CNAME .
 *.streamboox.com CNAME .
-streamcomplet.com CNAME .
-*.streamcomplet.com CNAME .
 streamcouch.com CNAME .
 *.streamcouch.com CNAME .
 streamdor.com CNAME .
@@ -8602,8 +8596,6 @@ cb01.delivery CNAME .
 *.cb01.delivery CNAME .
 cineblog01.delivery CNAME .
 *.cineblog01.delivery CNAME .
-tantifilm.delivery CNAME .
-*.tantifilm.delivery CNAME .
 altadefinizione.desi CNAME .
 *.altadefinizione.desi CNAME .
 hdmovie2.design CNAME .
@@ -15086,8 +15078,6 @@ cineblog01.ooo CNAME .
 *.cineblog01.ooo CNAME .
 hdmovie2.ooo CNAME .
 *.hdmovie2.ooo CNAME .
-streamingcommunity.ooo CNAME .
-*.streamingcommunity.ooo CNAME .
 0123moviesfree.org CNAME .
 *.0123moviesfree.org CNAME .
 1-thepiratebay.org CNAME .
@@ -16550,8 +16540,6 @@ the-piratebay.org CNAME .
 *.the-piratebay.org CNAME .
 the-underdogs.org CNAME .
 *.the-underdogs.org CNAME .
-the7sky.org CNAME .
-*.the7sky.org CNAME .
 thedvdclub.org CNAME .
 *.thedvdclub.org CNAME .
 thegft.org CNAME .
@@ -16940,8 +16928,6 @@ streamingcommunity.ph CNAME .
 *.streamingcommunity.ph CNAME .
 tantifilm.ph CNAME .
 *.tantifilm.ph CNAME .
-torrent9.ph CNAME .
-*.torrent9.ph CNAME .
 vegamovies.ph CNAME .
 *.vegamovies.ph CNAME .
 dontorrent.phd CNAME .
@@ -17464,8 +17450,6 @@ themfire.pro CNAME .
 *.themfire.pro CNAME .
 torrent-igruha.pro CNAME .
 *.torrent-igruha.pro CNAME .
-torrent-soft.pro CNAME .
-*.torrent-soft.pro CNAME .
 torrent-tracker.pro CNAME .
 *.torrent-tracker.pro CNAME .
 torrentdownloads.pro CNAME .
@@ -18550,8 +18534,6 @@ sportsurge.run CNAME .
 *.sportsurge.run CNAME .
 tantifilm.run CNAME .
 *.tantifilm.run CNAME .
-tarjetarojatv.run CNAME .
-*.tarjetarojatv.run CNAME .
 vegamovies.rw CNAME .
 *.vegamovies.rw CNAME .
 voe.sa CNAME .
@@ -22738,8 +22720,6 @@ openstream.thegrass.xyz CNAME .
 *.openstream.thegrass.xyz CNAME .
 timetowatch.xyz CNAME .
 *.timetowatch.xyz CNAME .
-t1.tokhmi.xyz CNAME .
-*.t1.tokhmi.xyz CNAME .
 tokis.xyz CNAME .
 *.tokis.xyz CNAME .
 tomehub.xyz CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 01:59 UTC
-# Version: 2026.0104.0159.41
+# Last modified: 04 Jan 2026 05:31 UTC
+# Version: 2026.0104.0531.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10054
+# Number of entries: 10048
 #
 *.0.gp
 *.00m.in
@@ -7830,7 +7830,6 @@
 *.steveendow.link
 *.stfly.me
 *.stgevent.com
-*.sthpz.pro
 *.stick.bio
 *.stk.so
 *.stke.xyz
@@ -7922,7 +7921,6 @@
 *.go.swalah.co
 *.swalp.in
 *.swank.ly
-*.sway.my
 *.swff.us
 *.swi.nu
 *.l.swift.be
@@ -8203,7 +8201,6 @@
 *.tiger77.monster
 *.tigerlink.me
 *.tighturl.com
-*.tiis.cc
 *.tik.la
 *.tik.lat
 *.tik.lol
@@ -8290,7 +8287,6 @@
 *.tinyurl.direct
 *.tinyurl.ee
 *.tinyurl.hu
-*.tinyurl.mobi
 *.tinyurl.ph
 *.tinyurl.rest
 *.tinyurl.rocks
@@ -8299,7 +8295,6 @@
 *.tinyurlforbusiness.com
 *.tinyurls.biz
 *.tinyurls.io
-*.tinyurlshortener.com
 *.tinyurlwebsite.com
 *.tinyurlz.co
 *.tinyvid.io
@@ -8443,7 +8438,6 @@
 *.tox.cx
 *.toyota.tw
 *.toyota.us
-*.tp90.link
 *.tpaper.my
 *.tpc.io
 *.tpishz.net

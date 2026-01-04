@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767491940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767504660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 01:59 UTC
-; Version: 2026.0104.0159.41
+; Last modified: 04 Jan 2026 05:31 UTC
+; Version: 2026.0104.0531.58
 ; Syntax: RPZ
-; Number of entries: 20108
+; Number of entries: 20096
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1813,8 +1813,6 @@ teil.cc CNAME .
 *.teil.cc CNAME .
 texn.cc CNAME .
 *.texn.cc CNAME .
-tiis.cc CNAME .
-*.tiis.cc CNAME .
 tini.cc CNAME .
 *.tini.cc CNAME .
 tinky.cc CNAME .
@@ -7025,8 +7023,6 @@ tinyurl.com CNAME .
 *.tinyurl.com CNAME .
 tinyurlforbusiness.com CNAME .
 *.tinyurlforbusiness.com CNAME .
-tinyurlshortener.com CNAME .
-*.tinyurlshortener.com CNAME .
 tinyurlwebsite.com CNAME .
 *.tinyurlwebsite.com CNAME .
 tinyvnn.com CNAME .
@@ -13121,8 +13117,6 @@ toolify.link CNAME .
 *.toolify.link CNAME .
 topurl.link CNAME .
 *.topurl.link CNAME .
-tp90.link CNAME .
-*.tp90.link CNAME .
 tr.link CNAME .
 *.tr.link CNAME .
 trackurl.link CNAME .
@@ -14863,8 +14857,6 @@ one-link.mobi CNAME .
 *.one-link.mobi CNAME .
 prvt.mobi CNAME .
 *.prvt.mobi CNAME .
-tinyurl.mobi CNAME .
-*.tinyurl.mobi CNAME .
 go.westco.mobi CNAME .
 *.go.westco.mobi CNAME .
 ytxt.mobi CNAME .
@@ -15047,8 +15039,6 @@ sinni.my CNAME .
 *.sinni.my CNAME .
 ss88.my CNAME .
 *.ss88.my CNAME .
-sway.my CNAME .
-*.sway.my CNAME .
 tgmy.my CNAME .
 *.tgmy.my CNAME .
 tpaper.my CNAME .
@@ -16981,8 +16971,6 @@ socialbio.pro CNAME .
 *.socialbio.pro CNAME .
 st3.pro CNAME .
 *.st3.pro CNAME .
-sthpz.pro CNAME .
-*.sthpz.pro CNAME .
 surl.pro CNAME .
 *.surl.pro CNAME .
 tawon4d.pro CNAME .
