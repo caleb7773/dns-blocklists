@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 18:30 UTC
-# Version: 2026.0104.1830.22
+# Last modified: 05 Jan 2026 02:26 UTC
+# Version: 2026.0105.0226.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11388
+# Number of entries: 11390
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2068,6 +2068,7 @@ local=/watch.coen.ovh/
 local=/coexist.biz/
 local=/coflix.tv/
 local=/coldplaybootlegs.com/
+local=/colivioo.com/
 local=/colombo-bt.org/
 local=/123movies.com.pk/
 local=/www.aenianos.com.br/
@@ -2349,6 +2350,7 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
+local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -2494,7 +2496,6 @@ local=/demonoid.is/
 local=/demonoid.pw/
 local=/inferno.demonoid.me/
 local=/open.demonoid.ch/
-local=/open-tracker.demonoid.ch/
 local=/open-v6.demonoid.ch/
 local=/public.demonoid.ch/
 local=/demons-eye.me/
@@ -4157,6 +4158,7 @@ local=/ggbases.com/
 local=/ghatailonline.net/
 local=/sparkle.ghostchu-services.top/
 local=/tracker.ghostchu-services.top/
+local=/utracker.ghostchu-services.top/
 local=/media.ghurionline.com/
 local=/giardiniblog.it/
 local=/gid-online.ru/

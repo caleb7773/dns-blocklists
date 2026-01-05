@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Jan 2026 17:30 UTC
-! Version: 2026.0104.1730.07
+! Last modified: 05 Jan 2026 01:28 UTC
+! Version: 2026.0105.0128.48
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -9064,6 +9064,7 @@
 @@||videopro.live^
 @@||videyx.fun^
 @@||vidzsb.com^
+@@||view.page^
 @@||vig.fit^
 @@||vigilink.com^
 @@||vigit.me^

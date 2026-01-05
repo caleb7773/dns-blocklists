@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767551400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767579960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jan 2026 18:30 UTC
-; Version: 2026.0104.1830.22
+; Last modified: 05 Jan 2026 02:26 UTC
+; Version: 2026.0105.0226.29
 ; Syntax: RPZ
-; Number of entries: 22776
+; Number of entries: 22780
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1746,8 +1746,6 @@ cpasbien.ch CNAME .
 *.cpasbien.ch CNAME .
 open.demonoid.ch CNAME .
 *.open.demonoid.ch CNAME .
-open-tracker.demonoid.ch CNAME .
-*.open-tracker.demonoid.ch CNAME .
 open-v6.demonoid.ch CNAME .
 *.open-v6.demonoid.ch CNAME .
 public.demonoid.ch CNAME .
@@ -3642,6 +3640,8 @@ codeskeys24.com CNAME .
 *.codeskeys24.com CNAME .
 coldplaybootlegs.com CNAME .
 *.coldplaybootlegs.com CNAME .
+colivioo.com CNAME .
+*.colivioo.com CNAME .
 comandofilmetorrent.com CNAME .
 *.comandofilmetorrent.com CNAME .
 comandohdtorrents.com CNAME .
@@ -8414,6 +8414,8 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
+tracker-de-2.cutie.dating CNAME .
+*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -20388,6 +20390,8 @@ sparkle.ghostchu-services.top CNAME .
 *.sparkle.ghostchu-services.top CNAME .
 tracker.ghostchu-services.top CNAME .
 *.tracker.ghostchu-services.top CNAME .
+utracker.ghostchu-services.top CNAME .
+*.utracker.ghostchu-services.top CNAME .
 guardaserie.top CNAME .
 *.guardaserie.top CNAME .
 guardaserietv.top CNAME .
