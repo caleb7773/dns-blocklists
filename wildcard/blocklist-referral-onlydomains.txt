@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 09:21 UTC
-# Version: 2026.0103.0921.03
+# Last modified: 05 Jan 2026 09:16 UTC
+# Version: 2026.0105.0916.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 1376
+# Number of entries: 1377
 #
 1-aclk.net
 1aurl.io
@@ -426,6 +426,7 @@ suite32.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
 suite36.emarsys.net
+suite36-cf.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
 suite40-cf.emarsys.net

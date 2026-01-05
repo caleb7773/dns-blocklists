@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jan 2026 09:21 UTC
-# Version: 2026.0103.0921.03
+# Last modified: 05 Jan 2026 09:16 UTC
+# Version: 2026.0105.0916.30
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1739
+# Number of entries: 1746
 #
 1-aclk.net
 1aurl.io
@@ -309,6 +309,7 @@ seu2.cleverreach.com
 283764.seu2.cleverreach.com
 291887.seu2.cleverreach.com
 295398.seu2.cleverreach.com
+313131.seu2.cleverreach.com
 315021.seu2.cleverreach.com
 320764.seu2.cleverreach.com
 321377.seu2.cleverreach.com
@@ -418,6 +419,7 @@ convertkit-mail.com
 click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
+8534faf0.open.convertkit-mail.com
 af5d45b9.open.convertkit-mail.com
 efba0d60.open.convertkit-mail.com
 preferences.convertkit-mail.com
@@ -451,6 +453,7 @@ click.convertkit-mail3.com
 el2.convertkit-mail3.com
 convertkit-mail4.com
 click.convertkit-mail4.com
+51ce15f1.click.convertkit-mail4.com
 el2.convertkit-mail4.com
 open.convertkit-mail4.com
 06dea2c1.open.convertkit-mail4.com
@@ -460,6 +463,7 @@ c4d2e6d6.open.convertkit-mail4.com
 d41e12b1.open.convertkit-mail4.com
 e22d5796.open.convertkit-mail4.com
 f5da5543.open.convertkit-mail4.com
+fe05b0e9.open.convertkit-mail4.com
 preferences.convertkit-mail4.com
 preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com
@@ -534,6 +538,7 @@ sync.ad.cpe.dotomi.com
 match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
 c63063.csd.dotomi.com
+c82536.csd.dotomi.com
 c83501.csd.dotomi.com
 c83573.csd.dotomi.com
 ad.doubleclick.net
@@ -580,6 +585,7 @@ suite32.emarsys.net
 suite33.emarsys.net
 suite34.emarsys.net
 suite36.emarsys.net
+suite36-cf.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
 suite40-cf.emarsys.net
@@ -881,6 +887,7 @@ group0.sites.hscoscdn-eu1.net
 3887299.group0.sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 group0.sites.hscoscdn-na2.net
+243239325.group0.sites.hscoscdn-na2.net
 sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
