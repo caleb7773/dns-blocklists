@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jan 2026 14:11 UTC
-# Version: 2026.0105.1411.59
+# Last modified: 05 Jan 2026 18:11 UTC
+# Version: 2026.0105.1811.16
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 88987
+# Number of entries: 88978
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000cc36be8eb.top
@@ -619,6 +619,7 @@
 0.0.0.0 139138a867e3f1dc.com
 0.0.0.0 139a5a9aa9ab26da.com
 0.0.0.0 139cb1234711a0da.com
+0.0.0.0 13afemc28.com
 0.0.0.0 13b00121b3a2f25833a53d6c9751323a.com
 0.0.0.0 13b4f64656e422ef.com
 0.0.0.0 13b81a6828f629f8.com
@@ -11374,6 +11375,7 @@
 0.0.0.0 spx-s1.agl002.online
 0.0.0.0 agl003.com
 0.0.0.0 spx-s1.agl003.com
+0.0.0.0 agl004.fun
 0.0.0.0 agl005.tech
 0.0.0.0 agl006.host
 0.0.0.0 cvt-s2.agl006.host
@@ -14458,12 +14460,14 @@
 0.0.0.0 annacrammo.homes
 0.0.0.0 anngukpa.com
 0.0.0.0 www.anngukpa.com
+0.0.0.0 annonalc.cyou
 0.0.0.0 annoyedairport.com
 0.0.0.0 pqutk.anntaylor.com
 0.0.0.0 smetrics.anntaylor.com
 0.0.0.0 annual-spend.com
 0.0.0.0 analytics.anobii.com
 0.0.0.0 anolianmishnah.cyou
+0.0.0.0 anoncasinobet.com
 0.0.0.0 anontimes.com
 0.0.0.0 anonymised.io
 0.0.0.0 account.anonymised.io
@@ -26463,8 +26467,6 @@
 0.0.0.0 asfkv.click
 0.0.0.0 asfkv.cyou
 0.0.0.0 asfkz.cyou
-0.0.0.0 asfohjolrojj.com
-0.0.0.0 www.asfohjolrojj.com
 0.0.0.0 asgadmp.cc
 0.0.0.0 bn.asgadmp.cc
 0.0.0.0 ppu.asgadmp.cc
@@ -34666,7 +34668,6 @@
 0.0.0.0 cash-ads.com
 0.0.0.0 cashalot.bet
 0.0.0.0 cashback-pump.fun
-0.0.0.0 load.pulse.cashbackxl.nl
 0.0.0.0 cashbro.net
 0.0.0.0 cashcinemaunbiased.com
 0.0.0.0 cashcrate.com
@@ -36381,7 +36382,6 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnvtyajtiwiss.space
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -39124,7 +39124,6 @@
 0.0.0.0 crypticrallye.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-loot.org
-0.0.0.0 crypto-point.cc
 0.0.0.0 crypto-pool.fr
 0.0.0.0 cryptobara.com
 0.0.0.0 cryptobattlesatlas.com
@@ -40175,7 +40174,6 @@
 0.0.0.0 api.deep.bi
 0.0.0.0 scoring.deep.bi
 0.0.0.0 data.deep-content.io
-0.0.0.0 deep-crash.com
 0.0.0.0 telemetry.deeparc.net
 0.0.0.0 deeperregardingcontend.com
 0.0.0.0 analytics.deepfakeporn.net
@@ -45767,7 +45765,6 @@
 0.0.0.0 easytomessage.com
 0.0.0.0 sgtm.easytoys.com
 0.0.0.0 sgtm.easytoys.nl
-0.0.0.0 eatcells.com
 0.0.0.0 eavailandpro.com
 0.0.0.0 eavesdropthenashame.com
 0.0.0.0 eazel.com
@@ -50026,6 +50023,7 @@
 0.0.0.0 genuine-crash.com
 0.0.0.0 genuinelyunacceptableweep.com
 0.0.0.0 genuinelyunfit.com
+0.0.0.0 genusstv.cyou
 0.0.0.0 ssgtm.geo.de
 0.0.0.0 geobytes.com
 0.0.0.0 geoedge.be
@@ -54707,6 +54705,7 @@
 0.0.0.0 ylog.huya.com
 0.0.0.0 analytics.hvcgroep.nl
 0.0.0.0 hvd-store.com
+0.0.0.0 hviegjv2vm8jozli2qkuw5x2gcpchh.cfd
 0.0.0.0 hvp45z.ru
 0.0.0.0 hw2umknokjpc5eiwe8353f.cfd
 0.0.0.0 hwclouds-dns.com
@@ -57649,6 +57648,7 @@
 0.0.0.0 jennifersoft.com
 0.0.0.0 news.jennydanny.com
 0.0.0.0 jensonrasprelim.cyou
+0.0.0.0 jeoawamwzbmeb.top
 0.0.0.0 jeqsuyzlpwjzy.rocks
 0.0.0.0 cno.jerkmate.com
 0.0.0.0 gateway.cno.jerkmate.com
@@ -60607,6 +60607,7 @@
 0.0.0.0 lmtoken.uk
 0.0.0.0 l997.lmtonline.com
 0.0.0.0 lmvba.com
+0.0.0.0 lmvrjabzqelkj.top
 0.0.0.0 ln.is
 0.0.0.0 lnabew.com
 0.0.0.0 analytics.lne.es
@@ -64861,7 +64862,6 @@
 0.0.0.0 ap58.ftth.ucom.ne.jp
 0.0.0.0 ne02.biz
 0.0.0.0 ne20.biz
-0.0.0.0 ne4s.icu
 0.0.0.0 pub.neartonet.com
 0.0.0.0 nearvana.co
 0.0.0.0 neat-period.com
@@ -68778,11 +68778,6 @@
 0.0.0.0 pcdwm.com
 0.0.0.0 utiq.pcgameshardware.de
 0.0.0.0 piwik.pcgamingwiki.com
-0.0.0.0 pchelpsoft.com
-0.0.0.0 cloud.pchelpsoft.com
-0.0.0.0 inapp.pchelpsoft.com
-0.0.0.0 offers.pchelpsoft.com
-0.0.0.0 www.pchelpsoft.com
 0.0.0.0 pcicifogr.com
 0.0.0.0 sp.pcid.ca
 0.0.0.0 pcixo.com
@@ -68918,7 +68913,6 @@
 0.0.0.0 perfectionholic.com
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 perfectmarket.com
-0.0.0.0 perfectstickyrenewal.com
 0.0.0.0 log.perfecttitspics.com
 0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 dlog.perfectworldgames.com
@@ -69995,6 +69989,7 @@
 0.0.0.0 porchadvertise.com
 0.0.0.0 porculahoning.com
 0.0.0.0 be.porculahoning.com
+0.0.0.0 porcupvu.cyou
 0.0.0.0 porikatha.com
 0.0.0.0 xa.poringa.net
 0.0.0.0 x.porn.fr
@@ -74829,8 +74824,6 @@
 0.0.0.0 9145.searchmagnified.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 tracking.searchmarketing.com
-0.0.0.0 searchmarquis.com
-0.0.0.0 www.searchmarquis.com
 0.0.0.0 searchmaven.co
 0.0.0.0 pub.searchnova.net
 0.0.0.0 searchnowexpert.com
@@ -76022,7 +76015,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenhuafei.cn
@@ -78472,6 +78464,7 @@
 0.0.0.0 win.staticstuff.net
 0.0.0.0 statisgeek.com
 0.0.0.0 www.statisgeek.com
+0.0.0.0 statisnv.cyou
 0.0.0.0 ads.consents-management.prod.aws.statista.com
 0.0.0.0 statisticline.com
 0.0.0.0 statisticresearch.com
@@ -84261,8 +84254,6 @@
 0.0.0.0 wt.viagogo.net
 0.0.0.0 viagrasamplesfrompfizer.com
 0.0.0.0 viagrawinner.com
-0.0.0.0 vialotadom.com
-0.0.0.0 ak.vialotadom.com
 0.0.0.0 vianboaegiaed.website
 0.0.0.0 viantinc.com
 0.0.0.0 cdn.viantinc.com
@@ -87124,7 +87115,6 @@
 0.0.0.0 cizml.wyndhamhotels.com
 0.0.0.0 smetrics.wyndhamhotels.com
 0.0.0.0 tags.wyndhamhotels.com
-0.0.0.0 wynikszczesciaa.online
 0.0.0.0 adconfig.wynk.in
 0.0.0.0 adtech.wynk.in
 0.0.0.0 adserver.adtech.wynk.in
@@ -88344,6 +88334,7 @@
 0.0.0.0 sgtm.yubico.com
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yudvl.org
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com
