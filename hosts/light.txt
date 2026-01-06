@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 14:08 UTC
-# Version: 2026.0106.1408.29
+# Last modified: 06 Jan 2026 18:08 UTC
+# Version: 2026.0106.1808.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 86688
+# Number of entries: 86706
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000cc36be8eb.top
@@ -31567,7 +31567,6 @@
 0.0.0.0 cfprotools.com
 0.0.0.0 cfusion-internet.com
 0.0.0.0 cfusionsys.com
-0.0.0.0 cfykjcgkkgdb87.top
 0.0.0.0 cgcg01010ht.com
 0.0.0.0 cgcg01011ht.com
 0.0.0.0 cgcg01020ht.com
@@ -32745,7 +32744,6 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -34017,6 +34015,7 @@
 0.0.0.0 commontools.net
 0.0.0.0 ru.commontools.net
 0.0.0.0 commonvivacious.com
+0.0.0.0 commonwealthgroovemadam.com
 0.0.0.0 commonwealthproficient.com
 0.0.0.0 communicatedsuitcompartment.com
 0.0.0.0 communitylearningcenter.org
@@ -48065,6 +48064,7 @@
 0.0.0.0 google-deneme-check.com
 0.0.0.0 google-f.com
 0.0.0.0 google-finance-ai-official.com
+0.0.0.0 google-finance-aibot.com
 0.0.0.0 google-gg.cn
 0.0.0.0 google-nrn.com
 0.0.0.0 google-nrnr.com
@@ -52107,6 +52107,7 @@
 0.0.0.0 survey.news.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 c0.ifengimg.com
+0.0.0.0 ifg3n1c2k5te5o6.cfd
 0.0.0.0 iflirts.com
 0.0.0.0 www.iflirts.com
 0.0.0.0 log.iflytek.com
@@ -53138,7 +53139,6 @@
 0.0.0.0 script.accesstrade.in.th
 0.0.0.0 analytics.anihub.in.ua
 0.0.0.0 analytic.propertyhub.in.th
-0.0.0.0 riku.in.net
 0.0.0.0 truehits.in.th
 0.0.0.0 lvs.truehits.in.th
 0.0.0.0 lvs2.truehits.in.th
@@ -54036,6 +54036,10 @@
 0.0.0.0 mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 0.0.0.0 analytics.inzynk.io
 0.0.0.0 tags.inzynk.io
+0.0.0.0 io-en-us.host
+0.0.0.0 io-en-us.pro
+0.0.0.0 io-en-us.shop
+0.0.0.0 io-en-us.site
 0.0.0.0 io2trf.bond
 0.0.0.0 ioadserve.com
 0.0.0.0 ioam.de
@@ -54506,6 +54510,7 @@
 0.0.0.0 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0 iuyggvhq.icu
 0.0.0.0 ivcsmrt.com
+0.0.0.0 ivfun-migration.com
 0.0.0.0 logger.ivi.ru
 0.0.0.0 ivid.it
 0.0.0.0 plausible.ivoberger.com
@@ -56973,6 +56978,7 @@
 0.0.0.0 trc.lhmos.com
 0.0.0.0 lhub.to
 0.0.0.0 lhwimdpdjajfx.rocks
+0.0.0.0 lhyuperliquidx.com
 0.0.0.0 lhyxoipzyzkuz.website
 0.0.0.0 liadm.com
 0.0.0.0 b-code.liadm.com
@@ -57661,6 +57667,7 @@
 0.0.0.0 lmpush.com
 0.0.0.0 lmpvjicjvvfuyhefmggs.com
 0.0.0.0 www.lmpvjicjvvfuyhefmggs.com
+0.0.0.0 lmqvowebejzyy.top
 0.0.0.0 l997.lmtonline.com
 0.0.0.0 lmvba.com
 0.0.0.0 lmvrjabzqelkj.top
@@ -60960,6 +60967,7 @@
 0.0.0.0 elqtrk.morningstar.com
 0.0.0.0 abufc.moroccanoil.com
 0.0.0.0 morordermal.com
+0.0.0.0 morozmyau-658.cfd
 0.0.0.0 pixel.morphify.net
 0.0.0.0 analytics.morphnet.work
 0.0.0.0 morrowadded.com
@@ -65529,6 +65537,7 @@
 0.0.0.0 paddlemoscowsplit.com
 0.0.0.0 paddypower.it
 0.0.0.0 piwik.paderborn.de
+0.0.0.0 padre-pump.fun
 0.0.0.0 padretrade.io
 0.0.0.0 padsims.com
 0.0.0.0 ads.simpli.padsquad.com
@@ -66431,6 +66440,7 @@
 0.0.0.0 phallforti.rest
 0.0.0.0 phanexten.info
 0.0.0.0 phanquang.vn
+0.0.0.0 phantom-finance-app.com
 0.0.0.0 phantomgift.bond
 0.0.0.0 matomo.pharetis.net
 0.0.0.0 pharmanalysis.de
@@ -69816,6 +69826,7 @@
 0.0.0.0 smetrics.regions.com
 0.0.0.0 t.regionsjob.com
 0.0.0.0 regisstall.pro
+0.0.0.0 register-brevis.com
 0.0.0.0 register-fafo.live
 0.0.0.0 register-maduro.live
 0.0.0.0 register-pumpbank.fun
@@ -70875,6 +70886,7 @@
 0.0.0.0 tk-sg.robin-flow.com
 0.0.0.0 tkda.robin-flow.com
 0.0.0.0 crumbs.robinhood.com
+0.0.0.0 robinjsb.sbs
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 lms.roblox.com
 0.0.0.0 tracing.roblox.com
@@ -73242,6 +73254,7 @@
 0.0.0.0 servg1.net
 0.0.0.0 servh.net
 0.0.0.0 service-espace-blocage.info
+0.0.0.0 service-expedition-relay.com
 0.0.0.0 matomo.servicesf1.com
 0.0.0.0 swrm.serving-ad.com
 0.0.0.0 serving-sys.com
@@ -73505,7 +73518,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenhuafei.cn
@@ -78410,7 +78422,6 @@
 0.0.0.0 throtle.io
 0.0.0.0 thrtle.com
 0.0.0.0 nlsn.thrtle.com
-0.0.0.0 ad.thsi.cn
 0.0.0.0 thstvv.com
 0.0.0.0 cgim.thstvv.com
 0.0.0.0 thtaivujjcl.com
@@ -78874,7 +78885,6 @@
 0.0.0.0 share-v2.togothermany.com
 0.0.0.0 toiletpaper.life
 0.0.0.0 token-backpack.live
-0.0.0.0 tokenpooken.vip
 0.0.0.0 tokimekimaildesu.net
 0.0.0.0 tokimekitaine.net
 0.0.0.0 toknowall.com
@@ -79588,6 +79598,7 @@
 0.0.0.0 cdnx.tribalfusion.com
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 collector.tribe.so
+0.0.0.0 tribelio.page
 0.0.0.0 tag.triboomedia.it
 0.0.0.0 triboon.net
 0.0.0.0 native-removal.triboon.net
@@ -83700,6 +83711,7 @@
 0.0.0.0 feed-5556.waxapushlite.com
 0.0.0.0 feed-7188.waxapushlite.com
 0.0.0.0 feed-9561.waxapushlite.com
+0.0.0.0 waxpilusd.xyz
 0.0.0.0 prx.wayfair.com
 0.0.0.0 s.wayfair.com
 0.0.0.0 t.wayfair.ca
@@ -85197,6 +85209,7 @@
 0.0.0.0 xjwzbo.com
 0.0.0.0 xkakkewixszu.com
 0.0.0.0 www.xkakkewixszu.com
+0.0.0.0 xkqdkn.com
 0.0.0.0 xkucamlcuaqk.com
 0.0.0.0 analytics.xl.pt
 0.0.0.0 pubs.xl.pt
@@ -85730,6 +85743,7 @@
 0.0.0.0 yieldbird.com
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 s2s.yieldbird.com
+0.0.0.0 yieldera.fun
 0.0.0.0 app.yieldify.com
 0.0.0.0 yieldify-production.com
 0.0.0.0 fonts.yieldify-production.com
@@ -85837,6 +85851,7 @@
 0.0.0.0 yiorgahqwrj.com
 0.0.0.0 yiqifa.com
 0.0.0.0 yiranxian.cn
+0.0.0.0 yivtsnnmutzkb.site
 0.0.0.0 yjdzqszsqttiy.store
 0.0.0.0 yjtag.jp
 0.0.0.0 b.yjtag.jp
@@ -86060,6 +86075,7 @@
 0.0.0.0 sgtm.yubico.com
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yudvl.org
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukagsanti.rest
 0.0.0.0 yukclick.me
@@ -86375,6 +86391,7 @@
 0.0.0.0 zeydoo.com
 0.0.0.0 zfctrack.net
 0.0.0.0 s.zfctrack.net
+0.0.0.0 zfqskzjijhgma.space
 0.0.0.0 zftpnp.icu
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 cs.zg-api.com
@@ -86462,6 +86479,7 @@
 0.0.0.0 tnc3-alisc1.zijieapi.com
 0.0.0.0 tnc3-bjlgy.zijieapi.com
 0.0.0.0 vcs.zijieapi.com
+0.0.0.0 zilliqastake.icu
 0.0.0.0 zimg.jp
 0.0.0.0 j.zucks.net.zimg.jp
 0.0.0.0 static.zucks.net.zimg.jp

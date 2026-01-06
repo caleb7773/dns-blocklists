@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 14:32 UTC
-# Version: 2026.0106.1432.25
+# Last modified: 06 Jan 2026 18:32 UTC
+# Version: 2026.0106.1832.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 36503
+# Number of entries: 36514
 #
 *.000-online-casino.com
 *.0009casino.com
@@ -4386,6 +4386,10 @@
 *.alev-casino-slots.life
 *.alev-casino-tr-info.top
 *.alev-casinotr.top
+*.alevcasino-588.com
+*.alevcasino-635.com
+*.alevcasino-822.com
+*.alevcasino-889.com
 *.alevcasino-official.com
 *.alevcasino-official.xyz
 *.alevcasino-playgame-tr.top
@@ -4393,16 +4397,21 @@
 *.alevcasino-tr-website.digital
 *.alevcasino393.com
 *.alevcasino407.com
+*.alevcasino408.com
 *.alevcasino505.com
 *.alevcasino507.com
 *.alevcasino604.com
 *.alevcasino613.com
 *.alevcasino673.com
+*.alevcasino731.com
+*.alevcasino744.com
 *.alevcasino80.com
 *.alevcasino829.com
 *.alevcasino839.com
+*.alevcasino853.com
 *.alevcasino90.com
 *.alevcasino931.com
+*.alevcasino943.com
 *.alexa999.org
 *.alexander-casino-play.com
 *.alexandercasino.com
@@ -11513,6 +11522,8 @@
 *.catcasino-zyv.top
 *.catcasino84.com
 *.catcasino940.com
+*.catcasino989.com
+*.catcasino993.com
 *.catcasinoat.com
 *.catcasinos22w.run
 *.catcasinovhod.fun

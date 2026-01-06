@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 01:31 UTC
-# Version: 2026.0106.0131.19
+# Last modified: 06 Jan 2026 17:30 UTC
+# Version: 2026.0106.1730.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10036
+# Number of entries: 10038
 #
 local=/0.gp/
 local=/00m.in/
@@ -1103,6 +1103,7 @@ local=/bio.link/
 local=/bio.ovh/
 local=/vai.bio.br/
 local=/bio-links.ru/
+local=/bio66.site/
 local=/bioandlink.com/
 local=/biobee.io/
 local=/biocardpro.com/
@@ -4071,6 +4072,7 @@ local=/klickhier.at/
 local=/klicklink.info/
 local=/klik.best/
 local=/klik.gg/
+local=/klik.ninja/
 local=/klik.now/
 local=/klik.top/
 local=/klik-ini.info/

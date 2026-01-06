@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jan 2026 14:20 UTC
-! Version: 2026.0106.1420.13
+! Last modified: 06 Jan 2026 18:20 UTC
+! Version: 2026.0106.1820.32
 ! Syntax: AdBlock
-! Number of entries: 65589
+! Number of entries: 65607
 !
 ||00055edc1917.com^
 ||000cc36be8eb.top^
@@ -13749,6 +13749,7 @@
 ||idsod.catholic.com^
 ||catiuribripent.com^
 ||catknock.com^
+||catlanguage.net^
 ||catmore88.com^
 ||catmos99.com^
 ||client-telemetry.main.prod.k8s.catonet.works^
@@ -14230,7 +14231,6 @@
 ||cfusionsys.com^
 ||cfxmining.cyou^
 ||cfxmining.vip^
-||cfykjcgkkgdb87.top^
 ||sentry.cg-gb.com^
 ||cgcg01010ht.com^
 ||cgcg01011ht.com^
@@ -15719,7 +15719,6 @@
 ||cnv.cx^
 ||cnvlink.com^
 ||cnvr.net^
-||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -17377,6 +17376,7 @@
 ||commontools.net^
 ||commonvivacious.com^
 ||commonwealth2026.top^
+||commonwealthgroovemadam.com^
 ||commonwealthpoint2026.top^
 ||commonwealthpoints2026.top^
 ||commonwealthproficient.com^
@@ -21181,10 +21181,7 @@
 ||ducikduckgo.com^
 ||brownfilleds.duckdns.org^
 ||frnr.duckdns.org^
-||lah1.duckdns.org^
 ||mrtx.duckdns.org^
-||nchdicus.duckdns.org^
-||supertop2.duckdns.org^
 ||tayfagreatie.duckdns.org^
 ||duckduckgo.help^
 ||improving.duckduckgo.com^
@@ -27332,6 +27329,7 @@
 ||google-deneme-check.com^
 ||google-f.com^
 ||google-finance-ai-official.com^
+||google-finance-aibot.com^
 ||google-gg.cn^
 ||google-nrn.com^
 ||google-nrnr.com^
@@ -30183,6 +30181,7 @@
 ||stadig.ifeng.com^
 ||uww6.ifeng.com^
 ||c0.ifengimg.com^
+||ifg3n1c2k5te5o6.cfd^
 ||ping.ifixit.com^
 ||iflirts.com^
 ||log.iflytek.com^
@@ -30546,7 +30545,6 @@
 ||analytics.anihub.in.ua^
 ||jobdekho.in.net^
 ||analytic.propertyhub.in.th^
-||riku.in.net^
 ||truehits.in.th^
 ||whatsapp-status.in.net^
 ||in-page-push.com^
@@ -30796,6 +30794,7 @@
 ||rb.infox.sg^
 ||ampush-tracking.infra-bpm.link^
 ||trt-analytics.infra-moonactive.net^
+||infrafood.com^
 ||analytics.infraloods.nl^
 ||infralogic.inframationnews.com^
 ||cp.infranken.de^
@@ -31317,6 +31316,10 @@
 ||inyoketuber.com^
 ||analytics.inzynk.io^
 ||tags.inzynk.io^
+||io-en-us.host^
+||io-en-us.pro^
+||io-en-us.shop^
+||io-en-us.site^
 ||io0492uf7-1f.cfd^
 ||io2trf.bond^
 ||ioadserve.com^
@@ -31689,6 +31692,7 @@
 ||ivarolne.xyz^
 ||ivastudio.ai^
 ||ivcsmrt.com^
+||ivfun-migration.com^
 ||ivfw-protect.pro^
 ||events.ivi.ru^
 ||logger.ivi.ru^
@@ -34329,6 +34333,7 @@
 ||lhub.to^
 ||lhwimdpdjajfx.rocks^
 ||lhyklwh.com^
+||lhyuperliquidx.com^
 ||lhyxoipzyzkuz.website^
 ||li9jiy.net^
 ||liadm.com^
@@ -35141,6 +35146,7 @@
 ||lmpresslvedate.com^
 ||lmpush.com^
 ||lmpvjicjvvfuyhefmggs.com^
+||lmqvowebejzyy.top^
 ||receive-sentry.lmru.tech^
 ||sentry.lmru.tech^
 ||l997.lmtonline.com^
@@ -38205,6 +38211,7 @@
 ||msmedia.morningstar.com^
 ||abufc.moroccanoil.com^
 ||morordermal.com^
+||morozmyau-658.cfd^
 ||morphed.ru^
 ||pixel.morphify.net^
 ||analytics.morphnet.work^
@@ -44161,6 +44168,7 @@
 ||piwik.paderborn.de^
 ||analytics-prod.padi.com^
 ||padoa.fr^
+||padre-pump.fun^
 ||padretrade.io^
 ||pads289.net^
 ||padsims.com^
@@ -45143,6 +45151,7 @@
 ||phanexten.info^
 ||phange-brainsula.com^
 ||phanquang.vn^
+||phantom-finance-app.com^
 ||phantomgift.bond^
 ||matomo.pharetis.net^
 ||web-analytics.pharmacyonesource.com^
@@ -49107,6 +49116,7 @@
 ||t.regionsjob.com^
 ||regisstall.pro^
 ||trk.register.it^
+||register-brevis.com^
 ||register-fafo.live^
 ||register-maduro.live^
 ||register-pumpbank.fun^
@@ -49805,6 +49815,7 @@
 ||robhahgirding.cfd^
 ||robin-flow.com^
 ||crumbs.robinhood.com^
+||robinjsb.sbs^
 ||ads.roblox.com^
 ||client-telemetry.roblox.com^
 ||ecsv2.roblox.com^
@@ -51836,6 +51847,7 @@
 ||servh.net^
 ||service-domain.xyz^
 ||service-espace-blocage.info^
+||service-expedition-relay.com^
 ||service-nw.com^
 ||service159.top^
 ||service2026.vip^
@@ -52172,7 +52184,6 @@
 ||creative.shemale.show^
 ||go.shemale.show^
 ||shemedia.com^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenhuafei.cn^
@@ -55422,6 +55433,7 @@
 ||syphoincun.homes^
 ||syria-live.space^
 ||eph-adsjutarnji.cdn.sysbee.net^
+||syscsrv.com^
 ||syslike.org^
 ||jaguar-distributor.syslogcollector.com^
 ||sncsconnect-gateway.caresphere.sysmex.com^
@@ -57406,7 +57418,6 @@
 ||toh.info^
 ||toiletpaper.life^
 ||token-backpack.live^
-||tokenpooken.vip^
 ||tokeyooinnice.shop^
 ||tokimekimaildesu.net^
 ||tokimekitaine.net^
@@ -61701,6 +61712,7 @@
 ||collector.wawlabs.com^
 ||waxa-direct.info^
 ||waxapushlite.com^
+||waxpilusd.xyz^
 ||prx.wayfair.com^
 ||s.wayfair.com^
 ||t.wayfair.ca^
@@ -63723,6 +63735,7 @@
 ||xjvunf.top^
 ||xjwzbo.com^
 ||xkakkewixszu.com^
+||xkqdkn.com^
 ||xkucamlcuaqk.com^
 ||analytics.xl.pt^
 ||pubs.xl.pt^
@@ -64395,6 +64408,7 @@
 ||yield.app^
 ||yieldads.net^
 ||yieldbird.com^
+||yieldera.fun^
 ||yieldify.com^
 ||yieldify-production.com^
 ||yieldkit.com^
@@ -64472,6 +64486,7 @@
 ||yiorgahqwrj.com^
 ||yiqifa.com^
 ||yiranxian.cn^
+||yivtsnnmutzkb.site^
 ||yixin.com^
 ||img-nos.yiyouliao.com^
 ||yiyuanlife.com^
@@ -64768,6 +64783,7 @@
 ||adv.yuetnc.com^
 ||yuga.ru^
 ||yugukj.com^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yuiopm.bond^
 ||yuiopm.fit^
@@ -65175,6 +65191,7 @@
 ||zfacts.com^
 ||zfctrack.net^
 ||data-7de4e2b45e.zfk.de^
+||zfqskzjijhgma.space^
 ||zftpnp.icu^
 ||analytics.zg-api.com^
 ||cs.zg-api.com^
@@ -65292,6 +65309,7 @@
 ||tnc3-alisc1.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||vcs.zijieapi.com^
+||zilliqastake.icu^
 ||analytics-zg-api.test.zillow.net^
 ||analytics.zg-api.test.zillow.net^
 ||blog.zimaboard.com^

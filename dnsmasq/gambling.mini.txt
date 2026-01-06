@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 14:32 UTC
-# Version: 2026.0106.1432.25
+# Last modified: 06 Jan 2026 18:32 UTC
+# Version: 2026.0106.1832.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 36503
+# Number of entries: 36514
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -4386,6 +4386,10 @@ local=/alev-casino-slots.digital/
 local=/alev-casino-slots.life/
 local=/alev-casino-tr-info.top/
 local=/alev-casinotr.top/
+local=/alevcasino-588.com/
+local=/alevcasino-635.com/
+local=/alevcasino-822.com/
+local=/alevcasino-889.com/
 local=/alevcasino-official.com/
 local=/alevcasino-official.xyz/
 local=/alevcasino-playgame-tr.top/
@@ -4393,16 +4397,21 @@ local=/alevcasino-tr.top/
 local=/alevcasino-tr-website.digital/
 local=/alevcasino393.com/
 local=/alevcasino407.com/
+local=/alevcasino408.com/
 local=/alevcasino505.com/
 local=/alevcasino507.com/
 local=/alevcasino604.com/
 local=/alevcasino613.com/
 local=/alevcasino673.com/
+local=/alevcasino731.com/
+local=/alevcasino744.com/
 local=/alevcasino80.com/
 local=/alevcasino829.com/
 local=/alevcasino839.com/
+local=/alevcasino853.com/
 local=/alevcasino90.com/
 local=/alevcasino931.com/
+local=/alevcasino943.com/
 local=/alexa999.org/
 local=/alexander-casino-play.com/
 local=/alexandercasino.com/
@@ -11513,6 +11522,8 @@ local=/catcasino-ztc.top/
 local=/catcasino-zyv.top/
 local=/catcasino84.com/
 local=/catcasino940.com/
+local=/catcasino989.com/
+local=/catcasino993.com/
 local=/catcasinoat.com/
 local=/catcasinos22w.run/
 local=/catcasinovhod.fun/

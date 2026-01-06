@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 14:31 UTC
-# Version: 2026.0106.1431.13
+# Last modified: 06 Jan 2026 18:31 UTC
+# Version: 2026.0106.1831.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 83530
+# Number of entries: 83547
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -9328,25 +9328,38 @@ local=/alev-casino-turkey.digital/
 local=/alev-casino-turkiye.top/
 local=/alev-casino-web.life/
 local=/alev-casinotr.top/
+local=/alevcasino-588.com/
+local=/alevcasino-635.com/
+local=/alevcasino-822.com/
+local=/alevcasino-889.com/
 local=/alevcasino-giris.click/
 local=/alevcasino-official.com/
 local=/alevcasino-official.xyz/
 local=/alevcasino-playgame-tr.top/
 local=/alevcasino-tr.top/
 local=/alevcasino-tr-website.digital/
+local=/alevcasino321.com/
 local=/alevcasino393.com/
 local=/alevcasino407.com/
+local=/alevcasino408.com/
 local=/alevcasino481.com/
 local=/alevcasino505.com/
 local=/alevcasino507.com/
 local=/alevcasino604.com/
 local=/alevcasino613.com/
+local=/alevcasino644.com/
 local=/alevcasino673.com/
+local=/alevcasino710.com/
+local=/alevcasino731.com/
+local=/alevcasino744.com/
+local=/alevcasino795.com/
 local=/alevcasino80.com/
 local=/alevcasino829.com/
 local=/alevcasino839.com/
+local=/alevcasino853.com/
 local=/alevcasino90.com/
 local=/alevcasino931.com/
+local=/alevcasino943.com/
 local=/alexa-casino.com/
 local=/alexa999.org/
 local=/alexabets.org/
@@ -28185,6 +28198,8 @@ local=/catcasino832.com/
 local=/catcasino84.com/
 local=/catcasino840.com/
 local=/catcasino940.com/
+local=/catcasino989.com/
+local=/catcasino993.com/
 local=/catcasinoamp.icu/
 local=/catcasinoamp.ink/
 local=/catcasinoamp.rest/
@@ -64390,6 +64405,7 @@ local=/putripoker.com/
 local=/putripower.store/
 local=/putritaken.store/
 local=/puzzlecasinoonline.com/
+local=/pv3.top/
 local=/pvbet.com/
 local=/pvbetsa.com/
 local=/pvlu.org/
@@ -67230,6 +67246,7 @@ local=/rizzcasinofrance.com/
 local=/rizzcasinoh.com/
 local=/rizzcasinologin.net/
 local=/rizzcasinospain.com/
+local=/rizzio.io/
 local=/rizzio-casino-de.com/
 local=/rizzio-casino-online.com/
 local=/rizzio-online.casino/

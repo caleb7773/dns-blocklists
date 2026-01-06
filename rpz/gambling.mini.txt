@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767709920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767724320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jan 2026 14:32 UTC
-; Version: 2026.0106.1432.25
+; Last modified: 06 Jan 2026 18:32 UTC
+; Version: 2026.0106.1832.34
 ; Syntax: RPZ
-; Number of entries: 73006
+; Number of entries: 73028
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -14914,12 +14914,22 @@ aleautos1.com CNAME .
 *.aleautos1.com CNAME .
 alefdevelopment.com CNAME .
 *.alefdevelopment.com CNAME .
+alevcasino-588.com CNAME .
+*.alevcasino-588.com CNAME .
+alevcasino-635.com CNAME .
+*.alevcasino-635.com CNAME .
+alevcasino-822.com CNAME .
+*.alevcasino-822.com CNAME .
+alevcasino-889.com CNAME .
+*.alevcasino-889.com CNAME .
 alevcasino-official.com CNAME .
 *.alevcasino-official.com CNAME .
 alevcasino393.com CNAME .
 *.alevcasino393.com CNAME .
 alevcasino407.com CNAME .
 *.alevcasino407.com CNAME .
+alevcasino408.com CNAME .
+*.alevcasino408.com CNAME .
 alevcasino505.com CNAME .
 *.alevcasino505.com CNAME .
 alevcasino507.com CNAME .
@@ -14930,16 +14940,24 @@ alevcasino613.com CNAME .
 *.alevcasino613.com CNAME .
 alevcasino673.com CNAME .
 *.alevcasino673.com CNAME .
+alevcasino731.com CNAME .
+*.alevcasino731.com CNAME .
+alevcasino744.com CNAME .
+*.alevcasino744.com CNAME .
 alevcasino80.com CNAME .
 *.alevcasino80.com CNAME .
 alevcasino829.com CNAME .
 *.alevcasino829.com CNAME .
 alevcasino839.com CNAME .
 *.alevcasino839.com CNAME .
+alevcasino853.com CNAME .
+*.alevcasino853.com CNAME .
 alevcasino90.com CNAME .
 *.alevcasino90.com CNAME .
 alevcasino931.com CNAME .
 *.alevcasino931.com CNAME .
+alevcasino943.com CNAME .
+*.alevcasino943.com CNAME .
 alexander-casino-play.com CNAME .
 *.alexander-casino-play.com CNAME .
 alexandercasino.com CNAME .
@@ -21782,6 +21800,10 @@ catcasino84.com CNAME .
 *.catcasino84.com CNAME .
 catcasino940.com CNAME .
 *.catcasino940.com CNAME .
+catcasino989.com CNAME .
+*.catcasino989.com CNAME .
+catcasino993.com CNAME .
+*.catcasino993.com CNAME .
 catcasinoat.com CNAME .
 *.catcasinoat.com CNAME .
 cathedralonlinecasino.com CNAME .

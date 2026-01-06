@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jan 2026 01:31 UTC
-! Version: 2026.0106.0131.19
+! Last modified: 06 Jan 2026 17:30 UTC
+! Version: 2026.0106.1730.50
 ! Syntax: AdBlock
-! Number of entries: 10036
+! Number of entries: 10038
 !
 ||0.gp^
 ||00m.in^
@@ -1104,6 +1104,7 @@
 ||bio.ovh^
 ||vai.bio.br^
 ||bio-links.ru^
+||bio66.site^
 ||bioandlink.com^
 ||biobee.io^
 ||biocardpro.com^
@@ -4072,6 +4073,7 @@
 ||klicklink.info^
 ||klik.best^
 ||klik.gg^
+||klik.ninja^
 ||klik.now^
 ||klik.top^
 ||klik-ini.info^
