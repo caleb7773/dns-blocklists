@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/8659
+tw.netcore.co.in
+
 # n-tv app: When blocked, a video starts again after a few seconds
 ### ad-ipd.sxp.smartclip.net
 ### des.smartclip.net
