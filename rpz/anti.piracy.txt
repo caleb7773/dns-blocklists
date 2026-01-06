@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767666720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767695820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jan 2026 02:32 UTC
-; Version: 2026.0106.0232.04
+; Last modified: 06 Jan 2026 10:37 UTC
+; Version: 2026.0106.1037.31
 ; Syntax: RPZ
-; Number of entries: 22824
+; Number of entries: 22810
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1906,6 +1906,8 @@ guardaserie01.click CNAME .
 *.guardaserie01.click CNAME .
 italia-film.click CNAME .
 *.italia-film.click CNAME .
+tracker.ixuexi.click CNAME .
+*.tracker.ixuexi.click CNAME .
 nextream.click CNAME .
 *.nextream.click CNAME .
 pelisflix20.click CNAME .
@@ -5702,12 +5704,8 @@ morpheustvhd.com CNAME .
 *.morpheustvhd.com CNAME .
 motivationalhacks.com CNAME .
 *.motivationalhacks.com CNAME .
-movie2k-alternative.com CNAME .
-*.movie2k-alternative.com CNAME .
 movie2k-hd.com CNAME .
 *.movie2k-hd.com CNAME .
-movie2kx.com CNAME .
-*.movie2kx.com CNAME .
 moviebeamz.com CNAME .
 *.moviebeamz.com CNAME .
 movieblogarea.com CNAME .
@@ -11150,14 +11148,6 @@ ilgeniodellostreaming.lat CNAME .
 *.ilgeniodellostreaming.lat CNAME .
 kinox.lat CNAME .
 *.kinox.lat CNAME .
-lordfilmkxc.lat CNAME .
-*.lordfilmkxc.lat CNAME .
-lordfilmkxg.lat CNAME .
-*.lordfilmkxg.lat CNAME .
-lordfilmkxl.lat CNAME .
-*.lordfilmkxl.lat CNAME .
-lordfilmkxoc.lat CNAME .
-*.lordfilmkxoc.lat CNAME .
 lordfilmkxr.lat CNAME .
 *.lordfilmkxr.lat CNAME .
 movie2k.lat CNAME .
@@ -12440,8 +12430,6 @@ ilgeniodellostreaming.mom CNAME .
 *.ilgeniodellostreaming.mom CNAME .
 juststream.mom CNAME .
 *.juststream.mom CNAME .
-movie2k.mom CNAME .
-*.movie2k.mom CNAME .
 moviesdrive.mom CNAME .
 *.moviesdrive.mom CNAME .
 pelisflix20.mom CNAME .
@@ -21762,8 +21750,6 @@ kinovibe.vip CNAME .
 *.kinovibe.vip CNAME .
 lk21official.vip CNAME .
 *.lk21official.vip CNAME .
-lordfilmkx.vip CNAME .
-*.lordfilmkx.vip CNAME .
 m4ufree.vip CNAME .
 *.m4ufree.vip CNAME .
 megapeer.vip CNAME .

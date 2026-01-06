@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jan 2026 09:28 UTC
-# Version: 2026.0105.0928.49
+# Last modified: 06 Jan 2026 09:29 UTC
+# Version: 2026.0106.0929.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13867
+# Number of entries: 13870
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -464,8 +464,7 @@ local=/amarketss.com/
 local=/amazenda.com/
 local=/amaznboxde.com/
 local=/amazonboxus.com/
-local=/7238.amazoncoin.su/
-local=/8826.amazoncoin.su/
+local=/amazoncoin.su/
 local=/amazongori.com/
 local=/amazonliw.com/
 local=/amazonspallet.com/
@@ -1243,6 +1242,7 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
+local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -2693,6 +2693,7 @@ local=/cozyfishing.com/
 local=/cozyhoome.com/
 local=/cozyixe.com/
 local=/cozysleepzone.com/
+local=/cp24.pl/
 local=/cpket.com/
 local=/cpopnow.com/
 local=/cqqodsports.com/
@@ -3803,6 +3804,7 @@ local=/enormous.shop/
 local=/enrichor.com/
 local=/ensemble4cyclisme.com/
 local=/entermusic.it/
+local=/entertainl.com/
 local=/enthusiastichaic.com/
 local=/enthusiastip.com/
 local=/entornobanoes.com/
@@ -4618,6 +4620,7 @@ local=/fredperryonlineshop.de/
 local=/free-maket.com/
 local=/freeacy.com/
 local=/freemobile24.de/
+local=/freeseem.com/
 local=/freesmarttools.com/
 local=/freeteck.shop/
 local=/frehit.com/
@@ -7539,6 +7542,7 @@ local=/lockedintrading.co/
 local=/lockenbarava.shop/
 local=/lockenbareur.shop/
 local=/lockpickingstore.de/
+local=/locomotivey.com/
 local=/lodiac.com/
 local=/lodischuhedeutschland.com/
 local=/loefflerrandalllove.com/
@@ -12611,7 +12615,6 @@ local=/tryglycogenplus.com/
 local=/tryhavenmere.com/
 local=/trylumivera.com/
 local=/trynori.de/
-local=/trysorelle.com/
 local=/tsl-handel.de/
 local=/tsonlinestore.com/
 local=/idjebhi.r.tsp1-brevo.net/
@@ -12774,6 +12777,7 @@ local=/urbanstepzone.cfd/
 local=/urbmale.cc/
 local=/urbradeln.de/
 local=/urdotx.com/
+local=/urgalaxy.com/
 local=/urnsey.shop/
 local=/ursulam.com/
 local=/urzadomzone.com/
@@ -13123,7 +13127,6 @@ local=/vitalismoemi.com/
 local=/vitalwelt-apotheken.de/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
-local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/

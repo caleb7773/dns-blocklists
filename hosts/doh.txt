@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 22:35 UTC
-# Version: 2026.0104.2235.15
+# Last modified: 06 Jan 2026 10:42 UTC
+# Version: 2026.0106.1042.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3827
+# Number of entries: 3849
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -39,9 +39,11 @@
 0.0.0.0 d1.12342345.xyz
 0.0.0.0 hkali.13142233.xyz
 0.0.0.0 usxui.13142233.xyz
+0.0.0.0 zhk.13142233.xyz
 0.0.0.0 dns.13evl.com
 0.0.0.0 dns1.13evl.com
 0.0.0.0 dns.141664.xyz
+0.0.0.0 14921004.xyz
 0.0.0.0 hk-nnss.150076.xyz
 0.0.0.0 httpdns.c.163.com
 0.0.0.0 lofter.httpdns.c.163.com
@@ -146,6 +148,7 @@
 0.0.0.0 959818.xyz
 0.0.0.0 dd.961188.xyz
 0.0.0.0 bella.981377612.xyz
+0.0.0.0 9827015.xyz
 0.0.0.0 cld.996969.xyz
 0.0.0.0 ddd.999369.xyz
 0.0.0.0 dns.9999.sg
@@ -383,12 +386,14 @@
 0.0.0.0 dns.atsilva.link
 0.0.0.0 atsssgo.xyz
 0.0.0.0 dohtrial.att.net
+0.0.0.0 auberge78.site
 0.0.0.0 dns.audet.cloud
 0.0.0.0 dns.auffray.org
 0.0.0.0 africa.avastdns.com
 0.0.0.0 europe.avastdns.com
 0.0.0.0 europe-west.avastdns.com
 0.0.0.0 secure.avastdns.com
+0.0.0.0 adguard.avavd.ru
 0.0.0.0 vps.avc.cx
 0.0.0.0 adguard.avdkishore.dev
 0.0.0.0 axaxa.fun
@@ -751,6 +756,7 @@
 0.0.0.0 dns2.thylacine.co.nz
 0.0.0.0 doh.tsmu.co.id
 0.0.0.0 dns1.understandingcyber.co.uk
+0.0.0.0 dns.unknown-universe.co.uk
 0.0.0.0 dns.walshnet.co.uk
 0.0.0.0 augne.dns.walshnet.co.uk
 0.0.0.0 aviemore.dns.walshnet.co.uk
@@ -785,6 +791,7 @@
 0.0.0.0 blackhole.gugainfo.com.br
 0.0.0.0 dns.hub.com.de
 0.0.0.0 adguardcloud.iasm.com.ar
+0.0.0.0 dns.koretech.com.br
 0.0.0.0 dnssp.koretech.com.br
 0.0.0.0 arrakis.korolyzer.com.br
 0.0.0.0 lothuscorp.com.br
@@ -864,6 +871,7 @@
 0.0.0.0 dns2.cybrespace.net
 0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
+0.0.0.0 dns.cysynex.cloud
 0.0.0.0 nextcloud.d-alahmad.de
 0.0.0.0 dns.d365.in
 0.0.0.0 s2.d3mik.ru
@@ -1372,6 +1380,7 @@
 0.0.0.0 home27.duckdns.org
 0.0.0.0 homejerem.duckdns.org
 0.0.0.0 jfeoks.duckdns.org
+0.0.0.0 jonzalvo.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 kalwat.duckdns.org
 0.0.0.0 kiwifunke.duckdns.org
@@ -1394,6 +1403,8 @@
 0.0.0.0 salvadoserver.duckdns.org
 0.0.0.0 site-2.duckdns.org
 0.0.0.0 site-3.duckdns.org
+0.0.0.0 theadblocksg.duckdns.org
+0.0.0.0 ts653d.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
@@ -1524,6 +1535,7 @@
 0.0.0.0 yanggan.eu.org
 0.0.0.0 dns.everdns.tech
 0.0.0.0 exns1.exalto.nu
+0.0.0.0 dns.exhome.pl
 0.0.0.0 adguard.eximpius.xyz
 0.0.0.0 dns.exitstat.us
 0.0.0.0 dot-public.exitstat.us
@@ -1670,6 +1682,7 @@
 0.0.0.0 geshido.vpn.geshido.ru
 0.0.0.0 roma.vpn.geshido.ru
 0.0.0.0 getdnsapi.net
+0.0.0.0 dns.getnoclip.link
 0.0.0.0 ashixu.ggff.net
 0.0.0.0 jkmoon.ggff.net
 0.0.0.0 adguard.ghkyzz.us
@@ -1974,6 +1987,7 @@
 0.0.0.0 home.fc.idv.tw
 0.0.0.0 tls.jackyhou.idv.tw
 0.0.0.0 adguard.shuting.idv.tw
+0.0.0.0 gitea.sukon.idv.tw
 0.0.0.0 adguard.ihatemy.live
 0.0.0.0 dns.ihaveacloud.com
 0.0.0.0 iij.jp
@@ -2090,6 +2104,7 @@
 0.0.0.0 dns.jiyi.eu
 0.0.0.0 jkdns.me
 0.0.0.0 vps.jmarkin.ru
+0.0.0.0 dns.jmore.dev
 0.0.0.0 adg.jnorton.us
 0.0.0.0 jnprd.com
 0.0.0.0 dns.jnprd.com
@@ -2467,6 +2482,7 @@
 0.0.0.0 alexj123.mooo.com
 0.0.0.0 disinformer.mooo.com
 0.0.0.0 e23a.mooo.com
+0.0.0.0 riga91197.mooo.com
 0.0.0.0 dns.moraes.tech
 0.0.0.0 dns.moraru.net
 0.0.0.0 morbitzer.de
@@ -2529,6 +2545,7 @@
 0.0.0.0 dns1.server.my.id
 0.0.0.0 dns.velyn.my.id
 0.0.0.0 dns.vmath.my.id
+0.0.0.0 zapranet.my.id
 0.0.0.0 vds2380673.my-ihor.ru
 0.0.0.0 filter.myaddr.io
 0.0.0.0 myadg.ru
@@ -2547,6 +2564,7 @@
 0.0.0.0 paranoia.mydns.network
 0.0.0.0 tngch.mydns.jp
 0.0.0.0 dns.tngch.mydns.jp
+0.0.0.0 agh-ovh.mynetgear.com
 0.0.0.0 walker.mynetgear.com
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 egshe.myqnapcloud.com
@@ -2623,6 +2641,7 @@
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
 0.0.0.0 x210-131-219-118.static.xvps.ne.jp
 0.0.0.0 dns.neeb.it
+0.0.0.0 adguard.neelyha.tk
 0.0.0.0 dns.nekofish.cc
 0.0.0.0 nelsonleung.org
 0.0.0.0 adguard.neotix.net
@@ -2860,6 +2879,7 @@
 0.0.0.0 dns.pari.network
 0.0.0.0 pashagame456.com
 0.0.0.0 paskam.xyz
+0.0.0.0 rumsk.paskam.xyz
 0.0.0.0 a.passcloud.xyz
 0.0.0.0 i.passcloud.xyz
 0.0.0.0 dns.pastorov.ru
@@ -3028,6 +3048,7 @@
 0.0.0.0 frog.dns.qwer.pw
 0.0.0.0 lion.dns.qwer.pw
 0.0.0.0 tiger.dns.qwer.pw
+0.0.0.0 kams.kii.qzz.io
 0.0.0.0 home.r01.fr
 0.0.0.0 resolver.r0cket.net
 0.0.0.0 r1bnc.com
@@ -3630,6 +3651,7 @@
 0.0.0.0 darkness.is.my.waifu.cz
 0.0.0.0 megumin.is.my.waifu.cz
 0.0.0.0 yunyun.is.my.waifu.cz
+0.0.0.0 dns.walker.id
 0.0.0.0 wallpap.eu
 0.0.0.0 adguard.wallura.eu
 0.0.0.0 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr

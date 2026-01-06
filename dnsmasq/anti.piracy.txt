@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 02:32 UTC
-# Version: 2026.0106.0232.04
+# Last modified: 06 Jan 2026 10:37 UTC
+# Version: 2026.0106.1037.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11412
+# Number of entries: 11405
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5179,6 +5179,7 @@ local=/ivesoccer.sx/
 local=/iwannawatch.is/
 local=/iwatchfreestreams.to/
 local=/ixinews.com/
+local=/tracker.ixuexi.click/
 local=/izalukaj.pl/
 local=/izofile.com/
 local=/t.jaekr.sh/
@@ -5806,12 +5807,7 @@ local=/lookmovie2.to/
 local=/lookmoviess.com/
 local=/lordfilmhd.lol/
 local=/lordfilmkx.live/
-local=/lordfilmkx.vip/
-local=/lordfilmkxc.lat/
 local=/lordfilmkxe.icu/
-local=/lordfilmkxg.lat/
-local=/lordfilmkxl.lat/
-local=/lordfilmkxoc.lat/
 local=/lordfilmkxr.lat/
 local=/qg.lorzl.gq/
 local=/losmovies.app/
@@ -6295,12 +6291,9 @@ local=/movie2k.eu/
 local=/movie2k.guru/
 local=/movie2k.io/
 local=/movie2k.lat/
-local=/movie2k.mom/
 local=/movie2k.to/
-local=/movie2k-alternative.com/
 local=/movie2k-hd.com/
 local=/movie2ktv.bond/
-local=/movie2kx.com/
 local=/movie4k.ag/
 local=/movie4k.is/
 local=/movie4k.org/

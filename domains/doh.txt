@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Jan 2026 22:35 UTC
-# Version: 2026.0104.2235.15
+# Last modified: 06 Jan 2026 10:42 UTC
+# Version: 2026.0106.1042.41
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3827
+# Number of entries: 3849
 #
 ss.0001.xyz
 003153.xyz
@@ -39,9 +39,11 @@ sg.101818.xyz
 d1.12342345.xyz
 hkali.13142233.xyz
 usxui.13142233.xyz
+zhk.13142233.xyz
 dns.13evl.com
 dns1.13evl.com
 dns.141664.xyz
+14921004.xyz
 hk-nnss.150076.xyz
 httpdns.c.163.com
 lofter.httpdns.c.163.com
@@ -146,6 +148,7 @@ jp.95576.app
 959818.xyz
 dd.961188.xyz
 bella.981377612.xyz
+9827015.xyz
 cld.996969.xyz
 ddd.999369.xyz
 dns.9999.sg
@@ -383,12 +386,14 @@ atsilva.link
 dns.atsilva.link
 atsssgo.xyz
 dohtrial.att.net
+auberge78.site
 dns.audet.cloud
 dns.auffray.org
 africa.avastdns.com
 europe.avastdns.com
 europe-west.avastdns.com
 secure.avastdns.com
+adguard.avavd.ru
 vps.avc.cx
 adguard.avdkishore.dev
 axaxa.fun
@@ -751,6 +756,7 @@ dns1.thylacine.co.nz
 dns2.thylacine.co.nz
 doh.tsmu.co.id
 dns1.understandingcyber.co.uk
+dns.unknown-universe.co.uk
 dns.walshnet.co.uk
 augne.dns.walshnet.co.uk
 aviemore.dns.walshnet.co.uk
@@ -785,6 +791,7 @@ dns2.gregoret.com.ar
 blackhole.gugainfo.com.br
 dns.hub.com.de
 adguardcloud.iasm.com.ar
+dns.koretech.com.br
 dnssp.koretech.com.br
 arrakis.korolyzer.com.br
 lothuscorp.com.br
@@ -864,6 +871,7 @@ dns.cybertonic.tech
 dns2.cybrespace.net
 cynntex.fun
 dns.cynthialabs.net
+dns.cysynex.cloud
 nextcloud.d-alahmad.de
 dns.d365.in
 s2.d3mik.ru
@@ -1372,6 +1380,7 @@ genielee.duckdns.org
 home27.duckdns.org
 homejerem.duckdns.org
 jfeoks.duckdns.org
+jonzalvo.duckdns.org
 jurre-home.duckdns.org
 kalwat.duckdns.org
 kiwifunke.duckdns.org
@@ -1394,6 +1403,8 @@ rexdns.duckdns.org
 salvadoserver.duckdns.org
 site-2.duckdns.org
 site-3.duckdns.org
+theadblocksg.duckdns.org
+ts653d.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 unixfox.duckdns.org
@@ -1524,6 +1535,7 @@ dns.wantfreedom.eu.org
 yanggan.eu.org
 dns.everdns.tech
 exns1.exalto.nu
+dns.exhome.pl
 adguard.eximpius.xyz
 dns.exitstat.us
 dot-public.exitstat.us
@@ -1670,6 +1682,7 @@ vpn.geshido.ru
 geshido.vpn.geshido.ru
 roma.vpn.geshido.ru
 getdnsapi.net
+dns.getnoclip.link
 ashixu.ggff.net
 jkmoon.ggff.net
 adguard.ghkyzz.us
@@ -1974,6 +1987,7 @@ dns.fc.idv.tw
 home.fc.idv.tw
 tls.jackyhou.idv.tw
 adguard.shuting.idv.tw
+gitea.sukon.idv.tw
 adguard.ihatemy.live
 dns.ihaveacloud.com
 iij.jp
@@ -2090,6 +2104,7 @@ srv5.jiripocta.cz
 dns.jiyi.eu
 jkdns.me
 vps.jmarkin.ru
+dns.jmore.dev
 adg.jnorton.us
 jnprd.com
 dns.jnprd.com
@@ -2467,6 +2482,7 @@ akunamatata8888.mooo.com
 alexj123.mooo.com
 disinformer.mooo.com
 e23a.mooo.com
+riga91197.mooo.com
 dns.moraes.tech
 dns.moraru.net
 morbitzer.de
@@ -2529,6 +2545,7 @@ agh3.server.my.id
 dns1.server.my.id
 dns.velyn.my.id
 dns.vmath.my.id
+zapranet.my.id
 vds2380673.my-ihor.ru
 filter.myaddr.io
 myadg.ru
@@ -2547,6 +2564,7 @@ freedom.mydns.network
 paranoia.mydns.network
 tngch.mydns.jp
 dns.tngch.mydns.jp
+agh-ovh.mynetgear.com
 walker.mynetgear.com
 blackhole.myon.lu
 egshe.myqnapcloud.com
@@ -2623,6 +2641,7 @@ dns.ndo.dev
 tk2-404-43267.vs.sakura.ne.jp
 x210-131-219-118.static.xvps.ne.jp
 dns.neeb.it
+adguard.neelyha.tk
 dns.nekofish.cc
 nelsonleung.org
 adguard.neotix.net
@@ -2860,6 +2879,7 @@ paradise-human.shop
 dns.pari.network
 pashagame456.com
 paskam.xyz
+rumsk.paskam.xyz
 a.passcloud.xyz
 i.passcloud.xyz
 dns.pastorov.ru
@@ -3028,6 +3048,7 @@ dog.dns.qwer.pw
 frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
+kams.kii.qzz.io
 home.r01.fr
 resolver.r0cket.net
 r1bnc.com
@@ -3630,6 +3651,7 @@ aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
+dns.walker.id
 wallpap.eu
 adguard.wallura.eu
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr
