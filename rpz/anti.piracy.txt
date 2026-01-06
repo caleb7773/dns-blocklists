@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767579960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767666720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jan 2026 02:26 UTC
-; Version: 2026.0105.0226.29
+; Last modified: 06 Jan 2026 02:32 UTC
+; Version: 2026.0106.0232.04
 ; Syntax: RPZ
-; Number of entries: 22780
+; Number of entries: 22824
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -992,6 +992,8 @@ flemmix.bond CNAME .
 *.flemmix.bond CNAME .
 guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
+movie2ktv.bond CNAME .
+*.movie2ktv.bond CNAME .
 mrunblock.bond CNAME .
 *.mrunblock.bond CNAME .
 seriesflix.bond CNAME .
@@ -1066,6 +1068,8 @@ limetorrents.buzz CNAME .
 *.limetorrents.buzz CNAME .
 lookmovie.buzz CNAME .
 *.lookmovie.buzz CNAME .
+movie2k.buzz CNAME .
+*.movie2k.buzz CNAME .
 pelisflix20.buzz CNAME .
 *.pelisflix20.buzz CNAME .
 rarbg.buzz CNAME .
@@ -1608,8 +1612,6 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
-node02.torrentonline.cc CNAME .
-*.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .
@@ -1746,6 +1748,8 @@ cpasbien.ch CNAME .
 *.cpasbien.ch CNAME .
 open.demonoid.ch CNAME .
 *.open.demonoid.ch CNAME .
+open-tracker.demonoid.ch CNAME .
+*.open-tracker.demonoid.ch CNAME .
 open-v6.demonoid.ch CNAME .
 *.open-v6.demonoid.ch CNAME .
 public.demonoid.ch CNAME .
@@ -1766,6 +1770,8 @@ levidia.ch CNAME .
 *.levidia.ch CNAME .
 librezerba.ch CNAME .
 *.librezerba.ch CNAME .
+movie2k.ch CNAME .
+*.movie2k.ch CNAME .
 nowvideo.ch CNAME .
 *.nowvideo.ch CNAME .
 openloadmovies.ch CNAME .
@@ -4618,6 +4624,8 @@ fulldownloads.com CNAME .
 *.fulldownloads.com CNAME .
 fullfileaccess.com CNAME .
 *.fullfileaccess.com CNAME .
+fullmovie2k.com CNAME .
+*.fullmovie2k.com CNAME .
 fullmoviehd4k.com CNAME .
 *.fullmoviehd4k.com CNAME .
 fullpcsoftware.com CNAME .
@@ -5368,6 +5376,8 @@ tracker.linvk.com CNAME .
 *.tracker.linvk.com CNAME .
 linxdown.com CNAME .
 *.linxdown.com CNAME .
+litaapks.com CNAME .
+*.litaapks.com CNAME .
 liteapks.com CNAME .
 *.liteapks.com CNAME .
 litemodapk.com CNAME .
@@ -5692,6 +5702,12 @@ morpheustvhd.com CNAME .
 *.morpheustvhd.com CNAME .
 motivationalhacks.com CNAME .
 *.motivationalhacks.com CNAME .
+movie2k-alternative.com CNAME .
+*.movie2k-alternative.com CNAME .
+movie2k-hd.com CNAME .
+*.movie2k-hd.com CNAME .
+movie2kx.com CNAME .
+*.movie2kx.com CNAME .
 moviebeamz.com CNAME .
 *.moviebeamz.com CNAME .
 movieblogarea.com CNAME .
@@ -6894,8 +6910,6 @@ songswave.com CNAME .
 *.songswave.com CNAME .
 sonofshun.com CNAME .
 *.sonofshun.com CNAME .
-tracker.soshifanclub.com CNAME .
-*.tracker.soshifanclub.com CNAME .
 sosulki.com CNAME .
 *.sosulki.com CNAME .
 southparkstudios.com CNAME .
@@ -8316,6 +8330,8 @@ hianime.cx CNAME .
 *.hianime.cx CNAME .
 kino.cx CNAME .
 *.kino.cx CNAME .
+movie2k.cx CNAME .
+*.movie2k.cx CNAME .
 mycima.cx CNAME .
 *.mycima.cx CNAME .
 nulled.cx CNAME .
@@ -8946,6 +8962,8 @@ megakino.eu CNAME .
 *.megakino.eu CNAME .
 mkvcinemas.eu CNAME .
 *.mkvcinemas.eu CNAME .
+movie2k.eu CNAME .
+*.movie2k.eu CNAME .
 moviewatcher.eu CNAME .
 *.moviewatcher.eu CNAME .
 myp2px.eu CNAME .
@@ -9734,6 +9752,8 @@ lookmovie.guru CNAME .
 *.lookmovie.guru CNAME .
 megakino.guru CNAME .
 *.megakino.guru CNAME .
+movie2k.guru CNAME .
+*.movie2k.guru CNAME .
 multimovies.guru CNAME .
 *.multimovies.guru CNAME .
 streamingcommunityz.guru CNAME .
@@ -9906,6 +9926,8 @@ hdmovie2.icu CNAME .
 *.hdmovie2.icu CNAME .
 juraganfilm.icu CNAME .
 *.juraganfilm.icu CNAME .
+lordfilmkxe.icu CNAME .
+*.lordfilmkxe.icu CNAME .
 mp3-juice.icu CNAME .
 *.mp3-juice.icu CNAME .
 nocensor.icu CNAME .
@@ -10028,6 +10050,8 @@ an1.co.in CNAME .
 *.an1.co.in CNAME .
 apk4all.co.in CNAME .
 *.apk4all.co.in CNAME .
+movie2k.co.in CNAME .
+*.movie2k.co.in CNAME .
 multimovies.co.in CNAME .
 *.multimovies.co.in CNAME .
 onstream.com.in CNAME .
@@ -10670,6 +10694,8 @@ mangapoisk.io CNAME .
 *.mangapoisk.io CNAME .
 modilimitado.io CNAME .
 *.modilimitado.io CNAME .
+movie2k.io CNAME .
+*.movie2k.io CNAME .
 movieninja.io CNAME .
 *.movieninja.io CNAME .
 mp3juice.io CNAME .
@@ -11124,6 +11150,18 @@ ilgeniodellostreaming.lat CNAME .
 *.ilgeniodellostreaming.lat CNAME .
 kinox.lat CNAME .
 *.kinox.lat CNAME .
+lordfilmkxc.lat CNAME .
+*.lordfilmkxc.lat CNAME .
+lordfilmkxg.lat CNAME .
+*.lordfilmkxg.lat CNAME .
+lordfilmkxl.lat CNAME .
+*.lordfilmkxl.lat CNAME .
+lordfilmkxoc.lat CNAME .
+*.lordfilmkxoc.lat CNAME .
+lordfilmkxr.lat CNAME .
+*.lordfilmkxr.lat CNAME .
+movie2k.lat CNAME .
+*.movie2k.lat CNAME .
 nossoplayeronlinehd.lat CNAME .
 *.nossoplayeronlinehd.lat CNAME .
 pelisflix20.lat CNAME .
@@ -11400,6 +11438,8 @@ kora.live-koora.live CNAME .
 *.kora.live-koora.live CNAME .
 livehd7i.live CNAME .
 *.livehd7i.live CNAME .
+lordfilmkx.live CNAME .
+*.lordfilmkx.live CNAME .
 losmovies.live CNAME .
 *.losmovies.live CNAME .
 megaup.live CNAME .
@@ -12400,6 +12440,8 @@ ilgeniodellostreaming.mom CNAME .
 *.ilgeniodellostreaming.mom CNAME .
 juststream.mom CNAME .
 *.juststream.mom CNAME .
+movie2k.mom CNAME .
+*.movie2k.mom CNAME .
 moviesdrive.mom CNAME .
 *.moviesdrive.mom CNAME .
 pelisflix20.mom CNAME .
@@ -21720,6 +21762,8 @@ kinovibe.vip CNAME .
 *.kinovibe.vip CNAME .
 lk21official.vip CNAME .
 *.lk21official.vip CNAME .
+lordfilmkx.vip CNAME .
+*.lordfilmkx.vip CNAME .
 m4ufree.vip CNAME .
 *.m4ufree.vip CNAME .
 megapeer.vip CNAME .

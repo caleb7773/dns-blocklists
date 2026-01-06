@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767623880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767666840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jan 2026 14:38 UTC
-; Version: 2026.0105.1438.32
+; Last modified: 06 Jan 2026 02:34 UTC
+; Version: 2026.0106.0234.09
 ; Syntax: RPZ
-; Number of entries: 155052
+; Number of entries: 155054
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -63624,6 +63624,8 @@ camwhores.ru.com CNAME .
 *.camwhores.ru.com CNAME .
 csgoguns.ru.com CNAME .
 *.csgoguns.ru.com CNAME .
+csgorole.ru.com CNAME .
+*.csgorole.ru.com CNAME .
 hdsexsmovies.ru.com CNAME .
 *.hdsexsmovies.ru.com CNAME .
 porn.ru.com CNAME .
@@ -89434,8 +89436,6 @@ kivanlak.hu CNAME .
 *.kivanlak.hu CNAME .
 lap.hu CNAME .
 *.lap.hu CNAME .
-lapunk.hu CNAME .
-*.lapunk.hu CNAME .
 leszbi-szex.hu CNAME .
 *.leszbi-szex.hu CNAME .
 leszbiporno.hu CNAME .
@@ -119406,6 +119406,8 @@ tik.red CNAME .
 *.tik.red CNAME .
 tops.red CNAME .
 *.tops.red CNAME .
+videobuster.red CNAME .
+*.videobuster.red CNAME .
 wins.red CNAME .
 *.wins.red CNAME .
 xvideos.red CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jan 2026 02:26 UTC
-# Version: 2026.0105.0226.29
+# Last modified: 06 Jan 2026 02:32 UTC
+# Version: 2026.0106.0232.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11390
+# Number of entries: 11412
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2045,6 +2045,7 @@ local=/tracker1.loli.co.nz/
 local=/master-torrents-tracker.co.cc/
 local=/mega.co.nz/
 local=/tracker1.bt.moack.co.kr/
+local=/movie2k.co.in/
 local=/multimovies.co.in/
 local=/nhltorrents.co.uk/
 local=/nibl.co.uk/
@@ -2496,6 +2497,7 @@ local=/demonoid.is/
 local=/demonoid.pw/
 local=/inferno.demonoid.me/
 local=/open.demonoid.ch/
+local=/open-tracker.demonoid.ch/
 local=/open-v6.demonoid.ch/
 local=/public.demonoid.ch/
 local=/demons-eye.me/
@@ -3988,6 +3990,7 @@ local=/fullfilmstream.net/
 local=/fullhdfilmizlesene.pw/
 local=/fulllengthaudiobooks.net/
 local=/fullmaza1.cfd/
+local=/fullmovie2k.com/
 local=/fullmoviefilm.org/
 local=/fullmoviehd4k.com/
 local=/fullmoviz.xyz/
@@ -5725,6 +5728,7 @@ local=/linuxtracker.org/
 local=/tracker.linvk.com/
 local=/linxdown.com/
 local=/smart.lionsmart.cc/
+local=/litaapks.com/
 local=/liteapks.com/
 local=/liteapks.mobi/
 local=/litemodapk.com/
@@ -5801,6 +5805,14 @@ local=/lookmovie2.la/
 local=/lookmovie2.to/
 local=/lookmoviess.com/
 local=/lordfilmhd.lol/
+local=/lordfilmkx.live/
+local=/lordfilmkx.vip/
+local=/lordfilmkxc.lat/
+local=/lordfilmkxe.icu/
+local=/lordfilmkxg.lat/
+local=/lordfilmkxl.lat/
+local=/lordfilmkxoc.lat/
+local=/lordfilmkxr.lat/
 local=/qg.lorzl.gq/
 local=/losmovies.app/
 local=/losmovies.com/
@@ -6276,7 +6288,19 @@ local=/movie-blog.sx/
 local=/movie-blog.to/
 local=/movie-blog.tv/
 local=/movie-forum.co/
+local=/movie2k.buzz/
+local=/movie2k.ch/
+local=/movie2k.cx/
+local=/movie2k.eu/
+local=/movie2k.guru/
+local=/movie2k.io/
+local=/movie2k.lat/
+local=/movie2k.mom/
 local=/movie2k.to/
+local=/movie2k-alternative.com/
+local=/movie2k-hd.com/
+local=/movie2ktv.bond/
+local=/movie2kx.com/
 local=/movie4k.ag/
 local=/movie4k.is/
 local=/movie4k.org/
@@ -8572,7 +8596,6 @@ local=/somosmovies.com/
 local=/songslover.cam/
 local=/songswave.com/
 local=/sonofshun.com/
-local=/tracker.soshifanclub.com/
 local=/sosulki.com/
 local=/sosulki.net/
 local=/soul-anime.us/
@@ -9705,7 +9728,6 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
-local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/

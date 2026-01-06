@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jan 2026 01:28 UTC
-! Version: 2026.0105.0128.48
+! Last modified: 06 Jan 2026 01:31 UTC
+! Version: 2026.0106.0131.19
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2986,6 +2986,7 @@
 @@||gfree.fr^
 @@||gfuel.ly^
 @@||gg.gg^
+@@||ggapps.xyz^
 @@||ggd.bz^
 @@||ggilfz.link^
 @@||ggl.link^

@@ -2205,6 +2205,13 @@
       }
     },
     {
+      "PK": "fibra.click",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "fiedler.cc",
       "action": {
         "do": 1,
@@ -3655,6 +3662,13 @@
     },
     {
       "PK": "lgbt.foundation",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "lhlab.wiki",
       "action": {
         "do": 1,
         "status": 1
