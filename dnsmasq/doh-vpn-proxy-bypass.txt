@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 18:37 UTC
-# Version: 2026.0107.1837.35
+# Last modified: 07 Jan 2026 22:42 UTC
+# Version: 2026.0107.2242.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6288
+# Number of entries: 6294
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -746,6 +746,7 @@ local=/y9iiz61k4yu67jfgcx.boxathome.net/
 local=/boxpn.com/
 local=/adguard.boykevanvugt.nl/
 local=/adguard2.boykevanvugt.nl/
+local=/ram.br3xality.org/
 local=/dns.braene.com/
 local=/dns.brahma.world/
 local=/bramka-proxy.pl/
@@ -765,7 +766,9 @@ local=/dns.brionesserver.net/
 local=/britishproxy.com/
 local=/agh.broaddy.com/
 local=/dns.brono.cloud/
+local=/blooket.broomleigh.org/
 local=/linewize.broomleigh.org/
+local=/schoolwork.broomleigh.org/
 local=/brovpn.io/
 local=/browsec.com/
 local=/browser.lol/
@@ -821,12 +824,14 @@ local=/adguard.camn.uk/
 local=/canadaproxy.info/
 local=/canlite.org/
 local=/cantfindme.org/
+local=/tysonsbackagain.capnorthshore.org/
 local=/2.dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
 local=/carebuzz.io/
 local=/careproxy.com/
 local=/unifi.carioka.com/
 local=/dns.carson-family.com/
+local=/dns.carter.me/
 local=/dns.casadecampo.casa/
 local=/casinovpn.com/
 local=/dns.caspervk.net/
@@ -915,6 +920,7 @@ local=/mus.cisco.com/
 local=/ciscossh.com/
 local=/citizenvpn.com/
 local=/dns.citrahost.com/
+local=/citrik.design/
 local=/dns.citystars.cn/
 local=/ns.ciwer.cn/
 local=/alpha.cixy.xyz/

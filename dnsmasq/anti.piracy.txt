@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 18:31 UTC
-# Version: 2026.0107.1831.39
+# Last modified: 07 Jan 2026 22:35 UTC
+# Version: 2026.0107.2235.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11428
+# Number of entries: 11438
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1537,7 +1537,9 @@ local=/bootcity.org/
 local=/booter.eu/
 local=/booter.ninja/
 local=/booter.org/
+local=/booter.pw/
 local=/booter.sx/
+local=/booter.xyz/
 local=/bootlegs.su/
 local=/bootylounge.org/
 local=/bootyou.net/
@@ -1615,12 +1617,14 @@ local=/btmusic.org/
 local=/btnext.com/
 local=/btor.org/
 local=/btorrent.xyz/
+local=/btr.kz/
 local=/btracker.top/
 local=/btsay.org/
 local=/btscene.com/
 local=/btscene.eu/
 local=/tracker.btschool.club/
 local=/btsearch.love/
+local=/btshoufa.net/
 local=/btsow.online/
 local=/bttrove.org/
 local=/tracker.btzero.net/
@@ -1687,6 +1691,7 @@ local=/calcio.la/
 local=/calcio.pub/
 local=/calcio.ws/
 local=/calibrecompanion.co/
+local=/caly-film.pl/
 local=/cambros.tv/
 local=/camclips.tv/
 local=/camflow.tv/
@@ -1726,6 +1731,7 @@ local=/casacinema.nl/
 local=/casacinema.org/
 local=/casacinema.pics/
 local=/casacinema.ru/
+local=/casacinema.skin/
 local=/casacinema.vg/
 local=/casacinema.ws/
 local=/casanovax.com/
@@ -1773,6 +1779,7 @@ local=/cb01.kaufen/
 local=/cb01.lat/
 local=/cb01.li/
 local=/cb01.life/
+local=/cb01.live/
 local=/cb01.love/
 local=/cb01.marketing/
 local=/cb01.me/
@@ -1923,7 +1930,9 @@ local=/cineblog01.skin/
 local=/cineblog01.spa/
 local=/cineblog01.space/
 local=/cineblog01.systems/
+local=/cineblog01.tips/
 local=/cineblog01.tokyo/
+local=/cineblog01.top/
 local=/cineblog01.town/
 local=/cineblog01.tv/
 local=/cineblog01.ventures/
@@ -2050,6 +2059,7 @@ local=/321movies.co.uk/
 local=/althub.co.za/
 local=/an1.co.in/
 local=/apk4all.co.in/
+local=/apkpure.co.in/
 local=/mirror.aptus.co.tz/
 local=/bioquantum.co.za/
 local=/koskomputer.blogspot.co.uk/

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Jan 2026 17:30 UTC
-! Version: 2026.0107.1730.23
+! Last modified: 07 Jan 2026 21:30 UTC
+! Version: 2026.0107.2130.56
 ! Syntax: AdBlock
-! Number of entries: 10052
+! Number of entries: 10056
 !
 ||0.gp^
 ||00m.in^
@@ -1327,6 +1327,7 @@
 ||boshoki.biz^
 ||bosi.me^
 ||boskale.me^
+||bosslinks.ai^
 ||boston25.com^
 ||bot.fi^
 ||botemoda.com^
@@ -1657,6 +1658,7 @@
 ||cindora.club^
 ||cinecom.info^
 ||cinterraent.com^
+||cintly.com^
 ||cipta.link^
 ||ciptalink.com^
 ||ciq.to^
@@ -1770,7 +1772,9 @@
 ||clockurl.com^
 ||clotplaynews.live^
 ||r.cloud8.eu^
+||cloudfare.icu^
 ||cloudku.click^
+||cloudradar.net^
 ||cloudshrinker.com^
 ||cloudtechlinks.com^
 ||cloudwapi.site^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767810660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767825300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 18:31 UTC
-; Version: 2026.0107.1831.39
+; Last modified: 07 Jan 2026 22:35 UTC
+; Version: 2026.0107.2235.56
 ; Syntax: RPZ
-; Number of entries: 22856
+; Number of entries: 22876
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10068,6 +10068,8 @@ an1.co.in CNAME .
 *.an1.co.in CNAME .
 apk4all.co.in CNAME .
 *.apk4all.co.in CNAME .
+apkpure.co.in CNAME .
+*.apkpure.co.in CNAME .
 movie2k.co.in CNAME .
 *.movie2k.co.in CNAME .
 multimovies.co.in CNAME .
@@ -11112,6 +11114,8 @@ ddos.kr CNAME .
 *.ddos.kr CNAME .
 boerse.kz CNAME .
 *.boerse.kz CNAME .
+btr.kz CNAME .
+*.btr.kz CNAME .
 slider.kz CNAME .
 *.slider.kz CNAME .
 123movies.la CNAME .
@@ -11388,6 +11392,8 @@ bobd.live CNAME .
 *.bobd.live CNAME .
 bossbd.live CNAME .
 *.bossbd.live CNAME .
+cb01.live CNAME .
+*.cb01.live CNAME .
 cinemacity.live CNAME .
 *.cinemacity.live CNAME .
 citynet.live CNAME .
@@ -12874,6 +12880,8 @@ brupload.net CNAME .
 *.brupload.net CNAME .
 bt-revolution.net CNAME .
 *.bt-revolution.net CNAME .
+btshoufa.net CNAME .
+*.btshoufa.net CNAME .
 tracker.btzero.net CNAME .
 *.tracker.btzero.net CNAME .
 bullstresser.net CNAME .
@@ -17052,6 +17060,8 @@ bajeczki24.pl CNAME .
 *.bajeczki24.pl CNAME .
 bluewarez.pl CNAME .
 *.bluewarez.pl CNAME .
+caly-film.pl CNAME .
+*.caly-film.pl CNAME .
 chomikuj.pl CNAME .
 *.chomikuj.pl CNAME .
 cinemamovies.pl CNAME .
@@ -17546,6 +17556,8 @@ tracker.bittor.pw CNAME .
 *.tracker.bittor.pw CNAME .
 tracker.bluefrog.pw CNAME .
 *.tracker.bluefrog.pw CNAME .
+booter.pw CNAME .
+*.booter.pw CNAME .
 cb01.pw CNAME .
 *.cb01.pw CNAME .
 tracker.christianbro.pw CNAME .
@@ -19106,6 +19118,8 @@ z-library.sk CNAME .
 *.2embed.skin CNAME .
 animeapi.skin CNAME .
 *.animeapi.skin CNAME .
+casacinema.skin CNAME .
+*.casacinema.skin CNAME .
 cineblog01.skin CNAME .
 *.cineblog01.skin CNAME .
 filmapik.skin CNAME .
@@ -19694,6 +19708,8 @@ altadefinizione.tienda CNAME .
 *.altadefinizione.tienda CNAME .
 vegamovies.tienda CNAME .
 *.vegamovies.tienda CNAME .
+cineblog01.tips CNAME .
+*.cineblog01.tips CNAME .
 dood.tips CNAME .
 *.dood.tips CNAME .
 filmpertutti.tips CNAME .
@@ -20414,6 +20430,8 @@ buddyfly.top CNAME .
 *.buddyfly.top CNAME .
 cikava-ideya.top CNAME .
 *.cikava-ideya.top CNAME .
+cineblog01.top CNAME .
+*.cineblog01.top CNAME .
 dashflix.top CNAME .
 *.dashflix.top CNAME .
 dood.top CNAME .
@@ -22506,6 +22524,8 @@ blunter.xyz CNAME .
 *.blunter.xyz CNAME .
 blutopia.xyz CNAME .
 *.blutopia.xyz CNAME .
+booter.xyz CNAME .
+*.booter.xyz CNAME .
 booxhare.xyz CNAME .
 *.booxhare.xyz CNAME .
 t.btcland.xyz CNAME .

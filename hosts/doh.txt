@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 18:37 UTC
-# Version: 2026.0107.1837.01
+# Last modified: 07 Jan 2026 22:41 UTC
+# Version: 2026.0107.2241.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3852
+# Number of entries: 3853
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -570,6 +570,7 @@
 0.0.0.0 doh.captnemo.in
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
+0.0.0.0 dns.carter.me
 0.0.0.0 dns.casadecampo.casa
 0.0.0.0 dns.caspervk.net
 0.0.0.0 catchen121299.top

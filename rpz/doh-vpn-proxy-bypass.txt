@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767811020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767825720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 18:37 UTC
-; Version: 2026.0107.1837.35
+; Last modified: 07 Jan 2026 22:42 UTC
+; Version: 2026.0107.2242.15
 ; Syntax: RPZ
-; Number of entries: 12576
+; Number of entries: 12588
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -5215,6 +5215,8 @@ zproxy.de CNAME .
 *.zproxy.de CNAME .
 surfshark.deals CNAME .
 *.surfshark.deals CNAME .
+citrik.design CNAME .
+*.citrik.design CNAME .
 constitutional.design CNAME .
 *.constitutional.design CNAME .
 gingerbread.design CNAME .
@@ -7087,6 +7089,8 @@ hk-adg.bluenight.me CNAME .
 *.hk-adg.bluenight.me CNAME .
 doh.boje8.me CNAME .
 *.doh.boje8.me CNAME .
+dns.carter.me CNAME .
+*.dns.carter.me CNAME .
 dns.chriscsc.me CNAME .
 *.dns.chriscsc.me CNAME .
 myagh.claptrap.me CNAME .
@@ -9373,8 +9377,14 @@ dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .
 *.bmetrics.org CNAME .
+ram.br3xality.org CNAME .
+*.ram.br3xality.org CNAME .
+blooket.broomleigh.org CNAME .
+*.blooket.broomleigh.org CNAME .
 linewize.broomleigh.org CNAME .
 *.linewize.broomleigh.org CNAME .
+schoolwork.broomleigh.org CNAME .
+*.schoolwork.broomleigh.org CNAME .
 jujuba.cafuringa.org CNAME .
 *.jujuba.cafuringa.org CNAME .
 tor.calyxinstitute.org CNAME .
@@ -9385,6 +9395,8 @@ canlite.org CNAME .
 *.canlite.org CNAME .
 cantfindme.org CNAME .
 *.cantfindme.org CNAME .
+tysonsbackagain.capnorthshore.org CNAME .
+*.tysonsbackagain.capnorthshore.org CNAME .
 catdns.org CNAME .
 *.catdns.org CNAME .
 cfdjb.org CNAME .

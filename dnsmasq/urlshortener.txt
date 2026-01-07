@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 17:30 UTC
-# Version: 2026.0107.1730.23
+# Last modified: 07 Jan 2026 21:30 UTC
+# Version: 2026.0107.2130.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10052
+# Number of entries: 10056
 #
 local=/0.gp/
 local=/00m.in/
@@ -1326,6 +1326,7 @@ local=/bose.life/
 local=/boshoki.biz/
 local=/bosi.me/
 local=/boskale.me/
+local=/bosslinks.ai/
 local=/boston25.com/
 local=/bot.fi/
 local=/botemoda.com/
@@ -1656,6 +1657,7 @@ local=/cin.ci/
 local=/cindora.club/
 local=/cinecom.info/
 local=/cinterraent.com/
+local=/cintly.com/
 local=/cipta.link/
 local=/ciptalink.com/
 local=/ciq.to/
@@ -1769,7 +1771,9 @@ local=/clmp.me/
 local=/clockurl.com/
 local=/clotplaynews.live/
 local=/r.cloud8.eu/
+local=/cloudfare.icu/
 local=/cloudku.click/
+local=/cloudradar.net/
 local=/cloudshrinker.com/
 local=/cloudtechlinks.com/
 local=/cloudwapi.site/
