@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 18:32 UTC
-# Version: 2026.0106.1832.34
+# Last modified: 07 Jan 2026 06:30 UTC
+# Version: 2026.0107.0630.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 36514
+# Number of entries: 36516
 #
 *.000-online-casino.com
 *.0009casino.com
@@ -3023,6 +3023,7 @@
 *.789club.sx
 *.789club.top
 *.789club.vin
+*.789club.win
 *.789f.ac
 *.789f.best
 *.789f.com
@@ -16417,6 +16418,7 @@
 *.gbets.vip
 *.gbfuncasinos.com
 *.gbg.bet
+*.gbong.vip
 *.gbotipster.site
 *.gbowin.com
 *.gbqa08.com

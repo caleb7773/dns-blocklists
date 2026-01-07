@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767724320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767767400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jan 2026 18:32 UTC
-; Version: 2026.0106.1832.34
+; Last modified: 07 Jan 2026 06:30 UTC
+; Version: 2026.0107.0630.08
 ; Syntax: RPZ
-; Number of entries: 73028
+; Number of entries: 73032
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -71258,6 +71258,8 @@ ganhador.vip CNAME .
 *.ganhador.vip CNAME .
 gbets.vip CNAME .
 *.gbets.vip CNAME .
+gbong.vip CNAME .
+*.gbong.vip CNAME .
 gemwin.vip CNAME .
 *.gemwin.vip CNAME .
 glo777.vip CNAME .
@@ -71812,6 +71814,8 @@ vz99.wiki CNAME .
 *.789.win CNAME .
 789b.win CNAME .
 *.789b.win CNAME .
+789club.win CNAME .
+*.789club.win CNAME .
 888game.win CNAME .
 *.888game.win CNAME .
 8xbet.win CNAME .

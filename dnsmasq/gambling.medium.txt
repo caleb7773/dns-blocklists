@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 18:31 UTC
-# Version: 2026.0106.1831.27
+# Last modified: 07 Jan 2026 06:29 UTC
+# Version: 2026.0107.0629.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 83547
+# Number of entries: 83549
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -6333,6 +6333,7 @@ local=/789club.shop/
 local=/789club.sx/
 local=/789club.top/
 local=/789club.vin/
+local=/789club.win/
 local=/789f.ac/
 local=/789f.best/
 local=/789f.com/
@@ -38586,6 +38587,7 @@ local=/gbgbet.casino/
 local=/gbgbetsa.com/
 local=/gbgbetsb.com/
 local=/gbgbetst.com/
+local=/gbong.vip/
 local=/gboskywheels.blog/
 local=/gbotipster.site/
 local=/gbowin.com/

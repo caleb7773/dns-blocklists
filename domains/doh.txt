@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 10:42 UTC
-# Version: 2026.0106.1042.41
+# Last modified: 07 Jan 2026 06:35 UTC
+# Version: 2026.0107.0635.50
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3849
+# Number of entries: 3850
 #
 ss.0001.xyz
 003153.xyz
@@ -850,6 +850,7 @@ doh-ipv6.crypto.sx
 dohipv6.crypto.sx
 odoh.crypto.sx
 dns.cryptomize.com
+cryptostorm.is
 cryptroute.com
 ae-agh1.dns.cryptroute.net
 dns-guard1.cryptroute.com

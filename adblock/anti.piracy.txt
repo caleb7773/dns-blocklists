@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Jan 2026 02:31 UTC
-! Version: 2026.0107.0231.19
+! Last modified: 07 Jan 2026 06:30 UTC
+! Version: 2026.0107.0630.38
 ! Syntax: AdBlock
-! Number of entries: 11403
+! Number of entries: 11404
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -8958,6 +8958,7 @@
 ||streamingcommunityz.gold^
 ||streamingcommunityz.golf^
 ||streamingcommunityz.guru^
+||streamingcommunityz.hair^
 ||streamingcommunityz.help^
 ||streamingcommunityz.info^
 ||streamingcommunityz.irish^

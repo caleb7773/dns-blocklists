@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jan 2026 18:31 UTC
-! Version: 2026.0106.1831.27
+! Last modified: 07 Jan 2026 06:29 UTC
+! Version: 2026.0107.0629.03
 ! Syntax: AdBlock
-! Number of entries: 83547
+! Number of entries: 83549
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -6334,6 +6334,7 @@
 ||789club.sx^
 ||789club.top^
 ||789club.vin^
+||789club.win^
 ||789f.ac^
 ||789f.best^
 ||789f.com^
@@ -38587,6 +38588,7 @@
 ||gbgbetsa.com^
 ||gbgbetsb.com^
 ||gbgbetst.com^
+||gbong.vip^
 ||gboskywheels.blog^
 ||gbotipster.site^
 ||gbowin.com^
