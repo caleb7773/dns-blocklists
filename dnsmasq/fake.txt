@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 09:29 UTC
-# Version: 2026.0106.0929.28
+# Last modified: 07 Jan 2026 09:28 UTC
+# Version: 2026.0107.0928.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13870
+# Number of entries: 13873
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -43,6 +43,7 @@ local=/24usefultoolsstore.com/
 local=/eu.2bagsvalley.cn/
 local=/2bgreen.at/
 local=/2cequipements.com/
+local=/2rad-outlet.com/
 local=/2smart4me.de/
 local=/2wheelshero.com/
 local=/303e.com/
@@ -1600,6 +1601,7 @@ local=/trader.bkm-markets.com/
 local=/bl-heizoel.de/
 local=/black-shepp-gastroservice.com/
 local=/blackbull-markets.net/
+local=/blackfridaymegastore.com/
 local=/blackgurlzsmagickloset.com/
 local=/bladebasics.com/
 local=/blagabo.com/
@@ -3790,7 +3792,6 @@ local=/energyhood.de/
 local=/enermaxde.de/
 local=/enfunpro.com/
 local=/engel-garten23.de/
-local=/engeliebe.de/
 local=/engerer-handel.de/
 local=/engineeringh.com/
 local=/engwe-ebike.com/
@@ -4395,6 +4396,7 @@ local=/firat-handel24.de/
 local=/firat-shopping.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
+local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/first-bikes.de/
 local=/first-investcapital.com/
@@ -4546,7 +4548,6 @@ local=/footjoysaleaustralias.com/
 local=/footjoysuomi.com/
 local=/footvibe.de/
 local=/footwearpickleball.com/
-local=/foquee.com/
 local=/forceduprofit.com/
 local=/forcefelle.com/
 local=/forchock-sarl.com/
@@ -5284,6 +5285,7 @@ local=/grantecredit-finance.com/
 local=/grapewinesales.com/
 local=/graphad.xyz/
 local=/graskaufen.net/
+local=/grasoftness.com/
 local=/gratis-produkttests.de/
 local=/gratisgives.com/
 local=/gravelbikede.com/
@@ -6130,6 +6132,7 @@ local=/funktionrchm.hubix.click/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
+local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/

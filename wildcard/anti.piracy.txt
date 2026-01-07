@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 06:30 UTC
-# Version: 2026.0107.0630.38
+# Last modified: 07 Jan 2026 10:32 UTC
+# Version: 2026.0107.1032.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11404
+# Number of entries: 11411
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -94,6 +94,7 @@
 *.123freemovies.show
 *.123hbo.com
 *.123hulu.com
+*.123movie.cc
 *.123movie.date
 *.123movie.show
 *.123movie.uno
@@ -104,6 +105,7 @@
 *.123movieonline.xyz
 *.123movies.ag
 *.123movies.archi
+*.123movies.bio
 *.123movies.com
 *.123movies.domains
 *.123movies.fun
@@ -191,6 +193,7 @@
 *.1cinevood.kim
 *.1clickdown.com
 *.1ddl.org
+*.1fbdown.net
 *.1fichier.com
 *.1flix.to
 *.1gabba.net
@@ -206,6 +209,7 @@
 *.1movies.is
 *.1movies.life
 *.1movies.nl
+*.1movieshd.cc
 *.1movieshd.com
 *.1movietv.com
 *.supaflix.1mt.top
@@ -350,6 +354,7 @@
 *.7tor.org
 *.7torrents.cc
 *.7track.org
+*.7ur.ru
 *.7xstream.com
 *.7xtream.com
 *.870726.xyz
@@ -379,6 +384,7 @@
 *.9kmovies.agency
 *.9kmovies.bar
 *.9kmovies.beauty
+*.9kmovies.bet
 *.9kmovies.buzz
 *.9kmovies.cfd
 *.9kmovies.chat
@@ -6666,6 +6672,7 @@
 *.neefit.net
 *.neglectsquad.com
 *.neko-sama.fr
+*.tracker.nekobt.to
 *.nelion.me
 *.neobd.net
 *.neoboard.org

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767691740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767778080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jan 2026 09:29 UTC
-; Version: 2026.0106.0929.28
+; Last modified: 07 Jan 2026 09:28 UTC
+; Version: 2026.0107.0928.58
 ; Syntax: RPZ
-; Number of entries: 27740
+; Number of entries: 27746
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1656,6 +1656,8 @@ eoutlet.2023shoponline.com CNAME .
 *.24usefultoolsstore.com CNAME .
 2cequipements.com CNAME .
 *.2cequipements.com CNAME .
+2rad-outlet.com CNAME .
+*.2rad-outlet.com CNAME .
 2wheelshero.com CNAME .
 *.2wheelshero.com CNAME .
 303e.com CNAME .
@@ -3546,6 +3548,8 @@ trader.bkm-markets.com CNAME .
 *.trader.bkm-markets.com CNAME .
 black-shepp-gastroservice.com CNAME .
 *.black-shepp-gastroservice.com CNAME .
+blackfridaymegastore.com CNAME .
+*.blackfridaymegastore.com CNAME .
 blackgurlzsmagickloset.com CNAME .
 *.blackgurlzsmagickloset.com CNAME .
 bladebasics.com CNAME .
@@ -6684,6 +6688,8 @@ fiorenz.com CNAME .
 *.fiorenz.com CNAME .
 firegemss.com CNAME .
 *.firegemss.com CNAME .
+firmadmire.com CNAME .
+*.firmadmire.com CNAME .
 first-investcapital.com CNAME .
 *.first-investcapital.com CNAME .
 firstpargaph.com CNAME .
@@ -6852,8 +6858,6 @@ footjoysuomi.com CNAME .
 *.footjoysuomi.com CNAME .
 footwearpickleball.com CNAME .
 *.footwearpickleball.com CNAME .
-foquee.com CNAME .
-*.foquee.com CNAME .
 forceduprofit.com CNAME .
 *.forceduprofit.com CNAME .
 forcefelle.com CNAME .
@@ -7706,6 +7710,8 @@ grantecredit-finance.com CNAME .
 *.grantecredit-finance.com CNAME .
 grapewinesales.com CNAME .
 *.grapewinesales.com CNAME .
+grasoftness.com CNAME .
+*.grasoftness.com CNAME .
 gratisgives.com CNAME .
 *.gratisgives.com CNAME .
 gravelbikede.com CNAME .
@@ -8578,6 +8584,8 @@ hudyrc.com CNAME .
 *.hudyrc.com CNAME .
 huelstamoebelhaus.com CNAME .
 *.huelstamoebelhaus.com CNAME .
+hugetsky.com CNAME .
+*.hugetsky.com CNAME .
 hugfirst.com CNAME .
 *.hugfirst.com CNAME .
 huismeubilair.com CNAME .
@@ -19070,8 +19078,6 @@ enermaxde.de CNAME .
 *.enermaxde.de CNAME .
 engel-garten23.de CNAME .
 *.engel-garten23.de CNAME .
-engeliebe.de CNAME .
-*.engeliebe.de CNAME .
 engerer-handel.de CNAME .
 *.engerer-handel.de CNAME .
 engweebike.de CNAME .

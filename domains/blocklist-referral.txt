@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 09:17 UTC
-# Version: 2026.0106.0917.06
+# Last modified: 07 Jan 2026 09:16 UTC
+# Version: 2026.0107.0916.41
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1751
+# Number of entries: 1758
 #
 1-aclk.net
 1aurl.io
@@ -420,6 +420,7 @@ convertkit-mail.com
 click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
+1efc1b61.open.convertkit-mail.com
 8534faf0.open.convertkit-mail.com
 af5d45b9.open.convertkit-mail.com
 efba0d60.open.convertkit-mail.com
@@ -444,6 +445,7 @@ open.convertkit-mail2.com
 9968f34e.open.convertkit-mail2.com
 9adb1e69.open.convertkit-mail2.com
 d068f605.open.convertkit-mail2.com
+de259883.open.convertkit-mail2.com
 fe409804.open.convertkit-mail2.com
 preferences.convertkit-mail2.com
 preview.convertkit-mail2.com
@@ -454,12 +456,15 @@ click.convertkit-mail3.com
 el2.convertkit-mail3.com
 convertkit-mail4.com
 click.convertkit-mail4.com
+06dea2c1.click.convertkit-mail4.com
 2fc9b2f8.click.convertkit-mail4.com
 51ce15f1.click.convertkit-mail4.com
 9a0ee07c.click.convertkit-mail4.com
 el2.convertkit-mail4.com
 open.convertkit-mail4.com
 06dea2c1.open.convertkit-mail4.com
+07494aa4.open.convertkit-mail4.com
+088a5f37.open.convertkit-mail4.com
 51ce15f1.open.convertkit-mail4.com
 986419df.open.convertkit-mail4.com
 c4d2e6d6.open.convertkit-mail4.com
@@ -484,6 +489,7 @@ click.mc.crimsontrace.com
 crm-measure.com
 links.email.crunchbase.com
 bcp.crwdcntrl.net
+m-5fwyg.custobar.com
 m-6pyms.custobar.com
 m-fqlpo.custobar.com
 m-gzmk5.custobar.com
@@ -1132,6 +1138,7 @@ mkto-ab240112.com
 mkto-ab250105.com
 mkto-ab250163.com
 mkto-ab250167.com
+mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
 mkto-ab280067.com

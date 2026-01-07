@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767720600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767778200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jan 2026 17:30 UTC
-; Version: 2026.0106.1730.50
+; Last modified: 07 Jan 2026 09:30 UTC
+; Version: 2026.0107.0930.45
 ; Syntax: RPZ
-; Number of entries: 20076
+; Number of entries: 20088
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -263,6 +263,8 @@ topt.al CNAME .
 *.topt.al CNAME .
 trib.al CNAME .
 *.trib.al CNAME .
+126.am CNAME .
+*.126.am CNAME .
 clc.am CNAME .
 *.clc.am CNAME .
 gl.am CNAME .
@@ -11347,6 +11349,8 @@ zuitte.io CNAME .
 *.2wo.ir CNAME .
 301l.ir CNAME .
 *.301l.ir CNAME .
+3d-ul.ir CNAME .
+*.3d-ul.ir CNAME .
 48l.ir CNAME .
 *.48l.ir CNAME .
 4eq.ir CNAME .
@@ -13457,6 +13461,8 @@ liquid.loans CNAME .
 *.liquid.loans CNAME .
 00oo.lol CNAME .
 *.00oo.lol CNAME .
+4a.lol CNAME .
+*.4a.lol CNAME .
 51tu.lol CNAME .
 *.51tu.lol CNAME .
 5k.lol CNAME .
@@ -17055,6 +17061,8 @@ thefp.pub CNAME .
 *.2u.pw CNAME .
 3c.pw CNAME .
 *.3c.pw CNAME .
+888b.pw CNAME .
+*.888b.pw CNAME .
 8u.pw CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
@@ -18907,6 +18915,8 @@ usanet.tv CNAME .
 *.usanet.tv CNAME .
 xfin.tv CNAME .
 *.xfin.tv CNAME .
+0rz.tw CNAME .
+*.0rz.tw CNAME .
 4fun.tw CNAME .
 *.4fun.tw CNAME .
 8591.tw CNAME .
@@ -19135,6 +19145,8 @@ purdue.university CNAME .
 *.1tk.us CNAME .
 2pl.us CNAME .
 *.2pl.us CNAME .
+2tu.us CNAME .
+*.2tu.us CNAME .
 6nmd.us CNAME .
 *.6nmd.us CNAME .
 acrt.us CNAME .

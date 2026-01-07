@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 06:30 UTC
-# Version: 2026.0107.0630.38
+# Last modified: 07 Jan 2026 10:32 UTC
+# Version: 2026.0107.1032.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11404
+# Number of entries: 11411
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -94,6 +94,7 @@ local=/123freemovies.net/
 local=/123freemovies.show/
 local=/123hbo.com/
 local=/123hulu.com/
+local=/123movie.cc/
 local=/123movie.date/
 local=/123movie.show/
 local=/123movie.uno/
@@ -104,6 +105,7 @@ local=/123moviehub.co/
 local=/123movieonline.xyz/
 local=/123movies.ag/
 local=/123movies.archi/
+local=/123movies.bio/
 local=/123movies.com/
 local=/123movies.domains/
 local=/123movies.fun/
@@ -191,6 +193,7 @@ local=/191954.online/
 local=/1cinevood.kim/
 local=/1clickdown.com/
 local=/1ddl.org/
+local=/1fbdown.net/
 local=/1fichier.com/
 local=/1flix.to/
 local=/1gabba.net/
@@ -206,6 +209,7 @@ local=/1movies.best/
 local=/1movies.is/
 local=/1movies.life/
 local=/1movies.nl/
+local=/1movieshd.cc/
 local=/1movieshd.com/
 local=/1movietv.com/
 local=/supaflix.1mt.top/
@@ -350,6 +354,7 @@ local=/7movs.com/
 local=/7tor.org/
 local=/7torrents.cc/
 local=/7track.org/
+local=/7ur.ru/
 local=/7xstream.com/
 local=/7xtream.com/
 local=/870726.xyz/
@@ -379,6 +384,7 @@ local=/9goal.tv/
 local=/9kmovies.agency/
 local=/9kmovies.bar/
 local=/9kmovies.beauty/
+local=/9kmovies.bet/
 local=/9kmovies.buzz/
 local=/9kmovies.cfd/
 local=/9kmovies.chat/
@@ -6666,6 +6672,7 @@ local=/nedasabd.net/
 local=/neefit.net/
 local=/neglectsquad.com/
 local=/neko-sama.fr/
+local=/tracker.nekobt.to/
 local=/nelion.me/
 local=/neobd.net/
 local=/neoboard.org/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jan 2026 09:29 UTC
-! Version: 2026.0106.0929.28
+! Last modified: 07 Jan 2026 09:28 UTC
+! Version: 2026.0107.0928.58
 ! Syntax: AdBlock
-! Number of entries: 13870
+! Number of entries: 13873
 !
 ||01broker.com^
 ||01crypto.com^
@@ -44,6 +44,7 @@
 ||eu.2bagsvalley.cn^
 ||2bgreen.at^
 ||2cequipements.com^
+||2rad-outlet.com^
 ||2smart4me.de^
 ||2wheelshero.com^
 ||303e.com^
@@ -1601,6 +1602,7 @@
 ||bl-heizoel.de^
 ||black-shepp-gastroservice.com^
 ||blackbull-markets.net^
+||blackfridaymegastore.com^
 ||blackgurlzsmagickloset.com^
 ||bladebasics.com^
 ||blagabo.com^
@@ -3791,7 +3793,6 @@
 ||enermaxde.de^
 ||enfunpro.com^
 ||engel-garten23.de^
-||engeliebe.de^
 ||engerer-handel.de^
 ||engineeringh.com^
 ||engwe-ebike.com^
@@ -4396,6 +4397,7 @@
 ||firat-shopping.de^
 ||firegemss.com^
 ||firewood-versand.de^
+||firmadmire.com^
 ||firmeneintrag.net^
 ||first-bikes.de^
 ||first-investcapital.com^
@@ -4547,7 +4549,6 @@
 ||footjoysuomi.com^
 ||footvibe.de^
 ||footwearpickleball.com^
-||foquee.com^
 ||forceduprofit.com^
 ||forcefelle.com^
 ||forchock-sarl.com^
@@ -5285,6 +5286,7 @@
 ||grapewinesales.com^
 ||graphad.xyz^
 ||graskaufen.net^
+||grasoftness.com^
 ||gratis-produkttests.de^
 ||gratisgives.com^
 ||gravelbikede.com^
@@ -6131,6 +6133,7 @@
 ||hudyrc.com^
 ||huelstamoebelhaus.com^
 ||huewi.xyz^
+||hugetsky.com^
 ||hugfirst.com^
 ||hugoverkauf.de^
 ||huiiltn.shop^

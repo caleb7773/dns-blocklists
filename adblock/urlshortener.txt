@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jan 2026 17:30 UTC
-! Version: 2026.0106.1730.50
+! Last modified: 07 Jan 2026 09:30 UTC
+! Version: 2026.0107.0930.45
 ! Syntax: AdBlock
-! Number of entries: 10038
+! Number of entries: 10044
 !
 ||0.gp^
 ||00m.in^
@@ -37,6 +37,7 @@
 ||0oj.cn^
 ||0penclick.org^
 ||0rl.cc^
+||0rz.tw^
 ||0s0.com^
 ||0se.co^
 ||0t.cn^
@@ -59,6 +60,7 @@
 ||123l.pro^
 ||123link.co^
 ||123lnk.xyz^
+||126.am^
 ||128.pl^
 ||12ne.ws^
 ||12p.eu^
@@ -197,6 +199,7 @@
 ||2tea.ch^
 ||2tf.net^
 ||2tiny.in^
+||2tu.us^
 ||2ty.in^
 ||2u.gg^
 ||2u.lc^
@@ -236,6 +239,7 @@
 ||3b-tech.net^
 ||3c.pw^
 ||3c5.com^
+||3d-ul.ir^
 ||3d1200.xyz^
 ||3dsecure.org^
 ||k.3es.io^
@@ -269,6 +273,7 @@
 ||47.de^
 ||48l.ir^
 ||49rs.co^
+||4a.lol^
 ||4alink.net^
 ||4b.is^
 ||4bio.cc^
@@ -368,6 +373,7 @@
 ||7vd.cn^
 ||8.ly^
 ||8591.tw^
+||888b.pw^
 ||888df.com^
 ||88nb.cc^
 ||88win.link^

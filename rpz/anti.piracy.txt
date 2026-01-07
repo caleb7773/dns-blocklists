@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767767400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767781920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 06:30 UTC
-; Version: 2026.0107.0630.38
+; Last modified: 07 Jan 2026 10:32 UTC
+; Version: 2026.0107.1032.00
 ; Syntax: RPZ
-; Number of entries: 22808
+; Number of entries: 22822
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -694,6 +694,8 @@ pirateproxy.best CNAME .
 *.pirateproxy.best CNAME .
 torrent-games.best CNAME .
 *.torrent-games.best CNAME .
+9kmovies.bet CNAME .
+*.9kmovies.bet CNAME .
 altadefinizione.bet CNAME .
 *.altadefinizione.bet CNAME .
 altadefinizione01.bet CNAME .
@@ -748,6 +750,8 @@ streamingcommunity.bingo CNAME .
 *.streamingcommunity.bingo CNAME .
 tantifilm.bingo CNAME .
 *.tantifilm.bingo CNAME .
+123movies.bio CNAME .
+*.123movies.bio CNAME .
 altadefinizione.bio CNAME .
 *.altadefinizione.bio CNAME .
 eurostreaming.bio CNAME .
@@ -1292,8 +1296,12 @@ streamingcommunity.cat CNAME .
 *.streamingcommunity.cat CNAME .
 newalbumreleases.unblockit.cat CNAME .
 *.newalbumreleases.unblockit.cat CNAME .
+123movie.cc CNAME .
+*.123movie.cc CNAME .
 12canime.cc CNAME .
 *.12canime.cc CNAME .
+1movieshd.cc CNAME .
+*.1movieshd.cc CNAME .
 1watch-free.cc CNAME .
 *.1watch-free.cc CNAME .
 2embed.cc CNAME .
@@ -12602,6 +12610,8 @@ planetdl.0fees.net CNAME .
 *.123moviestv.net CNAME .
 16mag.net CNAME .
 *.16mag.net CNAME .
+1fbdown.net CNAME .
+*.1fbdown.net CNAME .
 1gabba.net CNAME .
 *.1gabba.net CNAME .
 321n.net CNAME .
@@ -17984,6 +17994,8 @@ warezanet.3dn.ru CNAME .
 *.6ahddutb1ucc3cp.ru CNAME .
 77help.ru CNAME .
 *.77help.ru CNAME .
+7ur.ru CNAME .
+*.7ur.ru CNAME .
 9anime.ru CNAME .
 *.9anime.ru CNAME .
 abv-media.ru CNAME .
@@ -20064,6 +20076,8 @@ nbabite.to CNAME .
 *.nbabite.to CNAME .
 nbastreams.to CNAME .
 *.nbastreams.to CNAME .
+tracker.nekobt.to CNAME .
+*.tracker.nekobt.to CNAME .
 nepu.to CNAME .
 *.nepu.to CNAME .
 netmovies.to CNAME .
