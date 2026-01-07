@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 13:27 UTC
-# Version: 2026.0107.1327.36
+# Last modified: 07 Jan 2026 17:28 UTC
+# Version: 2026.0107.1728.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13883
+# Number of entries: 13900
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -724,6 +724,7 @@ local=/aromaleben.com/
 local=/aromascent.club/
 local=/aromatreasuresava.shop/
 local=/aroxcapital.com/
+local=/arptrade.com/
 local=/arredamenti-italia.de/
 local=/art-impulse.fr/
 local=/art-portrait.de/
@@ -762,8 +763,12 @@ local=/ashatoslombardini.com/
 local=/ashbergh.com/
 local=/asiaingeschaft.com/
 local=/asics-outlet.de/
+local=/asics-schweiz.com/
 local=/asics-suomi.com/
+local=/asicsale.com/
+local=/asicsat.at/
 local=/asicsde.de/
+local=/asicsdeutschland.de/
 local=/asicskuwaitsale.com/
 local=/asicsosterreich.at/
 local=/askariyeh-kh.ir/
@@ -807,6 +812,7 @@ local=/athletpharma.com/
 local=/atikisoi.com/
 local=/atinvesting212.co/
 local=/atlantictrikot.de/
+local=/atluxde.com/
 local=/aton-invest.com/
 local=/atossy.de/
 local=/atpgoldenpass.com/
@@ -979,6 +985,7 @@ local=/b-und-h.com/
 local=/b196kaufen.de/
 local=/b2b-consulting.net/
 local=/b2b-sphere.de/
+local=/b2trades.com/
 local=/b4trade.com/
 local=/babara-mode.com/
 local=/babaroni.de/
@@ -1050,7 +1057,9 @@ local=/balder-industries.com/
 local=/baldyandthefidgets.com/
 local=/balenciagaireland.com/
 local=/balennz.com/
+local=/baleur.com/
 local=/baleurs.de/
+local=/baleurshop.de/
 local=/balfourcapitalgroup.com/
 local=/balinvest-ch.com/
 local=/balitaberlin.de/
@@ -1105,6 +1114,7 @@ local=/barfussbalance.de/
 local=/barfussfreedom.com/
 local=/bargainplanet.de/
 local=/bargnee.com/
+local=/barkershoes-uk.com/
 local=/barki-shop.de/
 local=/barleybeam.com/
 local=/barlleiy.com/
@@ -1208,6 +1218,7 @@ local=/beeoneshop.com/
 local=/beerenernte.com/
 local=/beerschottierheim.de/
 local=/beessensations.com/
+local=/behaviorl.com/
 local=/beheizbarekleidung.com/
 local=/behnberlin.de/
 local=/beiids.com/
@@ -1346,6 +1357,7 @@ local=/beste-gardinen.de/
 local=/beste-motorrad.com/
 local=/besteangebote24.de/
 local=/bestebike.de/
+local=/besteckgeschirr.de/
 local=/besteckstore.com/
 local=/bestekaufhauser24.com/
 local=/bestekreditvergabe.ltd/
@@ -1413,6 +1425,7 @@ local=/beuniger.de/
 local=/beweich.de/
 local=/bewerte-den-shop.de/
 local=/bexisassets.com/
+local=/bextradefx.online/
 local=/beziehungspersoenlichkeit.de/
 local=/bfarmacia.com/
 local=/bfi-finance.com/
@@ -1527,6 +1540,7 @@ local=/binarycent.com/
 local=/binarylowcost.com/
 local=/binarymate.com/
 local=/binatex.com/
+local=/bindado.de/
 local=/binderwelpen.de/
 local=/bingoblitz.shop/
 local=/binnyworld.com/
@@ -1576,6 +1590,7 @@ local=/bitcoinarchon.com/
 local=/bitcoinasystem.su/
 local=/bitcoindecode.io/
 local=/bitcoineer.tv/
+local=/bitcoineprex.ai/
 local=/bitcoinera.app/
 local=/bitcoinevista.com/
 local=/bitcoingroup-vip.com/
@@ -1591,6 +1606,7 @@ local=/bitebuns.com/
 local=/bitfinancial.info/
 local=/bitgetzx.com/
 local=/biticodes.com/
+local=/bitiq.app/
 local=/bitlast.com/
 local=/bitnixer.io/
 local=/area.bitnixer.net/
@@ -1646,6 +1662,7 @@ local=/bluebellalingerie.com/
 local=/blueblom.com/
 local=/blueboltchargers.com/
 local=/bluecasadecor.com/
+local=/bluedo.de/
 local=/bluehend-land.de/
 local=/bluelock.store/
 local=/blueoceanproject.de/

@@ -6790,6 +6790,13 @@
       }
     },
     {
+      "PK": "tmdb.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "toast.ooo",
       "action": {
         "do": 1,

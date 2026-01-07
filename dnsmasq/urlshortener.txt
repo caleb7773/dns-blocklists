@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 13:29 UTC
-# Version: 2026.0107.1329.11
+# Last modified: 07 Jan 2026 17:30 UTC
+# Version: 2026.0107.1730.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10048
+# Number of entries: 10052
 #
 local=/0.gp/
 local=/00m.in/
@@ -940,6 +940,7 @@ local=/ayohajar.info/
 local=/ayokale.me/
 local=/ayt.fr/
 local=/ayuk.link/
+local=/ayzyu.com/
 local=/azali.fr/
 local=/azc.cc/
 local=/azhfoom.com/
@@ -1034,6 +1035,7 @@ local=/be6.in/
 local=/beacons.ai/
 local=/beam.to/
 local=/beats.is/
+local=/beautyfitnesshealth.com/
 local=/bebuiltllc.com/
 local=/bec.ltd/
 local=/becakrcg.xyz/
@@ -1088,6 +1090,7 @@ local=/bfol.me/
 local=/bfpne.ws/
 local=/bfy.tw/
 local=/bg4.me/
+local=/bg9.us/
 local=/bhpho.to/
 local=/bhrt.io/
 local=/bhx.one/
@@ -9310,6 +9313,7 @@ local=/vipjus.click/
 local=/viplink.us/
 local=/vipp.link/
 local=/viprupiah138.net/
+local=/vipshort.in/
 local=/vipshortener.com/
 local=/vipslot4d.site/
 local=/viraatlabs.com/

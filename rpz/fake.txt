@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767792420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767806880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,15 +9,17 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 13:27 UTC
-; Version: 2026.0107.1327.36
+; Last modified: 07 Jan 2026 17:28 UTC
+; Version: 2026.0107.1728.41
 ; Syntax: RPZ
-; Number of entries: 27766
+; Number of entries: 27800
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
+bitcoineprex.ai CNAME .
+*.bitcoineprex.ai CNAME .
 geldpro.ai CNAME .
 *.geldpro.ai CNAME .
 mindmetric.ai CNAME .
@@ -30,6 +32,8 @@ bitcoinera.app CNAME .
 *.bitcoinera.app CNAME .
 bitcore-momentum.app CNAME .
 *.bitcore-momentum.app CNAME .
+bitiq.app CNAME .
+*.bitiq.app CNAME .
 btcinvest.app CNAME .
 *.btcinvest.app CNAME .
 chain-reaction.app CNAME .
@@ -116,6 +120,8 @@ ariat-osterreich.at CNAME .
 *.ariat-osterreich.at CNAME .
 arlbergatelier.at CNAME .
 *.arlbergatelier.at CNAME .
+asicsat.at CNAME .
+*.asicsat.at CNAME .
 asicsosterreich.at CNAME .
 *.asicsosterreich.at CNAME .
 atelierkitzbuehel.at CNAME .
@@ -2484,6 +2490,8 @@ aromaleben.com CNAME .
 *.aromaleben.com CNAME .
 aroxcapital.com CNAME .
 *.aroxcapital.com CNAME .
+arptrade.com CNAME .
+*.arptrade.com CNAME .
 artdupatrimoine.com CNAME .
 *.artdupatrimoine.com CNAME .
 artificialisens.com CNAME .
@@ -2520,8 +2528,12 @@ ashbergh.com CNAME .
 *.ashbergh.com CNAME .
 asiaingeschaft.com CNAME .
 *.asiaingeschaft.com CNAME .
+asics-schweiz.com CNAME .
+*.asics-schweiz.com CNAME .
 asics-suomi.com CNAME .
 *.asics-suomi.com CNAME .
+asicsale.com CNAME .
+*.asicsale.com CNAME .
 asicskuwaitsale.com CNAME .
 *.asicskuwaitsale.com CNAME .
 shop.askdrkan.com CNAME .
@@ -2580,6 +2592,8 @@ athletpharma.com CNAME .
 *.athletpharma.com CNAME .
 atikisoi.com CNAME .
 *.atikisoi.com CNAME .
+atluxde.com CNAME .
+*.atluxde.com CNAME .
 aton-invest.com CNAME .
 *.aton-invest.com CNAME .
 atpgoldenpass.com CNAME .
@@ -2774,6 +2788,8 @@ azuremodule.com CNAME .
 *.azuremodule.com CNAME .
 b-und-h.com CNAME .
 *.b-und-h.com CNAME .
+b2trades.com CNAME .
+*.b2trades.com CNAME .
 b4trade.com CNAME .
 *.b4trade.com CNAME .
 babara-mode.com CNAME .
@@ -2868,6 +2884,8 @@ balenciagaireland.com CNAME .
 *.balenciagaireland.com CNAME .
 balennz.com CNAME .
 *.balennz.com CNAME .
+baleur.com CNAME .
+*.baleur.com CNAME .
 balfourcapitalgroup.com CNAME .
 *.balfourcapitalgroup.com CNAME .
 balinvest-ch.com CNAME .
@@ -2936,6 +2954,8 @@ barfussfreedom.com CNAME .
 *.barfussfreedom.com CNAME .
 bargnee.com CNAME .
 *.bargnee.com CNAME .
+barkershoes-uk.com CNAME .
+*.barkershoes-uk.com CNAME .
 barleybeam.com CNAME .
 *.barleybeam.com CNAME .
 barlleiy.com CNAME .
@@ -3060,6 +3080,8 @@ beerenernte.com CNAME .
 *.beerenernte.com CNAME .
 beessensations.com CNAME .
 *.beessensations.com CNAME .
+behaviorl.com CNAME .
+*.behaviorl.com CNAME .
 beheizbarekleidung.com CNAME .
 *.beheizbarekleidung.com CNAME .
 beiids.com CNAME .
@@ -17814,6 +17836,8 @@ asics-outlet.de CNAME .
 *.asics-outlet.de CNAME .
 asicsde.de CNAME .
 *.asicsde.de CNAME .
+asicsdeutschland.de CNAME .
+*.asicsdeutschland.de CNAME .
 astelia.de CNAME .
 *.astelia.de CNAME .
 astfingrat.de CNAME .
@@ -17934,6 +17958,8 @@ balancedecke.de CNAME .
 *.balancedecke.de CNAME .
 baleurs.de CNAME .
 *.baleurs.de CNAME .
+baleurshop.de CNAME .
+*.baleurshop.de CNAME .
 balitaberlin.de CNAME .
 *.balitaberlin.de CNAME .
 ballerns.de CNAME .
@@ -18098,6 +18124,8 @@ besteangebote24.de CNAME .
 *.besteangebote24.de CNAME .
 bestebike.de CNAME .
 *.bestebike.de CNAME .
+besteckgeschirr.de CNAME .
+*.besteckgeschirr.de CNAME .
 bestelektronicshop.de CNAME .
 *.bestelektronicshop.de CNAME .
 bestenfahrrad.de CNAME .
@@ -18144,6 +18172,8 @@ billigwunder24.de CNAME .
 *.billigwunder24.de CNAME .
 binagala-shop.de CNAME .
 *.binagala-shop.de CNAME .
+bindado.de CNAME .
+*.bindado.de CNAME .
 binderwelpen.de CNAME .
 *.binderwelpen.de CNAME .
 bio-brennholz.de CNAME .
@@ -18182,6 +18212,8 @@ blitz-handel.de CNAME .
 *.blitz-handel.de CNAME .
 blizzak.de CNAME .
 *.blizzak.de CNAME .
+bluedo.de CNAME .
+*.bluedo.de CNAME .
 bluehend-land.de CNAME .
 *.bluehend-land.de CNAME .
 blueoceanproject.de CNAME .
@@ -25328,6 +25360,8 @@ araujopecas.online CNAME .
 *.araujopecas.online CNAME .
 best-apotheke.online CNAME .
 *.best-apotheke.online CNAME .
+bextradefx.online CNAME .
+*.bextradefx.online CNAME .
 bookingrecruits.online CNAME .
 *.bookingrecruits.online CNAME .
 cialis-online20mg.online CNAME .

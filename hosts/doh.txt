@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 06:35 UTC
-# Version: 2026.0107.0635.50
+# Last modified: 07 Jan 2026 18:37 UTC
+# Version: 2026.0107.1837.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3850
+# Number of entries: 3852
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -422,6 +422,7 @@
 0.0.0.0 dns.b72.com
 0.0.0.0 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 0.0.0.0 filter.badbotdev.xyz
+0.0.0.0 safe-guard.badbotdev.xyz
 0.0.0.0 dns.bai0012.com
 0.0.0.0 dnscdn.bai0012.com
 0.0.0.0 httpdns.baidu.com
@@ -469,6 +470,7 @@
 0.0.0.0 nvi-dns.bitdefender.net
 0.0.0.0 ore-dns.bitdefender.net
 0.0.0.0 tky-dns.bitdefender.net
+0.0.0.0 dns.bitgeek.in
 0.0.0.0 dns.bitservices.io
 0.0.0.0 adguard.bitteeinbyte.de
 0.0.0.0 dns.bitup.de

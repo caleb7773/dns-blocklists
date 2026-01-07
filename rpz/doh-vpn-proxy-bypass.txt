@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767796500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767811020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 14:35 UTC
-; Version: 2026.0107.1435.18
+; Last modified: 07 Jan 2026 18:37 UTC
+; Version: 2026.0107.1837.35
 ; Syntax: RPZ
-; Number of entries: 12568
+; Number of entries: 12576
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -6139,6 +6139,8 @@ next.atomix.in CNAME .
 *.next.atomix.in CNAME .
 vps.atomix.in CNAME .
 *.vps.atomix.in CNAME .
+dns.bitgeek.in CNAME .
+*.dns.bitgeek.in CNAME .
 dns.bofh.in CNAME .
 *.dns.bofh.in CNAME .
 btunnel.in CNAME .
@@ -7575,6 +7577,8 @@ solmariknein.baselinux.net CNAME .
 *.solmariknein.baselinux.net CNAME .
 studyeasy.baselinux.net CNAME .
 *.studyeasy.baselinux.net CNAME .
+bestssh.net CNAME .
+*.bestssh.net CNAME .
 betterproxy.net CNAME .
 *.betterproxy.net CNAME .
 dns.bibica.net CNAME .
@@ -11437,6 +11441,8 @@ adh.51st.top CNAME .
 *.adh.51st.top CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
+bestvpnservice.top CNAME .
+*.bestvpnservice.top CNAME .
 bubblex2.top CNAME .
 *.bubblex2.top CNAME .
 catchen121299.top CNAME .
@@ -12299,6 +12305,8 @@ atsssgo.xyz CNAME .
 *.atsssgo.xyz CNAME .
 filter.badbotdev.xyz CNAME .
 *.filter.badbotdev.xyz CNAME .
+safe-guard.badbotdev.xyz CNAME .
+*.safe-guard.badbotdev.xyz CNAME .
 vps01.bbhc.xyz CNAME .
 *.vps01.bbhc.xyz CNAME .
 beecomf.xyz CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 14:29 UTC
-# Version: 2026.0107.1429.06
+# Last modified: 07 Jan 2026 18:31 UTC
+# Version: 2026.0107.1831.39
 # Syntax: Domains (without subdomains)
-# Number of entries: 11420
+# Number of entries: 11428
 #
 003396815.xyz
 0123456789nonexistent.com
@@ -973,6 +973,7 @@ applenetbd.com
 appmods.us
 appnee.com
 appnetica.com
+trackr.appolon.dev
 apps4all.com
 appsitory.com
 academic-p2p.appspot.com
@@ -1083,10 +1084,12 @@ audiobookbay.net
 audiobookbay.nl
 audiobookbay.se
 audiobookol.com
+audiobooks.cloud
 audiobooksbee.com
 audiobookss.com
 audionews.org
 audionews.ru
+audiop2p.com
 audiostuff.ro
 aurastresser.com
 auratorrent.pl
@@ -1189,6 +1192,7 @@ bdixlive.com
 bdixmedia.com
 bdixsports.com
 bdixtorrent.com
+bdixtv.live
 bdlan.net
 bdlivezone.com
 bdmovies.net
@@ -1239,6 +1243,7 @@ bestserials.com
 bestsolaris.com
 bestsportstreaming.com
 beststresser.com
+besttracker.cz
 bestwish.lol
 tracker.beyond-hd.me
 bflix.ac
@@ -1326,6 +1331,7 @@ bitsources.com
 bitsparadise.info
 bitspyder.net
 bitstreams.live
+tracker.bittalk.org
 tracker.bittor.pw
 bittorrent.am
 bittorrent.com
@@ -1363,6 +1369,7 @@ blacktiesports.net
 blacktorrent.ru
 tracker.blackunicorn.xyz
 blackvid.space
+blackwave.tv
 blackz.ro
 tracker.blazing.de
 block908.ru
@@ -1452,6 +1459,7 @@ bludv.com
 blue-bytez.com
 blue-whitegt.com
 bluebird-hd.org
+tracker.bluefrog.pw
 blueroms.ws
 blues-brothers.biz
 blueseries.net

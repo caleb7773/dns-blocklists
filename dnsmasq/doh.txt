@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 06:35 UTC
-# Version: 2026.0107.0635.50
+# Last modified: 07 Jan 2026 18:37 UTC
+# Version: 2026.0107.1837.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3374
+# Number of entries: 3376
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -356,6 +356,7 @@ local=/dns.b612.me/
 local=/dns.b72.com/
 local=/b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space/
 local=/filter.badbotdev.xyz/
+local=/safe-guard.badbotdev.xyz/
 local=/dns.bai0012.com/
 local=/dnscdn.bai0012.com/
 local=/httpdns.baidu.com/
@@ -397,6 +398,7 @@ local=/iow-dns.bitdefender.net/
 local=/nvi-dns.bitdefender.net/
 local=/ore-dns.bitdefender.net/
 local=/tky-dns.bitdefender.net/
+local=/dns.bitgeek.in/
 local=/dns.bitservices.io/
 local=/adguard.bitteeinbyte.de/
 local=/dns.bitup.de/

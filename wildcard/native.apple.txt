@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 14:37 UTC
-# Version: 2026.0107.1437.58
+# Last modified: 07 Jan 2026 14:41 UTC
+# Version: 2026.0107.1441.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 98
+# Number of entries: 99
 #
 *.cstat.g.aaplimg.com
 *.diagassets.g.aaplimg.com
@@ -92,6 +92,7 @@
 *.me.apple-dns.net
 *.applemediaservices.com
 *.cstat.cdn-apple.com
+*.securemetrics.apple.com.cn
 *.feedbackws.icloud.com.cn
 *.cdn-xp-ingest.edge.apple
 *.experiments.apple.com.edgekey.net

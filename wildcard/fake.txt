@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 13:27 UTC
-# Version: 2026.0107.1327.36
+# Last modified: 07 Jan 2026 17:28 UTC
+# Version: 2026.0107.1728.41
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 13883
+# Number of entries: 13900
 #
 *.01broker.com
 *.01crypto.com
@@ -724,6 +724,7 @@
 *.aromascent.club
 *.aromatreasuresava.shop
 *.aroxcapital.com
+*.arptrade.com
 *.arredamenti-italia.de
 *.art-impulse.fr
 *.art-portrait.de
@@ -762,8 +763,12 @@
 *.ashbergh.com
 *.asiaingeschaft.com
 *.asics-outlet.de
+*.asics-schweiz.com
 *.asics-suomi.com
+*.asicsale.com
+*.asicsat.at
 *.asicsde.de
+*.asicsdeutschland.de
 *.asicskuwaitsale.com
 *.asicsosterreich.at
 *.askariyeh-kh.ir
@@ -807,6 +812,7 @@
 *.atikisoi.com
 *.atinvesting212.co
 *.atlantictrikot.de
+*.atluxde.com
 *.aton-invest.com
 *.atossy.de
 *.atpgoldenpass.com
@@ -979,6 +985,7 @@
 *.b196kaufen.de
 *.b2b-consulting.net
 *.b2b-sphere.de
+*.b2trades.com
 *.b4trade.com
 *.babara-mode.com
 *.babaroni.de
@@ -1050,7 +1057,9 @@
 *.baldyandthefidgets.com
 *.balenciagaireland.com
 *.balennz.com
+*.baleur.com
 *.baleurs.de
+*.baleurshop.de
 *.balfourcapitalgroup.com
 *.balinvest-ch.com
 *.balitaberlin.de
@@ -1105,6 +1114,7 @@
 *.barfussfreedom.com
 *.bargainplanet.de
 *.bargnee.com
+*.barkershoes-uk.com
 *.barki-shop.de
 *.barleybeam.com
 *.barlleiy.com
@@ -1208,6 +1218,7 @@
 *.beerenernte.com
 *.beerschottierheim.de
 *.beessensations.com
+*.behaviorl.com
 *.beheizbarekleidung.com
 *.behnberlin.de
 *.beiids.com
@@ -1346,6 +1357,7 @@
 *.beste-motorrad.com
 *.besteangebote24.de
 *.bestebike.de
+*.besteckgeschirr.de
 *.besteckstore.com
 *.bestekaufhauser24.com
 *.bestekreditvergabe.ltd
@@ -1413,6 +1425,7 @@
 *.beweich.de
 *.bewerte-den-shop.de
 *.bexisassets.com
+*.bextradefx.online
 *.beziehungspersoenlichkeit.de
 *.bfarmacia.com
 *.bfi-finance.com
@@ -1527,6 +1540,7 @@
 *.binarylowcost.com
 *.binarymate.com
 *.binatex.com
+*.bindado.de
 *.binderwelpen.de
 *.bingoblitz.shop
 *.binnyworld.com
@@ -1576,6 +1590,7 @@
 *.bitcoinasystem.su
 *.bitcoindecode.io
 *.bitcoineer.tv
+*.bitcoineprex.ai
 *.bitcoinera.app
 *.bitcoinevista.com
 *.bitcoingroup-vip.com
@@ -1591,6 +1606,7 @@
 *.bitfinancial.info
 *.bitgetzx.com
 *.biticodes.com
+*.bitiq.app
 *.bitlast.com
 *.bitnixer.io
 *.area.bitnixer.net
@@ -1646,6 +1662,7 @@
 *.blueblom.com
 *.blueboltchargers.com
 *.bluecasadecor.com
+*.bluedo.de
 *.bluehend-land.de
 *.bluelock.store
 *.blueoceanproject.de

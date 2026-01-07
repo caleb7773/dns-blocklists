@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767796140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767810660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 14:29 UTC
-; Version: 2026.0107.1429.06
+; Last modified: 07 Jan 2026 18:31 UTC
+; Version: 2026.0107.1831.39
 ; Syntax: RPZ
-; Number of entries: 22840
+; Number of entries: 22856
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1962,6 +1962,8 @@ altadefinizione01.cloud CNAME .
 *.altadefinizione01.cloud CNAME .
 altadefinizionegratis.cloud CNAME .
 *.altadefinizionegratis.cloud CNAME .
+audiobooks.cloud CNAME .
+*.audiobooks.cloud CNAME .
 bedro.cloud CNAME .
 *.bedro.cloud CNAME .
 cineblog01.cloud CNAME .
@@ -3112,6 +3114,8 @@ audiobooksbee.com CNAME .
 *.audiobooksbee.com CNAME .
 audiobookss.com CNAME .
 *.audiobookss.com CNAME .
+audiop2p.com CNAME .
+*.audiop2p.com CNAME .
 aurastresser.com CNAME .
 *.aurastresser.com CNAME .
 autocadbmjes.com CNAME .
@@ -8388,6 +8392,8 @@ sportsurgenfl.cyou CNAME .
 *.sportsurgenfl.cyou CNAME .
 thepb.cyou CNAME .
 *.thepb.cyou CNAME .
+besttracker.cz CNAME .
+*.besttracker.cz CNAME .
 hd-cztorrent.cz CNAME .
 *.hd-cztorrent.cz CNAME .
 jopa.cz CNAME .
@@ -8618,6 +8624,8 @@ aerolite.dev CNAME .
 *.aerolite.dev CNAME .
 animexin.dev CNAME .
 *.animexin.dev CNAME .
+trackr.appolon.dev CNAME .
+*.trackr.appolon.dev CNAME .
 comick.dev CNAME .
 *.comick.dev CNAME .
 crackstreams.dev CNAME .
@@ -11368,6 +11376,8 @@ anytv.live CNAME .
 *.anytv.live CNAME .
 baked.live CNAME .
 *.baked.live CNAME .
+bdixtv.live CNAME .
+*.bdixtv.live CNAME .
 bdtv.live CNAME .
 *.bdtv.live CNAME .
 binged.live CNAME .
@@ -15282,6 +15292,8 @@ bitmovie.org CNAME .
 *.bitmovie.org CNAME .
 bitru.org CNAME .
 *.bitru.org CNAME .
+tracker.bittalk.org CNAME .
+*.tracker.bittalk.org CNAME .
 bittorrentfiles.org CNAME .
 *.bittorrentfiles.org CNAME .
 bittown.org CNAME .
@@ -17532,6 +17544,8 @@ asnet.pw CNAME .
 *.asnet.pw CNAME .
 tracker.bittor.pw CNAME .
 *.tracker.bittor.pw CNAME .
+tracker.bluefrog.pw CNAME .
+*.tracker.bluefrog.pw CNAME .
 cb01.pw CNAME .
 *.cb01.pw CNAME .
 tracker.christianbro.pw CNAME .
@@ -20824,6 +20838,8 @@ beeriptv.tv CNAME .
 *.beeriptv.tv CNAME .
 biggapan.tv CNAME .
 *.biggapan.tv CNAME .
+blackwave.tv CNAME .
+*.blackwave.tv CNAME .
 bocian.tv CNAME .
 *.bocian.tv CNAME .
 buffstreams.tv CNAME .

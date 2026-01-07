@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 14:35 UTC
-# Version: 2026.0107.1435.18
+# Last modified: 07 Jan 2026 18:37 UTC
+# Version: 2026.0107.1837.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6284
+# Number of entries: 6288
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -557,6 +557,7 @@ local=/b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space/
 local=/baconmania.click/
 local=/franzosen.bad.mn/
 local=/filter.badbotdev.xyz/
+local=/safe-guard.badbotdev.xyz/
 local=/dns.bai0012.com/
 local=/dnscdn.bai0012.com/
 local=/httpdns.baidu.com/
@@ -616,6 +617,7 @@ local=/openvpnpptpserver.bese.info/
 local=/bestaitool.news/
 local=/bestfreevpn.com/
 local=/bestproxy.xyz/
+local=/bestssh.net/
 local=/lebron.is.the.besttoday.ru/
 local=/bestukvpn.com/
 local=/bestvideoproxy.com/
@@ -623,6 +625,7 @@ local=/bestvpn.org/
 local=/bestvpnprovider.info/
 local=/bestvpnrating.com/
 local=/bestvpnserver.com/
+local=/bestvpnservice.top/
 local=/bestvpnssh.com/
 local=/bestwon203.com/
 local=/www-proxy.bettercallghaith.wiki/
@@ -649,6 +652,7 @@ local=/nvi-dns.bitdefender.net/
 local=/ore-dns.bitdefender.net/
 local=/tky-dns.bitdefender.net/
 local=/tips.bitesmagazine.com/
+local=/dns.bitgeek.in/
 local=/bitping.com/
 local=/dns.bitservices.io/
 local=/adguard.bitteeinbyte.de/

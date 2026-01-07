@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 14:29 UTC
-# Version: 2026.0107.1429.06
+# Last modified: 07 Jan 2026 18:31 UTC
+# Version: 2026.0107.1831.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11420
+# Number of entries: 11428
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -973,6 +973,7 @@ local=/applenetbd.com/
 local=/appmods.us/
 local=/appnee.com/
 local=/appnetica.com/
+local=/trackr.appolon.dev/
 local=/apps4all.com/
 local=/appsitory.com/
 local=/academic-p2p.appspot.com/
@@ -1083,10 +1084,12 @@ local=/audiobookbay.net/
 local=/audiobookbay.nl/
 local=/audiobookbay.se/
 local=/audiobookol.com/
+local=/audiobooks.cloud/
 local=/audiobooksbee.com/
 local=/audiobookss.com/
 local=/audionews.org/
 local=/audionews.ru/
+local=/audiop2p.com/
 local=/audiostuff.ro/
 local=/aurastresser.com/
 local=/auratorrent.pl/
@@ -1189,6 +1192,7 @@ local=/bdixlive.com/
 local=/bdixmedia.com/
 local=/bdixsports.com/
 local=/bdixtorrent.com/
+local=/bdixtv.live/
 local=/bdlan.net/
 local=/bdlivezone.com/
 local=/bdmovies.net/
@@ -1239,6 +1243,7 @@ local=/bestserials.com/
 local=/bestsolaris.com/
 local=/bestsportstreaming.com/
 local=/beststresser.com/
+local=/besttracker.cz/
 local=/bestwish.lol/
 local=/tracker.beyond-hd.me/
 local=/bflix.ac/
@@ -1326,6 +1331,7 @@ local=/bitsources.com/
 local=/bitsparadise.info/
 local=/bitspyder.net/
 local=/bitstreams.live/
+local=/tracker.bittalk.org/
 local=/tracker.bittor.pw/
 local=/bittorrent.am/
 local=/bittorrent.com/
@@ -1363,6 +1369,7 @@ local=/blacktiesports.net/
 local=/blacktorrent.ru/
 local=/tracker.blackunicorn.xyz/
 local=/blackvid.space/
+local=/blackwave.tv/
 local=/blackz.ro/
 local=/tracker.blazing.de/
 local=/block908.ru/
@@ -1452,6 +1459,7 @@ local=/bludv.com/
 local=/blue-bytez.com/
 local=/blue-whitegt.com/
 local=/bluebird-hd.org/
+local=/tracker.bluefrog.pw/
 local=/blueroms.ws/
 local=/blues-brothers.biz/
 local=/blueseries.net/

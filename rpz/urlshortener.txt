@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767792540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767807000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 13:29 UTC
-; Version: 2026.0107.1329.11
+; Last modified: 07 Jan 2026 17:30 UTC
+; Version: 2026.0107.1730.23
 ; Syntax: RPZ
-; Number of entries: 20096
+; Number of entries: 20104
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3495,6 +3495,8 @@ awtgatp.com CNAME .
 *.awtgatp.com CNAME .
 awwurl.com CNAME .
 *.awwurl.com CNAME .
+ayzyu.com CNAME .
+*.ayzyu.com CNAME .
 azhfoom.com CNAME .
 *.azhfoom.com CNAME .
 azipurl.com CNAME .
@@ -3543,6 +3545,8 @@ bd-fw.com CNAME .
 *.bd-fw.com CNAME .
 bdfwpro.com CNAME .
 *.bdfwpro.com CNAME .
+beautyfitnesshealth.com CNAME .
+*.beautyfitnesshealth.com CNAME .
 bebuiltllc.com CNAME .
 *.bebuiltllc.com CNAME .
 bee1s.com CNAME .
@@ -10261,6 +10265,8 @@ verd.in CNAME .
 *.verd.in CNAME .
 vilpower.in CNAME .
 *.vilpower.in CNAME .
+vipshort.in CNAME .
+*.vipshort.in CNAME .
 vlinks.in CNAME .
 *.vlinks.in CNAME .
 vlnq.in CNAME .
@@ -19175,6 +19181,8 @@ beeb.us CNAME .
 *.beeb.us CNAME .
 beif.us CNAME .
 *.beif.us CNAME .
+bg9.us CNAME .
+*.bg9.us CNAME .
 bn8.us CNAME .
 *.bn8.us CNAME .
 bofh.us CNAME .
