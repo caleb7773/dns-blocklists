@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 10:32 UTC
-# Version: 2026.0107.1032.00
+# Last modified: 07 Jan 2026 14:29 UTC
+# Version: 2026.0107.1429.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11411
+# Number of entries: 11420
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -475,6 +475,7 @@ local=/aeromods.app/
 local=/aerotwitter.com/
 local=/aerowa.cc/
 local=/afdah.com/
+local=/afdah.info/
 local=/afdah.live/
 local=/afdah.org/
 local=/afdah.to/
@@ -516,6 +517,7 @@ local=/aliez.tv/
 local=/alifanet.com/
 local=/iptv.aliflailabd.com/
 local=/alivedownload.com/
+local=/all-animes.com/
 local=/all4nothin.net/
 local=/alldebrid.com/
 local=/alldebrid.de/
@@ -552,6 +554,7 @@ local=/allprivatebabes.com/
 local=/allrepack.ru/
 local=/allseek.info/
 local=/allsports4free.live/
+local=/allsportsflix.xyz/
 local=/stream.allsprk.tv/
 local=/allthebestfights.com/
 local=/alltorrents.co/
@@ -564,6 +567,7 @@ local=/alluc.uno/
 local=/allyoulike.org/
 local=/alpha-ag.ru/
 local=/alphabetagamer.com/
+local=/alphabroadway.com/
 local=/alphaomega.me/
 local=/alpharatio.cc/
 local=/alphastress.com/
@@ -606,6 +610,7 @@ local=/altadefinizione.haus/
 local=/altadefinizione.icu/
 local=/altadefinizione.id/
 local=/altadefinizione.info/
+local=/altadefinizione.io/
 local=/altadefinizione.it/
 local=/altadefinizione.kim/
 local=/altadefinizione.li/
@@ -660,6 +665,7 @@ local=/altadefinizione01.info/
 local=/altadefinizione01.love/
 local=/altadefinizione01.online/
 local=/altadefinizione01.photo/
+local=/altadefinizione01.site/
 local=/altadefinizione01.tel/
 local=/altadefinizione01.top/
 local=/altadefinizione01.vg/
@@ -889,6 +895,7 @@ local=/tracker.anthelion.me/
 local=/anthousebd.net/
 local=/antsmarching.org/
 local=/anygame.net/
+local=/anytv.live/
 local=/anzaq.com/
 local=/anzfile.net/
 local=/aostv.app/
@@ -938,6 +945,7 @@ local=/apkmody.com/
 local=/apkmody.mobi/
 local=/apkmody.vip/
 local=/apkneom.com/
+local=/apkocean.net/
 local=/apkpanda.com/
 local=/apkpapi.com/
 local=/apkprime.org/
@@ -962,6 +970,7 @@ local=/appdb.to/
 local=/appdoze.com/
 local=/applegamingwiki.com/
 local=/applenetbd.com/
+local=/appmods.us/
 local=/appnee.com/
 local=/appnetica.com/
 local=/apps4all.com/

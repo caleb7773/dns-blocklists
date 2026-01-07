@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767781920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767796140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 10:32 UTC
-; Version: 2026.0107.1032.00
+; Last modified: 07 Jan 2026 14:29 UTC
+; Version: 2026.0107.1429.06
 ; Syntax: RPZ
-; Number of entries: 22822
+; Number of entries: 22840
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2786,6 +2786,8 @@ iptv.aliflailabd.com CNAME .
 *.iptv.aliflailabd.com CNAME .
 alivedownload.com CNAME .
 *.alivedownload.com CNAME .
+all-animes.com CNAME .
+*.all-animes.com CNAME .
 alldebrid.com CNAME .
 *.alldebrid.com CNAME .
 allfreeapk.com CNAME .
@@ -2810,6 +2812,8 @@ allthebestfights.com CNAME .
 *.allthebestfights.com CNAME .
 alphabetagamer.com CNAME .
 *.alphabetagamer.com CNAME .
+alphabroadway.com CNAME .
+*.alphabroadway.com CNAME .
 alphastress.com CNAME .
 *.alphastress.com CNAME .
 alt-torrent.com CNAME .
@@ -10172,6 +10176,8 @@ hdmovie2.industries CNAME .
 *.hdmovie2.industries CNAME .
 abcvg.info CNAME .
 *.abcvg.info CNAME .
+afdah.info CNAME .
+*.afdah.info CNAME .
 allseek.info CNAME .
 *.allseek.info CNAME .
 altadefinizione.info CNAME .
@@ -10564,6 +10570,8 @@ a2zapk.io CNAME .
 *.a2zapk.io CNAME .
 aidey.io CNAME .
 *.aidey.io CNAME .
+altadefinizione.io CNAME .
+*.altadefinizione.io CNAME .
 androidhackers.io CNAME .
 *.androidhackers.io CNAME .
 anicloud.io CNAME .
@@ -11356,6 +11364,8 @@ allsports4free.live CNAME .
 *.allsports4free.live CNAME .
 altadefinizione.live CNAME .
 *.altadefinizione.live CNAME .
+anytv.live CNAME .
+*.anytv.live CNAME .
 baked.live CNAME .
 *.baked.live CNAME .
 bdtv.live CNAME .
@@ -12714,6 +12724,8 @@ apkgod.net CNAME .
 *.apkgod.net CNAME .
 apkhome.net CNAME .
 *.apkhome.net CNAME .
+apkocean.net CNAME .
+*.apkocean.net CNAME .
 apksoul.net CNAME .
 *.apksoul.net CNAME .
 apktoly.net CNAME .
@@ -18886,6 +18898,8 @@ streamingcommunity.singles CNAME .
 *.33seriestreaming.site CNAME .
 tracker.52pt.site CNAME .
 *.tracker.52pt.site CNAME .
+altadefinizione01.site CNAME .
+*.altadefinizione01.site CNAME .
 ambassadorddl.site CNAME .
 *.ambassadorddl.site CNAME .
 antenasport.site CNAME .
@@ -21454,6 +21468,8 @@ altadefinizione.us CNAME .
 *.altadefinizione.us CNAME .
 animeland.us CNAME .
 *.animeland.us CNAME .
+appmods.us CNAME .
+*.appmods.us CNAME .
 arconaitv.us CNAME .
 *.arconaitv.us CNAME .
 b-h.us CNAME .
@@ -22444,6 +22460,8 @@ tracker.aibt.xyz CNAME .
 *.tracker.aibt.xyz CNAME .
 allforbooks.xyz CNAME .
 *.allforbooks.xyz CNAME .
+allsportsflix.xyz CNAME .
+*.allsportsflix.xyz CNAME .
 altadefinizione.xyz CNAME .
 *.altadefinizione.xyz CNAME .
 animeglare.xyz CNAME .

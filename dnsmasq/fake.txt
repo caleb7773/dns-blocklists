@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 09:28 UTC
-# Version: 2026.0107.0928.58
+# Last modified: 07 Jan 2026 13:27 UTC
+# Version: 2026.0107.1327.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13873
+# Number of entries: 13883
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -73,6 +73,7 @@ local=/a2j-baumarkt.com/
 local=/aaaclothing.ru/
 local=/aachentag.com/
 local=/aacloth.shop/
+local=/aacreek-ranch.de/
 local=/aaronallen.top/
 local=/abadi-solar24.de/
 local=/abbigliamentoscarpe.com/
@@ -157,6 +158,7 @@ local=/adboischauffage.com/
 local=/addblockcs.com/
 local=/addedtechnology.com/
 local=/addicted2.at/
+local=/addinno-kauf.de/
 local=/addmich.de/
 local=/adeliamode.de/
 local=/adidas-campus.at/
@@ -197,6 +199,7 @@ local=/aegis-at.com/
 local=/aegisxs.com/
 local=/aekcapital.ltd/
 local=/store.aeotec.com/
+local=/aeowe.com/
 local=/webtrader.aeratiqos.com/
 local=/aerialpics.de/
 local=/aeromed-hamburg.de/
@@ -223,6 +226,7 @@ local=/agf-placement.com/
 local=/agfbio-chauffage.com/
 local=/agfmarkets.com/
 local=/aghhome.com/
+local=/agkapital.com/
 local=/agrial-culture.com/
 local=/agricolaindustrial.com/
 local=/agriculturi.com/
@@ -287,6 +291,7 @@ local=/alairlenoir.com/
 local=/albrechtmode.de/
 local=/aldobolsasmexico.com/
 local=/aldocanada.net/
+local=/aldofashion.com/
 local=/aldomontreal.com/
 local=/aldonetherlands.com/
 local=/aldorabatt.de/
@@ -466,6 +471,7 @@ local=/amazenda.com/
 local=/amaznboxde.com/
 local=/amazonboxus.com/
 local=/amazoncoin.su/
+local=/amazonglobal.live/
 local=/amazongori.com/
 local=/amazonliw.com/
 local=/amazonspallet.com/
@@ -552,6 +558,7 @@ local=/anhangerdienst.com/
 local=/anhangerplus.com/
 local=/anhangerr.com/
 local=/anhangershop.com/
+local=/anhangershop-24.com/
 local=/anhangershop24.com/
 local=/anhangershopsey.com/
 local=/ani--zoo.com/
@@ -602,6 +609,7 @@ local=/apharmacie.com/
 local=/apkwell.com/
 local=/aplschuhe.at/
 local=/aplschuhe.com/
+local=/apo-rezeptfrei.com/
 local=/apollus24.com/
 local=/apotek-no24.com/
 local=/apotek-norge24.com/
@@ -609,6 +617,7 @@ local=/apoteket.to/
 local=/apotekno24.com/
 local=/apotekrx.com/
 local=/apotheeknl.com/
+local=/apotheke-bestellen.de/
 local=/apotheke-deutschland.com/
 local=/apotheke-fur-sie.de/
 local=/apotheke-neu.com/
@@ -633,6 +642,7 @@ local=/apparelgearbox.com/
 local=/appblizz.com/
 local=/appearancte.com/
 local=/applauseud.com/
+local=/applausey.com/
 local=/apple-ui.com/
 local=/appleeden.de/
 local=/applemarket.de/

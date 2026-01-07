@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767778200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767792540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 09:30 UTC
-; Version: 2026.0107.0930.45
+; Last modified: 07 Jan 2026 13:29 UTC
+; Version: 2026.0107.1329.11
 ; Syntax: RPZ
-; Number of entries: 20088
+; Number of entries: 20096
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3373,6 +3373,8 @@ allinonetab.com CNAME .
 *.allinonetab.com CNAME .
 alllinksinbio.com CNAME .
 *.alllinksinbio.com CNAME .
+allmylinksinoneplace.com CNAME .
+*.allmylinksinoneplace.com CNAME .
 allytab.com CNAME .
 *.allytab.com CNAME .
 aloeds.com CNAME .
@@ -13239,12 +13241,16 @@ zweet.link CNAME .
 *.23conmuc.live CNAME .
 3xs.live CNAME .
 *.3xs.live CNAME .
+aisc.live CNAME .
+*.aisc.live CNAME .
 alias.live CNAME .
 *.alias.live CNAME .
 alongno1.live CNAME .
 *.alongno1.live CNAME .
 apply-here.live CNAME .
 *.apply-here.live CNAME .
+appusps.live CNAME .
+*.appusps.live CNAME .
 archit.live CNAME .
 *.archit.live CNAME .
 arclight.live CNAME .
@@ -19893,6 +19899,8 @@ aficlicktrack.xyz CNAME .
 *.aficlicktrack.xyz CNAME .
 akunjpvip.xyz CNAME .
 *.akunjpvip.xyz CNAME .
+alldomainwhois.xyz CNAME .
+*.alldomainwhois.xyz CNAME .
 amritlink.xyz CNAME .
 *.amritlink.xyz CNAME .
 answ.xyz CNAME .

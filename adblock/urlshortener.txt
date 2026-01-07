@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Jan 2026 09:30 UTC
-! Version: 2026.0107.0930.45
+! Last modified: 07 Jan 2026 13:29 UTC
+! Version: 2026.0107.1329.11
 ! Syntax: AdBlock
-! Number of entries: 10044
+! Number of entries: 10048
 !
 ||0.gp^
 ||00m.in^
@@ -607,6 +607,7 @@
 ||airrlink.com^
 ||docs.airship.com^
 ||airshort.de^
+||aisc.live^
 ||aishorterlink.com^
 ||aisurl.com^
 ||aitwwl.co^
@@ -663,12 +664,14 @@
 ||all-link.me^
 ||allamericanpatriots.com^
 ||allbio.link^
+||alldomainwhois.xyz^
 ||alli.pub^
 ||allinonetab.com^
 ||allinonetool.tech^
 ||alllinks.in^
 ||alllinksinbio.com^
 ||allmylinks.link^
+||allmylinksinoneplace.com^
 ||alls.link^
 ||allytab.com^
 ||alnk.to^
@@ -802,6 +805,7 @@
 ||appsko.ca^
 ||go.appsscript.info^
 ||appurl.io^
+||appusps.live^
 ||appw.me^
 ||appwhats.in^
 ||apsense.cc^

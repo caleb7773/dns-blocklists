@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 09:30 UTC
-# Version: 2026.0107.0930.45
+# Last modified: 07 Jan 2026 13:29 UTC
+# Version: 2026.0107.1329.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10044
+# Number of entries: 10048
 #
 local=/0.gp/
 local=/00m.in/
@@ -606,6 +606,7 @@ local=/ainurl.pro/
 local=/airrlink.com/
 local=/docs.airship.com/
 local=/airshort.de/
+local=/aisc.live/
 local=/aishorterlink.com/
 local=/aisurl.com/
 local=/aitwwl.co/
@@ -662,12 +663,14 @@ local=/alisys.it/
 local=/all-link.me/
 local=/allamericanpatriots.com/
 local=/allbio.link/
+local=/alldomainwhois.xyz/
 local=/alli.pub/
 local=/allinonetab.com/
 local=/allinonetool.tech/
 local=/alllinks.in/
 local=/alllinksinbio.com/
 local=/allmylinks.link/
+local=/allmylinksinoneplace.com/
 local=/alls.link/
 local=/allytab.com/
 local=/alnk.to/
@@ -801,6 +804,7 @@ local=/appscross.com/
 local=/appsko.ca/
 local=/go.appsscript.info/
 local=/appurl.io/
+local=/appusps.live/
 local=/appw.me/
 local=/appwhats.in/
 local=/apsense.cc/
