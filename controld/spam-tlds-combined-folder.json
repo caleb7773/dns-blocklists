@@ -1379,6 +1379,13 @@
       }
     },
     {
+      "PK": "crisp.help",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "crontab.guru",
       "action": {
         "do": 1,

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jan 2026 10:37 UTC
-# Version: 2026.0106.1037.31
+# Last modified: 07 Jan 2026 02:31 UTC
+# Version: 2026.0107.0231.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11405
+# Number of entries: 11403
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2351,7 +2351,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -2499,7 +2498,6 @@ local=/inferno.demonoid.me/
 local=/open.demonoid.ch/
 local=/open-tracker.demonoid.ch/
 local=/open-v6.demonoid.ch/
-local=/public.demonoid.ch/
 local=/demons-eye.me/
 local=/dendox.org/
 local=/deporte-libre.click/
@@ -5262,6 +5260,7 @@ local=/justdubs.org/
 local=/justinwb.com/
 local=/juststream.mom/
 local=/jutone.com/
+local=/jvavav.com/
 local=/blog.jxzmz.org/
 local=/k2nblog.com/
 local=/kaa.mx/
@@ -9863,7 +9862,6 @@ local=/tracker810.xyz/
 local=/trackerlist.xyz/
 local=/trackerok.ru/
 local=/trackerpmr.com/
-local=/node01.trackerstatus.live/
 local=/trackerturk.biz/
 local=/tracker.trackton.ga/
 local=/traderz.org/

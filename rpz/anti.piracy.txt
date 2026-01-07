@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767695820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767753060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jan 2026 10:37 UTC
-; Version: 2026.0106.1037.31
+; Last modified: 07 Jan 2026 02:31 UTC
+; Version: 2026.0107.0231.19
 ; Syntax: RPZ
-; Number of entries: 22810
+; Number of entries: 22806
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1752,8 +1752,6 @@ open-tracker.demonoid.ch CNAME .
 *.open-tracker.demonoid.ch CNAME .
 open-v6.demonoid.ch CNAME .
 *.open-v6.demonoid.ch CNAME .
-public.demonoid.ch CNAME .
-*.public.demonoid.ch CNAME .
 extratorrents.ch CNAME .
 *.extratorrents.ch CNAME .
 eztv.ch CNAME .
@@ -5198,6 +5196,8 @@ justinwb.com CNAME .
 *.justinwb.com CNAME .
 jutone.com CNAME .
 *.jutone.com CNAME .
+jvavav.com CNAME .
+*.jvavav.com CNAME .
 k2nblog.com CNAME .
 *.k2nblog.com CNAME .
 kaitovault.com CNAME .
@@ -8428,8 +8428,6 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -11524,8 +11522,6 @@ topflix.live CNAME .
 *.topflix.live CNAME .
 torlock.live CNAME .
 *.torlock.live CNAME .
-node01.trackerstatus.live CNAME .
-*.node01.trackerstatus.live CNAME .
 tufan.live CNAME .
 *.tufan.live CNAME .
 tvbd.live CNAME .
