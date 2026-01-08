@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 21:30 UTC
-# Version: 2026.0107.2130.56
+# Last modified: 08 Jan 2026 09:29 UTC
+# Version: 2026.0108.0929.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10056
+# Number of entries: 10070
 #
 local=/0.gp/
 local=/00m.in/
@@ -1849,6 +1849,7 @@ local=/xmeets-ubabe.co.uk/
 local=/xx.co.nz/
 local=/yop.co.za/
 local=/coachingtree.com/
+local=/coachstudio.org/
 local=/coba.la/
 local=/s.coccoc.com/
 local=/cockroa.ch/
@@ -1864,6 +1865,7 @@ local=/coe.li/
 local=/cofe.io/
 local=/coil-forms.com/
 local=/coinbarlink.net/
+local=/coinbasesupports.live/
 local=/coinbot.kr/
 local=/coinclix.co/
 local=/coklat.vip/
@@ -1906,6 +1908,7 @@ local=/mpfi.com.ph/
 local=/nabio.com.br/
 local=/natura.com.vc/
 local=/salesadvisor.nazriproton.com.my/
+local=/onelink.com.do/
 local=/readystart.com.au/
 local=/red1.com.br/
 local=/redlight.com.br/
@@ -1925,6 +1928,7 @@ local=/used.com.ph/
 local=/useek.com.au/
 local=/vanlifediyfitouts.com.au/
 local=/bi.vitalmedbrasilia.com.br/
+local=/vm88.com.co/
 local=/xpol.com.tr/
 local=/youlinks.com.au/
 local=/parceiros.zerofuro.com.br/
@@ -2126,6 +2130,7 @@ local=/cutto.io/
 local=/cutts.in/
 local=/cutturl.xyz/
 local=/cutu.me/
+local=/cutur.link/
 local=/cuturl.cloud/
 local=/cuturl.com/
 local=/cuturl.net/
@@ -2211,6 +2216,7 @@ local=/dbolink.com/
 local=/dbricks.co/
 local=/go.dbs.com/
 local=/dcbspage.org/
+local=/dcc.ng/
 local=/dcps.co/
 local=/dcri.io/
 local=/dcshru.ru/
@@ -2235,6 +2241,7 @@ local=/defigodirect.com/
 local=/defwdsccvf.today/
 local=/dehe.ir/
 local=/deheh.ir/
+local=/s.deinventive.com/
 local=/deli.bz/
 local=/deliverable.email/
 local=/delivr.com/
@@ -2245,6 +2252,7 @@ local=/delta.live/
 local=/demcon24.com/
 local=/asset.deme-group.com/
 local=/qr.democame.pe/
+local=/demolink.net/
 local=/demoxpress.xyz/
 local=/dems.me/
 local=/depedzn.net/
@@ -2272,6 +2280,7 @@ local=/dfkr77.com/
 local=/dfl8.me/
 local=/dft.ba/
 local=/dfthethao.com/
+local=/dfy.is/
 local=/dgkad.com/
 local=/dglnk.me/
 local=/dgms.es/
@@ -2309,6 +2318,7 @@ local=/directedurls.com/
 local=/directpay.dev/
 local=/dis.gd/
 local=/dis.tl/
+local=/disanspam.life/
 local=/discount-forex.biz/
 local=/discvr.co/
 local=/disini.link/
@@ -2408,6 +2418,7 @@ local=/droid.ws/
 local=/droidqr.com/
 local=/dronescapes.video/
 local=/drop.tf/
+local=/dropl.link/
 local=/droplr.net/
 local=/dropmylinks.com/
 local=/kutt.droppii.vn/
@@ -2520,6 +2531,7 @@ local=/ebarata.com/
 local=/ebay.to/
 local=/ebbco.ir/
 local=/ebbkr.com/
+local=/ebe.cool/
 local=/ebig.ly/
 local=/ebvv.com/
 local=/eby.onl/
@@ -3406,6 +3418,7 @@ local=/hill.cm/
 local=/himanshoe.com/
 local=/blink.hirebiz.com/
 local=/hiroqr.com/
+local=/hirummy.best/
 local=/hirummy.life/
 local=/hisc.app/
 local=/histori.ca/
@@ -8616,6 +8629,7 @@ local=/turo.us/
 local=/turtl.ink/
 local=/turtlink.com/
 local=/tuskqr.com/
+local=/tusviralesc.us/
 local=/tuwaga.vip/
 local=/tvdg.io/
 local=/tvote.org/

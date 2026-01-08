@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767821400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767864540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jan 2026 21:30 UTC
-; Version: 2026.0107.2130.56
+; Last modified: 08 Jan 2026 09:29 UTC
+; Version: 2026.0108.0929.59
 ; Syntax: RPZ
-; Number of entries: 20112
+; Number of entries: 20140
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -983,6 +983,8 @@ bitly.best CNAME .
 *.bitly.best CNAME .
 fighter234.best CNAME .
 *.fighter234.best CNAME .
+hirummy.best CNAME .
+*.hirummy.best CNAME .
 klik.best CNAME .
 *.klik.best CNAME .
 shorturl.best CNAME .
@@ -2441,6 +2443,8 @@ coinclix.co CNAME .
 *.coinclix.co CNAME .
 tinyurl.smart-home.com.co CNAME .
 *.tinyurl.smart-home.com.co CNAME .
+vm88.com.co CNAME .
+*.vm88.com.co CNAME .
 cplink.co CNAME .
 *.cplink.co CNAME .
 crdrv.co CNAME .
@@ -4081,6 +4085,8 @@ s.deemos.com CNAME .
 *.s.deemos.com CNAME .
 defigodirect.com CNAME .
 *.defigodirect.com CNAME .
+s.deinventive.com CNAME .
+*.s.deinventive.com CNAME .
 delivr.com CNAME .
 *.delivr.com CNAME .
 demcon24.com CNAME .
@@ -7899,6 +7905,8 @@ asc.cool CNAME .
 *.asc.cool CNAME .
 bp.cool CNAME .
 *.bp.cool CNAME .
+ebe.cool CNAME .
+*.ebe.cool CNAME .
 i.mtr.cool CNAME .
 *.i.mtr.cool CNAME .
 my.mtr.cool CNAME .
@@ -8373,6 +8381,8 @@ bit.do CNAME .
 *.bit.do CNAME .
 biolink.com.do CNAME .
 *.biolink.com.do CNAME .
+onelink.com.do CNAME .
+*.onelink.com.do CNAME .
 dad.do CNAME .
 *.dad.do CNAME .
 eb.do CNAME .
@@ -11541,6 +11551,8 @@ bre.is CNAME .
 *.bre.is CNAME .
 cmu.is CNAME .
 *.cmu.is CNAME .
+dfy.is CNAME .
+*.dfy.is CNAME .
 dyx.is CNAME .
 *.dyx.is CNAME .
 flink.is CNAME .
@@ -12361,6 +12373,8 @@ cuoinamdiedm.life CNAME .
 *.cuoinamdiedm.life CNAME .
 decimalegion.life CNAME .
 *.decimalegion.life CNAME .
+disanspam.life CNAME .
+*.disanspam.life CNAME .
 docusignredirectsharepoint.life CNAME .
 *.docusignredirectsharepoint.life CNAME .
 dr-lisa.life CNAME .
@@ -12635,6 +12649,8 @@ cute.link CNAME .
 *.cute.link CNAME .
 cutmy.link CNAME .
 *.cutmy.link CNAME .
+cutur.link CNAME .
+*.cutur.link CNAME .
 cwr.link CNAME .
 *.cwr.link CNAME .
 d138.link CNAME .
@@ -12663,6 +12679,8 @@ dpb.link CNAME .
 *.dpb.link CNAME .
 drafthound.link CNAME .
 *.drafthound.link CNAME .
+dropl.link CNAME .
+*.dropl.link CNAME .
 dub.link CNAME .
 *.dub.link CNAME .
 dwdl.link CNAME .
@@ -13283,6 +13301,8 @@ cgvoice.live CNAME .
 *.cgvoice.live CNAME .
 clotplaynews.live CNAME .
 *.clotplaynews.live CNAME .
+coinbasesupports.live CNAME .
+*.coinbasesupports.live CNAME .
 conviva.live CNAME .
 *.conviva.live CNAME .
 daftarhoki.live CNAME .
@@ -15211,6 +15231,8 @@ dafa07.net CNAME .
 *.dafa07.net CNAME .
 databrains.net CNAME .
 *.databrains.net CNAME .
+demolink.net CNAME .
+*.demolink.net CNAME .
 depedzn.net CNAME .
 *.depedzn.net CNAME .
 link.devpush.net CNAME .
@@ -15787,6 +15809,8 @@ booki.ng CNAME .
 *.booki.ng CNAME .
 coupa.ng CNAME .
 *.coupa.ng CNAME .
+dcc.ng CNAME .
+*.dcc.ng CNAME .
 shar.i.ng CNAME .
 *.shar.i.ng CNAME .
 myurl.ng CNAME .
@@ -16189,6 +16213,8 @@ link.chanrobotics.org CNAME .
 *.link.chanrobotics.org CNAME .
 go.circex.org CNAME .
 *.go.circex.org CNAME .
+coachstudio.org CNAME .
+*.coachstudio.org CNAME .
 convertcase.org CNAME .
 *.convertcase.org CNAME .
 coreprob.coreprobation.org CNAME .
@@ -19443,6 +19469,8 @@ d.tuor.us CNAME .
 *.d.tuor.us CNAME .
 turo.us CNAME .
 *.turo.us CNAME .
+tusviralesc.us CNAME .
+*.tusviralesc.us CNAME .
 txpl.us CNAME .
 *.txpl.us CNAME .
 ucal.us CNAME .

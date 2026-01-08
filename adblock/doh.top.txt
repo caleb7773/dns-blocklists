@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Jan 2026 10:37 UTC
-! Version: 2026.0107.1037.33
+! Last modified: 08 Jan 2026 10:36 UTC
+! Version: 2026.0108.1036.57
 ! Syntax: AdBlock
 ! Number of entries: 811
 !
@@ -316,6 +316,7 @@
 ||adguard.easez.net^
 ||easyhandshake.com^
 ||dns.edgeburnmedia.com^
+||edgy-dns.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
 ||dns.electrotm.org^
@@ -541,7 +542,6 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
-||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^

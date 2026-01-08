@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jan 2026 10:36 UTC
-# Version: 2026.0107.1036.43
+# Last modified: 08 Jan 2026 10:36 UTC
+# Version: 2026.0108.1036.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1466
+# Number of entries: 1468
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -256,6 +256,7 @@ local=/dark-byte.net/
 local=/darksair.org/
 local=/darktech.org/
 local=/davidsagar.com/
+local=/ddns.cam/
 local=/ddns.info/
 local=/ddns.me/
 local=/ddns.mobi/
@@ -511,6 +512,7 @@ local=/feste-ip.net/
 local=/fin-tech.com/
 local=/fintech-llc.com/
 local=/fivepals.com/
+local=/flat4free.com/
 local=/flazzard.com/
 local=/flnet.org/
 local=/flowergardendaycare.com/

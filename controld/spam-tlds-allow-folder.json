@@ -2066,6 +2066,13 @@
       }
     },
     {
+      "PK": "heated.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "heavysaurus.store",
       "action": {
         "do": 1,
@@ -3978,6 +3985,13 @@
     },
     {
       "PK": "prohibited.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "project2025.observer",
       "action": {
         "do": 1,
         "status": 1
