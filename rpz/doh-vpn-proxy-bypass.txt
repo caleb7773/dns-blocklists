@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767868620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767897300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Jan 2026 10:37 UTC
-; Version: 2026.0108.1037.06
+; Last modified: 08 Jan 2026 18:35 UTC
+; Version: 2026.0108.1835.11
 ; Syntax: RPZ
-; Number of entries: 12782
+; Number of entries: 12802
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -789,6 +789,8 @@ adguard2.dsns.cloud CNAME .
 *.adguard2.dsns.cloud CNAME .
 gateway.fomichev.cloud CNAME .
 *.gateway.fomichev.cloud CNAME .
+freevpn.cloud CNAME .
+*.freevpn.cloud CNAME .
 frkn.frkn.cloud CNAME .
 *.frkn.frkn.cloud CNAME .
 dns.glampool.cloud CNAME .
@@ -2589,6 +2591,16 @@ dns.huyizhou.com CNAME .
 *.dns.huyizhou.com CNAME .
 dns.hyas.com CNAME .
 *.dns.hyas.com CNAME .
+link-five.ibewlocalzero.com CNAME .
+*.link-five.ibewlocalzero.com CNAME .
+link-four.ibewlocalzero.com CNAME .
+*.link-four.ibewlocalzero.com CNAME .
+link-one.ibewlocalzero.com CNAME .
+*.link-one.ibewlocalzero.com CNAME .
+link-three.ibewlocalzero.com CNAME .
+*.link-three.ibewlocalzero.com CNAME .
+link-two.ibewlocalzero.com CNAME .
+*.link-two.ibewlocalzero.com CNAME .
 ibvpn.com CNAME .
 *.ibvpn.com CNAME .
 icitek.com CNAME .
@@ -6393,6 +6405,8 @@ gamgasyoppakuteri-zenttodabi.gslb.info CNAME .
 *.gamgasyoppakuteri-zenttodabi.gslb.info CNAME .
 happydata.info CNAME .
 *.happydata.info CNAME .
+hiddendigital.info CNAME .
+*.hiddendigital.info CNAME .
 hideme101.info CNAME .
 *.hideme101.info CNAME .
 hidemyurl.info CNAME .
@@ -8223,8 +8237,12 @@ securly.com.fpr.net CNAME .
 *.securly.com.fpr.net CNAME .
 hotmoms.fpr.net CNAME .
 *.hotmoms.fpr.net CNAME .
+scienceschoolmath.fpr.net CNAME .
+*.scienceschoolmath.fpr.net CNAME .
 turtlelover.fpr.net CNAME .
 *.turtlelover.fpr.net CNAME .
+zi000.fpr.net CNAME .
+*.zi000.fpr.net CNAME .
 free-proxy-list.net CNAME .
 *.free-proxy-list.net CNAME .
 freedome-vpn.net CNAME .
@@ -12045,6 +12063,8 @@ granules.us CNAME .
 *.granules.us CNAME .
 guestappearance.us CNAME .
 *.guestappearance.us CNAME .
+schoolnotes.h0rst.us CNAME .
+*.schoolnotes.h0rst.us CNAME .
 hidebuzz.us CNAME .
 *.hidebuzz.us CNAME .
 dns.jhangy.us CNAME .

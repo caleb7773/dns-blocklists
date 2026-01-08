@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jan 2026 10:37 UTC
-# Version: 2026.0108.1037.06
+# Last modified: 08 Jan 2026 18:35 UTC
+# Version: 2026.0108.1835.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6391
+# Number of entries: 6401
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2286,7 +2286,9 @@ local=/us-ny.foxyfy.net/
 local=/us-sj.foxyfy.net/
 local=/securly.com.fpr.net/
 local=/hotmoms.fpr.net/
+local=/scienceschoolmath.fpr.net/
 local=/turtlelover.fpr.net/
+local=/zi000.fpr.net/
 local=/fptdns.site/
 local=/dns.family.fraiss.at/
 local=/frandcomfort.us/
@@ -2362,6 +2364,7 @@ local=/freetrialvpn.com/
 local=/freeukvpn.com/
 local=/freevideoproxy.com/
 local=/freevmess.com/
+local=/freevpn.cloud/
 local=/freevpn.me/
 local=/freevpn.org/
 local=/freevpn.pw/
@@ -2619,6 +2622,7 @@ local=/gwopboyded.com/
 local=/hkns.gzelvis.com/
 local=/gztech.me/
 local=/h-vpn.org/
+local=/schoolnotes.h0rst.us/
 local=/dns.h0schi.cloud/
 local=/dns2.h0schi.cloud/
 local=/potatojuice.h0stname.net/
@@ -2690,6 +2694,7 @@ local=/hfgx.shop/
 local=/hg8.asia/
 local=/hgrps.eu/
 local=/dns.sgp.hicn.site/
+local=/hiddendigital.info/
 local=/hiddendragon.site/
 local=/hide.me/
 local=/hide.mn/
@@ -2876,6 +2881,11 @@ local=/dns.iamninja.ru/
 local=/sec.iamninja.ru/
 local=/ib.systems/
 local=/dns-public.ibakerserver.pt/
+local=/link-five.ibewlocalzero.com/
+local=/link-four.ibewlocalzero.com/
+local=/link-one.ibewlocalzero.com/
+local=/link-three.ibewlocalzero.com/
+local=/link-two.ibewlocalzero.com/
 local=/dns.iblockads.net/
 local=/dns-us.ibmcloud.top/
 local=/ibvpn.com/

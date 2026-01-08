@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767864540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767893340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Jan 2026 09:29 UTC
-; Version: 2026.0108.0929.59
+; Last modified: 08 Jan 2026 17:29 UTC
+; Version: 2026.0108.1729.47
 ; Syntax: RPZ
-; Number of entries: 20140
+; Number of entries: 20148
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4659,6 +4659,8 @@ blink.hirebiz.com CNAME .
 *.blink.hirebiz.com CNAME .
 hiroqr.com CNAME .
 *.hiroqr.com CNAME .
+hitlap.com CNAME .
+*.hitlap.com CNAME .
 dl.hitxgh.com CNAME .
 *.dl.hitxgh.com CNAME .
 hiurls.com CNAME .
@@ -13541,6 +13543,8 @@ sm.lol CNAME .
 *.sm.lol CNAME .
 tik.lol CNAME .
 *.tik.lol CNAME .
+harapan777.love CNAME .
+*.harapan777.love CNAME .
 your.ls CNAME .
 *.your.ls CNAME .
 abso.lt CNAME .
@@ -17745,6 +17749,8 @@ eapk.shop CNAME .
 *.eapk.shop CNAME .
 funnel2income.shop CNAME .
 *.funnel2income.shop CNAME .
+hoki108.shop CNAME .
+*.hoki108.shop CNAME .
 imo-call.shop CNAME .
 *.imo-call.shop CNAME .
 indahnyaberbagi.shop CNAME .
@@ -19781,6 +19787,8 @@ dogelexus.win CNAME .
 *.dogelexus.win CNAME .
 gacoer.win CNAME .
 *.gacoer.win CNAME .
+hass.win CNAME .
+*.hass.win CNAME .
 jalurwild.win CNAME .
 *.jalurwild.win CNAME .
 liga.win CNAME .
