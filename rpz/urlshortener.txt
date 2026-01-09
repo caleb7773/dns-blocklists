@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767893340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767924900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Jan 2026 17:29 UTC
-; Version: 2026.0108.1729.47
+; Last modified: 09 Jan 2026 02:15 UTC
+; Version: 2026.0109.0215.21
 ; Syntax: RPZ
-; Number of entries: 20148
+; Number of entries: 20176
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -279,6 +279,8 @@ shlink-app.ifo.am CNAME .
 *.shlink-app.ifo.am CNAME .
 instagr.am CNAME .
 *.instagr.am CNAME .
+is.am CNAME .
+*.is.am CNAME .
 jdp.am CNAME .
 *.jdp.am CNAME .
 khudd.am CNAME .
@@ -4801,6 +4803,8 @@ invitationlinks.com CNAME .
 *.invitationlinks.com CNAME .
 invpy.com CNAME .
 *.invpy.com CNAME .
+inyuy.com CNAME .
+*.inyuy.com CNAME .
 iplogger.com CNAME .
 *.iplogger.com CNAME .
 irohi.com CNAME .
@@ -5049,6 +5053,8 @@ linkalp.com CNAME .
 *.linkalp.com CNAME .
 linkamankita.com CNAME .
 *.linkamankita.com CNAME .
+linkasd.com CNAME .
+*.linkasd.com CNAME .
 linkatra.com CNAME .
 *.linkatra.com CNAME .
 linkbby.com CNAME .
@@ -9983,6 +9989,8 @@ invy.in CNAME .
 *.invy.in CNAME .
 kutt.isesaki.in CNAME .
 *.kutt.isesaki.in CNAME .
+ishort.in CNAME .
+*.ishort.in CNAME .
 itly.in CNAME .
 *.itly.in CNAME .
 jsl1.in CNAME .
@@ -10411,6 +10419,8 @@ itdad.info CNAME .
 *.itdad.info CNAME .
 jewhate.info CNAME .
 *.jewhate.info CNAME .
+jhxpc.info CNAME .
+*.jhxpc.info CNAME .
 join-id.info CNAME .
 *.join-id.info CNAME .
 klicklink.info CNAME .
@@ -12227,6 +12237,8 @@ jut.li CNAME .
 *.jut.li CNAME .
 k-p.li CNAME .
 *.k-p.li CNAME .
+kuik.li CNAME .
+*.kuik.li CNAME .
 l2l.li CNAME .
 *.l2l.li CNAME .
 lien.li CNAME .
@@ -12403,6 +12415,8 @@ hoakhanh.life CNAME .
 *.hoakhanh.life CNAME .
 insdr.life CNAME .
 *.insdr.life CNAME .
+instagramaf.life CNAME .
+*.instagramaf.life CNAME .
 go.integritymatters.life CNAME .
 *.go.integritymatters.life CNAME .
 iyc.life CNAME .
@@ -13021,6 +13035,8 @@ seemless.link CNAME .
 *.seemless.link CNAME .
 segueae.link CNAME .
 *.segueae.link CNAME .
+seif.link CNAME .
+*.seif.link CNAME .
 seocantik.link CNAME .
 *.seocantik.link CNAME .
 seolegend.link CNAME .
@@ -14915,6 +14931,8 @@ intwitspin.motorcycles CNAME .
 *.intwitspin.motorcycles CNAME .
 aces.mp CNAME .
 *.aces.mp CNAME .
+j.mp CNAME .
+*.j.mp CNAME .
 ju.mp CNAME .
 *.ju.mp CNAME .
 jv.mp CNAME .
@@ -16795,6 +16813,8 @@ idz-do.pl CNAME .
 *.idz-do.pl CNAME .
 kfd.pl CNAME .
 *.kfd.pl CNAME .
+lien.pl CNAME .
+*.lien.pl CNAME .
 link-do.pl CNAME .
 *.link-do.pl CNAME .
 url.mpay.pl CNAME .
@@ -18525,6 +18545,8 @@ lilnk.to CNAME .
 *.lilnk.to CNAME .
 lingkod.to CNAME .
 *.lingkod.to CNAME .
+linkable.to CNAME .
+*.linkable.to CNAME .
 linke.to CNAME .
 *.linke.to CNAME .
 linkfly.to CNAME .
@@ -19313,6 +19335,8 @@ jasj.us CNAME .
 *.jasj.us CNAME .
 kask.us CNAME .
 *.kask.us CNAME .
+kjd.us CNAME .
+*.kjd.us CNAME .
 kristal777.us CNAME .
 *.kristal777.us CNAME .
 kuty.us CNAME .
@@ -19963,6 +19987,8 @@ axonn.xyz CNAME .
 *.axonn.xyz CNAME .
 bankua.xyz CNAME .
 *.bankua.xyz CNAME .
+barujago.xyz CNAME .
+*.barujago.xyz CNAME .
 becakrcg.xyz CNAME .
 *.becakrcg.xyz CNAME .
 bemygirlplease.xyz CNAME .
@@ -20031,6 +20057,8 @@ linkol.xyz CNAME .
 *.linkol.xyz CNAME .
 litt.xyz CNAME .
 *.litt.xyz CNAME .
+lompat.xyz CNAME .
+*.lompat.xyz CNAME .
 magaus.xyz CNAME .
 *.magaus.xyz CNAME .
 maicowa.xyz CNAME .

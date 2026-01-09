@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Jan 2026 18:29 UTC
-! Version: 2026.0108.1829.18
+! Last modified: 09 Jan 2026 03:19 UTC
+! Version: 2026.0109.0319.19
 ! Syntax: AdBlock
-! Number of entries: 36138
+! Number of entries: 36320
 !
 ||000-online-casino.com^
 ||0007.casino^
@@ -5493,6 +5493,7 @@
 ||aussieplaybonuses.com^
 ||aussieplayonlinecasinos.com^
 ||austintlmn.com^
+||austr.info^
 ||australia-casino.christmas^
 ||australia-casino.org^
 ||australia-casino-pokies.com^
@@ -9077,11 +9078,15 @@
 ||cashwin54228.com^
 ||cashwincasinode.com^
 ||casibella.com^
+||casiblu.academy^
 ||casibom.com^
+||casibom1000.com^
 ||casibom2026.casino^
 ||casibom896.com^
 ||casibom897.com^
 ||casibom898.com^
+||casibom9000.com^
+||casibom9046.com^
 ||casibomgirisi.casino^
 ||casigo.com^
 ||casilando.com^
@@ -18562,6 +18567,7 @@
 ||imperiocasinopt.org^
 ||impexwine.com^
 ||impressariocasino.com^
+||imtechi.com^
 ||ratingcasino.in.net^
 ||rinocasino.in.ua^
 ||in-baterybet.in^
@@ -18576,6 +18582,7 @@
 ||inbetgames.com^
 ||inbetsport.com^
 ||inbofa999.com^
+||incarrozzavini.com^
 ||incescute88.site^
 ||inchbyinch.io^
 ||inclave-casino.com^
@@ -18586,6 +18593,7 @@
 ||income88.com^
 ||incrypted.com^
 ||incrypted.net^
+||ind18.com^
 ||indacoin.com^
 ||indepthnews.info^
 ||india-best-slots.boats^
@@ -18609,6 +18617,7 @@
 ||indo6dtoto4d.com^
 ||indo789.store^
 ||indo88.live^
+||indobet888.info^
 ||indobets.vip^
 ||indobetslot88b.lol^
 ||indoplaybetslot.website^
@@ -18649,6 +18658,7 @@
 ||info122q.com^
 ||info162q.com^
 ||info172q.com^
+||infoasia.cyou^
 ||infobetting.com^
 ||infobookies.com^
 ||infobookmakers1.com^
@@ -18658,6 +18668,7 @@
 ||infopentingmax77.yachts^
 ||infopentingpas77.yachts^
 ||infycasino.com^
+||ingathoki.org^
 ||inginsbo.com^
 ||inilion4dwak.com^
 ||inkabet.pe^
@@ -18669,10 +18680,12 @@
 ||insane.gg^
 ||insbet.com^
 ||insidebitcoins.com^
+||insitufestival.com^
 ||inspecteurbonus.com^
 ||inspecteurcasino.ca^
 ||instabet.mx^
 ||instabet-casino.mx^
+||instacashcasino.com^
 ||instacasino.com^
 ||instagacor.net^
 ||instant-casino.io^
@@ -18681,6 +18694,7 @@
 ||instantcasino.io^
 ||instantcasino.store^
 ||instantcasino-playnl.com^
+||instantcasino1.fr^
 ||instantcasinoenligne.com^
 ||instantcasinonorway.com^
 ||instantcasinoofficial-au.com^
@@ -18703,6 +18717,7 @@
 ||interbola2.info^
 ||intercashpoker.com^
 ||intercasino.com^
+||interference.cc^
 ||internationalcasinosonline.com^
 ||internet-casinos-online.net^
 ||internet-magazin-santehniki.site^
@@ -18727,12 +18742,14 @@
 ||investors-protect.com^
 ||iolpoker8.com^
 ||ioncasino.link^
+||ioncasino.site^
 ||ioncasino77.org^
 ||ioncasino777.com^
 ||ionikos-fc.gr^
 ||iowa.casino^
 ||iowa-soccer.site^
 ||ipay9-casino.org^
+||iph.bet^
 ||iphonebetpg.com^
 ||ipiwin.com^
 ||iplwin.bet^
@@ -18761,6 +18778,7 @@
 ||ireal.bet^
 ||irelandbestcasinos.com^
 ||irelandcasino.ie^
+||irene-nelson.com^
 ||iribet.com^
 ||iribet.net^
 ||irichgames.com^
@@ -18808,6 +18826,7 @@
 ||iso77.org^
 ||isoftgamble.com^
 ||isorg.fr^
+||isotrettane.com^
 ||israelnownews.com^
 ||istana-casino.cam^
 ||istanacasino.com^
@@ -18826,6 +18845,7 @@
 ||itgratowincasino.com^
 ||itmix.cz^
 ||itokvip.com^
+||itrackcourier.com^
 ||itsbetifycasino.com^
 ||itsdreamcasino.com^
 ||itsevencasino.com^
@@ -18833,6 +18853,7 @@
 ||itsvibrent.com^
 ||itugas.com^
 ||itupoker.monster^
+||ivanushki.com^
 ||ivibbet.net^
 ||ivibet.com^
 ||ivibet-online.casino^
@@ -18882,7 +18903,11 @@
 ||iwin.bio^
 ||iwin.com^
 ||iwin.game^
+||iwin3333.com^
+||iwin3366.com^
+||iwin58.vip^
 ||iwin99.club^
+||iwinbet88.com^
 ||iwinclub.info^
 ||iwon.com^
 ||ixbet.mobi^
@@ -18938,8 +18963,16 @@
 ||j2tv.com^
 ||j33-slots.com^
 ||j33slots.com^
+||j3799.com^
 ||j3j3q6.com^
 ||j3kp0t3z.click^
+||j51234.com^
+||j5289.com^
+||j5583.com^
+||j5589.com^
+||j6218.com^
+||j6613.com^
+||j7572.com^
 ||j77slots.com^
 ||j8868.ink^
 ||j888hot.com^
@@ -18948,9 +18981,12 @@
 ||j88vn.blog^
 ||j8casino1m.com^
 ||j8decasino1.com^
+||j9369.com^
 ||ja777ya01.com^
 ||ja777ya11.com^
+||jaabet-casino-nl.nl^
 ||jaabet-casino-online.nl^
+||jaabet-casino-play.nl^
 ||jaabet-casino-slots.nl^
 ||jaabetcasinonl.com^
 ||jaak-casino-uk.com^
@@ -19078,9 +19114,12 @@
 ||jago89-srv-1.site^
 ||jago89game.lat^
 ||jagoan86care.site^
+||jagoanbersama.site^
 ||jagoanbersama.store^
 ||jagotogel7.org^
 ||jaguar777.top^
+||jahanews.com^
+||jahetoto88.com^
 ||jahoslots-apk.com^
 ||jai365.com^
 ||jaiexch247.com^
@@ -19094,14 +19133,18 @@
 ||jalan-buy138.xyz^
 ||jallacasino.se^
 ||jaluralternatifhs69.xyz^
+||jambet888.com^
 ||jambobet.bet^
 ||jaminwd.org^
 ||jammy-jack.com^
 ||jammyjack-casino.com^
 ||jamslots.win^
+||jamtoyibslot.site^
 ||jamulcasinosd.com^
+||jamur88.org^
 ||jangkar12.com^
 ||janjigacor.com^
+||janjislot88.site^
 ||janjiwin.world^
 ||janugget.com^
 ||japan-poker.com^
@@ -19109,6 +19152,7 @@
 ||japanesecasino.com^
 ||japanesecasinos.com^
 ||japcasinos.top^
+||jariosos.com^
 ||jarisakti138resmi.site^
 ||jasminbetsms.com^
 ||jasus.bot^
@@ -19139,6 +19183,7 @@
 ||jbo030.com^
 ||jbo69.com^
 ||jbo921.com^
+||jboesports.com^
 ||jbola2.site^
 ||jbonn.com^
 ||jbouu.com^
@@ -19327,6 +19372,7 @@
 ||jiliuucasino.com^
 ||jilivs.cloud^
 ||jilixxcasino.com^
+||jimbalancar.site^
 ||jlphotographies.jimdofree.com^
 ||1xbet-9.jimdosite.com^
 ||jimdrain.com^
@@ -19335,12 +19381,17 @@
 ||jingabets.com^
 ||jingabets.net^
 ||jingabets.org^
+||jisutiyu1.com^
 ||jitu.win^
+||jitubatik.com^
 ||jitubayar.com^
+||jitubet11.net^
+||jitubet11.vip^
 ||jitugghoki.site^
 ||jituindo.com^
 ||jitukasih.com^
 ||jitukipaswin.com^
+||jitumember.com^
 ||jitunagita.com^
 ||jituperang.net^
 ||jituwukong.com^
@@ -19359,6 +19410,7 @@
 ||jl59casino.com^
 ||jl69.casino^
 ||jl77bets.com^
+||jl7898.com^
 ||jl7game.com^
 ||jl96casino.com^
 ||jl9betcasino.com^
@@ -19504,6 +19556,7 @@
 ||jolly-poker24.site^
 ||jollypokerf.com^
 ||jonbet.com^
+||jongacor.org^
 ||joni88meja3.store^
 ||jonnyjackpot.com^
 ||jonslots.cfd^
@@ -19575,6 +19628,7 @@
 ||joycasino-dam.top^
 ||joycasino-ddlj.top^
 ||joycasino-dem.buzz^
+||joycasino-deo.top^
 ||joycasino-dka.top^
 ||joycasino-dkfpcu.top^
 ||joycasino-dokl.top^
@@ -19773,11 +19827,16 @@
 ||jp4d.site^
 ||jpcasinohub.com^
 ||jpedia.wiki^
+||jpmaju.com^
+||jpslot88mantap.top^
 ||jpsultan5.site^
 ||jqka668.net^
 ||jqkbet.bet^
 ||jqkweb.bet^
 ||jqkwin.bet^
+||js3331.com^
+||js333113.com^
+||js3332.com^
 ||jscasino.org^
 ||jslotsgame.com^
 ||jt77.net^
@@ -19863,6 +19922,7 @@
 ||jupiterclub.com^
 ||jupiterclubcasino.top^
 ||juragan88.us^
+||juraganpol.com^
 ||juragantogel88a.fun^
 ||juramontsrivieres.fr^
 ||jurnalpustek.org^
@@ -19879,10 +19939,12 @@
 ||justice4me.tv^
 ||justincasino-online.com^
 ||justspin.com^
+||jutawan188.us^
 ||jvspin.casino^
 ||jvspin.com^
 ||jvspinbetcasino.net^
 ||jvspincasino.org^
+||jvspincasinoar.top^
 ||jvspincasinobonus.ru^
 ||jvspincasinologin.com^
 ||jvspincasinoreg.com^
@@ -19894,6 +19956,8 @@
 ||k-poker.com^
 ||k01poker.com^
 ||k1gq.com^
+||k2359.com^
+||k2581.com^
 ||k52goodgame.xyz^
 ||k55bet.com^
 ||k69565.vip^
@@ -19914,13 +19978,20 @@
 ||k8asia.com^
 ||k8betno1.com^
 ||k8casino.io^
+||k8casino.net^
 ||k8cc.agency^
+||k8cc.life^
+||k8cc.today^
 ||k8funbet.com^
+||k8h5.com^
 ||k8vina1.net^
+||k8vip.app^
+||k9116.com^
 ||k9win.run^
 ||k9winind.com^
 ||kaahaus.com^
 ||kaasino.com^
+||kabartoto.shop^
 ||kaboo.com^
 ||kaboom-slots.net^
 ||kaboom-slots-casino.com^
@@ -19931,6 +20002,7 @@
 ||kafacasino401.com^
 ||kafacasino402.com^
 ||kafacasino403.com^
+||kafacasino404.com^
 ||kafacasinogiris.net^
 ||kafacasinoo.link^
 ||kafe88.shop^
@@ -19980,9 +20052,14 @@
 ||kampungbetslot.online^
 ||kampungemas.com^
 ||kampungwisatamendut.com^
+||kampusbet88.com^
 ||kamu-jangan-ma.link^
+||kancahjitu.com^
+||kancahjitu.net^
+||kancilbola138.com^
 ||kandreas.com^
 ||kangaroobet88-casino.com^
+||kangtotohebat.com^
 ||kangubet.com^
 ||kangwon-casino.online^
 ||kannada247.co^
@@ -20020,6 +20097,7 @@
 ||kasinoseta.com^
 ||kasir.info^
 ||kasirgacor.online^
+||kastabet.org^
 ||kastanaik.store^
 ||kastle.store^
 ||kasyno-slottica.com^
@@ -20064,6 +20142,7 @@
 ||kbkbet.org^
 ||kbkf.bet^
 ||kcasinome.com^
+||kcti.ca^
 ||kcwin17.com^
 ||kd555.vip^
 ||kdkbet.com^
@@ -20076,6 +20155,7 @@
 ||kdslotsxxx.site^
 ||kebet.ai^
 ||kebet.com^
+||kebonbet.net^
 ||kebontoto.com^
 ||kedaulatan-rakyat.com^
 ||keeladafa.com^
@@ -20085,6 +20165,8 @@
 ||keirin-station.com^
 ||kejus.xyz^
 ||kelapa3.site^
+||kelinciapi8.cam^
+||kelinciapi8.life^
 ||kemana18.site^
 ||kemana21.site^
 ||kembangpoker.org^
@@ -20228,11 +20310,14 @@
 ||kentcasino-vuf.ru^
 ||kentcasino-xqg.online^
 ||kentcasino-xqg.ru^
+||kentcasino233.buzz^
 ||kentcasino4.pro^
 ||kentcasino51.buzz^
+||kentcasino900.buzz^
 ||kentcasino902.buzz^
 ||kentturbocasino0776637.ru^
 ||kentucky.casino^
+||kenyamission-delhi.com^
 ||kenzo138a.com^
 ||kenzo138a.net^
 ||kenzo55.org^
@@ -20270,7 +20355,6 @@
 ||khg8rl.vip^
 ||khodheng.vip^
 ||khongcochi.com^
-||khusus303w.buzz^
 ||kiano88.com^
 ||kibets.com^
 ||kibriscasinolar.com^
@@ -20375,9 +20459,11 @@
 ||kingsofsport.com^
 ||kingspin.io^
 ||kingswin.com^
+||kingtogel.bet^
 ||kingvulcan-casino.org^
 ||kingvulkan.pro^
 ||kino-dom.tv^
+||kinofaces.com^
 ||kintem888.pro^
 ||kipastop.icu^
 ||kipaswinbos.net^
@@ -20388,6 +20474,7 @@
 ||kirimtatars.info^
 ||kiryu-kyotei.com^
 ||kis-orca.eu^
+||kis8toto.com^
 ||kisangel.casino^
 ||kitcarsoncolorado.com^
 ||kittencasino.com^
@@ -20401,6 +20488,7 @@
 ||kjbetslot.com^
 ||kjslot.net^
 ||kju-blow-casino.com^
+||kk202.com^
 ||kk33.casino^
 ||kk45a.com^
 ||kk55.casino^
@@ -20411,13 +20499,16 @@
 ||kkkjili13.com^
 ||kkkjili16.com^
 ||kkkjili8.com^
+||kkonline.club^
 ||kkpoker.world^
+||kkslot777legend.icu^
 ||kktcbet.com^
 ||kkwin.vin^
 ||klarnacasinos.nl^
 ||klasselotteriet.dk^
 ||kle009.com^
 ||klik11-ft1.site^
+||klik11pancenoye.site^
 ||klik878.net^
 ||klikfifa.com^
 ||klikhadiah.com^
@@ -20456,11 +20547,14 @@
 ||koccasino.com^
 ||koccharitypoker.com^
 ||kodesyairhk.org^
+||kodpung88n.com^
 ||koi4da.com^
 ||koi777a.net^
 ||koibets.com^
 ||koicasino.com^
+||koinbet66.com^
 ||koindunia.com^
+||koinmesin.com^
 ||kojimaboat.jp^
 ||kokislots.cfd^
 ||koko.bet^
@@ -20468,6 +20562,7 @@
 ||koko-bets-casino.nl^
 ||koko7slots.com^
 ||kolabet.com^
+||kolamkoi288.com^
 ||kolikkopelit.com^
 ||kolo-fortuny-nv-casino.online^
 ||kometa-1000.casino^
@@ -20566,6 +20661,7 @@
 ||komogvind.dk^
 ||komorebidessert.com^
 ||kompagnon.berlin^
+||konabetcasino.top^
 ||kondre.com^
 ||konduangdee.com^
 ||kong88.com^
@@ -20584,6 +20680,7 @@
 ||konjo.bet^
 ||konsument.se^
 ||kontakgilabet88cs2.site^
+||kopi4dtitik.xyz^
 ||kopidarat.xyz^
 ||koplo777a.com^
 ||korea-onlinecasino.com^
@@ -20597,6 +20694,7 @@
 ||kostenloseslots.com^
 ||kostum188.com^
 ||kottakkal.shop^
+||koyobet.org^
 ||kp88.site^
 ||kr3333.kr^
 ||krakencasino.net^
@@ -20614,6 +20712,7 @@
 ||kring88link.com^
 ||kripty.com^
 ||krishnamall.com^
+||kristenpowers.org^
 ||krixocasino.com^
 ||kronecasino.bet^
 ||kronerandgamble.com^
@@ -20629,6 +20728,7 @@
 ||kryptocasinos.com^
 ||kryptosino.com^
 ||kryptosino555.com^
+||ks5525.com^
 ||ksa5lu5y3o.com^
 ||kslots1m.com^
 ||kslots8.com^
@@ -20636,6 +20736,7 @@
 ||kto.com^
 ||ktokto.asia^
 ||ktovn.net^
+||ktpjitu.com^
 ||ktpjitu.tech^
 ||ktv1bets.life^
 ||ktv789casino.com^
@@ -20646,6 +20747,7 @@
 ||ku119casino.com^
 ||ku558.net^
 ||ku69casino.net^
+||ku711-casino.click^
 ||ku88.pro^
 ||ku998.net^
 ||kuatop.com^
@@ -20658,6 +20760,7 @@
 ||kubet31.com^
 ||kubet88.kim^
 ||kubets.buzz^
+||kubetst.com^
 ||kubetsupreme.com^
 ||kucasino.id^
 ||kucasino.page^
@@ -20668,6 +20771,7 @@
 ||kucingcina.net^
 ||kucingslots.cfd^
 ||kuda88a.org^
+||kudapetir.com^
 ||kudetabet98.guru^
 ||kudetabet98automajor.com^
 ||kudetabet98openjackpot.net^
@@ -20716,6 +20820,7 @@
 ||kushvsporte.ru^
 ||kutt.com^
 ||kuwin.com^
+||kuwin.guide^
 ||kuwin.services^
 ||kuwin.trade^
 ||kuwin01.net^
@@ -20730,9 +20835,11 @@
 ||kwiff-casino-uk-pro.com^
 ||kwiffcasino.com^
 ||kwin86.bet^
+||ky567app01.xyz^
 ||kylottery.com^
 ||kyrie1.us^
 ||kyvuong.mobi^
+||kz1277.com^
 ||kz999a.com^
 ||kzcasinos.com^
 ||l0tt0.com^
@@ -20826,7 +20933,9 @@
 ||lamabet.com^
 ||lamalucky-casino.fr^
 ||lamaluckycasino.fr^
+||lambo5.xyz^
 ||lamborghinipg7.bet^
+||lampubookie.com^
 ||lanadas.com^
 ||lancashirecompetitions.com^
 ||lancedesorte.com^
@@ -20844,6 +20953,7 @@
 ||lanista-casino-de.com^
 ||lanistacasino-de.com^
 ||lanlan4dmahjong.site^
+||laobetcasino.com^
 ||laocasino99.online^
 ||laocasino99.store^
 ||laogame.online^
@@ -20869,7 +20979,10 @@
 ||lasatlantis.com^
 ||lasatlantisbonuses.com^
 ||lasbet.mx^
+||lasercentersforhealth.com^
+||laserenade.com^
 ||lashboutiques.com^
+||lasixinfo.com^
 ||laskar77.site^
 ||laskarjp.net^
 ||lasmegas.de^
@@ -20903,6 +21016,8 @@
 ||latvijas.casino^
 ||latvijaskazino.com^
 ||launchpoker.com^
+||launchthisyear.com^
+||laurelbiocomposite.com^
 ||lauren-bennett.com^
 ||lautundspitz.com^
 ||lav-casino-us.com^
@@ -20915,6 +21030,7 @@
 ||lawin.life^
 ||lawson168.net^
 ||lawyersforassange.org^
+||layar303win.online^
 ||lazybuguru.lt^
 ||lb-casino-melbet.site^
 ||lb888-casino.com^
@@ -20999,6 +21115,7 @@
 ||legitimatecasino.com^
 ||legitonlinecasino.online^
 ||legjobbfizetosonlinecasino.hu^
+||legraziehotel.com^
 ||legzo.casino^
 ||legzo-casino-zvezda.com^
 ||legzo131.casino^
@@ -21026,6 +21143,9 @@
 ||legzocasinovip30.com^
 ||lehu02.bet^
 ||lehu03.bet^
+||lehu04.bet^
+||lehu07.bet^
+||lehu08.bet^
 ||leidsa.com^
 ||lelion.info^
 ||lemarbet.com^
@@ -21048,6 +21168,7 @@
 ||lemoncasinol.com^
 ||lemoncasinomagyar.net^
 ||lemoncasinomagyar.org^
+||lemoncasinos.pl^
 ||leo88.com^
 ||leon.bet^
 ||leon.casino^
@@ -21060,6 +21181,7 @@
 ||leon-376.casino^
 ||leon-bet-gr.com^
 ||leon-casino.com^
+||leon-casino.world^
 ||leon-casino-15sg6.cfd^
 ||leon-casino-1if9x.blog^
 ||leon-casino-7p5di.cfd^
@@ -21077,6 +21199,7 @@
 ||leon-casino-rketl.top^
 ||leon-casino-rthed.top^
 ||leon-casino-site.com^
+||leon-casino-vhod.buzz^
 ||leon-casino-x100.top^
 ||leon-casino-zerkalo.top^
 ||leon-casino-zone.com^
@@ -21113,6 +21236,7 @@
 ||leon72.casino^
 ||leon7775.casino^
 ||leon87.bet^
+||leon89.bet^
 ||leon95.bet^
 ||leonbet.app^
 ||leonbet.net^
@@ -21352,6 +21476,7 @@
 ||lgcasino.org^
 ||lgcnews.com^
 ||lgmars.xyz^
+||lgo4d.boats^
 ||lgowin11.com^
 ||li.bet^
 ||libancasino.net^
@@ -21390,6 +21515,7 @@
 ||likbez-net.ru^
 ||like777slots.com^
 ||likecasino.mobi^
+||likesawer.site^
 ||likeslot888.net^
 ||likme.tv^
 ||lilbullies.com^
@@ -21397,6 +21523,8 @@
 ||lilibet-casino.net^
 ||no.lilibet27.com^
 ||lilul.info^
+||limau99.com^
+||limlim.xyz^
 ||lincah4d5.com^
 ||lincoln-casino.games^
 ||lincolncasino.eu^
@@ -21409,11 +21537,15 @@
 ||lineslot88a.site^
 ||lingo-group.com^
 ||link123b.com^
+||link1pg.site^
 ||linkalternatifdewacasino.rest^
+||linkbet88.xyz^
 ||linkbibir69.com^
 ||linkdubaicasino.com^
 ||linkgacor.cam^
 ||linkgacor.sbs^
+||linkgacor.shop^
+||linkgacor.yachts^
 ||linkgacorslot.com^
 ||linkinbioskye.com^
 ||linkjpstarslots88.store^
@@ -21421,11 +21553,15 @@
 ||linkscasino.info^
 ||linktocandyspinz.com^
 ||linkwla168.xyz^
+||linpayment.xyz^
 ||liobet.com^
+||lion4dmarshmallow.com^
+||lion4dwalaoe.xyz^
 ||lion88casino-australia.com^
 ||lionexch.io^
 ||lionpoker.net^
 ||lionslots.com^
+||lionsshopnfl.com^
 ||lionzcasino.com^
 ||lipo777new.com^
 ||liquorinthefrontpokerintherear.com^
@@ -21497,13 +21633,16 @@
 ||livesport.ru^
 ||livesport088.net^
 ||livesport24.net^
+||livesport88.us^
 ||livesupportbs.com^
 ||livesydneypools.com^
+||livetv.ru^
 ||livetv.sx^
 ||livevipslots1.com^
 ||livraispoker.bet^
 ||livreslots.com^
 ||liwuxiao.com^
+||lixi88.kim^
 ||lixi99.com^
 ||lizaro-casino.ca^
 ||lizaro-casino.nz^
@@ -21550,15 +21689,19 @@
 ||lodibetsite.com^
 ||loewen-play.de^
 ||loewen-play-casino.de^
+||loft.casino^
 ||loftcasino.org^
 ||logicaldegeneratepoker.com^
 ||login4play.com^
 ||logindora55.mobi^
+||loginlangit99.com^
 ||loginmiabet88k.com^
 ||loginpoker855.asia^
 ||loginpoker855.fun^
 ||loginslot777.org^
 ||logintoto.info^
+||logototo.xyz^
+||lokanantamusik.com^
 ||lokicasino.com^
 ||lokicasino-win.com^
 ||lokicasino35.com^
@@ -21613,6 +21756,7 @@
 ||losagavesrestaurant.com^
 ||losangelesdeckbuilders.org^
 ||losanimalitos.net^
+||losol.site^
 ||losverdugosdelparleypro.xyz^
 ||lotbtk.com^
 ||loteria.cl^
@@ -21762,7 +21906,9 @@
 ||love2play.com^
 ||love777.cc^
 ||love777.com^
+||love777.news^
 ||love777.tv^
+||lovebos.com^
 ||lovecasino2.com^
 ||lovecasinobonus.online^
 ||lovejili21.com^
@@ -21805,6 +21951,7 @@
 ||luck88.world^
 ||luck88game.com^
 ||luck8a.lol^
+||luck8vip.fun^
 ||luckboost.casino^
 ||luckboxpoker.com^
 ||luckcasino.ro^
@@ -22116,7 +22263,10 @@
 ||luxcasino.online^
 ||luxcasino.org^
 ||luxdrop.com^
+||luxemburgkennel.com^
 ||luxeplay.ph^
+||luxeplay77.com^
+||luxo777.com^
 ||luxorslots777.ru^
 ||luxslot.net^
 ||luxury.casino^
@@ -22186,8 +22336,10 @@
 ||m4vipcasino.com^
 ||m777casinox.com^
 ||m77casino.support^
+||m77casino.website^
 ||m789bet.net^
 ||m88.com^
+||m88.dog^
 ||m88casino.one^
 ||m88casino-australia.com^
 ||m88th.com^
@@ -22196,6 +22348,7 @@
 ||m98.co^
 ||m98.game^
 ||m98vip.com^
+||m99winsg.com^
 ||m9br8.com^
 ||m9dz.com^
 ||ma-1xbet.com^
@@ -22204,6 +22357,7 @@
 ||macan-hack.pro^
 ||macan288.org^
 ||macanjago.com^
+||macanplay.online^
 ||macanputih.com^
 ||macaocasinos.lifestyle^
 ||macasino.top^
@@ -22212,6 +22366,7 @@
 ||macau365casino.com^
 ||macaucasino5.com^
 ||macauclub.fun^
+||macaujp.org^
 ||macauslot.com^
 ||macauslot88aam.com^
 ||macauslot88aan.com^
@@ -22221,6 +22376,7 @@
 ||machancecasino.com^
 ||machancefrance.com^
 ||macibetstar991.com^
+||macmillermerchshop.com^
 ||macosxcocktail.com^
 ||macosxrumors.com^
 ||mad-poker.com^
@@ -22238,6 +22394,7 @@
 ||madcasino23.io^
 ||madcasino7.io^
 ||madcasinob.com^
+||madebylino.com^
 ||madibets.life^
 ||madisoncasino.be^
 ||madisoncasinobelgium.com^
@@ -22342,6 +22499,7 @@
 ||mahjong333.online^
 ||mahjong888a.com^
 ||mahkotavipz.pro^
+||mahonic.site^
 ||mahti.com^
 ||mahzooz.ae^
 ||maichn.com^
@@ -22351,6 +22509,7 @@
 ||maincsbola.com^
 ||maindulu.com^
 ||mainlagutogel.org^
+||mainline.space^
 ||mainraden138.site^
 ||mainsbsl.com^
 ||mainstagebingo.com^
@@ -22364,6 +22523,7 @@
 ||majesticocasino-fr.com^
 ||majesticslots-casino.fr^
 ||majesticslotscasino.com^
+||majesticslotscasino.fr^
 ||majesticslotsclub.com^
 ||majesticslotsclub.net^
 ||major189.org^
@@ -22373,6 +22533,7 @@
 ||makabduang.com^
 ||makanenakbejo168.com^
 ||makaobet.com^
+||makelarberita.com^
 ||makibets.cfd^
 ||makinencasino.com^
 ||makinenslots.com^
@@ -22387,6 +22548,7 @@
 ||maleherbsupplements.com^
 ||mali-bets.com^
 ||malibuclubcasino.com^
+||malignancy.xyz^
 ||malina-casino.club^
 ||malina-casino-lv.com^
 ||malinacasino.bet^
@@ -22424,6 +22586,7 @@
 ||mam55.com^
 ||mama247.fun^
 ||mamacasinos.com^
+||mamametal.com^
 ||mamamiabingo.com^
 ||mambawin.site^
 ||mamenslots.cfd^
@@ -22437,9 +22600,11 @@
 ||man88.vip^
 ||man88.win^
 ||manabane.com^
+||managochiropractic.com^
 ||manaloslotslot.com^
 ||manawmyayfc.com^
 ||mancala66.com^
+||mancing138b.com^
 ||mancingduit36458.com^
 ||mandarinpalace.com^
 ||mandiricasino.com^
@@ -22469,6 +22634,7 @@
 ||mansion88.com^
 ||mansionbet.com^
 ||mansioncasino.com^
+||mansioncasinoesp.top^
 ||mansionpoker.com^
 ||mantapbro.site^
 ||mantapjiwa188.com^
@@ -22491,6 +22657,7 @@
 ||marcadores.net^
 ||marcadoresonline.com^
 ||maria.com^
+||maria-casino.se^
 ||mariabingo.com^
 ||mariacasino.com^
 ||mariacasino.dk^
@@ -22509,6 +22676,7 @@
 ||market.poker^
 ||marketgame88.com^
 ||marketing.casino^
+||marketolog.biz^
 ||marketreports.info^
 ||markofbeast.net^
 ||marmalakes.com^
@@ -22637,6 +22805,7 @@
 ||matrimonialinfo.us^
 ||matrixslot.site^
 ||matthewsmith.cc^
+||maultalk.info^
 ||maverickgames.com^
 ||mavrodi-mmm-2011.com^
 ||mawartoto88a.org^
@@ -22768,6 +22937,7 @@
 ||mbogibetcasino.club^
 ||mbokslotuniverse.com^
 ||mbopoker.net^
+||mboscuda.org^
 ||mbs-paris13.com^
 ||mbscasino.org^
 ||mbstelco.com^
@@ -22835,6 +23005,7 @@
 ||me88myasia.com^
 ||me88sgdwin.com^
 ||me99-casino.com^
+||mec0851.com^
 ||meccabingo.com^
 ||meccasino.nl^
 ||mechaslot.website^
@@ -22846,7 +23017,9 @@
 ||mediabet.it^
 ||mediamancasino.com^
 ||mediautama.id^
+||medicallymindedcbd.com^
 ||meechockdee.com^
+||meechok69.com^
 ||meet2gama.com^
 ||meet7000offer.com^
 ||meetingcalendlyslots.com^
@@ -22869,6 +23042,9 @@
 ||megacasinowinnes.com^
 ||megacricket88.com^
 ||megadice.com^
+||megafaraon-casino.top^
+||megafaraoncasino.click^
+||megafaraoncasino.top^
 ||megafrenzy.com^
 ||megafunalo.com^
 ||megagameslots.com^
@@ -22886,9 +23062,11 @@
 ||megapari-casino-online.org^
 ||megaparipartners.com^
 ||megaperya.com^
+||megapix.bet^
 ||megapoker88.cc^
 ||megaposta.com^
 ||megapuesta.co^
+||megapuestacasino.top^
 ||megareel.com^
 ||megarich.com^
 ||megarich17.co^
@@ -22901,7 +23079,9 @@
 ||megaslotslist.com^
 ||megasportcasino.com^
 ||megastarslots.vip^
+||megaways-casinos.net^
 ||megawayscasino.com^
+||megawin777.online^
 ||megawin88.mobi^
 ||megawins.com^
 ||meilleur-casino-en-ligne-france.info^
@@ -22911,6 +23091,7 @@
 ||meilleurpronostic.fr^
 ||meislots.cfd^
 ||meitogel789.site^
+||meja365qq.site^
 ||mejorcasadeapuesta.com^
 ||mejorcasinoonlineespana.org^
 ||mejores-casino-online-chile.com^
@@ -23675,6 +23856,7 @@
 ||motorcasino.ink^
 ||motorcasino11.com^
 ||motorcasino161.com^
+||motorcasino208.com^
 ||motorcasino261.com^
 ||motorcasino295.com^
 ||motorcasino298.com^

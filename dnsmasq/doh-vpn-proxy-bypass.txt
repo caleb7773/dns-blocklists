@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jan 2026 18:35 UTC
-# Version: 2026.0108.1835.11
+# Last modified: 09 Jan 2026 03:25 UTC
+# Version: 2026.0109.0325.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6401
+# Number of entries: 6406
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3047,6 +3047,7 @@ local=/dns.itdata.ro/
 local=/dns.iteo.pw/
 local=/itlikehell.ru/
 local=/itopvpn.com/
+local=/diy.itsa.top/
 local=/adguardhome.ittoolman.top/
 local=/fl.ittqc.com/
 local=/dns.itwht.com/
@@ -3125,6 +3126,7 @@ local=/dmjp.joeyl.de/
 local=/vpn.jogjacloud.com/
 local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
+local=/johneldenring.lol/
 local=/adguard.johnnypatras.org/
 local=/joindns4.in/
 local=/child.joindns4.eu/
@@ -3383,6 +3385,7 @@ local=/dns.lildinosaur.com/
 local=/dns.lilith.cloud/
 local=/limevpn.com/
 local=/limitlessproxy.com/
+local=/adgaurd.lingmont.net/
 local=/www-pa.linkall.uk/
 local=/linkideo.com/
 local=/linkmefree.net/
@@ -3484,6 +3487,7 @@ local=/adguard.manmademagic.com/
 local=/dns.maolaohei.xyz/
 local=/adguard.mapor.co/
 local=/mapspublications.us/
+local=/maqgie.xyz/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/
 local=/dns.marcbond.uk/
@@ -3513,6 +3517,7 @@ local=/dns.mathewakhil.online/
 local=/mathhelpnow.site/
 local=/mathlearning.tech/
 local=/mathnotes.help/
+local=/mathnotes.icu/
 local=/rasp.matthias-iwer.de/
 local=/dns.matthias-prost.com/
 local=/maxfong.cc/

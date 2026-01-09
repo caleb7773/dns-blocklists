@@ -5762,6 +5762,13 @@
       }
     },
     {
+      "PK": "majesticbank.at",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "majesticbank.de",
       "action": {
         "do": 0,

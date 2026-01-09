@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767897300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767929100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Jan 2026 18:35 UTC
-; Version: 2026.0108.1835.11
+; Last modified: 09 Jan 2026 03:25 UTC
+; Version: 2026.0109.0325.28
 ; Syntax: RPZ
-; Number of entries: 12802
+; Number of entries: 12812
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -6023,6 +6023,8 @@ dns.devopscloud.icu CNAME .
 *.dns.devopscloud.icu CNAME .
 dvprovider.icu CNAME .
 *.dvprovider.icu CNAME .
+mathnotes.icu CNAME .
+*.mathnotes.icu CNAME .
 dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
 caddy.rkn.icu CNAME .
@@ -7057,6 +7059,8 @@ rt.http3.lol CNAME .
 *.rt.http3.lol CNAME .
 iproxy.lol CNAME .
 *.iproxy.lol CNAME .
+johneldenring.lol CNAME .
+*.johneldenring.lol CNAME .
 adguard.konnkors.lol CNAME .
 *.adguard.konnkors.lol CNAME .
 void.mcfly.lol CNAME .
@@ -8437,6 +8441,8 @@ dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
 libertyvpn.net CNAME .
 *.libertyvpn.net CNAME .
+adgaurd.lingmont.net CNAME .
+*.adgaurd.lingmont.net CNAME .
 linkmefree.net CNAME .
 *.linkmefree.net CNAME .
 africadns1.liquidtelecom.net CNAME .
@@ -11691,6 +11697,8 @@ dns-us.ibmcloud.top CNAME .
 *.dns-us.ibmcloud.top CNAME .
 imperio.top CNAME .
 *.imperio.top CNAME .
+diy.itsa.top CNAME .
+*.diy.itsa.top CNAME .
 adguardhome.ittoolman.top CNAME .
 *.adguardhome.ittoolman.top CNAME .
 hk.jason666.top CNAME .
@@ -12643,6 +12651,8 @@ lukscasino-929-tr.xyz CNAME .
 *.lukscasino-929-tr.xyz CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
+maqgie.xyz CNAME .
+*.maqgie.xyz CNAME .
 dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 mhany.xyz CNAME .

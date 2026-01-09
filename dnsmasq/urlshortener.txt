@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jan 2026 17:29 UTC
-# Version: 2026.0108.1729.47
+# Last modified: 09 Jan 2026 02:15 UTC
+# Version: 2026.0109.0215.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10074
+# Number of entries: 10088
 #
 local=/0.gp/
 local=/00m.in/
@@ -998,6 +998,7 @@ local=/baratun.de/
 local=/opusgrid.barberreels.com/
 local=/barkodi.com/
 local=/barsoocm.com/
+local=/barujago.xyz/
 local=/barz.it/
 local=/url.bas-ip.com/
 local=/basedl.com/
@@ -3729,6 +3730,7 @@ local=/insig.ht/
 local=/insighturl.com/
 local=/insprl.com/
 local=/instagr.am/
+local=/instagramaf.life/
 local=/instalinks.cc/
 local=/instarouting.com/
 local=/instaurl.me/
@@ -3758,6 +3760,7 @@ local=/invpy.com/
 local=/invy.in/
 local=/inx.lv/
 local=/iny.me/
+local=/inyuy.com/
 local=/biolink.io.vn/
 local=/bom.io.vn/
 local=/shorter.io.vn/
@@ -3790,6 +3793,7 @@ local=/ira.mx/
 local=/irbaz.ir/
 local=/irng.ca/
 local=/irohi.com/
+local=/is.am/
 local=/is.gd/
 local=/is-gd.link/
 local=/is3.co/
@@ -3800,6 +3804,7 @@ local=/isc-vn.com/
 local=/isc-vn.org/
 local=/iscool.net/
 local=/kutt.isesaki.in/
+local=/ishort.in/
 local=/ishortie.com/
 local=/ishortify.com/
 local=/ishortn.ink/
@@ -3860,6 +3865,7 @@ local=/izip.me/
 local=/izt.link/
 local=/izumikanagata.com/
 local=/j.gs/
+local=/j.mp/
 local=/j-it.su/
 local=/j0n.de/
 local=/j1n.uk/
@@ -3914,6 +3920,7 @@ local=/jewhate.info/
 local=/jeya.li/
 local=/jh7.uk/
 local=/jhu.li/
+local=/jhxpc.info/
 local=/jif.li/
 local=/jii.li/
 local=/jijr.com/
@@ -4085,6 +4092,7 @@ local=/kishurim.co/
 local=/kissa.be/
 local=/kit.do/
 local=/kiteww.com/
+local=/kjd.us/
 local=/kk.rs/
 local=/kkc.tech/
 local=/kkday.me/
@@ -4180,6 +4188,7 @@ local=/kua.lat/
 local=/kuc.cz/
 local=/kuhlinks.de/
 local=/kuic.io/
+local=/kuik.li/
 local=/kuiklink.com/
 local=/kuku.lu/
 local=/kulink.me/
@@ -4315,6 +4324,7 @@ local=/t.libren.ms/
 local=/lick.my/
 local=/liebg.at/
 local=/lien.li/
+local=/lien.pl/
 local=/lienket.vn/
 local=/liens.ovh/
 local=/lifeandtime.charity/
@@ -4413,6 +4423,7 @@ local=/link4u.uk/
 local=/link888.me/
 local=/linka.li/
 local=/linkable.id/
+local=/linkable.to/
 local=/linkaff.com/
 local=/linkai.in/
 local=/linkaku.homes/
@@ -4422,6 +4433,7 @@ local=/linkaloo.it/
 local=/linkalp.com/
 local=/linkamankita.com/
 local=/linkapp.click/
+local=/linkasd.com/
 local=/linkasli.pro/
 local=/linkatra.com/
 local=/linkaty.me/
@@ -4842,6 +4854,7 @@ local=/loip.cc/
 local=/loki.at/
 local=/short.lokuads.com/
 local=/lolipoly.com/
+local=/lompat.xyz/
 local=/l.lonca.co/
 local=/lonerwolf.co/
 local=/d.looks.wang/
@@ -7005,6 +7018,7 @@ local=/links.seepaa.com/
 local=/seer.to/
 local=/seez.bio/
 local=/segueae.link/
+local=/seif.link/
 local=/seiu.co/
 local=/925.seiu.org/
 local=/sejr.nl/

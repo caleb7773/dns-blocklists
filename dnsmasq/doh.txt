@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jan 2026 10:36 UTC
-# Version: 2026.0108.1036.28
+# Last modified: 09 Jan 2026 03:24 UTC
+# Version: 2026.0109.0324.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3472
+# Number of entries: 3476
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1802,6 +1802,7 @@ local=/dns.itcosc.com/
 local=/dns.itdata.ro/
 local=/dns.iteo.pw/
 local=/itlikehell.ru/
+local=/diy.itsa.top/
 local=/adguardhome.ittoolman.top/
 local=/dns.itwht.com/
 local=/itworks4u.nl/
@@ -1856,6 +1857,7 @@ local=/dns.joey01245.nl/
 local=/dmjp.joeyl.de/
 local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
+local=/johneldenring.lol/
 local=/adguard.johnnypatras.org/
 local=/child.joindns4.eu/
 local=/child-noads.joindns4.eu/
@@ -2040,6 +2042,7 @@ local=/dns.lightmaster.pw/
 local=/dns.lihj.me/
 local=/dns.lildinosaur.com/
 local=/dns.lilith.cloud/
+local=/adgaurd.lingmont.net/
 local=/dns.linkr.ninja/
 local=/africadns1.liquidtelecom.net/
 local=/africadns2.liquidtelecom.net/
@@ -2107,6 +2110,7 @@ local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
 local=/dns.maolaohei.xyz/
 local=/adguard.mapor.co/
+local=/maqgie.xyz/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/
 local=/dns.marcbond.uk/

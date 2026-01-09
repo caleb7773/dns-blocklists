@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jan 2026 10:36 UTC
-# Version: 2026.0108.1036.28
+# Last modified: 09 Jan 2026 03:24 UTC
+# Version: 2026.0109.0324.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3954
+# Number of entries: 3958
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2121,6 +2121,7 @@
 0.0.0.0 dns.itdata.ro
 0.0.0.0 dns.iteo.pw
 0.0.0.0 itlikehell.ru
+0.0.0.0 diy.itsa.top
 0.0.0.0 adguardhome.ittoolman.top
 0.0.0.0 dns.itwht.com
 0.0.0.0 itworks4u.nl
@@ -2179,6 +2180,7 @@
 0.0.0.0 dmjp.joeyl.de
 0.0.0.0 adguard.johanliebert.top
 0.0.0.0 dns.johndave.me
+0.0.0.0 johneldenring.lol
 0.0.0.0 adguard.johnnypatras.org
 0.0.0.0 child.joindns4.eu
 0.0.0.0 child-noads.joindns4.eu
@@ -2372,6 +2374,7 @@
 0.0.0.0 dns.lihj.me
 0.0.0.0 dns.lildinosaur.com
 0.0.0.0 dns.lilith.cloud
+0.0.0.0 adgaurd.lingmont.net
 0.0.0.0 dns.linkr.ninja
 0.0.0.0 africadns1.liquidtelecom.net
 0.0.0.0 africadns2.liquidtelecom.net
@@ -2440,6 +2443,7 @@
 0.0.0.0 adguard.manmademagic.com
 0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 adguard.mapor.co
+0.0.0.0 maqgie.xyz
 0.0.0.0 dns.marasov.id
 0.0.0.0 dns.marbledfennec.net
 0.0.0.0 multi.dns.marbledfennec.net

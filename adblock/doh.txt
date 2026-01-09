@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Jan 2026 10:36 UTC
-! Version: 2026.0108.1036.28
+! Last modified: 09 Jan 2026 03:24 UTC
+! Version: 2026.0109.0324.56
 ! Syntax: AdBlock
-! Number of entries: 3472
+! Number of entries: 3476
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1803,6 +1803,7 @@
 ||dns.itdata.ro^
 ||dns.iteo.pw^
 ||itlikehell.ru^
+||diy.itsa.top^
 ||adguardhome.ittoolman.top^
 ||dns.itwht.com^
 ||itworks4u.nl^
@@ -1857,6 +1858,7 @@
 ||dmjp.joeyl.de^
 ||adguard.johanliebert.top^
 ||dns.johndave.me^
+||johneldenring.lol^
 ||adguard.johnnypatras.org^
 ||child.joindns4.eu^
 ||child-noads.joindns4.eu^
@@ -2041,6 +2043,7 @@
 ||dns.lihj.me^
 ||dns.lildinosaur.com^
 ||dns.lilith.cloud^
+||adgaurd.lingmont.net^
 ||dns.linkr.ninja^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
@@ -2108,6 +2111,7 @@
 ||adguard.manmademagic.com^
 ||dns.maolaohei.xyz^
 ||adguard.mapor.co^
+||maqgie.xyz^
 ||dns.marasov.id^
 ||dns.marbledfennec.net^
 ||dns.marcbond.uk^
