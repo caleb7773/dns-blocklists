@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767955320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767981300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 10:42 UTC
-; Version: 2026.0109.1042.15
+; Last modified: 09 Jan 2026 17:55 UTC
+; Version: 2026.0109.1755.42
 ; Syntax: RPZ
-; Number of entries: 12816
+; Number of entries: 12842
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1031,6 +1031,8 @@ pbproxy2.co CNAME .
 *.pbproxy2.co CNAME .
 piratebayproxy.co CNAME .
 *.piratebayproxy.co CNAME .
+proxybrowser.co CNAME .
+*.proxybrowser.co CNAME .
 repocket.co CNAME .
 *.repocket.co CNAME .
 securevpn.co CNAME .
@@ -3537,6 +3539,8 @@ protonstatus.com CNAME .
 *.protonstatus.com CNAME .
 protonvpn.com CNAME .
 *.protonvpn.com CNAME .
+provpnaccounts.com CNAME .
+*.provpnaccounts.com CNAME .
 proxandthecity.com CNAME .
 *.proxandthecity.com CNAME .
 proxbomb.com CNAME .
@@ -3833,6 +3837,8 @@ saturnvpn.com CNAME .
 *.saturnvpn.com CNAME .
 ns1.sc-lezhi.com CNAME .
 *.ns1.sc-lezhi.com CNAME .
+dns.scapetical.com CNAME .
+*.dns.scapetical.com CNAME .
 dns.scayn.com CNAME .
 *.dns.scayn.com CNAME .
 schimtar.com CNAME .
@@ -3951,6 +3957,8 @@ slickvpn.com CNAME .
 *.slickvpn.com CNAME .
 smartdnsproxy.com CNAME .
 *.smartdnsproxy.com CNAME .
+onlyforschool123.smarter-homes.com CNAME .
+*.onlyforschool123.smarter-homes.com CNAME .
 smartproxy.com CNAME .
 *.smartproxy.com CNAME .
 smartydns.com CNAME .
@@ -6031,6 +6039,8 @@ dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
 caddy.rkn.icu CNAME .
 *.caddy.rkn.icu CNAME .
+d2.shabi.icu CNAME .
+*.d2.shabi.icu CNAME .
 dns.sineone.icu CNAME .
 *.dns.sineone.icu CNAME .
 siteunblocked.icu CNAME .
@@ -6481,6 +6491,8 @@ primeproxy23.info CNAME .
 *.primeproxy23.info CNAME .
 agh.printk.info CNAME .
 *.agh.printk.info CNAME .
+prohome.info CNAME .
+*.prohome.info CNAME .
 prointern.info CNAME .
 *.prointern.info CNAME .
 provpn.info CNAME .
@@ -9999,6 +10011,8 @@ office.pramanik.org CNAME .
 *.office.pramanik.org CNAME .
 privoxy.org CNAME .
 *.privoxy.org CNAME .
+polkmn.progressivecongressnews.org CNAME .
+*.polkmn.progressivecongressnews.org CNAME .
 prostovpn.org CNAME .
 *.prostovpn.org CNAME .
 prounlock.org CNAME .
@@ -10043,6 +10057,8 @@ radminvpn.org CNAME .
 *.radminvpn.org CNAME .
 ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
+rapidproxy.org CNAME .
+*.rapidproxy.org CNAME .
 relayon.org CNAME .
 *.relayon.org CNAME .
 dns.resoft.org CNAME .
@@ -10839,6 +10855,16 @@ aitkcrev.minhduc.pw CNAME .
 *.aitkcrev.minhduc.pw CNAME .
 ttag.dns.nomu.pw CNAME .
 *.ttag.dns.nomu.pw CNAME .
+las-vegas.privacy-dns.pw CNAME .
+*.las-vegas.privacy-dns.pw CNAME .
+luxembourg.privacy-dns.pw CNAME .
+*.luxembourg.privacy-dns.pw CNAME .
+romania.privacy-dns.pw CNAME .
+*.romania.privacy-dns.pw CNAME .
+switzerland.privacy-dns.pw CNAME .
+*.switzerland.privacy-dns.pw CNAME .
+united-arab-emirates.privacy-dns.pw CNAME .
+*.united-arab-emirates.privacy-dns.pw CNAME .
 prox.pw CNAME .
 *.prox.pw CNAME .
 ant.dns.qwer.pw CNAME .

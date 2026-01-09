@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 10:41 UTC
-# Version: 2026.0109.1041.41
+# Last modified: 09 Jan 2026 17:55 UTC
+# Version: 2026.0109.1755.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3477
+# Number of entries: 3484
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2652,6 +2652,11 @@ local=/office.pramanik.org/
 local=/dns2.prima-solusindo.com/
 local=/princez.uk/
 local=/agh.printk.info/
+local=/las-vegas.privacy-dns.pw/
+local=/luxembourg.privacy-dns.pw/
+local=/romania.privacy-dns.pw/
+local=/switzerland.privacy-dns.pw/
+local=/united-arab-emirates.privacy-dns.pw/
 local=/dns.privado.ovh/
 local=/orpi.privado.ovh/
 local=/oury.privado.ovh/
@@ -2853,6 +2858,7 @@ local=/vpn.satadru.dev/
 local=/dns.sbstructure.ir/
 local=/ns1.sc-lezhi.com/
 local=/us.sc92.cn/
+local=/dns.scapetical.com/
 local=/dns.scarx.net/
 local=/dns.scayn.com/
 local=/filter.das.sch.id/
@@ -2895,6 +2901,7 @@ local=/alidns.session.pub/
 local=/dns.sev.monster/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/sgdns.site/
+local=/d2.shabi.icu/
 local=/shadowart.online/
 local=/s1.s2.shahramv1.site/
 local=/shakdns.cc/

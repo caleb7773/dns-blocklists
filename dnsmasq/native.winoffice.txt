@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 18:08 UTC
-# Version: 2026.0102.1808.29
+# Last modified: 09 Jan 2026 18:03 UTC
+# Version: 2026.0109.1803.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 380
+# Number of entries: 378
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -222,9 +222,6 @@ local=/ac2.msn.com/
 local=/ad.msn.com/
 local=/adevents.msn.com/
 local=/ads.msn.com/
-local=/ads1.msn.com/
-local=/ads2.msn.com/
-local=/analytics.msn.com/
 local=/metric.appex-rf.msn.com/
 local=/c.ar.msn.com/
 local=/arc.msn.com/
@@ -275,7 +272,7 @@ local=/popup.msn.com/
 local=/preview.msn.com/
 local=/c.prodigy.msn.com/
 local=/c.pt.msn.com/
-local=/r.msn.com/
+local=/bat.r.msn.com/
 local=/rads.msn.com/
 local=/rel.msn.com/
 local=/rmads.msn.com/
@@ -379,6 +376,7 @@ local=/ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net/
 local=/hme-live-loganalytics-namespace.servicebus.windows.net/
 local=/nexxtv-events.servicebus.windows.net/
 local=/ppm-licensingtelemetry.servicebus.windows.net/
+local=/prd-qlik-telemetry.servicebus.windows.net/
 local=/prod-eh-v1-analytics.servicebus.windows.net/
 local=/prod-eventhub-analytics.servicebus.windows.net/
 local=/production-jobactivity-analytics.servicebus.windows.net/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767377160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767981660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jan 2026 18:06 UTC
-; Version: 2026.0102.1806.01
+; Last modified: 09 Jan 2026 18:01 UTC
+; Version: 2026.0109.1801.26
 ; Syntax: RPZ
-; Number of entries: 1782
+; Number of entries: 1772
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -780,8 +780,6 @@ p16-tiktok-dm-sticker-sign-va.ibyteimg.com CNAME .
 *.p16-tiktok-dm-sticker-sign-va.ibyteimg.com CNAME .
 p16-tiktok-group-icon-sign-va.ibyteimg.com CNAME .
 *.p16-tiktok-group-icon-sign-va.ibyteimg.com CNAME .
-p16-tiktok-livestudio-asset-sg.ibyteimg.com CNAME .
-*.p16-tiktok-livestudio-asset-sg.ibyteimg.com CNAME .
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com CNAME .
 *.p16-tiktok-ls-merchant-sign-sg.ibyteimg.com CNAME .
 p16-tiktok-ls-product-sign-sg.ibyteimg.com CNAME .
@@ -790,14 +788,6 @@ p16-tiktok-poi-picture-sign-sg.ibyteimg.com CNAME .
 *.p16-tiktok-poi-picture-sign-sg.ibyteimg.com CNAME .
 p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com CNAME .
 *.p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com CNAME .
-p16-tiktok-sg.ibyteimg.com CNAME .
-*.p16-tiktok-sg.ibyteimg.com CNAME .
-p16-tiktok-sign-va-h2.ibyteimg.com CNAME .
-*.p16-tiktok-sign-va-h2.ibyteimg.com CNAME .
-p16-tiktok-va.ibyteimg.com CNAME .
-*.p16-tiktok-va.ibyteimg.com CNAME .
-p16-tiktok-va-h2.ibyteimg.com CNAME .
-*.p16-tiktok-va-h2.ibyteimg.com CNAME .
 igsonar.com CNAME .
 *.igsonar.com CNAME .
 imstagram.com CNAME .

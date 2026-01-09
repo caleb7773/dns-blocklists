@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 18:15 UTC
-# Version: 2026.0102.1815.54
+# Last modified: 09 Jan 2026 18:10 UTC
+# Version: 2026.0109.1810.09
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 270
 #
@@ -230,7 +230,6 @@
 0.0.0.0 api-analytics-qa.samsungknox.com
 0.0.0.0 b2banalytics.samsungknox.com
 0.0.0.0 nmetrics.samsungmobile.com
-0.0.0.0 gld.samsungosp.com
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 osb-krsvc.samsungqbe.com
@@ -247,6 +246,7 @@
 0.0.0.0 www.samsungtvads.com
 0.0.0.0 business.samsungusa.com
 0.0.0.0 app.business.samsungusa.com
+0.0.0.0 images.business.samsungusa.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 samsungau.api.useinsider.com

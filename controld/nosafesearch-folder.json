@@ -295,6 +295,13 @@
       }
     },
     {
+      "PK": "oscobo.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "peekier.com",
       "action": {
         "do": 0,
@@ -1101,13 +1108,6 @@
     },
     {
       "PK": "skyn3t.in",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "s.tokhmi.xyz",
       "action": {
         "do": 0,
         "status": 1

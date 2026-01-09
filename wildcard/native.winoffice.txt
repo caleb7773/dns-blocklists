@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jan 2026 18:08 UTC
-# Version: 2026.0102.1808.29
+# Last modified: 09 Jan 2026 18:03 UTC
+# Version: 2026.0109.1803.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 380
+# Number of entries: 378
 #
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -222,9 +222,6 @@
 *.ad.msn.com
 *.adevents.msn.com
 *.ads.msn.com
-*.ads1.msn.com
-*.ads2.msn.com
-*.analytics.msn.com
 *.metric.appex-rf.msn.com
 *.c.ar.msn.com
 *.arc.msn.com
@@ -275,7 +272,7 @@
 *.preview.msn.com
 *.c.prodigy.msn.com
 *.c.pt.msn.com
-*.r.msn.com
+*.bat.r.msn.com
 *.rads.msn.com
 *.rel.msn.com
 *.rmads.msn.com
@@ -379,6 +376,7 @@
 *.hme-live-loganalytics-namespace.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
 *.ppm-licensingtelemetry.servicebus.windows.net
+*.prd-qlik-telemetry.servicebus.windows.net
 *.prod-eh-v1-analytics.servicebus.windows.net
 *.prod-eventhub-analytics.servicebus.windows.net
 *.production-jobactivity-analytics.servicebus.windows.net

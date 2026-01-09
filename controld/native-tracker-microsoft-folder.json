@@ -43,20 +43,6 @@
       }
     },
     {
-      "PK": "ads1.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ads2.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ads.bing.com",
       "action": {
         "do": 0,
@@ -232,13 +218,6 @@
       }
     },
     {
-      "PK": "analytics.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "analyticspixel.microsoft.com",
       "action": {
         "do": 0,
@@ -366,6 +345,13 @@
     },
     {
       "PK": "bat.bing.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "bat.r.msn.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2031,6 +2017,13 @@
       }
     },
     {
+      "PK": "prd-qlik-telemetry.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "preview.msn.com",
       "action": {
         "do": 0,
@@ -2123,13 +2116,6 @@
     },
     {
       "PK": "rmads.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "r.msn.com",
       "action": {
         "do": 0,
         "status": 1

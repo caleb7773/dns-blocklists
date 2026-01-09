@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767954960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767981360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 10:36 UTC
-; Version: 2026.0109.1036.31
+; Last modified: 09 Jan 2026 17:56 UTC
+; Version: 2026.0109.1756.43
 ; Syntax: RPZ
-; Number of entries: 23110
+; Number of entries: 23148
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -892,6 +892,8 @@ pelisflix20.biz CNAME .
 *.pelisflix20.biz CNAME .
 regarder-serie.biz CNAME .
 *.regarder-serie.biz CNAME .
+regardergratuit.biz CNAME .
+*.regardergratuit.biz CNAME .
 sandrotracker.biz CNAME .
 *.sandrotracker.biz CNAME .
 serie-streaming.biz CNAME .
@@ -1232,6 +1234,8 @@ pelisflix20.cam CNAME .
 *.pelisflix20.cam CNAME .
 serien.cam CNAME .
 *.serien.cam CNAME .
+seriesflix.cam CNAME .
+*.seriesflix.cam CNAME .
 songslover.cam CNAME .
 *.songslover.cam CNAME .
 streamingcommunity.cam CNAME .
@@ -6232,6 +6236,8 @@ orlydb.com CNAME .
 *.orlydb.com CNAME .
 orphicsecurityteam.com CNAME .
 *.orphicsecurityteam.com CNAME .
+tracker.orsvarn.com CNAME .
+*.tracker.orsvarn.com CNAME .
 otaku-streamers.com CNAME .
 *.otaku-streamers.com CNAME .
 otakuworks.com CNAME .
@@ -6458,6 +6464,8 @@ premilkyway.com CNAME .
 *.premilkyway.com CNAME .
 prescene.com CNAME .
 *.prescene.com CNAME .
+primartists.com CNAME .
+*.primartists.com CNAME .
 privtracker.com CNAME .
 *.privtracker.com CNAME .
 prodesigntools.com CNAME .
@@ -6546,6 +6554,8 @@ quorks.com CNAME .
 *.quorks.com CNAME .
 qvvo.com CNAME .
 *.qvvo.com CNAME .
+qwemovies.com CNAME .
+*.qwemovies.com CNAME .
 racing-underground.com CNAME .
 *.racing-underground.com CNAME .
 media.radiantbd.com CNAME .
@@ -6802,6 +6812,8 @@ serialbay.com CNAME .
 *.serialbay.com CNAME .
 serialcoded.com CNAME .
 *.serialcoded.com CNAME .
+serialfan.com CNAME .
+*.serialfan.com CNAME .
 serialheaven.com CNAME .
 *.serialheaven.com CNAME .
 serialkeysoftware.com CNAME .
@@ -9180,6 +9192,8 @@ bollyflix.faith CNAME .
 *.bollyflix.faith CNAME .
 eurostreaming.faith CNAME .
 *.eurostreaming.faith CNAME .
+thepiratebay-org.proxydude.faith CNAME .
+*.thepiratebay-org.proxydude.faith CNAME .
 hdhub4u.family CNAME .
 *.hdhub4u.family CNAME .
 hdmovie2.family CNAME .
@@ -9484,6 +9498,8 @@ warezland.new.fr CNAME .
 *.warezland.new.fr CNAME .
 pirlotv.fr CNAME .
 *.pirlotv.fr CNAME .
+planetgames.fr CNAME .
+*.planetgames.fr CNAME .
 psyco.fr CNAME .
 *.psyco.fr CNAME .
 radego.fr CNAME .
@@ -10498,6 +10514,8 @@ piratereverse.info CNAME .
 *.piratereverse.info CNAME .
 tpb.proxyduck.info CNAME .
 *.tpb.proxyduck.info CNAME .
+psytorrents.info CNAME .
+*.psytorrents.info CNAME .
 publicdomaintorrents.info CNAME .
 *.publicdomaintorrents.info CNAME .
 repack.info CNAME .
@@ -10866,6 +10884,8 @@ series9.io CNAME .
 *.series9.io CNAME .
 socialplug.io CNAME .
 *.socialplug.io CNAME .
+spacemov.io CNAME .
+*.spacemov.io CNAME .
 107.189.10.20.sslip.io CNAME .
 *.107.189.10.20.sslip.io CNAME .
 stream4u.io CNAME .
@@ -11262,6 +11282,8 @@ mp4ba.la CNAME .
 *.mp4ba.la CNAME .
 putlockers.la CNAME .
 *.putlockers.la CNAME .
+series9.la CNAME .
+*.series9.la CNAME .
 seriesflix.la CNAME .
 *.seriesflix.la CNAME .
 watch-series.la CNAME .
@@ -14014,6 +14036,8 @@ putlockers.net CNAME .
 *.putlockers.net CNAME .
 pwtorrents.net CNAME .
 *.pwtorrents.net CNAME .
+quantumbooter.net CNAME .
+*.quantumbooter.net CNAME .
 quantumstress.net CNAME .
 *.quantumstress.net CNAME .
 quebec-team.net CNAME .
@@ -14076,6 +14100,8 @@ rom-news.net CNAME .
 *.rom-news.net CNAME .
 romhacking.net CNAME .
 *.romhacking.net CNAME .
+romhacks.net CNAME .
+*.romhacks.net CNAME .
 romsgames.net CNAME .
 *.romsgames.net CNAME .
 romulation.net CNAME .
@@ -16582,6 +16608,8 @@ seedit.org CNAME .
 *.seedit.org CNAME .
 seedler.org CNAME .
 *.seedler.org CNAME .
+bigfoot1942.sektori.org CNAME .
+*.bigfoot1942.sektori.org CNAME .
 serialkeysfree.org CNAME .
 *.serialkeysfree.org CNAME .
 serialsws.org CNAME .
@@ -16624,6 +16652,8 @@ sitelike.org CNAME .
 *.sitelike.org CNAME .
 slidemovies.org CNAME .
 *.slidemovies.org CNAME .
+tracker.slowcheetah.org CNAME .
+*.tracker.slowcheetah.org CNAME .
 slsknet.org CNAME .
 *.slsknet.org CNAME .
 snarf-it.org CNAME .
@@ -18894,6 +18924,8 @@ sci-hub.se CNAME .
 *.sci-hub.se CNAME .
 shush.se CNAME .
 *.shush.se CNAME .
+soap2day.se CNAME .
+*.soap2day.se CNAME .
 speltorrents.se CNAME .
 *.speltorrents.se CNAME .
 tfpdl.se CNAME .
@@ -21354,6 +21386,8 @@ rapidzona.tv CNAME .
 *.rapidzona.tv CNAME .
 rebellyon.tv CNAME .
 *.rebellyon.tv CNAME .
+redditsoccerstreams.tv CNAME .
+*.redditsoccerstreams.tv CNAME .
 retrovision.tv CNAME .
 *.retrovision.tv CNAME .
 ridomovies.tv CNAME .
@@ -21376,6 +21410,8 @@ santara.tv CNAME .
 *.santara.tv CNAME .
 save.tv CNAME .
 *.save.tv CNAME .
+serialgo.tv CNAME .
+*.serialgo.tv CNAME .
 serialno.tv CNAME .
 *.serialno.tv CNAME .
 seriesflix.tv CNAME .
@@ -22512,6 +22548,8 @@ t.quic.ws CNAME .
 *.t.quic.ws CNAME .
 raidrush.ws CNAME .
 *.raidrush.ws CNAME .
+rf.ws CNAME .
+*.rf.ws CNAME .
 samlab.ws CNAME .
 *.samlab.ws CNAME .
 sanet.ws CNAME .

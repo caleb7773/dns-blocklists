@@ -358,6 +358,13 @@
       }
     },
     {
+      "PK": "ariadne.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "arizona.vote",
       "action": {
         "do": 1,

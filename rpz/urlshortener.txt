@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767951060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767981360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 09:31 UTC
-; Version: 2026.0109.0931.49
+; Last modified: 09 Jan 2026 17:56 UTC
+; Version: 2026.0109.1756.18
 ; Syntax: RPZ
-; Number of entries: 20202
+; Number of entries: 20222
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5999,6 +5999,8 @@ qicute.com CNAME .
 *.qicute.com CNAME .
 jobs.qjobsindia.com CNAME .
 *.jobs.qjobsindia.com CNAME .
+qkvlk.com CNAME .
+*.qkvlk.com CNAME .
 qlicly.com CNAME .
 *.qlicly.com CNAME .
 qlixelapp.com CNAME .
@@ -6645,6 +6647,8 @@ skanshort.com CNAME .
 *.skanshort.com CNAME .
 skiplinko.com CNAME .
 *.skiplinko.com CNAME .
+slamfootball.com CNAME .
+*.slamfootball.com CNAME .
 slecastle.com CNAME .
 *.slecastle.com CNAME .
 slimlink.com CNAME .
@@ -10649,6 +10653,8 @@ rool.ink CNAME .
 *.rool.ink CNAME .
 shavel.ink CNAME .
 *.shavel.ink CNAME .
+shly.ink CNAME .
+*.shly.ink CNAME .
 shre.ink CNAME .
 *.shre.ink CNAME .
 shrinkme.ink CNAME .
@@ -11121,6 +11127,8 @@ rpf.io CNAME .
 *.rpf.io CNAME .
 rptl.io CNAME .
 *.rptl.io CNAME .
+bio.rub3n.io CNAME .
+*.bio.rub3n.io CNAME .
 rvtv.io CNAME .
 *.rvtv.io CNAME .
 rwl.io CNAME .
@@ -12323,6 +12331,8 @@ saf.li CNAME .
 *.saf.li CNAME .
 salo.li CNAME .
 *.salo.li CNAME .
+seka.li CNAME .
+*.seka.li CNAME .
 shortcm.li CNAME .
 *.shortcm.li CNAME .
 shr.li CNAME .
@@ -13015,6 +13025,8 @@ prosescepatkilat.link CNAME .
 *.prosescepatkilat.link CNAME .
 puny.link CNAME .
 *.puny.link CNAME .
+putar.link CNAME .
+*.putar.link CNAME .
 q8at.link CNAME .
 *.q8at.link CNAME .
 qlic.link CNAME .
@@ -13073,6 +13085,8 @@ short-url.link CNAME .
 *.short-url.link CNAME .
 short1.link CNAME .
 *.short1.link CNAME .
+shortbio.link CNAME .
+*.shortbio.link CNAME .
 shortenme.link CNAME .
 *.shortenme.link CNAME .
 shortest.link CNAME .
@@ -13467,6 +13481,8 @@ platformtech.live CNAME .
 *.platformtech.live CNAME .
 pointpay.live CNAME .
 *.pointpay.live CNAME .
+premierbet.live CNAME .
+*.premierbet.live CNAME .
 protogen.live CNAME .
 *.protogen.live CNAME .
 redditsp2pcredit.live CNAME .
@@ -13583,6 +13599,8 @@ tik.lol CNAME .
 *.tik.lol CNAME .
 harapan777.love CNAME .
 *.harapan777.love CNAME .
+sensasi777.love CNAME .
+*.sensasi777.love CNAME .
 your.ls CNAME .
 *.your.ls CNAME .
 abso.lt CNAME .
@@ -17289,6 +17307,8 @@ nmrk.re CNAME .
 *.nmrk.re CNAME .
 sfca.re CNAME .
 *.sfca.re CNAME .
+short.re CNAME .
+*.short.re CNAME .
 shorturl.re CNAME .
 *.shorturl.re CNAME .
 sia.re CNAME .

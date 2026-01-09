@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 09:31 UTC
-# Version: 2026.0109.0931.49
+# Last modified: 09 Jan 2026 17:56 UTC
+# Version: 2026.0109.1756.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10101
+# Number of entries: 10111
 #
 local=/0.gp/
 local=/00m.in/
@@ -6263,6 +6263,7 @@ local=/support.precisioncontent.com/
 local=/preferredds.com/
 local=/prel.ink/
 local=/premex.link/
+local=/premierbet.live/
 local=/preml.ge/
 local=/prendre-rendezvous.com/
 local=/prephe.ro/
@@ -6350,6 +6351,7 @@ local=/purefla.sh/
 local=/puri.na/
 local=/purls.eu/
 local=/pushlimit.org/
+local=/putar.link/
 local=/putar.win/
 local=/puugs.com/
 local=/puulp.it/
@@ -6395,6 +6397,7 @@ local=/qikli.co/
 local=/jobs.qjobsindia.com/
 local=/qk.lc/
 local=/qklink.ca/
+local=/qkvlk.com/
 local=/qlic.link/
 local=/qlicly.com/
 local=/qlink.bio/
@@ -6820,6 +6823,7 @@ local=/rtube.nl/
 local=/rtvote.com/
 local=/rtxt.co/
 local=/goo-gl.ru.com/
+local=/bio.rub3n.io/
 local=/short.ruksk.com/
 local=/rumahlink.com/
 local=/runty.link/
@@ -7035,6 +7039,7 @@ local=/seif.link/
 local=/seiu.co/
 local=/925.seiu.org/
 local=/sejr.nl/
+local=/seka.li/
 local=/sekb.net/
 local=/link.sekitarkita.id/
 local=/link.sekuritance.com/
@@ -7051,6 +7056,7 @@ local=/s.sencrop.com/
 local=/sendgrid.net/
 local=/sendme.help/
 local=/sendurl.me/
+local=/sensasi777.love/
 local=/senseifarm.com/
 local=/intro.sentrystrategy.com/
 local=/seocantik.link/
@@ -7129,6 +7135,7 @@ local=/shlinks.site/
 local=/shln.io/
 local=/shln.me/
 local=/shlom.in/
+local=/shly.ink/
 local=/shme.io/
 local=/shmz.me/
 local=/sho.ae/
@@ -7163,6 +7170,7 @@ local=/short.ms/
 local=/short.ovh/
 local=/short.pe/
 local=/short.pk/
+local=/short.re/
 local=/short.tips/
 local=/short.to/
 local=/short-belink.com/
@@ -7191,6 +7199,7 @@ local=/shortaz.com/
 local=/shortbe.com/
 local=/shortbee.co/
 local=/shortbee.io/
+local=/shortbio.link/
 local=/shortclick.com/
 local=/shortclient.top/
 local=/shortcm.li/
@@ -7610,6 +7619,7 @@ local=/skyurl.cc/
 local=/sl0.us/
 local=/sl4.me/
 local=/sla.link/
+local=/slamfootball.com/
 local=/slas.in/
 local=/slby.ir/
 local=/sld.one/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 10:42 UTC
-# Version: 2026.0109.1042.15
+# Last modified: 09 Jan 2026 17:55 UTC
+# Version: 2026.0109.1755.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6408
+# Number of entries: 6421
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4373,6 +4373,11 @@ local=/agh.printk.info/
 local=/printruns.us/
 local=/printtools.us/
 local=/privacy.io/
+local=/las-vegas.privacy-dns.pw/
+local=/luxembourg.privacy-dns.pw/
+local=/romania.privacy-dns.pw/
+local=/switzerland.privacy-dns.pw/
+local=/united-arab-emirates.privacy-dns.pw/
 local=/privacyprotector.eu/
 local=/privado.io/
 local=/dns.privado.ovh/
@@ -4394,6 +4399,8 @@ local=/nl.dns.privex.io/
 local=/privoxy.org/
 local=/dns.valbatos.pro.vn/
 local=/pro-tower.com/
+local=/polkmn.progressivecongressnews.org/
+local=/prohome.info/
 local=/prointern.info/
 local=/project-evoex.de/
 local=/dns.propheci.xyz/
@@ -4408,6 +4415,7 @@ local=/protonvpn.com/
 local=/protonvpn.net/
 local=/prounlock.org/
 local=/provpn.info/
+local=/provpnaccounts.com/
 local=/prox.pw/
 local=/proxandthecity.com/
 local=/proxbomb.com/
@@ -4482,6 +4490,7 @@ local=/proxyboost.net/
 local=/proxybox.ru/
 local=/proxybros.com/
 local=/proxybrowse.info/
+local=/proxybrowser.co/
 local=/proxybrowser.org/
 local=/proxybrowser.xyz/
 local=/proxybrowsing.com/
@@ -4681,6 +4690,7 @@ local=/ns.ral9005.org/
 local=/dns.ramansarda.com/
 local=/drpepperisbetter.ramonmedina.net/
 local=/rapidprivacy.com/
+local=/rapidproxy.org/
 local=/rapidproxy.us/
 local=/rapidvpn.com/
 local=/thiscopyofartclassisnotgenuine.rare1k.space/
@@ -4870,6 +4880,7 @@ local=/saturnvpn.com/
 local=/dns.sbstructure.ir/
 local=/ns1.sc-lezhi.com/
 local=/us.sc92.cn/
+local=/dns.scapetical.com/
 local=/dns.scarx.net/
 local=/dns.scayn.com/
 local=/filter.das.sch.id/
@@ -4965,6 +4976,7 @@ local=/bolt-private.dmain.sevecom.com/
 local=/sf-helper.com/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/sgdns.site/
+local=/d2.shabi.icu/
 local=/shadeyouvpn.com/
 local=/shadowart.online/
 local=/shadowsocks.org/
@@ -5072,6 +5084,7 @@ local=/dns2.slowb.ro/
 local=/001.smallnode.net/
 local=/smartcamp.su/
 local=/smartdnsproxy.com/
+local=/onlyforschool123.smarter-homes.com/
 local=/lunarsync.smartfoloo.space/
 local=/dns.smartguard.io/
 local=/smartproxy.com/
