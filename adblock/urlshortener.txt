@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Jan 2026 02:15 UTC
-! Version: 2026.0109.0215.21
+! Last modified: 09 Jan 2026 09:31 UTC
+! Version: 2026.0109.0931.49
 ! Syntax: AdBlock
-! Number of entries: 10088
+! Number of entries: 10101
 !
 ||0.gp^
 ||00m.in^
@@ -5257,6 +5257,7 @@
 ||mlab-park.org^
 ||mlc-wels.edu^
 ||mlink.tw^
+||mllej.com^
 ||mlnk.vn^
 ||mlog.news^
 ||mm.vg^
@@ -5395,6 +5396,7 @@
 ||mupf.me^
 ||murl.com^
 ||murl.gg^
+||murls.xyz^
 ||t.musixmatch.com^
 ||mut.lu^
 ||mute-fill-mood.life^
@@ -5541,6 +5543,7 @@
 ||nashcapernaum.org^
 ||on.natgeo.com^
 ||nathanaeldan.pro^
+||natsbee.link^
 ||nature.ly^
 ||naturl.io^
 ||nav.cx^
@@ -5572,6 +5575,7 @@
 ||nectarios.info^
 ||neexulro.net^
 ||nefeli.live^
+||nefix.de^
 ||neflixenomovies.com^
 ||nej.md^
 ||neo.am^
@@ -5611,6 +5615,7 @@
 ||nfsurl.com^
 ||nftchampions.info^
 ||nfw.cz^
+||ng.je^
 ||nghub.net^
 ||nglink.id^
 ||ngnbrand.com^
@@ -5682,6 +5687,7 @@
 ||nordlitt.fr^
 ||ls.notesit.net^
 ||noticiasactuales2026.com^
+||noticiasactualizadas24h.com^
 ||notlong.com^
 ||nov.io^
 ||nov.link^
@@ -5708,6 +5714,7 @@
 ||ntalij.com^
 ||ntap.com^
 ||ntbk.io^
+||ntbk.tr^
 ||ntbx.ir^
 ||ntck.co^
 ||ntlink.co^
@@ -5735,6 +5742,7 @@
 ||nxm.us^
 ||nxsg.us^
 ||nxss.link^
+||nxturl.com^
 ||nxtz.cloud^
 ||nxy.in^
 ||on.ny.gov^
@@ -5757,6 +5765,7 @@
 ||link.oarc.uk^
 ||oaxyteek.net^
 ||obank.tw^
+||obblink.com^
 ||obdr.it^
 ||obio.link^
 ||oblino.com^
@@ -5855,6 +5864,7 @@
 ||onetimepass.org^
 ||onetimeurl.com^
 ||oneurl.co^
+||oneurl.live^
 ||onforb.es^
 ||onion.com^
 ||only.li^
@@ -5897,6 +5907,7 @@
 ||ops.consulting^
 ||opsp.top^
 ||optimize.ly^
+||opzai.com^
 ||oqp.ru^
 ||url.fti.or.th^
 ||user.spring8.or.jp^
@@ -6051,6 +6062,7 @@
 ||pchome.link^
 ||pck.tv^
 ||pclosdebian.org^
+||pco.la^
 ||pcof.fi^
 ||pcphq.net^
 ||pcsgt.com^
@@ -6146,6 +6158,7 @@
 ||piti.nc^
 ||pitlink.com^
 ||pitt.health^
+||piurl.com^
 ||pixel.link^
 ||pixel.xin^
 ||pixelfy.me^

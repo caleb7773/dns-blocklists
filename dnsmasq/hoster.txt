@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 02:44 UTC
-# Version: 2026.0109.0244.40
+# Last modified: 09 Jan 2026 10:01 UTC
+# Version: 2026.0109.1001.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1316
+# Number of entries: 1317
 #
 local=/000a.de/
 local=/000space.com/
@@ -1087,6 +1087,7 @@ local=/spruz.com/
 local=/square7.ch/
 local=/srv1.org/
 local=/start.lc/
+local=/sth.nz/
 local=/stormloader.com/
 local=/stormpages.com/
 local=/studio.site/

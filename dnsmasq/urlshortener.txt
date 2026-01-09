@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 02:15 UTC
-# Version: 2026.0109.0215.21
+# Last modified: 09 Jan 2026 09:31 UTC
+# Version: 2026.0109.0931.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10088
+# Number of entries: 10101
 #
 local=/0.gp/
 local=/00m.in/
@@ -5256,6 +5256,7 @@ local=/ml.my/
 local=/mlab-park.org/
 local=/mlc-wels.edu/
 local=/mlink.tw/
+local=/mllej.com/
 local=/mlnk.vn/
 local=/mlog.news/
 local=/mm.vg/
@@ -5394,6 +5395,7 @@ local=/munchbet.live/
 local=/mupf.me/
 local=/murl.com/
 local=/murl.gg/
+local=/murls.xyz/
 local=/t.musixmatch.com/
 local=/mut.lu/
 local=/mute-fill-mood.life/
@@ -5540,6 +5542,7 @@ local=/go.nasa.gov/
 local=/nashcapernaum.org/
 local=/on.natgeo.com/
 local=/nathanaeldan.pro/
+local=/natsbee.link/
 local=/nature.ly/
 local=/naturl.io/
 local=/nav.cx/
@@ -5571,6 +5574,7 @@ local=/neatlink.ca/
 local=/nectarios.info/
 local=/neexulro.net/
 local=/nefeli.live/
+local=/nefix.de/
 local=/neflixenomovies.com/
 local=/nej.md/
 local=/neo.am/
@@ -5610,6 +5614,7 @@ local=/nflx.it/
 local=/nfsurl.com/
 local=/nftchampions.info/
 local=/nfw.cz/
+local=/ng.je/
 local=/nghub.net/
 local=/nglink.id/
 local=/ngnbrand.com/
@@ -5681,6 +5686,7 @@ local=/nordicrx.net/
 local=/nordlitt.fr/
 local=/ls.notesit.net/
 local=/noticiasactuales2026.com/
+local=/noticiasactualizadas24h.com/
 local=/notlong.com/
 local=/nov.io/
 local=/nov.link/
@@ -5707,6 +5713,7 @@ local=/nswroads.work/
 local=/ntalij.com/
 local=/ntap.com/
 local=/ntbk.io/
+local=/ntbk.tr/
 local=/ntbx.ir/
 local=/ntck.co/
 local=/ntlink.co/
@@ -5734,6 +5741,7 @@ local=/nxdr.co/
 local=/nxm.us/
 local=/nxsg.us/
 local=/nxss.link/
+local=/nxturl.com/
 local=/nxtz.cloud/
 local=/nxy.in/
 local=/on.ny.gov/
@@ -5756,6 +5764,7 @@ local=/oal.lu/
 local=/link.oarc.uk/
 local=/oaxyteek.net/
 local=/obank.tw/
+local=/obblink.com/
 local=/obdr.it/
 local=/obio.link/
 local=/oblino.com/
@@ -5854,6 +5863,7 @@ local=/goto.onestream.live/
 local=/onetimepass.org/
 local=/onetimeurl.com/
 local=/oneurl.co/
+local=/oneurl.live/
 local=/onforb.es/
 local=/onion.com/
 local=/only.li/
@@ -5896,6 +5906,7 @@ local=/opr.news/
 local=/ops.consulting/
 local=/opsp.top/
 local=/optimize.ly/
+local=/opzai.com/
 local=/oqp.ru/
 local=/url.fti.or.th/
 local=/user.spring8.or.jp/
@@ -6050,6 +6061,7 @@ local=/pca.so/
 local=/pchome.link/
 local=/pck.tv/
 local=/pclosdebian.org/
+local=/pco.la/
 local=/pcof.fi/
 local=/pcphq.net/
 local=/pcsgt.com/
@@ -6145,6 +6157,7 @@ local=/pitchwall.co/
 local=/piti.nc/
 local=/pitlink.com/
 local=/pitt.health/
+local=/piurl.com/
 local=/pixel.link/
 local=/pixel.xin/
 local=/pixelfy.me/

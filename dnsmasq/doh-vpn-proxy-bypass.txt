@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 03:25 UTC
-# Version: 2026.0109.0325.28
+# Last modified: 09 Jan 2026 10:42 UTC
+# Version: 2026.0109.1042.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6406
+# Number of entries: 6408
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3631,6 +3631,7 @@ local=/monoprivacy.io/
 local=/monthlyssh.net/
 local=/monvpn.com/
 local=/zrh1-ns01.monzoon.net/
+local=/dns.moog.sh/
 local=/dns.mooncheng.top/
 local=/dns.moondip.net/
 local=/dns.moonssif.com/
@@ -4220,6 +4221,7 @@ local=/pazou.org/
 local=/vps-ovh.pb2004.pl/
 local=/pbproxy.red/
 local=/pbproxy2.co/
+local=/pc-streaming.com/
 local=/dns.pccoach.nl/
 local=/pcgo.fun/
 local=/rpz-public-resolver1.rrdns.pch.net/

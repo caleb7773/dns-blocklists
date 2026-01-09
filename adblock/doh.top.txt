@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Jan 2026 10:36 UTC
-! Version: 2026.0108.1036.57
+! Last modified: 09 Jan 2026 10:42 UTC
+! Version: 2026.0109.1042.07
 ! Syntax: AdBlock
-! Number of entries: 811
+! Number of entries: 812
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -542,6 +542,7 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
+||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^

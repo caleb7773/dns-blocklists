@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767924900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767951060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 02:15 UTC
-; Version: 2026.0109.0215.21
+; Last modified: 09 Jan 2026 09:31 UTC
+; Version: 2026.0109.0931.49
 ; Syntax: RPZ
-; Number of entries: 20176
+; Number of entries: 20202
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5507,6 +5507,8 @@ mkecc.com CNAME .
 *.mkecc.com CNAME .
 mklnd.com CNAME .
 *.mklnd.com CNAME .
+mllej.com CNAME .
+*.mllej.com CNAME .
 mmbr4d.com CNAME .
 *.mmbr4d.com CNAME .
 mmgurl.com CNAME .
@@ -5699,6 +5701,8 @@ nogfan.com CNAME .
 *.nogfan.com CNAME .
 noticiasactuales2026.com CNAME .
 *.noticiasactuales2026.com CNAME .
+noticiasactualizadas24h.com CNAME .
+*.noticiasactualizadas24h.com CNAME .
 notlong.com CNAME .
 *.notlong.com CNAME .
 link.iris.novabenefits.com CNAME .
@@ -5727,8 +5731,12 @@ nw5g.com CNAME .
 *.nw5g.com CNAME .
 nwspprs.com CNAME .
 *.nwspprs.com CNAME .
+nxturl.com CNAME .
+*.nxturl.com CNAME .
 nynko.com CNAME .
 *.nynko.com CNAME .
+obblink.com CNAME .
+*.obblink.com CNAME .
 oblino.com CNAME .
 *.oblino.com CNAME .
 ocurto.com CNAME .
@@ -5785,6 +5793,8 @@ oporajitashop.com CNAME .
 *.oporajitashop.com CNAME .
 opportunityonlinebusiness.com CNAME .
 *.opportunityonlinebusiness.com CNAME .
+opzai.com CNAME .
+*.opzai.com CNAME .
 ordekhost.com CNAME .
 *.ordekhost.com CNAME .
 oriurl.com CNAME .
@@ -5893,6 +5903,8 @@ pinoygrill.com CNAME .
 *.pinoygrill.com CNAME .
 pitlink.com CNAME .
 *.pitlink.com CNAME .
+piurl.com CNAME .
+*.piurl.com CNAME .
 link.pixelida.com CNAME .
 *.link.pixelida.com CNAME .
 pixoqr.com CNAME .
@@ -8177,6 +8189,8 @@ my-urls.de CNAME .
 *.my-urls.de CNAME .
 mzm1.de CNAME .
 *.mzm1.de CNAME .
+nefix.de CNAME .
+*.nefix.de CNAME .
 no404.de CNAME .
 *.no404.de CNAME .
 yourls.ph-freiburg.de CNAME .
@@ -11835,6 +11849,8 @@ ask.je CNAME .
 *.ask.je CNAME .
 log.je CNAME .
 *.log.je CNAME .
+ng.je CNAME .
+*.ng.je CNAME .
 pa.je CNAME .
 *.pa.je CNAME .
 kurz.jetzt CNAME .
@@ -12053,6 +12069,8 @@ onx.la CNAME .
 *.onx.la CNAME .
 pag.la CNAME .
 *.pag.la CNAME .
+pco.la CNAME .
+*.pco.la CNAME .
 pre.la CNAME .
 *.pre.la CNAME .
 rtc.la CNAME .
@@ -12919,6 +12937,8 @@ myporn.link CNAME .
 *.myporn.link CNAME .
 myshorturl.link CNAME .
 *.myshorturl.link CNAME .
+natsbee.link CNAME .
+*.natsbee.link CNAME .
 nbanner.link CNAME .
 *.nbanner.link CNAME .
 nhabio.link CNAME .
@@ -13433,6 +13453,8 @@ nowtrade.live CNAME .
 *.nowtrade.live CNAME .
 goto.onestream.live CNAME .
 *.goto.onestream.live CNAME .
+oneurl.live CNAME .
+*.oneurl.live CNAME .
 onlyfansclub.live CNAME .
 *.onlyfansclub.live CNAME .
 pairedinparadise.live CNAME .
@@ -18925,6 +18947,8 @@ mdpl.tr CNAME .
 *.mdpl.tr CNAME .
 mylinks.tr CNAME .
 *.mylinks.tr CNAME .
+ntbk.tr CNAME .
+*.ntbk.tr CNAME .
 qrcod.tr CNAME .
 *.qrcod.tr CNAME .
 relay.tr CNAME .
@@ -20073,6 +20097,8 @@ monopolygodices.xyz CNAME .
 *.monopolygodices.xyz CNAME .
 mtxt.xyz CNAME .
 *.mtxt.xyz CNAME .
+murls.xyz CNAME .
+*.murls.xyz CNAME .
 mylnks.xyz CNAME .
 *.mylnks.xyz CNAME .
 nakama420.xyz CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 03:24 UTC
-# Version: 2026.0109.0324.56
+# Last modified: 09 Jan 2026 10:41 UTC
+# Version: 2026.0109.1041.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3958
+# Number of entries: 3959
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2544,6 +2544,7 @@
 0.0.0.0 naganohara-yoimiya.momokko.moe
 0.0.0.0 dns.momou.ch
 0.0.0.0 zrh1-ns01.monzoon.net
+0.0.0.0 dns.moog.sh
 0.0.0.0 dns.mooncheng.top
 0.0.0.0 dns.moondip.net
 0.0.0.0 dns.moonssif.com
