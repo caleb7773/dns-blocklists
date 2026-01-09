@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Jan 2026 17:41 UTC
-! Version: 2026.0109.1741.51
+! Last modified: 09 Jan 2026 22:42 UTC
+! Version: 2026.0109.2242.59
 ! Syntax: uBlock
 ! Number of latin TLDs: 285 - non-latin TLDs: 151
 !
@@ -270,7 +270,7 @@
 ||tk^$doc,domain=~air.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~addtocart.today|~applefans.today|~archive.today|~futurology.today|~lemmy.today|~oldweb.today|~type.today
 ||tokyo^$doc,domain=~tmaeno.tokyo
-||top^$doc,domain=~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~cpolar.top|~edgeless.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~polar.top|~qwertycxz.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
+||top^$doc,domain=~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~cpolar.top|~dinsden.top|~edgeless.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~polar.top|~qwertycxz.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
 ||town^$doc,domain=~tilde.town
 ||trade^$doc,domain=~composer.trade|~dx.trade|~kite.trade
 ||trading^$doc

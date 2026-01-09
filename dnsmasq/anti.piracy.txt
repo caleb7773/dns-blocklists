@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 17:56 UTC
-# Version: 2026.0109.1756.43
+# Last modified: 09 Jan 2026 22:36 UTC
+# Version: 2026.0109.2236.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11574
+# Number of entries: 11587
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -8787,6 +8787,7 @@ local=/speednetkhulna.com/
 local=/speedplusisp.net/
 local=/speedshare.info/
 local=/speedsports.me/
+local=/speedtrack.org/
 local=/speltorrents.se/
 local=/watch.spencerdevs.xyz/
 local=/sphtml.com/
@@ -8834,6 +8835,7 @@ local=/v3.sportsonline.sx/
 local=/sportstream.tv/
 local=/sportsurge.beer/
 local=/sportsurge.bz/
+local=/sportsurge.click/
 local=/sportsurge.gay/
 local=/sportsurge.id/
 local=/sportsurge.lat/
@@ -8852,6 +8854,7 @@ local=/sportsurge-v2.life/
 local=/sportsurge-v2.onl/
 local=/sportsurge-v2.stream/
 local=/sportsurge100.is/
+local=/sportsurgeblog.com/
 local=/sportsurgenfl.cyou/
 local=/sportsurgenfl.live/
 local=/sportsurgers.net/
@@ -8860,6 +8863,7 @@ local=/sportsurgev34.shop/
 local=/sporttuna.online/
 local=/sporttuna.pro/
 local=/sporttuna.sx/
+local=/sporttvls.com/
 local=/sportyhunter.com/
 local=/sportzonline.pw/
 local=/sportzonline.top/
@@ -8916,6 +8920,7 @@ local=/tracker.stfu.ca/
 local=/stggege.org/
 local=/stiftung-imai.de/
 local=/stigstream.com/
+local=/stmusic.org/
 local=/stnolaneupowell.com/
 local=/sto.sx/
 local=/sto-board.org/
@@ -9049,9 +9054,11 @@ local=/streamingcommunity.ist/
 local=/streamingcommunity.it/
 local=/streamingcommunity.kaufen/
 local=/streamingcommunity.li/
+local=/streamingcommunity.life/
 local=/streamingcommunity.lol/
 local=/streamingcommunity.lu/
 local=/streamingcommunity.luxe/
+local=/streamingcommunity.me/
 local=/streamingcommunity.media/
 local=/streamingcommunity.mobi/
 local=/streamingcommunity.net/
@@ -9163,6 +9170,7 @@ local=/streamkiste.pw/
 local=/streamkiste.site/
 local=/streamkiste.space/
 local=/streamkiste.taxi/
+local=/streamlairtv.com/
 local=/streamlive.to/
 local=/streamlock.net/
 local=/streamlord.com/
@@ -9227,6 +9235,7 @@ local=/sudo-flix.lol/
 local=/sudo-flix.nl/
 local=/sudo-flix.rip/
 local=/sugar-cube.org/
+local=/sumotorrent.com/
 local=/sumotorrent.sx/
 local=/sumotracker.org/
 local=/nagios.tks.sumy.ua/
@@ -9463,6 +9472,7 @@ local=/theaudiobookbay.com/
 local=/thebay.tv/
 local=/thebeehive.info/
 local=/thebestvpn.com/
+local=/thebigheap.com/
 local=/thebox.bz/
 local=/thebtclub.com/
 local=/thebugs.us/
@@ -9509,6 +9519,7 @@ local=/themirror.wiki/
 local=/themixingbowl.org/
 local=/themovie123.com/
 local=/themovie123.org/
+local=/themoviebay.net/
 local=/themoviehub.org/
 local=/themoviesbay.com/
 local=/themoviesflix.plus/
@@ -9530,6 +9541,7 @@ local=/thepirate-bay.org/
 local=/thepirate-bayproxy.com/
 local=/thepiratebay.asia/
 local=/thepiratebay.by/
+local=/thepiratebay.cr/
 local=/thepiratebay.cx/
 local=/thepiratebay.ee/
 local=/thepiratebay.fail/
@@ -9541,6 +9553,7 @@ local=/thepiratebay.party/
 local=/thepiratebay.pe/
 local=/thepiratebay.press/
 local=/thepiratebay.red/
+local=/thepiratebay.rip/
 local=/thepiratebay.rocks/
 local=/thepiratebay.se/
 local=/thepiratebay.tips/

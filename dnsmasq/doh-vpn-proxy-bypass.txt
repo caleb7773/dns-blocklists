@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 17:55 UTC
-# Version: 2026.0109.1755.42
+# Last modified: 09 Jan 2026 22:42 UTC
+# Version: 2026.0109.2242.13
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 6421
 #
@@ -4976,7 +4976,6 @@ local=/bolt-private.dmain.sevecom.com/
 local=/sf-helper.com/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/sgdns.site/
-local=/d2.shabi.icu/
 local=/shadeyouvpn.com/
 local=/shadowart.online/
 local=/shadowsocks.org/
@@ -5147,6 +5146,7 @@ local=/speedproxy.online/
 local=/speedshare.app/
 local=/speedssh.com/
 local=/speedyth.com/
+local=/spicevpn.com/
 local=/spidervpn.org/
 local=/dns.spirio.fr/
 local=/sporium.org/

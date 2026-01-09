@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767981360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767994200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 17:56 UTC
-; Version: 2026.0109.1756.18
+; Last modified: 09 Jan 2026 21:30 UTC
+; Version: 2026.0109.2130.59
 ; Syntax: RPZ
-; Number of entries: 20222
+; Number of entries: 20226
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6855,6 +6855,8 @@ surayafans.com CNAME .
 *.surayafans.com CNAME .
 surlgo.com CNAME .
 *.surlgo.com CNAME .
+surlz.com CNAME .
+*.surlz.com CNAME .
 surveyscst.com CNAME .
 *.surveyscst.com CNAME .
 susurl.com CNAME .
@@ -14689,6 +14691,8 @@ taklo.me CNAME .
 *.taklo.me CNAME .
 tecn.me CNAME .
 *.tecn.me CNAME .
+teleko.me CNAME .
+*.teleko.me CNAME .
 tharp.me CNAME .
 *.tharp.me CNAME .
 thatis.me CNAME .

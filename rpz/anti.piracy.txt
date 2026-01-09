@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767981360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767998160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 17:56 UTC
-; Version: 2026.0109.1756.43
+; Last modified: 09 Jan 2026 22:36 UTC
+; Version: 2026.0109.2236.21
 ; Syntax: RPZ
-; Number of entries: 23148
+; Number of entries: 23174
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1964,6 +1964,8 @@ serien.click CNAME .
 *.serien.click CNAME .
 seriesflix.click CNAME .
 *.seriesflix.click CNAME .
+sportsurge.click CNAME .
+*.sportsurge.click CNAME .
 starlive.click CNAME .
 *.starlive.click CNAME .
 streamingcommunity.click CNAME .
@@ -7056,6 +7058,10 @@ sportlemonx.com CNAME .
 *.sportlemonx.com CNAME .
 sports-prime.com CNAME .
 *.sports-prime.com CNAME .
+sportsurgeblog.com CNAME .
+*.sportsurgeblog.com CNAME .
+sporttvls.com CNAME .
+*.sporttvls.com CNAME .
 sportyhunter.com CNAME .
 *.sportyhunter.com CNAME .
 sreejononline.com CNAME .
@@ -7120,6 +7126,8 @@ streamingcommunityz.com CNAME .
 *.streamingcommunityz.com CNAME .
 streamiz-filmze.com CNAME .
 *.streamiz-filmze.com CNAME .
+streamlairtv.com CNAME .
+*.streamlairtv.com CNAME .
 streamlord.com CNAME .
 *.streamlord.com CNAME .
 streamm4u.com CNAME .
@@ -7148,6 +7156,8 @@ warez.sub-france.com CNAME .
 *.warez.sub-france.com CNAME .
 subtituladas.com CNAME .
 *.subtituladas.com CNAME .
+sumotorrent.com CNAME .
+*.sumotorrent.com CNAME .
 sunonlinebd.com CNAME .
 *.sunonlinebd.com CNAME .
 sunset-dragons.com CNAME .
@@ -7248,6 +7258,8 @@ theaudiobookbay.com CNAME .
 *.theaudiobookbay.com CNAME .
 thebestvpn.com CNAME .
 *.thebestvpn.com CNAME .
+thebigheap.com CNAME .
+*.thebigheap.com CNAME .
 thebtclub.com CNAME .
 *.thebtclub.com CNAME .
 theebooksbay.com CNAME .
@@ -8392,6 +8404,8 @@ scr.cr CNAME .
 *.scr.cr CNAME .
 solarmovie.cr CNAME .
 *.solarmovie.cr CNAME .
+thepiratebay.cr CNAME .
+*.thepiratebay.cr CNAME .
 vegamovies.cr CNAME .
 *.vegamovies.cr CNAME .
 bollyflix.credit CNAME .
@@ -11450,6 +11464,8 @@ serien.life CNAME .
 *.serien.life CNAME .
 sportsurge-v2.life CNAME .
 *.sportsurge-v2.life CNAME .
+streamingcommunity.life CNAME .
+*.streamingcommunity.life CNAME .
 superadultgame.life CNAME .
 *.superadultgame.life CNAME .
 voirseries.life CNAME .
@@ -12314,6 +12330,8 @@ str3ssed.me CNAME .
 *.str3ssed.me CNAME .
 streamcomplet.me CNAME .
 *.streamcomplet.me CNAME .
+streamingcommunity.me CNAME .
+*.streamingcommunity.me CNAME .
 streamingcommunityz.me CNAME .
 *.streamingcommunityz.me CNAME .
 streamkiste.me CNAME .
@@ -14358,6 +14376,8 @@ themediasite.net CNAME .
 *.themediasite.net CNAME .
 themicrotech.net CNAME .
 *.themicrotech.net CNAME .
+themoviebay.net CNAME .
+*.themoviebay.net CNAME .
 mtube.thenetheads.net CNAME .
 *.mtube.thenetheads.net CNAME .
 tracker.theoks.net CNAME .
@@ -16674,6 +16694,8 @@ sokroflix.org CNAME .
 *.sokroflix.org CNAME .
 trader.speed-share.org CNAME .
 *.trader.speed-share.org CNAME .
+speedtrack.org CNAME .
+*.speedtrack.org CNAME .
 spirit-tracker.org CNAME .
 *.spirit-tracker.org CNAME .
 sportbit.org CNAME .
@@ -16688,6 +16710,8 @@ stargrave.org CNAME .
 *.stargrave.org CNAME .
 stggege.org CNAME .
 *.stggege.org CNAME .
+stmusic.org CNAME .
+*.stmusic.org CNAME .
 sto-board.org CNAME .
 *.sto-board.org CNAME .
 stoigr.org CNAME .
@@ -18040,6 +18064,8 @@ streamiz.rip CNAME .
 *.streamiz.rip CNAME .
 sudo-flix.rip CNAME .
 *.sudo-flix.rip CNAME .
+thepiratebay.rip CNAME .
+*.thepiratebay.rip CNAME .
 tirexo.rip CNAME .
 *.tirexo.rip CNAME .
 topmovies.rip CNAME .

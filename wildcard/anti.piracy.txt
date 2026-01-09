@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 17:56 UTC
-# Version: 2026.0109.1756.43
+# Last modified: 09 Jan 2026 22:36 UTC
+# Version: 2026.0109.2236.21
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11574
+# Number of entries: 11587
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -8787,6 +8787,7 @@
 *.speedplusisp.net
 *.speedshare.info
 *.speedsports.me
+*.speedtrack.org
 *.speltorrents.se
 *.watch.spencerdevs.xyz
 *.sphtml.com
@@ -8834,6 +8835,7 @@
 *.sportstream.tv
 *.sportsurge.beer
 *.sportsurge.bz
+*.sportsurge.click
 *.sportsurge.gay
 *.sportsurge.id
 *.sportsurge.lat
@@ -8852,6 +8854,7 @@
 *.sportsurge-v2.onl
 *.sportsurge-v2.stream
 *.sportsurge100.is
+*.sportsurgeblog.com
 *.sportsurgenfl.cyou
 *.sportsurgenfl.live
 *.sportsurgers.net
@@ -8860,6 +8863,7 @@
 *.sporttuna.online
 *.sporttuna.pro
 *.sporttuna.sx
+*.sporttvls.com
 *.sportyhunter.com
 *.sportzonline.pw
 *.sportzonline.top
@@ -8916,6 +8920,7 @@
 *.stggege.org
 *.stiftung-imai.de
 *.stigstream.com
+*.stmusic.org
 *.stnolaneupowell.com
 *.sto.sx
 *.sto-board.org
@@ -9049,9 +9054,11 @@
 *.streamingcommunity.it
 *.streamingcommunity.kaufen
 *.streamingcommunity.li
+*.streamingcommunity.life
 *.streamingcommunity.lol
 *.streamingcommunity.lu
 *.streamingcommunity.luxe
+*.streamingcommunity.me
 *.streamingcommunity.media
 *.streamingcommunity.mobi
 *.streamingcommunity.net
@@ -9163,6 +9170,7 @@
 *.streamkiste.site
 *.streamkiste.space
 *.streamkiste.taxi
+*.streamlairtv.com
 *.streamlive.to
 *.streamlock.net
 *.streamlord.com
@@ -9227,6 +9235,7 @@
 *.sudo-flix.nl
 *.sudo-flix.rip
 *.sugar-cube.org
+*.sumotorrent.com
 *.sumotorrent.sx
 *.sumotracker.org
 *.nagios.tks.sumy.ua
@@ -9463,6 +9472,7 @@
 *.thebay.tv
 *.thebeehive.info
 *.thebestvpn.com
+*.thebigheap.com
 *.thebox.bz
 *.thebtclub.com
 *.thebugs.us
@@ -9509,6 +9519,7 @@
 *.themixingbowl.org
 *.themovie123.com
 *.themovie123.org
+*.themoviebay.net
 *.themoviehub.org
 *.themoviesbay.com
 *.themoviesflix.plus
@@ -9530,6 +9541,7 @@
 *.thepirate-bayproxy.com
 *.thepiratebay.asia
 *.thepiratebay.by
+*.thepiratebay.cr
 *.thepiratebay.cx
 *.thepiratebay.ee
 *.thepiratebay.fail
@@ -9541,6 +9553,7 @@
 *.thepiratebay.pe
 *.thepiratebay.press
 *.thepiratebay.red
+*.thepiratebay.rip
 *.thepiratebay.rocks
 *.thepiratebay.se
 *.thepiratebay.tips

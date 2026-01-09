@@ -1687,6 +1687,13 @@
       }
     },
     {
+      "PK": "dinsden.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.directory",
       "action": {
         "do": 0,

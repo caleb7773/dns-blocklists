@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 17:56 UTC
-# Version: 2026.0109.1756.18
+# Last modified: 09 Jan 2026 21:30 UTC
+# Version: 2026.0109.2130.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10111
+# Number of entries: 10113
 #
 local=/0.gp/
 local=/00m.in/
@@ -7985,6 +7985,7 @@ local=/surl.pk/
 local=/surl.pro/
 local=/surl.ro/
 local=/surlgo.com/
+local=/surlz.com/
 local=/surveyscst.com/
 local=/susurl.com/
 local=/sv.mba/
@@ -8152,6 +8153,7 @@ local=/teklum.site/
 local=/teknut.com/
 local=/telega.io/
 local=/telegramviral.com/
+local=/teleko.me/
 local=/developer.telesign.com/
 local=/tellurl.com/
 local=/tempfind.app/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 17:55 UTC
-# Version: 2026.0109.1755.08
+# Last modified: 09 Jan 2026 22:41 UTC
+# Version: 2026.0109.2241.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3966
+# Number of entries: 3965
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3323,7 +3323,6 @@
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
 0.0.0.0 sgdns.site
-0.0.0.0 d2.shabi.icu
 0.0.0.0 shadowart.online
 0.0.0.0 s1.s2.shahramv1.site
 0.0.0.0 shakdns.cc

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Jan 2026 17:56 UTC
-! Version: 2026.0109.1756.18
+! Last modified: 09 Jan 2026 21:30 UTC
+! Version: 2026.0109.2130.59
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3681,6 +3681,7 @@
 @@||ipgrabber.ru^
 @@||ipgraber.ru^
 @@||ipkill.org^
+@@||iplis.ru^
 @@||iplog.co^
 @@||iplog.link^
 @@||iplogger.cn^
@@ -6637,6 +6638,7 @@
 @@||rows.com^
 @@||rozhl.as^
 @@||rpf.io^
+@@||rplg.co^
 @@||rptl.io^
 @@||rpurls.com^
 @@||rpxl.me^
@@ -7799,6 +7801,7 @@
 @@||surl.pro^
 @@||surl.ro^
 @@||surlgo.com^
+@@||surlz.com^
 @@||surveyscst.com^
 @@||susurl.com^
 @@||sv.mba^
@@ -7965,6 +7968,7 @@
 @@||teknut.com^
 @@||telega.io^
 @@||telegramviral.com^
+@@||teleko.me^
 @@||developer.telesign.com^
 @@||tellurl.com^
 @@||tempfind.app^
@@ -8367,6 +8371,7 @@
 @@||trieuview.life^
 @@||triggerbee.com^
 @@||trim.cx^
+@@||trim.one^
 @@||trim-ly.com^
 @@||trim-me.de^
 @@||trim-me.io^
