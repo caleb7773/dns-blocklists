@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 10:33 UTC
-# Version: 2026.0110.1033.04
+# Last modified: 10 Jan 2026 14:31 UTC
+# Version: 2026.0110.1431.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11647
+# Number of entries: 11649
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3098,6 +3098,7 @@ local=/elsewhere.org/
 local=/emaczone.com/
 local=/embedcanais.site/
 local=/embedflix.net/
+local=/embedhd.org/
 local=/embedtv.best/
 local=/emetsbank.xyz/
 local=/cemu.emiyl.com/
@@ -3891,6 +3892,7 @@ local=/foumovies.tv/
 local=/fourfriends.biz/
 local=/fqjpg4.top/
 local=/fqjpg5.top/
+local=/fqjpg6.top/
 local=/fqm3u8.com/
 local=/fqm3u8.vip/
 local=/dsroms.fr.cr/

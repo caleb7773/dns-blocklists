@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768041120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768055400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 10:32 UTC
-; Version: 2026.0110.1032.40
+; Last modified: 10 Jan 2026 14:30 UTC
+; Version: 2026.0110.1430.49
 ; Syntax: RPZ
-; Number of entries: 68120
+; Number of entries: 68096
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -288,8 +288,6 @@ bet.app CNAME .
 *.bet.app CNAME .
 betcity.app CNAME .
 *.betcity.app CNAME .
-betifycasino.app CNAME .
-*.betifycasino.app CNAME .
 betr.app CNAME .
 *.betr.app CNAME .
 betsearch.app CNAME .
@@ -10308,6 +10306,8 @@ images.394993282.com CNAME .
 *.45brapp.com CNAME .
 45crystalroll78.com CNAME .
 *.45crystalroll78.com CNAME .
+45gambloria19.com CNAME .
+*.45gambloria19.com CNAME .
 45rolldorado96.com CNAME .
 *.45rolldorado96.com CNAME .
 460.com CNAME .
@@ -12284,8 +12284,6 @@ a1casinous.com CNAME .
 *.a1casinous.com CNAME .
 a1gamblingjournal.com CNAME .
 *.a1gamblingjournal.com CNAME .
-a22bets.com CNAME .
-*.a22bets.com CNAME .
 a23.com CNAME .
 *.a23.com CNAME .
 a26bet.com CNAME .
@@ -12908,6 +12906,8 @@ amps-elec.com CNAME .
 *.amps-elec.com CNAME .
 amunra.com CNAME .
 *.amunra.com CNAME .
+amunra-5594.com CNAME .
+*.amunra-5594.com CNAME .
 amunra758293.com CNAME .
 *.amunra758293.com CNAME .
 amunracasino-ch.com CNAME .
@@ -19514,6 +19514,8 @@ clubredstag.com CNAME .
 *.clubredstag.com CNAME .
 clubriches.com CNAME .
 *.clubriches.com CNAME .
+clubscasino.com CNAME .
+*.clubscasino.com CNAME .
 clubspoker.com CNAME .
 *.clubspoker.com CNAME .
 clubvulkangambling.com CNAME .
@@ -22588,8 +22590,6 @@ g9z5w7.com CNAME .
 *.g9z5w7.com CNAME .
 ga179.com CNAME .
 *.ga179.com CNAME .
-gabrielita.com CNAME .
-*.gabrielita.com CNAME .
 gabungsbo.com CNAME .
 *.gabungsbo.com CNAME .
 gachoic1.com CNAME .
@@ -25792,6 +25792,8 @@ jk8slots.com CNAME .
 *.jk8slots.com CNAME .
 jkt789.com CNAME .
 *.jkt789.com CNAME .
+jl16best.com CNAME .
+*.jl16best.com CNAME .
 jl17casino.com CNAME .
 *.jl17casino.com CNAME .
 jl29casino.com CNAME .
@@ -25862,8 +25864,6 @@ jlphzx.com CNAME .
 *.jlphzx.com CNAME .
 jlpub-casino.com CNAME .
 *.jlpub-casino.com CNAME .
-jls-brick.com CNAME .
-*.jls-brick.com CNAME .
 jlslots41.com CNAME .
 *.jlslots41.com CNAME .
 jmmp3.com CNAME .
@@ -26190,8 +26190,6 @@ kaboom-slots-casino.com CNAME .
 *.kaboom-slots-casino.com CNAME .
 kachingpoker.com CNAME .
 *.kachingpoker.com CNAME .
-kadaibetsu.com CNAME .
-*.kadaibetsu.com CNAME .
 kafacasino398.com CNAME .
 *.kafacasino398.com CNAME .
 kafacasino399.com CNAME .
@@ -28722,8 +28720,6 @@ memo-casino-uk-52.com CNAME .
 *.memo-casino-uk-52.com CNAME .
 memocashweb.com CNAME .
 *.memocashweb.com CNAME .
-memocasinouk.com CNAME .
-*.memocasinouk.com CNAME .
 menace.com CNAME .
 *.menace.com CNAME .
 meneercasino.com CNAME .
@@ -31942,8 +31938,6 @@ pediatrichealthcare.com CNAME .
 *.pediatrichealthcare.com CNAME .
 peergame.com CNAME .
 *.peergame.com CNAME .
-pegasus188rr.com CNAME .
-*.pegasus188rr.com CNAME .
 peinopolis.com CNAME .
 *.peinopolis.com CNAME .
 pelataan.com CNAME .
@@ -32774,8 +32768,6 @@ playouwin.com CNAME .
 *.playouwin.com CNAME .
 playozwinnow.com CNAME .
 *.playozwinnow.com CNAME .
-playparadisecasino.com CNAME .
-*.playparadisecasino.com CNAME .
 playphpcasino.com CNAME .
 *.playphpcasino.com CNAME .
 playpix.com CNAME .
@@ -43640,8 +43632,6 @@ retrocasino.fun CNAME .
 *.retrocasino.fun CNAME .
 riviera-slots.fun CNAME .
 *.riviera-slots.fun CNAME .
-royalwin.fun CNAME .
-*.royalwin.fun CNAME .
 s11.fun CNAME .
 *.s11.fun CNAME .
 sebet.fun CNAME .
@@ -44268,8 +44258,6 @@ zivocasino.help CNAME .
 *.1xbet.hn CNAME .
 jackpotslots.homes CNAME .
 *.jackpotslots.homes CNAME .
-rtpsemarak88.homes CNAME .
-*.rtpsemarak88.homes CNAME .
 tg88.homes CNAME .
 *.tg88.homes CNAME .
 zeus4d.homes CNAME .
@@ -44764,8 +44752,6 @@ yukar.in CNAME .
 *.1nplayaja4.info CNAME .
 1nplayaja5.info CNAME .
 *.1nplayaja5.info CNAME .
-1nplayvip1.info CNAME .
-*.1nplayvip1.info CNAME .
 1nplayvip2.info CNAME .
 *.1nplayvip2.info CNAME .
 1nplayvip3.info CNAME .
@@ -47490,8 +47476,6 @@ exmo.money CNAME .
 *.exmo.money CNAME .
 xcasino.money CNAME .
 *.xcasino.money CNAME .
-bini4d.monster CNAME .
-*.bini4d.monster CNAME .
 casino7k.monster CNAME .
 *.casino7k.monster CNAME .
 gg88.monster CNAME .
@@ -48624,8 +48608,6 @@ dafasoccer.net CNAME .
 *.dafasoccer.net CNAME .
 daga88z.net CNAME .
 *.daga88z.net CNAME .
-dagangasia.net CNAME .
-*.dagangasia.net CNAME .
 dagelan88slot.net CNAME .
 *.dagelan88slot.net CNAME .
 dagopoker.net CNAME .
@@ -51170,8 +51152,6 @@ cosmobet.one CNAME .
 *.cosmobet.one CNAME .
 daddycasino8x.one CNAME .
 *.daddycasino8x.one CNAME .
-dermagawin.one CNAME .
-*.dermagawin.one CNAME .
 f8betcasino.one CNAME .
 *.f8betcasino.one CNAME .
 glorycasino.one CNAME .
@@ -51726,8 +51706,6 @@ clubnikacasino-omk.online CNAME .
 *.clubnikacasino-omk.online CNAME .
 clubnikacasino-vej.online CNAME .
 *.clubnikacasino-vej.online CNAME .
-cm8.online CNAME .
-*.cm8.online CNAME .
 coinstrikebestslots.online CNAME .
 *.coinstrikebestslots.online CNAME .
 corgislots-nl.online CNAME .
@@ -54040,8 +54018,6 @@ energy-casinohu.org CNAME .
 *.energy-casinohu.org CNAME .
 enterslotsman.org CNAME .
 *.enterslotsman.org CNAME .
-eqeb.org CNAME .
-*.eqeb.org CNAME .
 ericasino.org CNAME .
 *.ericasino.org CNAME .
 esascasinogiris.org CNAME .
@@ -60482,8 +60458,6 @@ onehit.site CNAME .
 *.onehit.site CNAME .
 onepercentshow.site CNAME .
 *.onepercentshow.site CNAME .
-onesan.site CNAME .
-*.onesan.site CNAME .
 online-casino-bonus.site CNAME .
 *.online-casino-bonus.site CNAME .
 online-poker-en.site CNAME .
@@ -65824,6 +65798,8 @@ checkgaiviet.us CNAME .
 *.checkgaiviet.us CNAME .
 cheelee.us CNAME .
 *.cheelee.us CNAME .
+coinz.us CNAME .
+*.coinz.us CNAME .
 discountfloors.us CNAME .
 *.discountfloors.us CNAME .
 eloncasino.us CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768041300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768055580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 10:35 UTC
-; Version: 2026.0110.1035.14
+; Last modified: 10 Jan 2026 14:33 UTC
+; Version: 2026.0110.1433.15
 ; Syntax: RPZ
-; Number of entries: 157236
+; Number of entries: 157226
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -578,6 +578,8 @@ gaythr.app CNAME .
 *.gaythr.app CNAME .
 getnude.app CNAME .
 *.getnude.app CNAME .
+grokbikini.app CNAME .
+*.grokbikini.app CNAME .
 hentaigames.app CNAME .
 *.hentaigames.app CNAME .
 hentaiporn.app CNAME .
@@ -964,8 +966,6 @@ male-shibari.art CNAME .
 *.male-shibari.art CNAME .
 mix-porn.art CNAME .
 *.mix-porn.art CNAME .
-mrgay.art CNAME .
-*.mrgay.art CNAME .
 mtav.art CNAME .
 *.mtav.art CNAME .
 national-porn.art CNAME .
@@ -5268,6 +5268,8 @@ phimxxx.casa CNAME .
 *.phimxxx.casa CNAME .
 porn-hub.casa CNAME .
 *.porn-hub.casa CNAME .
+pornpics.casa CNAME .
+*.pornpics.casa CNAME .
 prostitutki24.casa CNAME .
 *.prostitutki24.casa CNAME .
 shemaleporn.casa CNAME .
@@ -16224,8 +16226,6 @@ angelroseadultcare.com CNAME .
 *.angelroseadultcare.com CNAME .
 angelsanaya.com CNAME .
 *.angelsanaya.com CNAME .
-angelsdetour.com CNAME .
-*.angelsdetour.com CNAME .
 angelsformen.com CNAME .
 *.angelsformen.com CNAME .
 angelsofdelhi.com CNAME .
@@ -25638,8 +25638,6 @@ cougarmicrobes.com CNAME .
 *.cougarmicrobes.com CNAME .
 cougarphonesex.com CNAME .
 *.cougarphonesex.com CNAME .
-cougarpornclips.com CNAME .
-*.cougarpornclips.com CNAME .
 cougarpourmoi.com CNAME .
 *.cougarpourmoi.com CNAME .
 cougars-avenue.com CNAME .
@@ -39062,8 +39060,6 @@ haleysexton.com CNAME .
 *.haleysexton.com CNAME .
 haleyxxx.com CNAME .
 *.haleyxxx.com CNAME .
-halfwaytoadulthood.com CNAME .
-*.halfwaytoadulthood.com CNAME .
 halleporno.com CNAME .
 *.halleporno.com CNAME .
 hallningsexperten.com CNAME .
@@ -69398,8 +69394,6 @@ sexyforbidflame.com CNAME .
 *.sexyforbidflame.com CNAME .
 sexyforbidtryst.com CNAME .
 *.sexyforbidtryst.com CNAME .
-sexyformylover.com CNAME .
-*.sexyformylover.com CNAME .
 sexyforums.com CNAME .
 *.sexyforums.com CNAME .
 sexyfourms.com CNAME .
@@ -84682,8 +84676,6 @@ yogayami.com CNAME .
 *.yogayami.com CNAME .
 yogayan.com CNAME .
 *.yogayan.com CNAME .
-yogayin.com CNAME .
-*.yogayin.com CNAME .
 yogaymagiadelago.com CNAME .
 *.yogaymagiadelago.com CNAME .
 yogayougo.com CNAME .
@@ -114676,8 +114668,6 @@ clinus.org CNAME .
 *.clinus.org CNAME .
 closenet.org CNAME .
 *.closenet.org CNAME .
-club.org CNAME .
-*.club.org CNAME .
 clubhouse2050.org CNAME .
 *.clubhouse2050.org CNAME .
 cmodehradun.org CNAME .
@@ -126552,8 +126542,6 @@ gayatotomasuk1.site CNAME .
 *.gayatotomasuk1.site CNAME .
 gayatotomasuk2.site CNAME .
 *.gayatotomasuk2.site CNAME .
-gaybook.site CNAME .
-*.gaybook.site CNAME .
 gayh.site CNAME .
 *.gayh.site CNAME .
 gaykrasnodar.site CNAME .
@@ -128932,6 +128920,8 @@ undresslyai.tools CNAME .
 *.undresslyai.tools CNAME .
 undressme.tools CNAME .
 *.undressme.tools CNAME .
+125i.top CNAME .
+*.125i.top CNAME .
 18hentai.top CNAME .
 *.18hentai.top CNAME .
 1bokeponline.top CNAME .

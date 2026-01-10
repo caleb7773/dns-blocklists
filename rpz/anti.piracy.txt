@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768041180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768055460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 10:33 UTC
-; Version: 2026.0110.1033.04
+; Last modified: 10 Jan 2026 14:31 UTC
+; Version: 2026.0110.1431.20
 ; Syntax: RPZ
-; Number of entries: 23294
+; Number of entries: 23298
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -15868,6 +15868,8 @@ ehtracker.org CNAME .
 *.ehtracker.org CNAME .
 elsewhere.org CNAME .
 *.elsewhere.org CNAME .
+embedhd.org CNAME .
+*.embedhd.org CNAME .
 emtrek.org CNAME .
 *.emtrek.org CNAME .
 bt.emuparadise.org CNAME .
@@ -20830,6 +20832,8 @@ fqjpg4.top CNAME .
 *.fqjpg4.top CNAME .
 fqjpg5.top CNAME .
 *.fqjpg5.top CNAME .
+fqjpg6.top CNAME .
+*.fqjpg6.top CNAME .
 free-telecharger.top CNAME .
 *.free-telecharger.top CNAME .
 freestreams-live.top CNAME .
