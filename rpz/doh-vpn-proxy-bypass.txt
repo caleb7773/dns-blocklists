@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767998520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768012860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 22:42 UTC
-; Version: 2026.0109.2242.13
+; Last modified: 10 Jan 2026 02:41 UTC
+; Version: 2026.0110.0241.21
 ; Syntax: RPZ
-; Number of entries: 12842
+; Number of entries: 12858
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -987,6 +987,8 @@ us.sc92.cn CNAME .
 *.us.sc92.cn CNAME .
 dns.tefuir0829.cn CNAME .
 *.dns.tefuir0829.cn CNAME .
+topvpn.cn CNAME .
+*.topvpn.cn CNAME .
 paydns.wechatpay.cn CNAME .
 *.paydns.wechatpay.cn CNAME .
 dns.weibo.cn CNAME .
@@ -4277,6 +4279,8 @@ topvpnguides.com CNAME .
 *.topvpnguides.com CNAME .
 torproject.com CNAME .
 *.torproject.com CNAME .
+torrentprivacy.com CNAME .
+*.torrentprivacy.com CNAME .
 torsona.com CNAME .
 *.torsona.com CNAME .
 torvpn.com CNAME .
@@ -4363,12 +4367,16 @@ ultrabestproxy.com CNAME .
 *.ultrabestproxy.com CNAME .
 doh.ultradns.com CNAME .
 *.doh.ultradns.com CNAME .
+ultrafastproxy.com CNAME .
+*.ultrafastproxy.com CNAME .
 ultravpn.com CNAME .
 *.ultravpn.com CNAME .
 dns.umbrella.com CNAME .
 *.dns.umbrella.com CNAME .
 doh.umbrella.com CNAME .
 *.doh.umbrella.com CNAME .
+un404.com CNAME .
+*.un404.com CNAME .
 unblock-it.com CNAME .
 *.unblock-it.com CNAME .
 unblock-proxy.com CNAME .
@@ -5253,6 +5261,8 @@ guard.telesterion.de CNAME .
 *.guard.telesterion.de CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
+tor-gateways.de CNAME .
+*.tor-gateways.de CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
 *.doh.ibr.cs.tu-bs.de CNAME .
 ines.zfn.uni-bremen.de CNAME .
@@ -5711,6 +5721,8 @@ dns.musikantit.fi CNAME .
 *.dns.musikantit.fi CNAME .
 ns.nwps.fi CNAME .
 *.ns.nwps.fi CNAME .
+tor2web.fi CNAME .
+*.tor2web.fi CNAME .
 ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
 dns.truong.fi CNAME .
@@ -10975,6 +10987,8 @@ dns.quiet.rocks CNAME .
 *.dns.quiet.rocks CNAME .
 adguard.dbase.in.rs CNAME .
 *.adguard.dbase.in.rs CNAME .
+unblockit.rsvp CNAME .
+*.unblockit.rsvp CNAME .
 1735r.ru CNAME .
 *.1735r.ru CNAME .
 lvpn.2rdp.ru CNAME .
@@ -12779,6 +12793,8 @@ trentonlovesmen.topazgrid.xyz CNAME .
 *.trentonlovesmen.topazgrid.xyz CNAME .
 trafflink.xyz CNAME .
 *.trafflink.xyz CNAME .
+tujenasnaszato.xyz CNAME .
+*.tujenasnaszato.xyz CNAME .
 adguard.twotigers.xyz CNAME .
 *.adguard.twotigers.xyz CNAME .
 unblock2.xyz CNAME .

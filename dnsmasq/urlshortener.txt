@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 21:30 UTC
-# Version: 2026.0109.2130.59
+# Last modified: 10 Jan 2026 01:32 UTC
+# Version: 2026.0110.0132.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10113
+# Number of entries: 10122
 #
 local=/0.gp/
 local=/00m.in/
@@ -8458,6 +8458,7 @@ local=/to.lk/
 local=/to.ly/
 local=/to-text.net/
 local=/to24r.com/
+local=/to8.cc/
 local=/s.tobi.re/
 local=/toclick.link/
 local=/tog.li/
@@ -8488,6 +8489,7 @@ local=/toolkingo.com/
 local=/toolong.info/
 local=/toolsfox.com/
 local=/toolspivot.com/
+local=/toolssagar.com/
 local=/top-sub-cve-len.live/
 local=/topdogeducation.com/
 local=/topkale.me/
@@ -8761,6 +8763,7 @@ local=/ufai.app/
 local=/ufasofilmebi.one/
 local=/ufcqc.link/
 local=/ufflink.com/
+local=/ufjqt.com/
 local=/link.ufpe.br/
 local=/ug.cz/
 local=/ugm.id/
@@ -8916,6 +8919,7 @@ local=/url6xx.com/
 local=/url724.link/
 local=/url7x.com/
 local=/url84.com/
+local=/url88.online/
 local=/url8x.com/
 local=/url9xx.com/
 local=/urla.ru/
@@ -8943,6 +8947,7 @@ local=/urlcort.com/
 local=/urlcover.com/
 local=/urlcrop.com/
 local=/urlcut.at/
+local=/urlcut.ch/
 local=/urlcut.com/
 local=/urlcut.cv/
 local=/urlcut.in/
@@ -9022,6 +9027,7 @@ local=/urlplus.net/
 local=/urlpoints.com/
 local=/urlq.com/
 local=/urlr.me/
+local=/urlra.com/
 local=/urlro.com/
 local=/urlroot.com/
 local=/urlroxx.com/
@@ -9037,6 +9043,7 @@ local=/urls-short.de/
 local=/urls-shortener.eu/
 local=/urls1xx.com/
 local=/urlsear.ch/
+local=/urlsh.net/
 local=/urlsh.us/
 local=/urlshor.com/
 local=/urlshort.ca/
@@ -9078,6 +9085,7 @@ local=/urlsnapy.com/
 local=/urlsnipper.com/
 local=/urlsrt.eu/
 local=/urlsshares.cc/
+local=/urlstox.com/
 local=/urltake.com/
 local=/urltamil.in/
 local=/urlth.me/
@@ -9147,6 +9155,7 @@ local=/ushort.my/
 local=/ushort.xyz/
 local=/usite.jp/
 local=/usps-v2.com/
+local=/uspsexpress.org/
 local=/usreviewers.com/
 local=/go.ustwo.games/
 local=/ut9.cc/

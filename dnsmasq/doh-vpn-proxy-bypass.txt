@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 22:42 UTC
-# Version: 2026.0109.2242.13
+# Last modified: 10 Jan 2026 02:41 UTC
+# Version: 2026.0110.0241.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6421
+# Number of entries: 6429
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -5553,7 +5553,10 @@ local=/topsecure.info/
 local=/topsun.pw/
 local=/toptip.cc/
 local=/topvpn.cc/
+local=/topvpn.cn/
 local=/topvpnguides.com/
+local=/tor-gateways.de/
+local=/tor2web.fi/
 local=/tor2web.io/
 local=/tor2web.it/
 local=/tor2web.org/
@@ -5565,6 +5568,7 @@ local=/nsc.torgues.net/
 local=/torproject.com/
 local=/torproject.net/
 local=/torproject.org/
+local=/torrentprivacy.com/
 local=/torrentproxy.co/
 local=/torrentproxy.net/
 local=/torry.io/
@@ -5629,6 +5633,7 @@ local=/dns.tuankhaiit.com/
 local=/tuantran.cloud/
 local=/tubeprox.com/
 local=/tubeunblock.me/
+local=/tujenasnaszato.xyz/
 local=/freodore.tulanerw.org/
 local=/tunnelbear.com/
 local=/justdoit.tuquy.com/
@@ -5673,6 +5678,7 @@ local=/ultimatepro.us/
 local=/ultimateproxy.net/
 local=/ultrabestproxy.com/
 local=/doh.ultradns.com/
+local=/ultrafastproxy.com/
 local=/ultrafun.net/
 local=/ultraproxy.biz/
 local=/ultrasurf.es/
@@ -5680,6 +5686,7 @@ local=/ultrasurf.us/
 local=/ultravpn.com/
 local=/dns.umbrella.com/
 local=/doh.umbrella.com/
+local=/un404.com/
 local=/unasw.eu/
 local=/unb.how/
 local=/unbl4you.lol/
@@ -5777,6 +5784,7 @@ local=/unblockit.meme/
 local=/unblockit.one/
 local=/unblockit.onl/
 local=/unblockit.pro/
+local=/unblockit.rsvp/
 local=/unblockit.uno/
 local=/unblockmate.com/
 local=/unblockme.us/

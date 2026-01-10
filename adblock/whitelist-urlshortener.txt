@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Jan 2026 21:30 UTC
-! Version: 2026.0109.2130.59
+! Last modified: 10 Jan 2026 01:32 UTC
+! Version: 2026.0110.0132.02
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -6638,7 +6638,6 @@
 @@||rows.com^
 @@||rozhl.as^
 @@||rpf.io^
-@@||rplg.co^
 @@||rptl.io^
 @@||rpurls.com^
 @@||rpxl.me^
@@ -8266,6 +8265,7 @@
 @@||to.ly^
 @@||to-text.net^
 @@||to24r.com^
+@@||to8.cc^
 @@||s.tobi.re^
 @@||toclick.link^
 @@||tog.li^
@@ -8296,6 +8296,7 @@
 @@||toolong.info^
 @@||toolsfox.com^
 @@||toolspivot.com^
+@@||toolssagar.com^
 @@||top-sub-cve-len.live^
 @@||topdogeducation.com^
 @@||topkale.me^
@@ -8371,7 +8372,6 @@
 @@||trieuview.life^
 @@||triggerbee.com^
 @@||trim.cx^
-@@||trim.one^
 @@||trim-ly.com^
 @@||trim-me.de^
 @@||trim-me.io^
@@ -8562,6 +8562,7 @@
 @@||ufasofilmebi.one^
 @@||ufcqc.link^
 @@||ufflink.com^
+@@||ufjqt.com^
 @@||link.ufpe.br^
 @@||ug.cz^
 @@||ugm.id^
@@ -8712,6 +8713,7 @@
 @@||url724.link^
 @@||url7x.com^
 @@||url84.com^
+@@||url88.online^
 @@||url8x.com^
 @@||url9xx.com^
 @@||urla.ru^
@@ -8739,6 +8741,7 @@
 @@||urlcover.com^
 @@||urlcrop.com^
 @@||urlcut.at^
+@@||urlcut.ch^
 @@||urlcut.com^
 @@||urlcut.cv^
 @@||urlcut.in^
@@ -8831,6 +8834,7 @@
 @@||urls-shortener.eu^
 @@||urls1xx.com^
 @@||urlsear.ch^
+@@||urlsh.net^
 @@||urlsh.us^
 @@||urlshor.com^
 @@||urlshort.ca^
@@ -8870,6 +8874,7 @@
 @@||urlsnap.com^
 @@||urlsnapy.com^
 @@||urlsnipper.com^
+@@||urlstox.com^
 @@||urltake.com^
 @@||urltamil.in^
 @@||urlth.me^
@@ -8939,6 +8944,7 @@
 @@||ushort.xyz^
 @@||usite.jp^
 @@||usps-v2.com^
+@@||uspsexpress.org^
 @@||usreviewers.com^
 @@||go.ustwo.games^
 @@||ut9.cc^

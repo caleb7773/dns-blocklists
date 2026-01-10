@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767994200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768008720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jan 2026 21:30 UTC
-; Version: 2026.0109.2130.59
+; Last modified: 10 Jan 2026 01:32 UTC
+; Version: 2026.0110.0132.02
 ; Syntax: RPZ
-; Number of entries: 20226
+; Number of entries: 20244
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1831,6 +1831,8 @@ tinybit.cc CNAME .
 *.tinybit.cc CNAME .
 tlot.cc CNAME .
 *.tlot.cc CNAME .
+to8.cc CNAME .
+*.to8.cc CNAME .
 topurl.cc CNAME .
 *.topurl.cc CNAME .
 toui.cc CNAME .
@@ -1981,6 +1983,8 @@ tyurl.ch CNAME .
 *.tyurl.ch CNAME .
 u4y.ch CNAME .
 *.u4y.ch CNAME .
+urlcut.ch CNAME .
+*.urlcut.ch CNAME .
 urlsear.ch CNAME .
 *.urlsear.ch CNAME .
 wef.ch CNAME .
@@ -7127,6 +7131,8 @@ toolsfox.com CNAME .
 *.toolsfox.com CNAME .
 toolspivot.com CNAME .
 *.toolspivot.com CNAME .
+toolssagar.com CNAME .
+*.toolssagar.com CNAME .
 topdogeducation.com CNAME .
 *.topdogeducation.com CNAME .
 toplistt.com CNAME .
@@ -7265,6 +7271,8 @@ uepx.com CNAME .
 *.uepx.com CNAME .
 ufflink.com CNAME .
 *.ufflink.com CNAME .
+ufjqt.com CNAME .
+*.ufjqt.com CNAME .
 uhishado.com CNAME .
 *.uhishado.com CNAME .
 uitly.com CNAME .
@@ -7453,6 +7461,8 @@ urlpoints.com CNAME .
 *.urlpoints.com CNAME .
 urlq.com CNAME .
 *.urlq.com CNAME .
+urlra.com CNAME .
+*.urlra.com CNAME .
 urlro.com CNAME .
 *.urlro.com CNAME .
 urlroot.com CNAME .
@@ -7503,6 +7513,8 @@ urlsnapy.com CNAME .
 *.urlsnapy.com CNAME .
 urlsnipper.com CNAME .
 *.urlsnipper.com CNAME .
+urlstox.com CNAME .
+*.urlstox.com CNAME .
 urltake.com CNAME .
 *.urltake.com CNAME .
 urltiger.com CNAME .
@@ -15753,6 +15765,8 @@ urlmkr.net CNAME .
 *.urlmkr.net CNAME .
 urlplus.net CNAME .
 *.urlplus.net CNAME .
+urlsh.net CNAME .
+*.urlsh.net CNAME .
 urweb.net CNAME .
 *.urweb.net CNAME .
 usego.net CNAME .
@@ -16195,6 +16209,8 @@ tulinks.online CNAME .
 *.tulinks.online CNAME .
 upyun.online CNAME .
 *.upyun.online CNAME .
+url88.online CNAME .
+*.url88.online CNAME .
 urlbit.online CNAME .
 *.urlbit.online CNAME .
 vibegaming.online CNAME .
@@ -16643,6 +16659,8 @@ urlx.org CNAME .
 *.urlx.org CNAME .
 urlzo.org CNAME .
 *.urlzo.org CNAME .
+uspsexpress.org CNAME .
+*.uspsexpress.org CNAME .
 go.uumeriden.org CNAME .
 *.go.uumeriden.org CNAME .
 vestil.org CNAME .
