@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 18:06 UTC
-# Version: 2026.0110.1806.33
+# Last modified: 10 Jan 2026 22:11 UTC
+# Version: 2026.0110.2211.07
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 89494
+# Number of entries: 89515
 #
 0.0.0.0 www.0.beer
 0.0.0.0 00005500a1.cyou
@@ -32029,6 +32029,7 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -32583,7 +32584,6 @@
 0.0.0.0 coinads.online
 0.0.0.0 coinadster.com
 0.0.0.0 coinaione.com
-0.0.0.0 coinbase-custodialhelp.com
 0.0.0.0 coinbasec088.com
 0.0.0.0 coinbasestakes.com
 0.0.0.0 coinbaseupgrade.com
@@ -35850,6 +35850,7 @@
 0.0.0.0 api.deep.bi
 0.0.0.0 scoring.deep.bi
 0.0.0.0 data.deep-content.io
+0.0.0.0 deep-crash.com
 0.0.0.0 telemetry.deeparc.net
 0.0.0.0 deeperregardingcontend.com
 0.0.0.0 deepfake.berlin
@@ -42829,6 +42830,7 @@
 0.0.0.0 easytomessage.com
 0.0.0.0 sgtm.easytoys.com
 0.0.0.0 sgtm.easytoys.nl
+0.0.0.0 eatcells.com
 0.0.0.0 securetracking.eaton.com
 0.0.0.0 eavailandpro.com
 0.0.0.0 eavesdropthenashame.com
@@ -47318,6 +47320,8 @@
 0.0.0.0 gewinnmobil.online
 0.0.0.0 gez.io
 0.0.0.0 o.gez.io
+0.0.0.0 gezonex.com
+0.0.0.0 gezorex.com
 0.0.0.0 gfb254c4u739gnvupq3hqvoqe.cfd
 0.0.0.0 gfosegguevk.com
 0.0.0.0 www.gfosegguevk.com
@@ -54942,6 +54946,7 @@
 0.0.0.0 dvude.javvycoffee.com
 0.0.0.0 static.javxxx.me
 0.0.0.0 mebjj.jaxxon.com
+0.0.0.0 jayantwhaling.shop
 0.0.0.0 jaysbrand.com
 0.0.0.0 analytics.jazel.net
 0.0.0.0 jazzistagallop.com
@@ -55884,7 +55889,6 @@
 0.0.0.0 kaminari.systems
 0.0.0.0 statistik.kampanile.de
 0.0.0.0 assets.kampyle.com
-0.0.0.0 kamudosyamibul.org
 0.0.0.0 kanade-ad.net
 0.0.0.0 kanagannne.xyz
 0.0.0.0 www.kanagannne.xyz
@@ -60086,6 +60090,7 @@
 0.0.0.0 metallcorrupt.com
 0.0.0.0 analytics.metalocator.com
 0.0.0.0 metalyzer.com
+0.0.0.0 metamaskdrop.xyz
 0.0.0.0 metartmoney.com
 0.0.0.0 metatcatop.pro
 0.0.0.0 metateress.com
@@ -64215,6 +64220,7 @@
 0.0.0.0 nmsedarim.cyou
 0.0.0.0 nmypizkt.com
 0.0.0.0 www.nmypizkt.com
+0.0.0.0 nn125.com
 0.0.0.0 nnacoevirghpr.store
 0.0.0.0 nnbqgxo.cc
 0.0.0.0 nndbqyul.com
@@ -66252,6 +66258,7 @@
 0.0.0.0 analytics.orange.ro
 0.0.0.0 datalayer.orange.fr
 0.0.0.0 orange-park.jp
+0.0.0.0 orange-praca.com
 0.0.0.0 orangeads.fr
 0.0.0.0 adgtw.orangeads.fr
 0.0.0.0 cdn.adgtw.orangeads.fr
@@ -66698,6 +66705,7 @@
 0.0.0.0 k.p-n.io
 0.0.0.0 p0cket1ove.jp
 0.0.0.0 p0rte.site
+0.0.0.0 p1-eviivo.com
 0.0.0.0 p12acx.com
 0.0.0.0 p23hxejm1.com
 0.0.0.0 p24.hu
@@ -67322,6 +67330,11 @@
 0.0.0.0 pcexhftbidjqk.site
 0.0.0.0 utiq.pcgameshardware.de
 0.0.0.0 piwik.pcgamingwiki.com
+0.0.0.0 pchelpsoft.com
+0.0.0.0 cloud.pchelpsoft.com
+0.0.0.0 inapp.pchelpsoft.com
+0.0.0.0 offers.pchelpsoft.com
+0.0.0.0 www.pchelpsoft.com
 0.0.0.0 pcicifogr.com
 0.0.0.0 sp.pcid.ca
 0.0.0.0 pcimodnnhsd.com
@@ -67786,6 +67799,7 @@
 0.0.0.0 phishline.com
 0.0.0.0 phitenmy.com
 0.0.0.0 phizogsvarajs.com
+0.0.0.0 phl-post.life
 0.0.0.0 phlcbgfbxbxu.com
 0.0.0.0 phlebanilo.rest
 0.0.0.0 phluant.com
@@ -74036,6 +74050,8 @@
 0.0.0.0 9145.searchmagnified.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 tracking.searchmarketing.com
+0.0.0.0 searchmarquis.com
+0.0.0.0 www.searchmarquis.com
 0.0.0.0 searchmaven.co
 0.0.0.0 pub.searchnova.net
 0.0.0.0 searchnowexpert.com
@@ -75313,6 +75329,7 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenhuafei.cn
@@ -84594,6 +84611,8 @@
 0.0.0.0 wt.viagogo.net
 0.0.0.0 viagrasamplesfrompfizer.com
 0.0.0.0 viagrawinner.com
+0.0.0.0 vialotadom.com
+0.0.0.0 ak.vialotadom.com
 0.0.0.0 vianboaegiaed.website
 0.0.0.0 viantinc.com
 0.0.0.0 cdn.viantinc.com
@@ -87032,6 +87051,7 @@
 0.0.0.0 winparadise.casino
 0.0.0.0 metrics.winparts.nl
 0.0.0.0 cnt.winporn.com
+0.0.0.0 winstaking.com
 0.0.0.0 telemetry.winstonfinancial.com
 0.0.0.0 winterrowd.com
 0.0.0.0 wintopia.casino
@@ -88818,7 +88838,6 @@
 0.0.0.0 yuckellout.cyou
 0.0.0.0 yudvl.org
 0.0.0.0 yuejinjx.com
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukagsanti.rest
 0.0.0.0 yukclick.me
@@ -89418,6 +89437,7 @@
 0.0.0.0 pixel.zprk.io
 0.0.0.0 zpuavdcswqnml.online
 0.0.0.0 zq4lwr.hair
+0.0.0.0 zq7k1y5ypcf1nju869.cfd
 0.0.0.0 zqtk.net
 0.0.0.0 aps.zqtk.net
 0.0.0.0 segment-data.zqtk.net
@@ -89444,6 +89464,7 @@
 0.0.0.0 ztomy.com
 0.0.0.0 ztsrv.com
 0.0.0.0 ztwolf.com
+0.0.0.0 zu2arp.icu
 0.0.0.0 zucks.net
 0.0.0.0 k.zucks.net
 0.0.0.0 ov.zucks.net

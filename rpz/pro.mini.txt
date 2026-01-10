@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768068720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768083420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Pro mini DNS/Browser Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 18:12 UTC
-; Version: 2026.0110.1812.00
+; Last modified: 10 Jan 2026 22:17 UTC
+; Version: 2026.0110.2217.14
 ; Syntax: RPZ
-; Number of entries: 96782
+; Number of entries: 96798
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -2990,6 +2990,8 @@ sentry.seedr.cc CNAME .
 *.sentry.seedr.cc CNAME .
 stat.seedr.cc CNAME .
 *.stat.seedr.cc CNAME .
+shemrec.cc CNAME .
+*.shemrec.cc CNAME .
 shortwa.cc CNAME .
 *.shortwa.cc CNAME .
 tel.shottr.cc CNAME .
@@ -3060,8 +3062,6 @@ xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
 youareanidiot.cc CNAME .
 *.youareanidiot.cc CNAME .
-yuhuan.cc CNAME .
-*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 melbet.cd CNAME .
@@ -4034,6 +4034,8 @@ zencrystal.cfd CNAME .
 *.zencrystal.cfd CNAME .
 zondasicskeps.cfd CNAME .
 *.zondasicskeps.cfd CNAME .
+zq7k1y5ypcf1nju869.cfd CNAME .
+*.zq7k1y5ypcf1nju869.cfd CNAME .
 zw7kvifj268tmhfgp6.cfd CNAME .
 *.zw7kvifj268tmhfgp6.cfd CNAME .
 zycz84w8w3ee8wc.cfd CNAME .
@@ -19208,8 +19210,6 @@ coinadster.com CNAME .
 *.coinadster.com CNAME .
 coinaione.com CNAME .
 *.coinaione.com CNAME .
-coinbase-custodialhelp.com CNAME .
-*.coinbase-custodialhelp.com CNAME .
 coinbasec088.com CNAME .
 *.coinbasec088.com CNAME .
 coinbasestakes.com CNAME .
@@ -27020,6 +27020,10 @@ posthog.getyourmap.com CNAME .
 *.posthog.getyourmap.com CNAME .
 sentry.getyourmap.com CNAME .
 *.sentry.getyourmap.com CNAME .
+gezonex.com CNAME .
+*.gezonex.com CNAME .
+gezorex.com CNAME .
+*.gezorex.com CNAME .
 gfosegguevk.com CNAME .
 *.gfosegguevk.com CNAME .
 gfpxw.com CNAME .
@@ -42264,6 +42268,8 @@ analyticsapps.us-phoenix-1.ocs.oraclecloud.com CNAME .
 *.analyticsapps.us-phoenix-1.ocs.oraclecloud.com CNAME .
 oraearshin.com CNAME .
 *.oraearshin.com CNAME .
+orange-praca.com CNAME .
+*.orange-praca.com CNAME .
 orangebirdie.com CNAME .
 *.orangebirdie.com CNAME .
 cdn.orangeclickmedia.com CNAME .
@@ -42664,6 +42670,8 @@ ozmogfskuatx.com CNAME .
 *.ozmogfskuatx.com CNAME .
 ozxgkizicab.com CNAME .
 *.ozxgkizicab.com CNAME .
+p1-eviivo.com CNAME .
+*.p1-eviivo.com CNAME .
 p12acx.com CNAME .
 *.p12acx.com CNAME .
 p23hxejm1.com CNAME .
@@ -58754,6 +58762,8 @@ winonascards.com CNAME .
 *.winonascards.com CNAME .
 cnt.winporn.com CNAME .
 *.cnt.winporn.com CNAME .
+winstaking.com CNAME .
+*.winstaking.com CNAME .
 telemetry.winstonfinancial.com CNAME .
 *.telemetry.winstonfinancial.com CNAME .
 winterrowd.com CNAME .
@@ -67426,6 +67436,8 @@ zftpnp.icu CNAME .
 *.zftpnp.icu CNAME .
 zl9pug.icu CNAME .
 *.zl9pug.icu CNAME .
+zu2arp.icu CNAME .
+*.zu2arp.icu CNAME .
 myelearning.arogapopin.ac.id CNAME .
 *.myelearning.arogapopin.ac.id CNAME .
 mapena.ac.id CNAME .
@@ -71672,6 +71684,8 @@ sentry-hel1.mom.life CNAME .
 *.sentry-hel1.mom.life CNAME .
 myangular.life CNAME .
 *.myangular.life CNAME .
+phl-post.life CNAME .
+*.phl-post.life CNAME .
 pinup-live-az.life CNAME .
 *.pinup-live-az.life CNAME .
 prizesenses.life CNAME .
@@ -84690,8 +84704,6 @@ smetrics2.kaiserpermanente.org CNAME .
 *.smetrics2.kaiserpermanente.org CNAME .
 kamboh.org CNAME .
 *.kamboh.org CNAME .
-kamudosyamibul.org CNAME .
-*.kamudosyamibul.org CNAME .
 ads.karzar.org CNAME .
 *.ads.karzar.org CNAME .
 stats.kde.org CNAME .
@@ -92790,6 +92802,8 @@ yk.cinchedembiid.top CNAME .
 *.yk.cinchedembiid.top CNAME .
 clicksocialimage.top CNAME .
 *.clicksocialimage.top CNAME .
+cnwucnf.top CNAME .
+*.cnwucnf.top CNAME .
 copyconnection.top CNAME .
 *.copyconnection.top CNAME .
 cufawe.top CNAME .
@@ -96420,6 +96434,8 @@ matomotj.xyz CNAME .
 *.matomotj.xyz CNAME .
 metric01.mecury0data.xyz CNAME .
 *.metric01.mecury0data.xyz CNAME .
+metamaskdrop.xyz CNAME .
+*.metamaskdrop.xyz CNAME .
 mfbvgcjkqpxup.xyz CNAME .
 *.mfbvgcjkqpxup.xyz CNAME .
 api.mobitech-content.xyz CNAME .

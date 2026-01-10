@@ -3423,6 +3423,13 @@
       }
     },
     {
+      "PK": "juice.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "justget.fit",
       "action": {
         "do": 1,

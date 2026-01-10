@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 18:12 UTC
-# Version: 2026.0110.1812.00
+# Last modified: 10 Jan 2026 22:17 UTC
+# Version: 2026.0110.2217.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 48391
+# Number of entries: 48399
 #
 local=/www.0.beer/
 local=/00005500a1.cyou/
@@ -10858,6 +10858,7 @@ local=/log.cnt.re/
 local=/s.cntqk.com/
 local=/cntxcdm.com/
 local=/cnvlink.com/
+local=/cnwucnf.top/
 local=/cnzz.cn/
 local=/cnzz.net/
 local=/c.cnzz.com/
@@ -11394,7 +11395,6 @@ local=/coinad.network/
 local=/coinads.online/
 local=/coinadster.com/
 local=/coinaione.com/
-local=/coinbase-custodialhelp.com/
 local=/coinbasec088.com/
 local=/coinbasestakes.com/
 local=/coinbaseupgrade.com/
@@ -18657,6 +18657,8 @@ local=/sentry.getyourmap.com/
 local=/gewfwdgd.site/
 local=/gewinnmobil.online/
 local=/gez.io/
+local=/gezonex.com/
+local=/gezorex.com/
 local=/gfb254c4u739gnvupq3hqvoqe.cfd/
 local=/gfosegguevk.com/
 local=/gfpxw.com/
@@ -23216,7 +23218,6 @@ local=/statistik.kampanile.de/
 local=/assets.kampyle.com/
 local=/cdn-prod.kampyle.com/
 local=/udc-neb.kampyle.com/
-local=/kamudosyamibul.org/
 local=/kanade-ad.net/
 local=/kanagannne.xyz/
 local=/kanakox.com/
@@ -26758,6 +26759,7 @@ local=/metallcorrupt.com/
 local=/analytics.metalocator.com/
 local=/cdn.metalocator.com/
 local=/metalyzer.com/
+local=/metamaskdrop.xyz/
 local=/metarouter.io/
 local=/metartmoney.com/
 local=/metatcatop.pro/
@@ -32140,6 +32142,7 @@ local=/data.orain.eus/
 local=/analytics.orange.ro/
 local=/datalayer.orange.fr/
 local=/orange-park.jp/
+local=/orange-praca.com/
 local=/orangeads.fr/
 local=/orangebirdie.com/
 local=/cdn.orangeclickmedia.com/
@@ -32495,6 +32498,7 @@ local=/p-mel.net/
 local=/p-n.io/
 local=/p0cket1ove.jp/
 local=/p0rte.site/
+local=/p1-eviivo.com/
 local=/p12acx.com/
 local=/p23hxejm1.com/
 local=/p24.hu/
@@ -33247,6 +33251,7 @@ local=/philtsymbo.rest/
 local=/phishline.com/
 local=/phitenmy.com/
 local=/phizogsvarajs.com/
+local=/phl-post.life/
 local=/phlcbgfbxbxu.com/
 local=/phlebanilo.rest/
 local=/phluant.com/
@@ -38498,6 +38503,7 @@ local=/scmetrics.shell.com/
 local=/shelljacket.us/
 local=/trk.shelly.cloud/
 local=/creative.shemale.show/
+local=/shemrec.cc/
 local=/shenajou.com/
 local=/shengfleming.com/
 local=/shenhuafei.cn/
@@ -46317,6 +46323,7 @@ local=/winonascards.com/
 local=/winparadise.casino/
 local=/metrics.winparts.nl/
 local=/cnt.winporn.com/
+local=/winstaking.com/
 local=/telemetry.winstonfinancial.com/
 local=/winterrowd.com/
 local=/wintopia.casino/
@@ -47770,7 +47777,6 @@ local=/yuckellout.cyou/
 local=/yudvl.org/
 local=/yuejinjx.com/
 local=/yuga.ru/
-local=/yuhuan.cc/
 local=/yuiiy.com/
 local=/yukagsanti.rest/
 local=/yukclick.me/
@@ -48325,6 +48331,7 @@ local=/zpgetworker11.com/
 local=/zprk.io/
 local=/zpuavdcswqnml.online/
 local=/zq4lwr.hair/
+local=/zq7k1y5ypcf1nju869.cfd/
 local=/zqtk.net/
 local=/zqvee2re50mr.com/
 local=/zrfesco.com/
@@ -48344,6 +48351,7 @@ local=/ztgame.com/
 local=/ztomy.com/
 local=/ztsrv.com/
 local=/ztwolf.com/
+local=/zu2arp.icu/
 local=/zucks.net/
 local=/zucoagorsout.com/
 local=/zugekiloxnimwe.today/

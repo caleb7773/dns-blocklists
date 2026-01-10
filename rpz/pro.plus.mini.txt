@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768069080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768083780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Pro++ mini DNS/Browser Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 18:18 UTC
-; Version: 2026.0110.1818.57
+; Last modified: 10 Jan 2026 22:23 UTC
+; Version: 2026.0110.2223.45
 ; Syntax: RPZ
-; Number of entries: 134850
+; Number of entries: 134952
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -5204,6 +5204,8 @@ sentry.seedr.cc CNAME .
 *.sentry.seedr.cc CNAME .
 stat.seedr.cc CNAME .
 *.stat.seedr.cc CNAME .
+shemrec.cc CNAME .
+*.shemrec.cc CNAME .
 shortwa.cc CNAME .
 *.shortwa.cc CNAME .
 tel.shottr.cc CNAME .
@@ -5286,8 +5288,6 @@ xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
 youareanidiot.cc CNAME .
 *.youareanidiot.cc CNAME .
-yuhuan.cc CNAME .
-*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 zyb-stats.zuoyebang.cc CNAME .
@@ -7080,6 +7080,8 @@ zoltra.cfd CNAME .
 *.zoltra.cfd CNAME .
 zondasicskeps.cfd CNAME .
 *.zondasicskeps.cfd CNAME .
+zq7k1y5ypcf1nju869.cfd CNAME .
+*.zq7k1y5ypcf1nju869.cfd CNAME .
 zulipex7.cfd CNAME .
 *.zulipex7.cfd CNAME .
 zulmie.cfd CNAME .
@@ -27632,8 +27634,6 @@ coinaione.com CNAME .
 *.coinaione.com CNAME .
 dp.coinbase.com CNAME .
 *.dp.coinbase.com CNAME .
-coinbase-custodialhelp.com CNAME .
-*.coinbase-custodialhelp.com CNAME .
 coinbasec088.com CNAME .
 *.coinbasec088.com CNAME .
 coinbasestakes.com CNAME .
@@ -38248,6 +38248,10 @@ gexperiments6.com CNAME .
 *.gexperiments6.com CNAME .
 gezila.com CNAME .
 *.gezila.com CNAME .
+gezonex.com CNAME .
+*.gezonex.com CNAME .
+gezorex.com CNAME .
+*.gezorex.com CNAME .
 tracking.gfore.com CNAME .
 *.tracking.gfore.com CNAME .
 gfosegguevk.com CNAME .
@@ -58392,6 +58396,8 @@ rum.perfops.cdb.cdn.orange.com CNAME .
 *.rum.perfops.cdb.cdn.orange.com CNAME .
 rum.perfops.mdb.cdn.orange.com CNAME .
 *.rum.perfops.mdb.cdn.orange.com CNAME .
+orange-praca.com CNAME .
+*.orange-praca.com CNAME .
 orange142.com CNAME .
 *.orange142.com CNAME .
 orangebirdie.com CNAME .
@@ -58912,6 +58918,8 @@ ozxgkizicab.com CNAME .
 *.ozxgkizicab.com CNAME .
 p0.com CNAME .
 *.p0.com CNAME .
+p1-eviivo.com CNAME .
+*.p1-eviivo.com CNAME .
 p12acx.com CNAME .
 *.p12acx.com CNAME .
 p20vtrk.com CNAME .
@@ -80714,6 +80722,8 @@ winorama.com CNAME .
 *.winorama.com CNAME .
 cnt.winporn.com CNAME .
 *.cnt.winporn.com CNAME .
+winstaking.com CNAME .
+*.winstaking.com CNAME .
 telemetry.winstonfinancial.com CNAME .
 *.telemetry.winstonfinancial.com CNAME .
 winterrowd.com CNAME .
@@ -91622,6 +91632,8 @@ metrics.v3.blast-info.fr CNAME .
 *.metrics.v3.blast-info.fr CNAME .
 metrics.bonnegueule.fr CNAME .
 *.metrics.bonnegueule.fr CNAME .
+boursobank-prime.fr CNAME .
+*.boursobank-prime.fr CNAME .
 brunomars.fr CNAME .
 *.brunomars.fr CNAME .
 bureaufiscal.fr CNAME .
@@ -91642,6 +91654,8 @@ cartegriseminute.fr CNAME .
 *.cartegriseminute.fr CNAME .
 casaneo.fr CNAME .
 *.casaneo.fr CNAME .
+cashverify.fr CNAME .
+*.cashverify.fr CNAME .
 casino-casombie.fr CNAME .
 *.casino-casombie.fr CNAME .
 casino-divaspin.fr CNAME .
@@ -91950,6 +91964,8 @@ bmly.impots.gouv.fr CNAME .
 *.bmly.impots.gouv.fr CNAME .
 analytics.mespoints.permisdeconduire.gouv.fr CNAME .
 *.analytics.mespoints.permisdeconduire.gouv.fr CNAME .
+gouv-acpr.fr CNAME .
+*.gouv-acpr.fr CNAME .
 grabardon.fr CNAME .
 *.grabardon.fr CNAME .
 grabardons.fr CNAME .
@@ -92014,6 +92030,8 @@ julconcertlive.fr CNAME .
 *.julconcertlive.fr CNAME .
 julius-casinos1.fr CNAME .
 *.julius-casinos1.fr CNAME .
+karl-lagerfelds.fr CNAME .
+*.karl-lagerfelds.fr CNAME .
 kdata.fr CNAME .
 *.kdata.fr CNAME .
 avp.labanquepostale.fr CNAME .
@@ -92084,12 +92102,16 @@ longchampsacpascher.fr CNAME .
 *.longchampsacpascher.fr CNAME .
 longchampsacsoldes.fr CNAME .
 *.longchampsacsoldes.fr CNAME .
+lucky31casinos.fr CNAME .
+*.lucky31casinos.fr CNAME .
 lucky31france.fr CNAME .
 *.lucky31france.fr CNAME .
 lucky8fr.fr CNAME .
 *.lucky8fr.fr CNAME .
 lucky8france.fr CNAME .
 *.lucky8france.fr CNAME .
+luckyblock-fr.fr CNAME .
+*.luckyblock-fr.fr CNAME .
 luckywave-casino.fr CNAME .
 *.luckywave-casino.fr CNAME .
 luckywave-casino-fr.fr CNAME .
@@ -92146,6 +92168,8 @@ millionz-france.fr CNAME .
 *.millionz-france.fr CNAME .
 mon-espace-ameli.fr CNAME .
 *.mon-espace-ameli.fr CNAME .
+monaco-jack.fr CNAME .
+*.monaco-jack.fr CNAME .
 moncomptesecure.fr CNAME .
 *.moncomptesecure.fr CNAME .
 mondialrelay-clients.fr CNAME .
@@ -92226,6 +92250,8 @@ olympe-casino1.fr CNAME .
 *.olympe-casino1.fr CNAME .
 olympecasinofrance.fr CNAME .
 *.olympecasinofrance.fr CNAME .
+onlyspinss.fr CNAME .
+*.onlyspinss.fr CNAME .
 onshoesfrance.fr CNAME .
 *.onshoesfrance.fr CNAME .
 oopt.fr CNAME .
@@ -92262,8 +92288,66 @@ paris-disniyland.fr CNAME .
 *.paris-disniyland.fr CNAME .
 permisexpressfrance.fr CNAME .
 *.permisexpressfrance.fr CNAME .
+pharma-bonneville-bray-dunes.fr CNAME .
+*.pharma-bonneville-bray-dunes.fr CNAME .
+pharmacie-elliant.fr CNAME .
+*.pharmacie-elliant.fr CNAME .
+pharmacie-jahier-billoir-lorient.fr CNAME .
+*.pharmacie-jahier-billoir-lorient.fr CNAME .
+pharmaciealesia-jeanmoulin.fr CNAME .
+*.pharmaciealesia-jeanmoulin.fr CNAME .
+pharmaciebourretmessana.fr CNAME .
+*.pharmaciebourretmessana.fr CNAME .
+pharmaciecentrale29.fr CNAME .
+*.pharmaciecentrale29.fr CNAME .
+pharmaciechaborel.fr CNAME .
+*.pharmaciechaborel.fr CNAME .
+pharmaciedediemoz.fr CNAME .
+*.pharmaciedediemoz.fr CNAME .
+pharmaciedelabaiedesomme.fr CNAME .
+*.pharmaciedelabaiedesomme.fr CNAME .
+pharmaciedelamairie78.fr CNAME .
+*.pharmaciedelamairie78.fr CNAME .
+pharmaciedelamotte.fr CNAME .
+*.pharmaciedelamotte.fr CNAME .
+pharmaciedemillery.fr CNAME .
+*.pharmaciedemillery.fr CNAME .
+pharmaciedemilly.fr CNAME .
+*.pharmaciedemilly.fr CNAME .
+pharmaciedesabres.fr CNAME .
+*.pharmaciedesabres.fr CNAME .
+pharmaciedetrevieres.fr CNAME .
+*.pharmaciedetrevieres.fr CNAME .
+pharmaciedubourg-montlieu.fr CNAME .
+*.pharmaciedubourg-montlieu.fr CNAME .
+pharmacieducentre-montval-sur-loir.fr CNAME .
+*.pharmacieducentre-montval-sur-loir.fr CNAME .
+pharmacieducolombier-planguenoual.fr CNAME .
+*.pharmacieducolombier-planguenoual.fr CNAME .
 pharmacieducomtal.fr CNAME .
 *.pharmacieducomtal.fr CNAME .
+pharmaciedumoulinrose.fr CNAME .
+*.pharmaciedumoulinrose.fr CNAME .
+pharmaciejouniaux.fr CNAME .
+*.pharmaciejouniaux.fr CNAME .
+pharmaciekerouedan.fr CNAME .
+*.pharmaciekerouedan.fr CNAME .
+pharmacielayachi.fr CNAME .
+*.pharmacielayachi.fr CNAME .
+pharmaciellinas.fr CNAME .
+*.pharmaciellinas.fr CNAME .
+pharmaciemontchalats.fr CNAME .
+*.pharmaciemontchalats.fr CNAME .
+pharmacieniogret.fr CNAME .
+*.pharmacieniogret.fr CNAME .
+pharmaciericard.fr CNAME .
+*.pharmaciericard.fr CNAME .
+pharmacieroux-avignon.fr CNAME .
+*.pharmacieroux-avignon.fr CNAME .
+pharmacietrinquetaille.fr CNAME .
+*.pharmacietrinquetaille.fr CNAME .
+pharmacievariot.fr CNAME .
+*.pharmacievariot.fr CNAME .
 tracking.network1.pickup.fr CNAME .
 *.tracking.network1.pickup.fr CNAME .
 pistolo-france.fr CNAME .
@@ -92286,6 +92370,8 @@ posidocasinos.fr CNAME .
 *.posidocasinos.fr CNAME .
 posidoscasino.fr CNAME .
 *.posidoscasino.fr CNAME .
+prime-espaceclient.fr CNAME .
+*.prime-espaceclient.fr CNAME .
 prismaconnect.fr CNAME .
 *.prismaconnect.fr CNAME .
 prive-fr.fr CNAME .
@@ -92314,6 +92400,8 @@ reebokfr.fr CNAME .
 *.reebokfr.fr CNAME .
 reprogrammation-colis.fr CNAME .
 *.reprogrammation-colis.fr CNAME .
+reprogrammation-mondial.fr CNAME .
+*.reprogrammation-mondial.fr CNAME .
 roobetfrance.fr CNAME .
 *.roobetfrance.fr CNAME .
 stat.rouen.fr CNAME .
@@ -92378,6 +92466,8 @@ sgtm.stihl.fr CNAME .
 *.sgtm.stihl.fr CNAME .
 sugar-casino.fr CNAME .
 *.sugar-casino.fr CNAME .
+suivimondiairelay.fr CNAME .
+*.suivimondiairelay.fr CNAME .
 suivimondialrelay.fr CNAME .
 *.suivimondialrelay.fr CNAME .
 support-edf.fr CNAME .
@@ -92420,6 +92510,8 @@ tradelab.fr CNAME .
 *.tradelab.fr CNAME .
 trueluck-casino.fr CNAME .
 *.trueluck-casino.fr CNAME .
+trueluck-fr.fr CNAME .
+*.trueluck-fr.fr CNAME .
 turbowins-france.fr CNAME .
 *.turbowins-france.fr CNAME .
 turbowinsfr.fr CNAME .
@@ -92448,6 +92540,8 @@ vansfrance.fr CNAME .
 *.vansfrance.fr CNAME .
 piwik.vates.fr CNAME .
 *.piwik.vates.fr CNAME .
+vegas-hero-fr.fr CNAME .
+*.vegas-hero-fr.fr CNAME .
 vejasoldes.fr CNAME .
 *.vejasoldes.fr CNAME .
 viggoslots-france.fr CNAME .
@@ -92466,6 +92560,10 @@ weborama.fr CNAME .
 *.weborama.fr CNAME .
 welcome-media.fr CNAME .
 *.welcome-media.fr CNAME .
+winorio-casino.fr CNAME .
+*.winorio-casino.fr CNAME .
+winzter-fr.fr CNAME .
+*.winzter-fr.fr CNAME .
 banners.wlservices.fr CNAME .
 *.banners.wlservices.fr CNAME .
 event.wlservices.fr CNAME .
@@ -92480,6 +92578,8 @@ www-aviamasters.fr CNAME .
 *.www-aviamasters.fr CNAME .
 www-myrelay-client.fr CNAME .
 *.www-myrelay-client.fr CNAME .
+xn--marseilleagllomration-p5b.fr CNAME .
+*.xn--marseilleagllomration-p5b.fr CNAME .
 xn--musedulouvre-deb.fr CNAME .
 *.xn--musedulouvre-deb.fr CNAME .
 xn--vitalesant-k7a.fr CNAME .
@@ -116632,8 +116732,6 @@ smetrics2.kaiserpermanente.org CNAME .
 *.smetrics2.kaiserpermanente.org CNAME .
 kamboh.org CNAME .
 *.kamboh.org CNAME .
-kamudosyamibul.org CNAME .
-*.kamudosyamibul.org CNAME .
 ads.karzar.org CNAME .
 *.ads.karzar.org CNAME .
 crash-reports.kde.org CNAME .
@@ -127390,6 +127488,8 @@ clicksocialimage.top CNAME .
 *.clicksocialimage.top CNAME .
 cloudfastin.top CNAME .
 *.cloudfastin.top CNAME .
+cnwucnf.top CNAME .
+*.cnwucnf.top CNAME .
 com-gma.top CNAME .
 *.com-gma.top CNAME .
 com-gxa.top CNAME .
@@ -134070,6 +134170,8 @@ metric01.mecury0data.xyz CNAME .
 *.metric01.mecury0data.xyz CNAME .
 meliora.xyz CNAME .
 *.meliora.xyz CNAME .
+metamaskdrop.xyz CNAME .
+*.metamaskdrop.xyz CNAME .
 mfbvgcjkqpxup.xyz CNAME .
 *.mfbvgcjkqpxup.xyz CNAME .
 mnbvakjjouxir0zkzmd.xyz CNAME .
