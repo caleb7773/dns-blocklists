@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768055580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768070040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 14:33 UTC
-; Version: 2026.0110.1433.15
+; Last modified: 10 Jan 2026 18:34 UTC
+; Version: 2026.0110.1834.34
 ; Syntax: RPZ
-; Number of entries: 157226
+; Number of entries: 157246
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -1398,6 +1398,8 @@ naughtyads.com.au CNAME .
 *.naughtyads.com.au CNAME .
 nudechat.com.au CNAME .
 *.nudechat.com.au CNAME .
+nympho.com.au CNAME .
+*.nympho.com.au CNAME .
 pleasureplanetbrothel.com.au CNAME .
 *.pleasureplanetbrothel.com.au CNAME .
 pryanarose.com.au CNAME .
@@ -110368,6 +110370,8 @@ xmalay.net CNAME .
 *.xmalay.net CNAME .
 xmalay1.net CNAME .
 *.xmalay1.net CNAME .
+xmalay2.net CNAME .
+*.xmalay2.net CNAME .
 xmaza.net CNAME .
 *.xmaza.net CNAME .
 xmovix.net CNAME .
@@ -111780,6 +111784,8 @@ sexxxsev.now CNAME .
 *.sexxxsev.now CNAME .
 sperm.now CNAME .
 *.sperm.now CNAME .
+tdxflix.now CNAME .
+*.tdxflix.now CNAME .
 ulluuncut.now CNAME .
 *.ulluuncut.now CNAME .
 xnxx.now CNAME .
@@ -118296,6 +118302,14 @@ lotusexchange.organic CNAME .
 *.lotusexchange.organic CNAME .
 camboys.ovh CNAME .
 *.camboys.ovh CNAME .
+cougar-grenoble.ovh CNAME .
+*.cougar-grenoble.ovh CNAME .
+cougar-le-havre.ovh CNAME .
+*.cougar-le-havre.ovh CNAME .
+cougar-metz.ovh CNAME .
+*.cougar-metz.ovh CNAME .
+cougar-nimes.ovh CNAME .
+*.cougar-nimes.ovh CNAME .
 planq.ovh CNAME .
 *.planq.ovh CNAME .
 pornhubmeme.ovh CNAME .
@@ -122126,6 +122140,8 @@ ehtiras.ru CNAME .
 *.ehtiras.ru CNAME .
 el-style.ru CNAME .
 *.el-style.ru CNAME .
+elecdsu3.ru CNAME .
+*.elecdsu3.ru CNAME .
 en365.ru CNAME .
 *.en365.ru CNAME .
 ener.ru CNAME .
@@ -123684,6 +123700,8 @@ vsexshop.ru CNAME .
 *.vsexshop.ru CNAME .
 vuoksapark.ru CNAME .
 *.vuoksapark.ru CNAME .
+wapdiz.ru CNAME .
+*.wapdiz.ru CNAME .
 waprek.ru CNAME .
 *.waprek.ru CNAME .
 wb3iks.ru CNAME .
@@ -129116,6 +129134,8 @@ asian10.top CNAME .
 *.asian10.top CNAME .
 asiananimalxxx.top CNAME .
 *.asiananimalxxx.top CNAME .
+asianx.top CNAME .
+*.asianx.top CNAME .
 asianxxx.top CNAME .
 *.asianxxx.top CNAME .
 asiaxxx.top CNAME .

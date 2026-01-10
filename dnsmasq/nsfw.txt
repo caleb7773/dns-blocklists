@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 14:33 UTC
-# Version: 2026.0110.1433.15
+# Last modified: 10 Jan 2026 18:34 UTC
+# Version: 2026.0110.1834.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 78613
+# Number of entries: 78623
 #
 local=/0-xxx.com/
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
@@ -7623,6 +7623,7 @@ local=/asianwebcams.cam/
 local=/asianwifeporn.com/
 local=/asianwomen.pics/
 local=/asianworldp.com/
+local=/asianx.top/
 local=/asianxmovs.com/
 local=/asianxn.icu/
 local=/asianxpic.com/
@@ -15604,6 +15605,7 @@ local=/nucleodenoticias.com.br/
 local=/nudechat.com.au/
 local=/nudevista.com.br/
 local=/nudevista.com.pl/
+local=/nympho.com.au/
 local=/objektifgayrimenkul.com.tr/
 local=/ofertasexpress1.com.br/
 local=/ogosexshop.com.ua/
@@ -16131,6 +16133,10 @@ local=/cottagefoodlawsexplained.com/
 local=/couchcachet.com/
 local=/coucoutoi.com/
 local=/cougar.fm/
+local=/cougar-grenoble.ovh/
+local=/cougar-le-havre.ovh/
+local=/cougar-metz.ovh/
+local=/cougar-nimes.ovh/
 local=/cougar-sexy.eu/
 local=/cougardsexe.com/
 local=/cougarfrenzy.com/
@@ -19682,6 +19688,7 @@ local=/elearning4adults.org/
 local=/elearning4workingadults.com/
 local=/elearning4workingadults.net/
 local=/elearning4workingadults.org/
+local=/elecdsu3.ru/
 local=/electrastim.com/
 local=/electric102.com/
 local=/electricalcontractorsinessex.com/
@@ -64694,6 +64701,7 @@ local=/tdahadultosmexico.com/
 local=/tdbsemporna.com/
 local=/tdotwire.com/
 local=/tdxflix.com/
+local=/tdxflix.now/
 local=/tdxxxnl896.top/
 local=/teach2wait.com/
 local=/teachadult.xyz/
@@ -70516,6 +70524,7 @@ local=/wap-videos.com/
 local=/wap-xxx-tube.com/
 local=/wapbold.com/
 local=/wapbold.net/
+local=/wapdiz.ru/
 local=/xvideos.wapka.cc/
 local=/waplo.info/
 local=/waplog.com/
@@ -72234,6 +72243,7 @@ local=/xlxxlxxxl.com/
 local=/xmaduras.com/
 local=/xmalay.net/
 local=/xmalay1.net/
+local=/xmalay2.net/
 local=/xmalayporn.com/
 local=/xmanyclips.com/
 local=/xmatch.com/
