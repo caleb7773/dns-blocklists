@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 02:35 UTC
-# Version: 2026.0110.0235.42
+# Last modified: 10 Jan 2026 10:33 UTC
+# Version: 2026.0110.1033.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11632
+# Number of entries: 11647
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -10771,6 +10771,7 @@ local=/videoelephantbd.com/
 local=/admin.videoenpoche.info/
 local=/videoneat.com/
 local=/videothek.cx/
+local=/videq.com/
 local=/videqapp.site/
 local=/videqc.fun/
 local=/videqs.com/
@@ -10790,6 +10791,7 @@ local=/vidics.com/
 local=/vidics.to/
 local=/vidify.top/
 local=/vidjoy.pro/
+local=/vidlink.org/
 local=/vidlox.me/
 local=/vidmate.me/
 local=/vidmate.net/
@@ -10991,6 +10993,7 @@ local=/warezik.eu/
 local=/warezkeeper.com/
 local=/warezlander.com/
 local=/warezload.net/
+local=/warezlover.xyz/
 local=/warezm.com/
 local=/warezmaster.com/
 local=/warezok.net/
@@ -11028,6 +11031,7 @@ local=/watchamovie.today/
 local=/watchasian.co/
 local=/watchcartoononline.com/
 local=/watchcartoononline.io/
+local=/watchcartoonsonline.la/
 local=/watchepisodes4.com/
 local=/watchepisodeseries.com/
 local=/watchfilm.net/
@@ -11123,6 +11127,7 @@ local=/kkant.weebly.com/
 local=/osvault.weebly.com/
 local=/supersonu222.weebly.com/
 local=/welcometothescene.com/
+local=/wepzone.net/
 local=/wfhost2.com/
 local=/wgstream.sx/
 local=/what.cd/
@@ -11201,6 +11206,7 @@ local=/worldfree4u.moe/
 local=/worldfree4u.pm/
 local=/worldfree4u.zip/
 local=/worldmags.net/
+local=/worldofp2p.net/
 local=/worldofpcgames.co/
 local=/worldofpcgames.com/
 local=/worldsrc.net/
@@ -11260,6 +11266,7 @@ local=/xcine.to/
 local=/xcine.tv/
 local=/xcine-tv.com/
 local=/xcinema.ro/
+local=/xd-movie.com/
 local=/xdcc.eu/
 local=/xdude.net/
 local=/tracker.xdvdz.com/
@@ -11270,6 +11277,7 @@ local=/tracker.xfapi.top/
 local=/xforce-cracks.com/
 local=/share.xfsub.com/
 local=/tracker.xiaoduola.xyz/
+local=/xider.hu/
 local=/ximepa.ru/
 local=/xlist.ro/
 local=/xmovie8.pro/
@@ -11285,6 +11293,7 @@ local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
+local=/xn--thepratebay-fcb.com/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/
 local=/tterm.xorg.pl/
@@ -11318,6 +11327,7 @@ local=/xuyadong.sbs/
 local=/xwt-classics.net/
 local=/xx-xsx.top/
 local=/xx1.online/
+local=/00.xxtor.com/
 local=/open.xxtor.com/
 local=/xxx-torrent.net/
 local=/xxx-tracker.com/
@@ -11374,6 +11384,7 @@ local=/yesmovies.media/
 local=/yesmovies.mn/
 local=/yesmovies.mom/
 local=/yesmovies.movie/
+local=/yesmovies.my/
 local=/yesmovies.net/
 local=/yesmovies.org/
 local=/yesmovies.pe/
@@ -11502,6 +11513,7 @@ local=/yui-nya.com/
 local=/tracker.yume-hatsuyuki.moe/
 local=/bt.yumeru.net/
 local=/yunnx.com/
+local=/yuppow.com/
 local=/yuptorrents.com/
 local=/yuwabits.net/
 local=/home.yxgz.club/
@@ -11538,6 +11550,8 @@ local=/zalukaj-pl.com/
 local=/zalukaj-pl.tv/
 local=/zalukaj-tv.pl/
 local=/zalukaj-vip.pl/
+local=/zalukaj-vod.pl/
+local=/zalukaj2.pl/
 local=/zalukajj.com/
 local=/zaluknij.cc/
 local=/zaluknij.pl/
@@ -11589,6 +11603,7 @@ local=/zlib996.online/
 local=/zlibrarya.online/
 local=/zlir.online/
 local=/bt.zlofenix.org/
+local=/zlotracker.org/
 local=/zmovie.ru/
 local=/zntorrent.ru/
 local=/zoechip.cc/

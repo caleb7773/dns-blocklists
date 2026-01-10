@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jan 2026 02:35 UTC
-! Version: 2026.0110.0235.42
+! Last modified: 10 Jan 2026 10:33 UTC
+! Version: 2026.0110.1033.04
 ! Syntax: AdBlock
-! Number of entries: 11632
+! Number of entries: 11647
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -10772,6 +10772,7 @@
 ||admin.videoenpoche.info^
 ||videoneat.com^
 ||videothek.cx^
+||videq.com^
 ||videqapp.site^
 ||videqc.fun^
 ||videqs.com^
@@ -10791,6 +10792,7 @@
 ||vidics.to^
 ||vidify.top^
 ||vidjoy.pro^
+||vidlink.org^
 ||vidlox.me^
 ||vidmate.me^
 ||vidmate.net^
@@ -10992,6 +10994,7 @@
 ||warezkeeper.com^
 ||warezlander.com^
 ||warezload.net^
+||warezlover.xyz^
 ||warezm.com^
 ||warezmaster.com^
 ||warezok.net^
@@ -11029,6 +11032,7 @@
 ||watchasian.co^
 ||watchcartoononline.com^
 ||watchcartoononline.io^
+||watchcartoonsonline.la^
 ||watchepisodes4.com^
 ||watchepisodeseries.com^
 ||watchfilm.net^
@@ -11124,6 +11128,7 @@
 ||osvault.weebly.com^
 ||supersonu222.weebly.com^
 ||welcometothescene.com^
+||wepzone.net^
 ||wfhost2.com^
 ||wgstream.sx^
 ||what.cd^
@@ -11202,6 +11207,7 @@
 ||worldfree4u.pm^
 ||worldfree4u.zip^
 ||worldmags.net^
+||worldofp2p.net^
 ||worldofpcgames.co^
 ||worldofpcgames.com^
 ||worldsrc.net^
@@ -11261,6 +11267,7 @@
 ||xcine.tv^
 ||xcine-tv.com^
 ||xcinema.ro^
+||xd-movie.com^
 ||xdcc.eu^
 ||xdude.net^
 ||tracker.xdvdz.com^
@@ -11271,6 +11278,7 @@
 ||xforce-cracks.com^
 ||share.xfsub.com^
 ||tracker.xiaoduola.xyz^
+||xider.hu^
 ||ximepa.ru^
 ||xlist.ro^
 ||xmovie8.pro^
@@ -11286,6 +11294,7 @@
 ||xn--80a4b.com^
 ||tracker.xn--djrq4gl4hvoi.top^
 ||xn--firstrowsport-8xe.eu^
+||xn--thepratebay-fcb.com^
 ||budvartrekker.xn-s.eu^
 ||hd-hu.xn-s.eu^
 ||tterm.xorg.pl^
@@ -11319,6 +11328,7 @@
 ||xwt-classics.net^
 ||xx-xsx.top^
 ||xx1.online^
+||00.xxtor.com^
 ||open.xxtor.com^
 ||xxx-torrent.net^
 ||xxx-tracker.com^
@@ -11375,6 +11385,7 @@
 ||yesmovies.mn^
 ||yesmovies.mom^
 ||yesmovies.movie^
+||yesmovies.my^
 ||yesmovies.net^
 ||yesmovies.org^
 ||yesmovies.pe^
@@ -11503,6 +11514,7 @@
 ||tracker.yume-hatsuyuki.moe^
 ||bt.yumeru.net^
 ||yunnx.com^
+||yuppow.com^
 ||yuptorrents.com^
 ||yuwabits.net^
 ||home.yxgz.club^
@@ -11539,6 +11551,8 @@
 ||zalukaj-pl.tv^
 ||zalukaj-tv.pl^
 ||zalukaj-vip.pl^
+||zalukaj-vod.pl^
+||zalukaj2.pl^
 ||zalukajj.com^
 ||zaluknij.cc^
 ||zaluknij.pl^
@@ -11590,6 +11604,7 @@
 ||zlibrarya.online^
 ||zlir.online^
 ||bt.zlofenix.org^
+||zlotracker.org^
 ||zmovie.ru^
 ||zntorrent.ru^
 ||zoechip.cc^

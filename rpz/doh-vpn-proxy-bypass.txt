@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768012860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768041540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 02:41 UTC
-; Version: 2026.0110.0241.21
+; Last modified: 10 Jan 2026 10:39 UTC
+; Version: 2026.0110.1039.30
 ; Syntax: RPZ
-; Number of entries: 12858
+; Number of entries: 12866
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4671,6 +4671,8 @@ weboproxy.com CNAME .
 *.weboproxy.com CNAME .
 webproxy.com CNAME .
 *.webproxy.com CNAME .
+webproxyusa.com CNAME .
+*.webproxyusa.com CNAME .
 websitebypass.com CNAME .
 *.websitebypass.com CNAME .
 websynchrony.com CNAME .
@@ -6591,6 +6593,8 @@ vpncity.info CNAME .
 *.vpncity.info CNAME .
 vpnfree.info CNAME .
 *.vpnfree.info CNAME .
+vpnnow.info CNAME .
+*.vpnnow.info CNAME .
 webypass.info CNAME .
 *.webypass.info CNAME .
 ylink.info CNAME .
@@ -9061,6 +9065,8 @@ vpntunnel.net CNAME .
 *.vpntunnel.net CNAME .
 vpnuk.net CNAME .
 *.vpnuk.net CNAME .
+dns.wakgood.net CNAME .
+*.dns.wakgood.net CNAME .
 websiteproxy.net CNAME .
 *.websiteproxy.net CNAME .
 websiteunblock.net CNAME .
@@ -9441,6 +9447,8 @@ videonew.online CNAME .
 *.videonew.online CNAME .
 vpnproxy.online CNAME .
 *.vpnproxy.online CNAME .
+go.vrpyourself.online CNAME .
+*.go.vrpyourself.online CNAME .
 webproxy.online CNAME .
 *.webproxy.online CNAME .
 zexusdigital.online CNAME .

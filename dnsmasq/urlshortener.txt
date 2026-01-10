@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 01:32 UTC
-# Version: 2026.0110.0132.02
+# Last modified: 10 Jan 2026 09:29 UTC
+# Version: 2026.0110.0929.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10122
+# Number of entries: 10129
 #
 local=/0.gp/
 local=/00m.in/
@@ -9368,6 +9368,7 @@ local=/viindoo.com/
 local=/vijijay.com/
 local=/vikcap.com/
 local=/vilpower.in/
+local=/vim.li/
 local=/go.vimar.ie/
 local=/vindicoce.com/
 local=/vineland.dj/
@@ -9402,6 +9403,7 @@ local=/visit2earn.com/
 local=/visitame.app/
 local=/visitmy.link/
 local=/visitmylinks.com/
+local=/visitmypage.org/
 local=/visitsitenow.com/
 local=/visiyta.com/
 local=/vivir.pro/
@@ -9472,6 +9474,7 @@ local=/vuiet.com/
 local=/vultio.biz/
 local=/vur.me/
 local=/vurl.com/
+local=/vurlz.com/
 local=/vv.vg/
 local=/vvd.bz/
 local=/vvd.im/
@@ -9575,6 +9578,7 @@ local=/webz.cc/
 local=/wec.li/
 local=/wed.li/
 local=/wedew.link/
+local=/wee.bz/
 local=/wee.so/
 local=/wee.wtf/
 local=/weelink.io/
@@ -9640,6 +9644,7 @@ local=/shortener.winplaybox.in/
 local=/wipp.me/
 local=/wirelessnotifiersystem.com/
 local=/wisestamp.link/
+local=/wishct.live/
 local=/wishew.app/
 local=/wishly.in/
 local=/wisilinks.com/
@@ -10013,6 +10018,7 @@ local=/zenfilm.solutions/
 local=/zenlinkit.com/
 local=/zensus.io/
 local=/zenurl.in/
+local=/zephb.com/
 local=/zeroshort.xyz/
 local=/zetir.com/
 local=/zeurl.net/
@@ -10081,6 +10087,7 @@ local=/zoho.to/
 local=/bio.zoluu.co/
 local=/zom.ink/
 local=/zom.io/
+local=/zonearcad.xyz/
 local=/l.zonepl.net/
 local=/zoneurl.net/
 local=/zoodl.com/

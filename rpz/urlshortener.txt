@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768008720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768037340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 01:32 UTC
-; Version: 2026.0110.0132.02
+; Last modified: 10 Jan 2026 09:29 UTC
+; Version: 2026.0110.0929.30
 ; Syntax: RPZ
-; Number of entries: 20244
+; Number of entries: 20258
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1431,6 +1431,8 @@ vms.bz CNAME .
 *.vms.bz CNAME .
 vvd.bz CNAME .
 *.vvd.bz CNAME .
+wee.bz CNAME .
+*.wee.bz CNAME .
 xerox.bz CNAME .
 *.xerox.bz CNAME .
 xtr.bz CNAME .
@@ -7677,6 +7679,8 @@ vuiet.com CNAME .
 *.vuiet.com CNAME .
 vurl.com CNAME .
 *.vurl.com CNAME .
+vurlz.com CNAME .
+*.vurlz.com CNAME .
 vytext.com CNAME .
 *.vytext.com CNAME .
 w2link.com CNAME .
@@ -7889,6 +7893,8 @@ zcays.com CNAME .
 *.zcays.com CNAME .
 zenlinkit.com CNAME .
 *.zenlinkit.com CNAME .
+zephb.com CNAME .
+*.zephb.com CNAME .
 zetir.com CNAME .
 *.zetir.com CNAME .
 zeusurl.com CNAME .
@@ -12379,6 +12385,8 @@ vai.li CNAME .
 *.vai.li CNAME .
 vav.li CNAME .
 *.vav.li CNAME .
+vim.li CNAME .
+*.vim.li CNAME .
 vov.li CNAME .
 *.vov.li CNAME .
 w33.li CNAME .
@@ -13533,6 +13541,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+wishct.live CNAME .
+*.wishct.live CNAME .
 wns-academy.live CNAME .
 *.wns-academy.live CNAME .
 wolftravels.live CNAME .
@@ -16665,6 +16675,8 @@ go.uumeriden.org CNAME .
 *.go.uumeriden.org CNAME .
 vestil.org CNAME .
 *.vestil.org CNAME .
+visitmypage.org CNAME .
+*.visitmypage.org CNAME .
 w3t.org CNAME .
 *.w3t.org CNAME .
 walkjc.org CNAME .
@@ -20237,6 +20249,8 @@ url.yousufraissi.xyz CNAME .
 *.url.yousufraissi.xyz CNAME .
 zeroshort.xyz CNAME .
 *.zeroshort.xyz CNAME .
+zonearcad.xyz CNAME .
+*.zonearcad.xyz CNAME .
 lkdg.yoga CNAME .
 *.lkdg.yoga CNAME .
 flu.yt CNAME .

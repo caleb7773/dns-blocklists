@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 02:41 UTC
-# Version: 2026.0110.0241.21
+# Last modified: 10 Jan 2026 10:39 UTC
+# Version: 2026.0110.1039.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6429
+# Number of entries: 6433
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -6040,6 +6040,7 @@ local=/vpnmentor.com/
 local=/vpnmonster.ru/
 local=/vpnmy.ru/
 local=/vpnneo.com/
+local=/vpnnow.info/
 local=/vpnoneclick.com/
 local=/vpnonelove.ru/
 local=/vpnoverview.com/
@@ -6082,6 +6083,7 @@ local=/vpnwebsite.com/
 local=/vpnwelt.com/
 local=/dns.vps.pw/
 local=/antispam.vpsvpn.com/
+local=/go.vrpyourself.online/
 local=/vtcuong.site/
 local=/vuivn.site/
 local=/45.32.17.58.vultrusercontent.com/
@@ -6098,6 +6100,7 @@ local=/waitfree.us/
 local=/44c.wakemeup.ru/
 local=/baldwinprepbyjerrydaniels.wakemeup.ru/
 local=/kailovefurries.wakemeup.ru/
+local=/dns.wakgood.net/
 local=/dns.walker.id/
 local=/walln.com/
 local=/wallpap.eu/
@@ -6139,6 +6142,7 @@ local=/webproxy.club/
 local=/webproxy.com/
 local=/webproxy.online/
 local=/webproxy.to/
+local=/webproxyusa.com/
 local=/google.webrathea.org/
 local=/scienceclasswork.webredirect.org/
 local=/scientist.webredirect.org/

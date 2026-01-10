@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 02:40 UTC
-# Version: 2026.0110.0240.43
+# Last modified: 10 Jan 2026 10:38 UTC
+# Version: 2026.0110.1038.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3966
+# Number of entries: 3967
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3761,6 +3761,7 @@
 0.0.0.0 darkness.is.my.waifu.cz
 0.0.0.0 megumin.is.my.waifu.cz
 0.0.0.0 yunyun.is.my.waifu.cz
+0.0.0.0 dns.wakgood.net
 0.0.0.0 dns.walker.id
 0.0.0.0 wallpap.eu
 0.0.0.0 adguard.wallura.eu

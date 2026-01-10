@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 09:17 UTC
-# Version: 2026.0109.0917.24
+# Last modified: 10 Jan 2026 09:16 UTC
+# Version: 2026.0110.0916.03
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1769
+# Number of entries: 1774
 #
 1-aclk.net
 1aurl.io
@@ -300,6 +300,7 @@ seu2.cleverreach.com
 234207.seu2.cleverreach.com
 234847.seu2.cleverreach.com
 237609.seu2.cleverreach.com
+241423.seu2.cleverreach.com
 244460.seu2.cleverreach.com
 245176.seu2.cleverreach.com
 248553.seu2.cleverreach.com
@@ -330,6 +331,7 @@ seu2.cleverreach.com
 426304.seu2.cleverreach.com
 92652.seu2.cleverreach.com
 94324.seu2.cleverreach.com
+94641.seu2.cleverreach.com
 click-trk.com
 clickcease.com
 clickdefense.cc
@@ -422,6 +424,7 @@ convertkit-mail.com
 click.convertkit-mail.com
 el2.convertkit-mail.com
 open.convertkit-mail.com
+001881fb.open.convertkit-mail.com
 1efc1b61.open.convertkit-mail.com
 8534faf0.open.convertkit-mail.com
 af5d45b9.open.convertkit-mail.com
@@ -447,6 +450,7 @@ open.convertkit-mail2.com
 925c32e7.open.convertkit-mail2.com
 9968f34e.open.convertkit-mail2.com
 9adb1e69.open.convertkit-mail2.com
+cd26c57f.open.convertkit-mail2.com
 d068f605.open.convertkit-mail2.com
 de259883.open.convertkit-mail2.com
 fe409804.open.convertkit-mail2.com
@@ -572,6 +576,7 @@ trk.effiflw.com
 track.effiliation.com
 track34102166105.effiliation.com
 track34102180193.effiliation.com
+track3410224983.effiliation.com
 track35190150.effiliation.com
 api.elasticemail.com
 hs.eloqua.com

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jan 2026 09:17 UTC
-# Version: 2026.0109.0917.24
+# Last modified: 10 Jan 2026 09:16 UTC
+# Version: 2026.0110.0916.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 1388
+# Number of entries: 1389
 #
 1-aclk.net
 1aurl.io
@@ -401,6 +401,7 @@ trk.effiflw.com
 track.effiliation.com
 track34102166105.effiliation.com
 track34102180193.effiliation.com
+track3410224983.effiliation.com
 track35190150.effiliation.com
 api.elasticemail.com
 hs.eloqua.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768012500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768041180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 02:35 UTC
-; Version: 2026.0110.0235.42
+; Last modified: 10 Jan 2026 10:33 UTC
+; Version: 2026.0110.1033.04
 ; Syntax: RPZ
-; Number of entries: 23264
+; Number of entries: 23294
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7890,6 +7890,8 @@ videoelephantbd.com CNAME .
 *.videoelephantbd.com CNAME .
 videoneat.com CNAME .
 *.videoneat.com CNAME .
+videq.com CNAME .
+*.videq.com CNAME .
 videqs.com CNAME .
 *.videqs.com CNAME .
 videqstream.com CNAME .
@@ -8168,6 +8170,8 @@ xbox360iso.com CNAME .
 *.xbox360iso.com CNAME .
 xcine-tv.com CNAME .
 *.xcine-tv.com CNAME .
+xd-movie.com CNAME .
+*.xd-movie.com CNAME .
 tracker.xdvdz.com CNAME .
 *.tracker.xdvdz.com CNAME .
 xforce-cracks.com CNAME .
@@ -8176,6 +8180,8 @@ share.xfsub.com CNAME .
 *.share.xfsub.com CNAME .
 xn--80a4b.com CNAME .
 *.xn--80a4b.com CNAME .
+xn--thepratebay-fcb.com CNAME .
+*.xn--thepratebay-fcb.com CNAME .
 xpdf4u.com CNAME .
 *.xpdf4u.com CNAME .
 xplorenetbd.com CNAME .
@@ -8190,6 +8196,8 @@ xtvi.com CNAME .
 *.xtvi.com CNAME .
 xubster.com CNAME .
 *.xubster.com CNAME .
+00.xxtor.com CNAME .
+*.00.xxtor.com CNAME .
 open.xxtor.com CNAME .
 *.open.xxtor.com CNAME .
 xxx-tracker.com CNAME .
@@ -8282,6 +8290,8 @@ yui-nya.com CNAME .
 *.yui-nya.com CNAME .
 yunnx.com CNAME .
 *.yunnx.com CNAME .
+yuppow.com CNAME .
+*.yuppow.com CNAME .
 yuptorrents.com CNAME .
 *.yuptorrents.com CNAME .
 zajefajna.com CNAME .
@@ -10092,6 +10102,8 @@ torrentek.hu CNAME .
 *.torrentek.hu CNAME .
 uid.hu CNAME .
 *.uid.hu CNAME .
+xider.hu CNAME .
+*.xider.hu CNAME .
 ztracker.hu CNAME .
 *.ztracker.hu CNAME .
 0xffff.icu CNAME .
@@ -11362,6 +11374,8 @@ seriesflix.la CNAME .
 *.seriesflix.la CNAME .
 watch-series.la CNAME .
 *.watch-series.la CNAME .
+watchcartoonsonline.la CNAME .
+*.watchcartoonsonline.la CNAME .
 watchwrestling.la CNAME .
 *.watchwrestling.la CNAME .
 cineblog01.land CNAME .
@@ -12814,6 +12828,8 @@ streamcloud.my CNAME .
 *.streamcloud.my CNAME .
 y2meta.my CNAME .
 *.y2meta.my CNAME .
+yesmovies.my CNAME .
+*.yesmovies.my CNAME .
 hdmovie2.nagoya CNAME .
 *.hdmovie2.nagoya CNAME .
 vegamovies.nagoya CNAME .
@@ -14720,6 +14736,8 @@ webrangers.net CNAME .
 *.webrangers.net CNAME .
 webstress.net CNAME .
 *.webstress.net CNAME .
+wepzone.net CNAME .
+*.wepzone.net CNAME .
 win-pro.net CNAME .
 *.win-pro.net CNAME .
 win-torrent.net CNAME .
@@ -14748,6 +14766,8 @@ world-in-hd.net CNAME .
 *.world-in-hd.net CNAME .
 worldmags.net CNAME .
 *.worldmags.net CNAME .
+worldofp2p.net CNAME .
+*.worldofp2p.net CNAME .
 worldsrc.net CNAME .
 *.worldsrc.net CNAME .
 x-torrent.net CNAME .
@@ -17042,6 +17062,8 @@ bt.viachicago.org CNAME .
 *.bt.viachicago.org CNAME .
 viatorrents.org CNAME .
 *.viatorrents.org CNAME .
+vidlink.org CNAME .
+*.vidlink.org CNAME .
 vidoza.org CNAME .
 *.vidoza.org CNAME .
 vidplay.org CNAME .
@@ -17130,6 +17152,8 @@ zelka.org CNAME .
 *.zelka.org CNAME .
 bt.zlofenix.org CNAME .
 *.bt.zlofenix.org CNAME .
+zlotracker.org CNAME .
+*.zlotracker.org CNAME .
 zoechip.org CNAME .
 *.zoechip.org CNAME .
 zonatorrent.org CNAME .
@@ -17524,6 +17548,10 @@ zalukaj-tv.pl CNAME .
 *.zalukaj-tv.pl CNAME .
 zalukaj-vip.pl CNAME .
 *.zalukaj-vip.pl CNAME .
+zalukaj-vod.pl CNAME .
+*.zalukaj-vod.pl CNAME .
+zalukaj2.pl CNAME .
+*.zalukaj2.pl CNAME .
 zaluknij.pl CNAME .
 *.zaluknij.pl CNAME .
 guardaserie.place CNAME .
@@ -23186,6 +23214,8 @@ union-crax.xyz CNAME .
 *.union-crax.xyz CNAME .
 tracker.uw0.xyz CNAME .
 *.tracker.uw0.xyz CNAME .
+warezlover.xyz CNAME .
+*.warezlover.xyz CNAME .
 wawacity.xyz CNAME .
 *.wawacity.xyz CNAME .
 wilothepilo.xyz CNAME .

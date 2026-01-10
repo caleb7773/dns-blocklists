@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jan 2026 01:32 UTC
-! Version: 2026.0110.0132.02
+! Last modified: 10 Jan 2026 09:29 UTC
+! Version: 2026.0110.0929.30
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -9157,6 +9157,7 @@
 @@||vijijay.com^
 @@||vikcap.com^
 @@||vilpower.in^
+@@||vim.li^
 @@||go.vimar.ie^
 @@||vindicoce.com^
 @@||vineland.dj^
@@ -9191,6 +9192,7 @@
 @@||visitame.app^
 @@||visitmy.link^
 @@||visitmylinks.com^
+@@||visitmypage.org^
 @@||visitsitenow.com^
 @@||visiyta.com^
 @@||vivir.pro^
@@ -9259,6 +9261,7 @@
 @@||vultio.biz^
 @@||vur.me^
 @@||vurl.com^
+@@||vurlz.com^
 @@||vv.vg^
 @@||vvd.bz^
 @@||vvd.im^
@@ -9362,6 +9365,7 @@
 @@||wec.li^
 @@||wed.li^
 @@||wedew.link^
+@@||wee.bz^
 @@||wee.so^
 @@||wee.wtf^
 @@||weelink.io^
@@ -9427,6 +9431,7 @@
 @@||wipp.me^
 @@||wirelessnotifiersystem.com^
 @@||wisestamp.link^
+@@||wishct.live^
 @@||wishew.app^
 @@||wishly.in^
 @@||wisilinks.com^
@@ -9792,6 +9797,7 @@
 @@||zenlinkit.com^
 @@||zensus.io^
 @@||zenurl.in^
+@@||zephb.com^
 @@||zeroshort.xyz^
 @@||zetir.com^
 @@||zeurl.net^
@@ -9859,6 +9865,7 @@
 @@||bio.zoluu.co^
 @@||zom.ink^
 @@||zom.io^
+@@||zonearcad.xyz^
 @@||l.zonepl.net^
 @@||zoneurl.net^
 @@||zoodl.com^
