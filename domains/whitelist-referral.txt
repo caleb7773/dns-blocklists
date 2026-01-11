@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 09:16 UTC
-# Version: 2026.0110.0916.03
+# Last modified: 11 Jan 2026 09:17 UTC
+# Version: 2026.0111.0917.14
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1774
+# Number of entries: 1776
 #
 1-aclk.net
 1aurl.io
@@ -441,6 +441,7 @@ fff97757.click.convertkit-mail2.com
 el2.convertkit-mail2.com
 open.convertkit-mail2.com
 13924f41.open.convertkit-mail2.com
+2ec4c185.open.convertkit-mail2.com
 31b4b92d.open.convertkit-mail2.com
 364e31b5.open.convertkit-mail2.com
 404d7de6.open.convertkit-mail2.com
@@ -502,6 +503,7 @@ m-5fwyg.custobar.com
 m-6pyms.custobar.com
 m-fqlpo.custobar.com
 m-gzmk5.custobar.com
+m-nxt.custobar.com
 m-s6iau.custobar.com
 m-so.custobar.com
 m-tfe.custobar.com

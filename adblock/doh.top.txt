@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jan 2026 22:41 UTC
-! Version: 2026.0110.2241.35
+! Last modified: 11 Jan 2026 10:42 UTC
+! Version: 2026.0111.1042.40
 ! Syntax: AdBlock
-! Number of entries: 815
+! Number of entries: 820
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -42,6 +42,7 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
+||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -86,6 +87,7 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
+||dohtrial.att.net^
 ||secure.avastdns.com^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -195,6 +197,7 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
+||dns.decloudus.com^
 ||frank-web.dedyn.io^
 ||deep-henchman-excuse.cfd^
 ||adguard.dekonix.ru^
@@ -285,6 +288,7 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
+||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||dnspod.com^
 ||doh.asia.dnswarden.com^
@@ -370,6 +374,7 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^

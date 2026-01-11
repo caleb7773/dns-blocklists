@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 14:31 UTC
-# Version: 2026.0110.1431.20
+# Last modified: 11 Jan 2026 10:36 UTC
+# Version: 2026.0111.1036.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11649
+# Number of entries: 11650
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2497,6 +2497,7 @@ local=/ddnbd.com/
 local=/ddnbd.fun/
 local=/asiatorrent.ddns.net/
 local=/houniao.ddns.net/
+local=/echostar.ddnsfree.com/
 local=/ddos.city/
 local=/ddos.kr/
 local=/ddos.tools/
@@ -9296,6 +9297,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -9910,7 +9912,6 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
-local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/

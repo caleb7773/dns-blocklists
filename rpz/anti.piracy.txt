@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768055460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768127760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jan 2026 14:31 UTC
-; Version: 2026.0110.1431.20
+; Last modified: 11 Jan 2026 10:36 UTC
+; Version: 2026.0111.1036.50
 ; Syntax: RPZ
-; Number of entries: 23298
+; Number of entries: 23300
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1664,8 +1664,6 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
-node02.torrentonline.cc CNAME .
-*.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .
@@ -3992,6 +3990,8 @@ ddlspot.com CNAME .
 *.ddlspot.com CNAME .
 ddnbd.com CNAME .
 *.ddnbd.com CNAME .
+echostar.ddnsfree.com CNAME .
+*.echostar.ddnsfree.com CNAME .
 ddos-ip.com CNAME .
 *.ddos-ip.com CNAME .
 ddosbreak.com CNAME .
@@ -12422,6 +12422,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
