@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jan 2026 10:40 UTC
-! Version: 2026.0112.1040.17
+! Last modified: 12 Jan 2026 15:02 UTC
+! Version: 2026.0112.1502.11
 ! Syntax: uBlock
 ! Number of latin TLDs: 285 - non-latin TLDs: 151
 !
@@ -90,7 +90,7 @@
 ||discount^$doc,domain=~real.discount
 ||diy^$doc
 ||dog^$doc,domain=~chainsawman.dog|~heika.dog|~misskey.dog|~telegram.dog
-||download^$doc,domain=~caido.download|~kali.download|~mkvtoolnix.download|~up4ever.download|~upfiles.download
+||download^$doc,domain=~caido.download|~kali.download|~mkvtoolnix.download|~orangefox.download|~up4ever.download|~upfiles.download
 ||dpdns.org^$doc
 ||eco^$doc,domain=~elli.eco|~mer.eco|~play.eco
 ||edu.eu^$doc
@@ -120,7 +120,7 @@
 ||fun^$doc,domain=~cdn.fun|~chinaq.fun|~enza.fun|~neal.fun|~patterncraft.fun|~strem.fun
 ||fund^$doc
 ||futbol^$doc
-||fyi^$doc,domain=~apollo.fyi|~better.fyi|~crypt.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~laelaps.fyi|~levels.fyi|~lunar.fyi|~notbyai.fyi|~ost2.fyi|~recollect.fyi|~vercel.fyi|~wpt.fyi
+||fyi^$doc,domain=~apollo.fyi|~better.fyi|~crypt.fyi|~genderdysphoria.fyi|~iusearchlinux.fyi|~laelaps.fyi|~levels.fyi|~lunar.fyi|~notbyai.fyi|~ost2.fyi|~poyoanon.fyi|~recollect.fyi|~vercel.fyi|~wpt.fyi
 ||ga^$doc,domain=~google.ga|~mmo.ga
 ||games^$doc,domain=~crazypanda.games|~embark.games|~eneba.games|~gxcorner.games|~skystone.games
 ||gdn^$doc,domain=~cst.gdn

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 10:33 UTC
-# Version: 2026.0112.1033.35
+# Last modified: 12 Jan 2026 14:55 UTC
+# Version: 2026.0112.1455.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11646
+# Number of entries: 11662
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2320,17 +2320,33 @@ local=/cricfree.to/
 local=/cricfree.tv/
 local=/cricfrees.com/
 local=/crichd.ac/
+local=/crichd.asia/
 local=/crichd.at/
+local=/crichd.bar/
+local=/crichd.be/
+local=/crichd.buzz/
+local=/crichd.com/
+local=/crichd.cyou/
+local=/crichd.guru/
 local=/crichd.info/
+local=/crichd.io/
+local=/crichd.lc/
 local=/crichd.li/
+local=/crichd.live/
 local=/crichd.mobi/
+local=/crichd.one/
+local=/crichd.pk/
 local=/crichd.sc/
+local=/crichd.shop/
 local=/crichd.stream/
+local=/crichd.su/
 local=/crichd.sx/
+local=/crichd.tech/
 local=/crichd.to/
 local=/crichd.tv/
 local=/crichd.vip/
-local=/fc2.crichd.com/
+local=/crichd.watch/
+local=/crichd.world/
 local=/crichd-player.top/
 local=/crichdplayer.com/
 local=/crickfree.be/

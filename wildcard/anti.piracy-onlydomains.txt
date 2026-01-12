@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 10:33 UTC
-# Version: 2026.0112.1033.35
+# Last modified: 12 Jan 2026 14:55 UTC
+# Version: 2026.0112.1455.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 11646
+# Number of entries: 11662
 #
 003396815.xyz
 0123456789nonexistent.com
@@ -2320,17 +2320,33 @@ cricfree.to
 cricfree.tv
 cricfrees.com
 crichd.ac
+crichd.asia
 crichd.at
+crichd.bar
+crichd.be
+crichd.buzz
+crichd.com
+crichd.cyou
+crichd.guru
 crichd.info
+crichd.io
+crichd.lc
 crichd.li
+crichd.live
 crichd.mobi
+crichd.one
+crichd.pk
 crichd.sc
+crichd.shop
 crichd.stream
+crichd.su
 crichd.sx
+crichd.tech
 crichd.to
 crichd.tv
 crichd.vip
-fc2.crichd.com
+crichd.watch
+crichd.world
 crichd-player.top
 crichdplayer.com
 crickfree.be

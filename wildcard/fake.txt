@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 09:29 UTC
-# Version: 2026.0112.0929.28
+# Last modified: 12 Jan 2026 13:51 UTC
+# Version: 2026.0112.1351.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14238
+# Number of entries: 14240
 #
 *.01broker.com
 *.01crypto.com
@@ -871,6 +871,7 @@
 *.austrittausderkirche.de
 *.auszeit-seminar.de
 *.authorityo.com
+*.auto-handel.org
 *.auto-logik.de
 *.auto-partshome.com
 *.autoabdeckungsfabrik.com
@@ -2076,6 +2077,7 @@
 *.capitalcourtage.com
 *.capitalfrance.fr
 *.capitalfxs.com
+*.capitalholdings.icu
 *.capitaliko.com
 *.capitalinvestmentreviews.com
 *.capitalnvst.com

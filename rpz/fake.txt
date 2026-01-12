@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768210140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768225860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Jan 2026 09:29 UTC
-; Version: 2026.0112.0929.28
+; Last modified: 12 Jan 2026 13:51 UTC
+; Version: 2026.0112.1351.04
 ; Syntax: RPZ
-; Number of entries: 28476
+; Number of entries: 28480
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -24862,6 +24862,8 @@ edirectclub.hk CNAME .
 *.edirectclub.hk CNAME .
 roomosa.homes CNAME .
 *.roomosa.homes CNAME .
+capitalholdings.icu CNAME .
+*.capitalholdings.icu CNAME .
 innovativepath.icu CNAME .
 *.innovativepath.icu CNAME .
 senhheiser.icu CNAME .
@@ -26054,6 +26056,8 @@ at-setrafimoney.org CNAME .
 *.at-setrafimoney.org CNAME .
 ataspec.org CNAME .
 *.ataspec.org CNAME .
+auto-handel.org CNAME .
+*.auto-handel.org CNAME .
 autoteilepreisvergleich.org CNAME .
 *.autoteilepreisvergleich.org CNAME .
 best4you.org CNAME .

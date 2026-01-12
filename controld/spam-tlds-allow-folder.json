@@ -3662,6 +3662,13 @@
       }
     },
     {
+      "PK": "orangefox.download",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "os.fan",
       "action": {
         "do": 1,
@@ -3957,6 +3964,13 @@
     },
     {
       "PK": "postimg.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "poyoanon.fyi",
       "action": {
         "do": 1,
         "status": 1

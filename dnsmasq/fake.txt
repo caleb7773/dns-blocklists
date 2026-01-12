@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 09:29 UTC
-# Version: 2026.0112.0929.28
+# Last modified: 12 Jan 2026 13:51 UTC
+# Version: 2026.0112.1351.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14238
+# Number of entries: 14240
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -871,6 +871,7 @@ local=/austriaroad.shop/
 local=/austrittausderkirche.de/
 local=/auszeit-seminar.de/
 local=/authorityo.com/
+local=/auto-handel.org/
 local=/auto-logik.de/
 local=/auto-partshome.com/
 local=/autoabdeckungsfabrik.com/
@@ -2076,6 +2077,7 @@ local=/capital888.net/
 local=/capitalcourtage.com/
 local=/capitalfrance.fr/
 local=/capitalfxs.com/
+local=/capitalholdings.icu/
 local=/capitaliko.com/
 local=/capitalinvestmentreviews.com/
 local=/capitalnvst.com/

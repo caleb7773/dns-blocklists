@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768213980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768229700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Jan 2026 10:33 UTC
-; Version: 2026.0112.1033.35
+; Last modified: 12 Jan 2026 14:55 UTC
+; Version: 2026.0112.1455.36
 ; Syntax: RPZ
-; Number of entries: 23292
+; Number of entries: 23324
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -410,6 +410,8 @@ cineby.asia CNAME .
 *.cineby.asia CNAME .
 cosmicscans.asia CNAME .
 *.cosmicscans.asia CNAME .
+crichd.asia CNAME .
+*.crichd.asia CNAME .
 donkey.asia CNAME .
 *.donkey.asia CNAME .
 filmpertutti.asia CNAME .
@@ -508,6 +510,8 @@ vegamovies.band CNAME .
 *.vegamovies.band CNAME .
 9kmovies.bar CNAME .
 *.9kmovies.bar CNAME .
+crichd.bar CNAME .
+*.crichd.bar CNAME .
 dood.bar CNAME .
 *.dood.bar CNAME .
 eurostreaming.bar CNAME .
@@ -602,6 +606,8 @@ jumpstartmusic.blogspot.be CNAME .
 *.jumpstartmusic.blogspot.be CNAME .
 cricfree.be CNAME .
 *.cricfree.be CNAME .
+crichd.be CNAME .
+*.crichd.be CNAME .
 crickfree.be CNAME .
 *.crickfree.be CNAME .
 cytu.be CNAME .
@@ -1092,6 +1098,8 @@ vegamovies.business CNAME .
 *.9kmovies.buzz CNAME .
 altadefinizionegratis.buzz CNAME .
 *.altadefinizionegratis.buzz CNAME .
+crichd.buzz CNAME .
+*.crichd.buzz CNAME .
 doodstream.buzz CNAME .
 *.doodstream.buzz CNAME .
 hdmovie2.buzz CNAME .
@@ -3878,8 +3886,8 @@ cric1.com CNAME .
 *.cric1.com CNAME .
 cricfrees.com CNAME .
 *.cricfrees.com CNAME .
-fc2.crichd.com CNAME .
-*.fc2.crichd.com CNAME .
+crichd.com CNAME .
+*.crichd.com CNAME .
 crichdplayer.com CNAME .
 *.crichdplayer.com CNAME .
 crimsonfansubs.com CNAME .
@@ -8534,6 +8542,8 @@ altadefinizionegratis.cyou CNAME .
 *.altadefinizionegratis.cyou CNAME .
 cineblog01.cyou CNAME .
 *.cineblog01.cyou CNAME .
+crichd.cyou CNAME .
+*.crichd.cyou CNAME .
 eurostreaming.cyou CNAME .
 *.eurostreaming.cyou CNAME .
 filmpertutti.cyou CNAME .
@@ -9942,6 +9952,8 @@ vegamovies.group CNAME .
 *.vegamovies.group CNAME .
 3ds.hacks.guide CNAME .
 *.3ds.hacks.guide CNAME .
+crichd.guru CNAME .
+*.crichd.guru CNAME .
 dood.guru CNAME .
 *.dood.guru CNAME .
 gomovies.guru CNAME .
@@ -10830,6 +10842,8 @@ cpasbien.io CNAME .
 *.cpasbien.io CNAME .
 crackstreams.io CNAME .
 *.crackstreams.io CNAME .
+crichd.io CNAME .
+*.crichd.io CNAME .
 cuevana3.io CNAME .
 *.cuevana3.io CNAME .
 cybervm.io CNAME .
@@ -11424,6 +11438,8 @@ yts.lat CNAME .
 *.yts.lat CNAME .
 vegamovies.lawyer CNAME .
 *.vegamovies.lawyer CNAME .
+crichd.lc CNAME .
+*.crichd.lc CNAME .
 hdmovie2.lc CNAME .
 *.hdmovie2.lc CNAME .
 hds.lc CNAME .
@@ -11632,6 +11648,8 @@ clearflare66.live CNAME .
 *.clearflare66.live CNAME .
 criaflix.live CNAME .
 *.criaflix.live CNAME .
+crichd.live CNAME .
+*.crichd.live CNAME .
 dflix.live CNAME .
 *.dflix.live CNAME .
 dood.live CNAME .
@@ -15038,6 +15056,8 @@ bstsrs.one CNAME .
 *.bstsrs.one CNAME .
 cmovies.one CNAME .
 *.cmovies.one CNAME .
+crichd.one CNAME .
+*.crichd.one CNAME .
 dood.one CNAME .
 *.dood.one CNAME .
 extraflix.one CNAME .
@@ -17348,6 +17368,8 @@ movies-watch.com.pk CNAME .
 *.movies-watch.com.pk CNAME .
 www.opnsports.com.pk CNAME .
 *.www.opnsports.com.pk CNAME .
+crichd.pk CNAME .
+*.crichd.pk CNAME .
 movies123.pk CNAME .
 *.movies123.pk CNAME .
 vegamovies.net.pk CNAME .
@@ -19166,6 +19188,8 @@ buddycenters.shop CNAME .
 *.buddycenters.shop CNAME .
 cineby.shop CNAME .
 *.cineby.shop CNAME .
+crichd.shop CNAME .
+*.crichd.shop CNAME .
 dtbook.shop CNAME .
 *.dtbook.shop CNAME .
 eurostreaming.shop CNAME .
@@ -19798,6 +19822,8 @@ putlocker.style CNAME .
 *.123moviesgo.su CNAME .
 bootlegs.su CNAME .
 *.bootlegs.su CNAME .
+crichd.su CNAME .
+*.crichd.su CNAME .
 exsite.su CNAME .
 *.exsite.su CNAME .
 flixtor.su CNAME .
@@ -20002,6 +20028,8 @@ bookorg.tech CNAME .
 *.bookorg.tech CNAME .
 cinemaos.tech CNAME .
 *.cinemaos.tech CNAME .
+crichd.tech CNAME .
+*.crichd.tech CNAME .
 dood.tech CNAME .
 *.dood.tech CNAME .
 mp3juices.tech CNAME .
@@ -22288,6 +22316,8 @@ bingee.watch CNAME .
 *.bingee.watch CNAME .
 cineblog01.watch CNAME .
 *.cineblog01.watch CNAME .
+crichd.watch CNAME .
+*.crichd.watch CNAME .
 dood.watch CNAME .
 *.dood.watch CNAME .
 egydead.watch CNAME .
@@ -22468,6 +22498,8 @@ altadefinizione.world CNAME .
 *.altadefinizione.world CNAME .
 cb01.world CNAME .
 *.cb01.world CNAME .
+crichd.world CNAME .
+*.crichd.world CNAME .
 docspedia.world CNAME .
 *.docspedia.world CNAME .
 doodstream.world CNAME .
