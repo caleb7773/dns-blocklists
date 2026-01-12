@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jan 2026 10:36 UTC
-# Version: 2026.0111.1036.50
+# Last modified: 12 Jan 2026 10:33 UTC
+# Version: 2026.0112.1033.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11650
+# Number of entries: 11646
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2391,7 +2391,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -2497,7 +2496,6 @@ local=/ddnbd.com/
 local=/ddnbd.fun/
 local=/asiatorrent.ddns.net/
 local=/houniao.ddns.net/
-local=/echostar.ddnsfree.com/
 local=/ddos.city/
 local=/ddos.kr/
 local=/ddos.tools/
@@ -5436,7 +5434,6 @@ local=/khulnaflix.net/
 local=/kichkas.biz/
 local=/kickass.cm/
 local=/kickass.so/
-local=/kickass.to/
 local=/kickass.ws/
 local=/kickass2.fun/
 local=/kickass2.org/
@@ -9297,7 +9294,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

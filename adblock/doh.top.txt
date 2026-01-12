@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Jan 2026 10:42 UTC
-! Version: 2026.0111.1042.40
+! Last modified: 12 Jan 2026 10:39 UTC
+! Version: 2026.0112.1039.18
 ! Syntax: AdBlock
-! Number of entries: 820
+! Number of entries: 839
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -42,6 +42,7 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
+||dns-nyc.aaflalo.me^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
@@ -59,6 +60,7 @@
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
+||dnsnl.alekberg.net^
 ||httpdns.alicdn.com^
 ||alidns.com^
 ||resolvers-cn.httpdns.aliyuncs.com^
@@ -121,6 +123,7 @@
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
+||doh1.blahdns.com^
 ||dot-de.blahdns.com^
 ||dot-sg.blahdns.com^
 ||us1.blissdns.net^
@@ -177,9 +180,11 @@
 ||commons.host^
 ||comss.one^
 ||dns1.conne.net^
+||dns.containerpi.com^
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
+||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptostorm.is^
 ||cryptroute.com^
@@ -200,6 +205,7 @@
 ||dns.decloudus.com^
 ||frank-web.dedyn.io^
 ||deep-henchman-excuse.cfd^
+||doh.defaultroutes.de^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -208,6 +214,7 @@
 ||dns.digitalsize.net^
 ||dingdangnao.com^
 ||doh.disconnect.app^
+||fdns1.dismail.de^
 ||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
@@ -287,12 +294,18 @@
 ||dnsguard.pub^
 ||dns.dnshome.de^
 ||doh.dnslify.com^
+||a.ns.dnslify.com^
+||b.ns.dnslify.com^
+||a.family.ns.dnslify.com^
+||a.safe.ns.dnslify.com^
+||b.safe.ns.dnslify.com^
 ||dnslow.me^
 ||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||dnspod.com^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
+||doh.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -335,6 +348,7 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
+||pdns.faelix.net^
 ||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
@@ -400,6 +414,7 @@
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||adguard.hartley.cloud^
+||query.hdns.io^
 ||ordns.he.net^
 ||dns.hellozhao.com^
 ||httpdns.ocloud.heytapmobi.com^
@@ -596,6 +611,7 @@
 ||dns.paesa.es^
 ||pashagame456.com^
 ||dns.pccoach.nl^
+||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||pepetio.xyz^
 ||dns.pernika.net^
@@ -638,6 +654,7 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
+||dns13.quad9.net^
 ||dns9.quad9.net^
 ||dns.quickline.ch^
 ||doh.quickline.ch^
@@ -670,6 +687,7 @@
 ||dns.rotunneling.net^
 ||adguard.ruby.ci^
 ||dns.rubyfish.cn^
+||ea-dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
 ||doh.runsel.id^
@@ -728,6 +746,7 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
+||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^

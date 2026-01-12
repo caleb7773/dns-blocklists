@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jan 2026 17:30 UTC
-# Version: 2026.0111.1730.35
+# Last modified: 12 Jan 2026 09:29 UTC
+# Version: 2026.0112.0929.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14244
+# Number of entries: 14238
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -471,7 +471,8 @@ local=/amarketss.com/
 local=/amazenda.com/
 local=/amaznboxde.com/
 local=/amazonboxus.com/
-local=/amazoncoin.su/
+local=/7238.amazoncoin.su/
+local=/8826.amazoncoin.su/
 local=/amazonglobal.live/
 local=/amazongori.com/
 local=/amazonliw.com/
@@ -2380,7 +2381,6 @@ local=/clickworker.de/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
-local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clolas.com/
 local=/clorislife.com/
@@ -5215,7 +5215,6 @@ local=/glaciermart.de/
 local=/glaciva.net/
 local=/glaciva-de.com/
 local=/gladevelop.com/
-local=/gladfelt.com/
 local=/gladiatorzoo.com/
 local=/glam-bay.de/
 local=/glam-gadgets.de/
@@ -6213,7 +6212,6 @@ local=/horologyworks.shop/
 local=/horsepopular.com/
 local=/horstseefeld.de/
 local=/hortensies.com/
-local=/hoscaleshop.com/
 local=/hosseinrazi.shop/
 local=/aliceblue-alligator-117543.hostingersite.com/
 local=/hot-mystery-deals.xyz/
@@ -6501,7 +6499,6 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
-local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -7997,7 +7994,6 @@ local=/main-garten.at/
 local=/main-mokassin.de/
 local=/mainet.business/
 local=/maingoldfrankfurt.com/
-local=/maintainel.com/
 local=/maintenanceh.com/
 local=/mainz-mode.de/
 local=/maiser-markt.de/
@@ -9485,7 +9481,6 @@ local=/oncloudturnschuhe.com/
 local=/oncloudxoutletmall.com/
 local=/one-clean.de/
 local=/one-fashions.com/
-local=/oneafteranoth.com/
 local=/onecozyday.com/
 local=/onegentle.com/
 local=/oneglobal-advr.com/
@@ -13472,7 +13467,6 @@ local=/vivaiaschuhe.de/
 local=/vivaiaschweiz.com/
 local=/vivaiashop.de/
 local=/vivar.ch/
-local=/vivaraisehome.com/
 local=/vividwinter.shop/
 local=/viviservice.com/
 local=/vivo-hamburg.de/

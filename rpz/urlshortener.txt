@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768123920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768210260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jan 2026 09:32 UTC
-; Version: 2026.0111.0932.25
+; Last modified: 12 Jan 2026 09:31 UTC
+; Version: 2026.0112.0931.16
 ; Syntax: RPZ
-; Number of entries: 20260
+; Number of entries: 20268
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4829,6 +4829,8 @@ isinstance.com CNAME .
 *.isinstance.com CNAME .
 isterratrk.com CNAME .
 *.isterratrk.com CNAME .
+istincy.com CNAME .
+*.istincy.com CNAME .
 isurt.com CNAME .
 *.isurt.com CNAME .
 iszify.com CNAME .
@@ -7715,6 +7717,8 @@ biolink.webtena.com CNAME .
 *.biolink.webtena.com CNAME .
 webtoolmaster.com CNAME .
 *.webtoolmaster.com CNAME .
+webtrafficxxl.com CNAME .
+*.webtrafficxxl.com CNAME .
 webtte.com CNAME .
 *.webtte.com CNAME .
 go.weesify.com CNAME .
@@ -8815,6 +8819,8 @@ hi.fan CNAME .
 *.hi.fan CNAME .
 peak.fan CNAME .
 *.peak.fan CNAME .
+uke.fan CNAME .
+*.uke.fan CNAME .
 fifa.fans CNAME .
 *.fifa.fans CNAME .
 likes.fans CNAME .
@@ -17907,6 +17913,8 @@ bprl.site CNAME .
 *.bprl.site CNAME .
 cloudwapi.site CNAME .
 *.cloudwapi.site CNAME .
+cryptowidgets.site CNAME .
+*.cryptowidgets.site CNAME .
 duitwow.site CNAME .
 *.duitwow.site CNAME .
 earnshort.site CNAME .

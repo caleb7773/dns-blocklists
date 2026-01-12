@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jan 2026 09:32 UTC
-# Version: 2026.0111.0932.25
+# Last modified: 12 Jan 2026 09:31 UTC
+# Version: 2026.0112.0931.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10130
+# Number of entries: 10134
 #
 local=/0.gp/
 local=/00m.in/
@@ -2014,6 +2014,7 @@ local=/crwd.in/
 local=/crwdstr.ke/
 local=/cry-pto.life/
 local=/crypsante.com/
+local=/cryptowidgets.site/
 local=/cs.co/
 local=/csepyl.com/
 local=/cshd.kz/
@@ -3816,6 +3817,7 @@ local=/islinks.site/
 local=/isols.co/
 local=/istel.co/
 local=/isterratrk.com/
+local=/istincy.com/
 local=/istore.ar/
 local=/isurl.cc/
 local=/isurt.com/
@@ -8777,6 +8779,7 @@ local=/go.uic.edu/
 local=/uich.cc/
 local=/uitly.com/
 local=/ukaz.me/
+local=/uke.fan/
 local=/ukf.me/
 local=/ukoeln.de/
 local=/ul.rs/
@@ -9574,6 +9577,7 @@ local=/webshortner.com/
 local=/websmart.link/
 local=/biolink.webtena.com/
 local=/webtoolmaster.com/
+local=/webtrafficxxl.com/
 local=/webtte.com/
 local=/webz.cc/
 local=/wec.li/

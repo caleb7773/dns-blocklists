@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Jan 2026 17:30 UTC
-! Version: 2026.0111.1730.35
+! Last modified: 12 Jan 2026 09:29 UTC
+! Version: 2026.0112.0929.28
 ! Syntax: AdBlock
-! Number of entries: 14244
+! Number of entries: 14238
 !
 ||01broker.com^
 ||01crypto.com^
@@ -472,7 +472,8 @@
 ||amazenda.com^
 ||amaznboxde.com^
 ||amazonboxus.com^
-||amazoncoin.su^
+||7238.amazoncoin.su^
+||8826.amazoncoin.su^
 ||amazonglobal.live^
 ||amazongori.com^
 ||amazonliw.com^
@@ -2381,7 +2382,6 @@
 ||cliniqueloccitane.com^
 ||clisicerity.com^
 ||clivechristianuk.com^
-||cllusatoam.com^
 ||clockwisek.com^
 ||clolas.com^
 ||clorislife.com^
@@ -5216,7 +5216,6 @@
 ||glaciva.net^
 ||glaciva-de.com^
 ||gladevelop.com^
-||gladfelt.com^
 ||gladiatorzoo.com^
 ||glam-bay.de^
 ||glam-gadgets.de^
@@ -6214,7 +6213,6 @@
 ||horsepopular.com^
 ||horstseefeld.de^
 ||hortensies.com^
-||hoscaleshop.com^
 ||hosseinrazi.shop^
 ||aliceblue-alligator-117543.hostingersite.com^
 ||hot-mystery-deals.xyz^
@@ -6502,7 +6500,6 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
-||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -7998,7 +7995,6 @@
 ||main-mokassin.de^
 ||mainet.business^
 ||maingoldfrankfurt.com^
-||maintainel.com^
 ||maintenanceh.com^
 ||mainz-mode.de^
 ||maiser-markt.de^
@@ -9486,7 +9482,6 @@
 ||oncloudxoutletmall.com^
 ||one-clean.de^
 ||one-fashions.com^
-||oneafteranoth.com^
 ||onecozyday.com^
 ||onegentle.com^
 ||oneglobal-advr.com^
@@ -13473,7 +13468,6 @@
 ||vivaiaschweiz.com^
 ||vivaiashop.de^
 ||vivar.ch^
-||vivaraisehome.com^
 ||vividwinter.shop^
 ||viviservice.com^
 ||vivo-hamburg.de^
