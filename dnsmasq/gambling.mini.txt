@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 14:54 UTC
-# Version: 2026.0112.1454.53
+# Last modified: 12 Jan 2026 22:33 UTC
+# Version: 2026.0112.2233.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 34696
+# Number of entries: 34697
 #
 local=/000-online-casino.com/
 local=/0007.casino/
@@ -17307,6 +17307,7 @@ local=/hotline-casinos.com/
 local=/hotlinecasino.com/
 local=/hotlinecasino.org/
 local=/hotlinecasinos.com/
+local=/hotloot77.io/
 local=/hotloot88.io/
 local=/hotlootcasinonl.com/
 local=/hotowin88.com/

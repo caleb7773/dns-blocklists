@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jan 2026 14:54 UTC
-! Version: 2026.0112.1454.53
+! Last modified: 12 Jan 2026 22:33 UTC
+! Version: 2026.0112.2233.00
 ! Syntax: AdBlock
-! Number of entries: 34696
+! Number of entries: 34697
 !
 ||000-online-casino.com^
 ||0007.casino^
@@ -17308,6 +17308,7 @@
 ||hotlinecasino.com^
 ||hotlinecasino.org^
 ||hotlinecasinos.com^
+||hotloot77.io^
 ||hotloot88.io^
 ||hotlootcasinonl.com^
 ||hotowin88.com^

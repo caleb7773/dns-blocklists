@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768229820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768257300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Jan 2026 14:57 UTC
-; Version: 2026.0112.1457.45
+; Last modified: 12 Jan 2026 22:35 UTC
+; Version: 2026.0112.2235.45
 ; Syntax: RPZ
-; Number of entries: 155668
+; Number of entries: 155676
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -34556,6 +34556,8 @@ freecam8.com CNAME .
 *.freecam8.com CNAME .
 freecamgirlwebsites.com CNAME .
 *.freecamgirlwebsites.com CNAME .
+freecamlife.com CNAME .
+*.freecamlife.com CNAME .
 freecamsexposes.com CNAME .
 *.freecamsexposes.com CNAME .
 freecamsly.com CNAME .
@@ -37486,6 +37488,8 @@ gertibaldi.com CNAME .
 *.gertibaldi.com CNAME .
 gesex.com CNAME .
 *.gesex.com CNAME .
+get-a-fuck-tonight.com CNAME .
+*.get-a-fuck-tonight.com CNAME .
 getaporno.com CNAME .
 *.getaporno.com CNAME .
 getcam4.com CNAME .
@@ -73118,6 +73122,8 @@ supercumtube.com CNAME .
 *.supercumtube.com CNAME .
 superheroineforum.com CNAME .
 *.superheroineforum.com CNAME .
+superhongkongescorts.com CNAME .
+*.superhongkongescorts.com CNAME .
 superior-free-porn.com CNAME .
 *.superior-free-porn.com CNAME .
 superlivebabes.com CNAME .
@@ -95228,6 +95234,8 @@ shally.in CNAME .
 *.shally.in CNAME .
 sheenagupta.in CNAME .
 *.sheenagupta.in CNAME .
+sheetalkapoor.in CNAME .
+*.sheetalkapoor.in CNAME .
 sheroes.in CNAME .
 *.sheroes.in CNAME .
 shikharoy.in CNAME .

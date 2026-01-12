@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 14:54 UTC
-# Version: 2026.0112.1454.02
+# Last modified: 12 Jan 2026 22:31 UTC
+# Version: 2026.0112.2231.59
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 82502
 #
@@ -41465,6 +41465,7 @@
 *.hotlinecasino-ca.com
 *.hotlinecasinos.com
 *.hotlink-casino.com
+*.hotloot77.io
 *.hotloot88.io
 *.hotlootcasinonl.com
 *.hotman777.net
@@ -72764,7 +72765,6 @@
 *.sultannice.xyz
 *.sultanoke.com
 *.sultanplay.click
-*.sultanplay.info
 *.sultanpoker.icu
 *.sultantajir.com
 *.sultantogel4dslot.org

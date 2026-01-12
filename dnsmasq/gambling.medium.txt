@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 14:54 UTC
-# Version: 2026.0112.1454.02
+# Last modified: 12 Jan 2026 22:31 UTC
+# Version: 2026.0112.2231.59
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 82502
 #
@@ -41465,6 +41465,7 @@ local=/hotlinecasino.org/
 local=/hotlinecasino-ca.com/
 local=/hotlinecasinos.com/
 local=/hotlink-casino.com/
+local=/hotloot77.io/
 local=/hotloot88.io/
 local=/hotlootcasinonl.com/
 local=/hotman777.net/
@@ -72764,7 +72765,6 @@ local=/sultanjudi.online/
 local=/sultannice.xyz/
 local=/sultanoke.com/
 local=/sultanplay.click/
-local=/sultanplay.info/
 local=/sultanpoker.icu/
 local=/sultantajir.com/
 local=/sultantogel4dslot.org/

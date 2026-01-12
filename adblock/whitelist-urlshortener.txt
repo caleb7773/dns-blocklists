@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jan 2026 09:31 UTC
-! Version: 2026.0112.0931.16
+! Last modified: 12 Jan 2026 21:30 UTC
+! Version: 2026.0112.2130.36
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3591,6 +3591,7 @@
 @@||imaxl.ink^
 @@||urls.imcompanion.co^
 @@||imdb.to^
+@@||imgo.cc^
 @@||imgus.cc^
 @@||imlcc.link^
 @@||imo.cx^
@@ -8321,6 +8322,7 @@
 @@||tourefly.com^
 @@||tourl.in^
 @@||tov1.net^
+@@||towa.no^
 @@||tox.cx^
 @@||toyota.tw^
 @@||toyota.us^
