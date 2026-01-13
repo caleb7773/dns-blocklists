@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jan 2026 09:30 UTC
-# Version: 2026.0113.0930.33
+# Last modified: 13 Jan 2026 21:30 UTC
+# Version: 2026.0113.2130.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 10137
+# Number of entries: 10138
 #
 0.gp
 00m.in
@@ -6488,6 +6488,7 @@ qrs.ly
 qrsu.io
 qrtag.fr
 qrtli.com
+qrto.org
 qrump.com
 qrurl.cc
 qrurl.co
