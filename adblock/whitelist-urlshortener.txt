@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jan 2026 21:30 UTC
-! Version: 2026.0112.2130.36
+! Last modified: 13 Jan 2026 09:30 UTC
+! Version: 2026.0113.0930.33
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1757,6 +1757,7 @@
 @@||cnn.it^
 @@||cnnmon.ie^
 @@||l.cnr.it^
+@@||link.cnr.it^
 @@||cnvrge.co^
 @@||1url.co.uk^
 @@||kutt.acorninsure.co.uk^

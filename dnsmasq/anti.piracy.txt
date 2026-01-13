@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jan 2026 22:33 UTC
-# Version: 2026.0112.2233.47
+# Last modified: 13 Jan 2026 10:30 UTC
+# Version: 2026.0113.1030.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11661
+# Number of entries: 11663
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2406,6 +2406,7 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
+local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -9923,6 +9924,7 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
+local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/
