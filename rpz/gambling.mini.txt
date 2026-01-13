@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768300200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768314540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Jan 2026 10:30 UTC
-; Version: 2026.0113.1030.07
+; Last modified: 13 Jan 2026 14:29 UTC
+; Version: 2026.0113.1429.32
 ; Syntax: RPZ
-; Number of entries: 67408
+; Number of entries: 67398
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -6982,8 +6982,6 @@ casinos.cheap CNAME .
 *.casinos.cheap CNAME .
 australia-casino.christmas CNAME .
 *.australia-casino.christmas CNAME .
-dance.christmas CNAME .
-*.dance.christmas CNAME .
 pragmatic-slots.christmas CNAME .
 *.pragmatic-slots.christmas CNAME .
 1xbet.ci CNAME .
@@ -53096,8 +53094,6 @@ techybets.online CNAME .
 *.techybets.online CNAME .
 teecasino.online CNAME .
 *.teecasino.online CNAME .
-temanbaru.online CNAME .
-*.temanbaru.online CNAME .
 the-pokiesnetcasino.online CNAME .
 *.the-pokiesnetcasino.online CNAME .
 tko777.online CNAME .
@@ -60736,8 +60732,6 @@ slot888mahjongslots.space CNAME .
 *.slot888mahjongslots.space CNAME .
 slotsix.space CNAME .
 *.slotsix.space CNAME .
-tangtem168.space CNAME .
-*.tangtem168.space CNAME .
 vavada-casino-reviews-so.space CNAME .
 *.vavada-casino-reviews-so.space CNAME .
 vavada-casino-reviews-sq.space CNAME .
@@ -62828,8 +62822,6 @@ online-pinco-casino7.top CNAME .
 *.online-pinco-casino7.top CNAME .
 ootw82.top CNAME .
 *.ootw82.top CNAME .
-panen-123.top CNAME .
-*.panen-123.top CNAME .
 pin-up-casino-game.top CNAME .
 *.pin-up-casino-game.top CNAME .
 pin-up-casino-saa2.top CNAME .
@@ -65250,8 +65242,6 @@ hb88casino.vip CNAME .
 *.hb88casino.vip CNAME .
 hello-win.vip CNAME .
 *.hello-win.vip CNAME .
-hi88casino.vip CNAME .
-*.hi88casino.vip CNAME .
 hiltonbetsitem.vip CNAME .
 *.hiltonbetsitem.vip CNAME .
 indobets.vip CNAME .

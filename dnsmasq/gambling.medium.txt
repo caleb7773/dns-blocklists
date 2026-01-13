@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jan 2026 10:29 UTC
-# Version: 2026.0113.1029.18
+# Last modified: 13 Jan 2026 14:28 UTC
+# Version: 2026.0113.1428.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 81641
+# Number of entries: 81636
 #
 local=/0-betsixty.com/
 local=/0-casino.info/
@@ -32563,7 +32563,6 @@ local=/danapoker.org/
 local=/danatotal.icu/
 local=/danatoto45.org/
 local=/danbrev.xyz/
-local=/dance.christmas/
 local=/dancepoker.com/
 local=/dangdut3d.org/
 local=/dangerawesome.co/
@@ -40545,7 +40544,6 @@ local=/hi8802.com/
 local=/hi8823.com/
 local=/hi88app77.com/
 local=/hi88casino.org/
-local=/hi88casino.vip/
 local=/hi88com.biz/
 local=/hi88fz.com/
 local=/hi88r.com/
@@ -57297,7 +57295,6 @@ local=/panel888starz.partners/
 local=/panelkuda.xyz/
 local=/panelrajalotto.xyz/
 local=/panelslots.xyz/
-local=/panen-123.top/
 local=/panen138.com/
 local=/panen338lagi.com/
 local=/panen5000.net/
@@ -72653,7 +72650,6 @@ local=/tangkasjagoslots.com/
 local=/tangkasnetindo.org/
 local=/tangocasinoguia.com/
 local=/tangovia.org/
-local=/tangtem168.space/
 local=/tank38.com/
 local=/tanpalama.xyz/
 local=/tanquepg1.com/
@@ -72812,7 +72808,6 @@ local=/teloletroket.xyz/
 local=/telugucasino.com/
 local=/telukkuluk.site/
 local=/teman303.net/
-local=/temanbaru.online/
 local=/temanflorist.com/
 local=/tembak.pro/
 local=/tembaklangit.xyz/

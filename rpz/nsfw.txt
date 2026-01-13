@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768300320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768314660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Jan 2026 10:32 UTC
-; Version: 2026.0113.1032.49
+; Last modified: 13 Jan 2026 14:31 UTC
+; Version: 2026.0113.1431.59
 ; Syntax: RPZ
-; Number of entries: 154702
+; Number of entries: 154696
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -111182,8 +111182,6 @@ celebrity-thumbs.nl CNAME .
 *.celebrity-thumbs.nl CNAME .
 chat.nl CNAME .
 *.chat.nl CNAME .
-cineville.nl CNAME .
-*.cineville.nl CNAME .
 climaximaal.nl CNAME .
 *.climaximaal.nl CNAME .
 clsnet.nl CNAME .
@@ -122088,8 +122086,6 @@ artfile.ru CNAME .
 *.artfile.ru CNAME .
 artporno.ru CNAME .
 *.artporno.ru CNAME .
-asex.ru CNAME .
-*.asex.ru CNAME .
 asex-auto.ru CNAME .
 *.asex-auto.ru CNAME .
 ashukino24.ru CNAME .
@@ -142402,6 +142398,8 @@ celebritypornsexxx.xyz CNAME .
 *.celebritypornsexxx.xyz CNAME .
 celebz.xyz CNAME .
 *.celebz.xyz CNAME .
+ceritadewasaindonesia.xyz CNAME .
+*.ceritadewasaindonesia.xyz CNAME .
 chainfetish.xyz CNAME .
 *.chainfetish.xyz CNAME .
 chainmilf.xyz CNAME .
@@ -147246,8 +147244,6 @@ pornodd.xyz CNAME .
 *.pornodd.xyz CNAME .
 pornodeep.xyz CNAME .
 *.pornodeep.xyz CNAME .
-pornodigm.xyz CNAME .
-*.pornodigm.xyz CNAME .
 pornodoos.xyz CNAME .
 *.pornodoos.xyz CNAME .
 pornoff.xyz CNAME .
@@ -154440,8 +154436,6 @@ xxxxtyni.xyz CNAME .
 *.xxxxtyni.xyz CNAME .
 xxxxvideo.xyz CNAME .
 *.xxxxvideo.xyz CNAME .
-xxxxvideos.xyz CNAME .
-*.xxxxvideos.xyz CNAME .
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xyz CNAME .
 *.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xyz CNAME .
 xxxyolol.xyz CNAME .

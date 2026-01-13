@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1768296480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1768310880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Jan 2026 09:28 UTC
-; Version: 2026.0113.0928.51
+; Last modified: 13 Jan 2026 13:28 UTC
+; Version: 2026.0113.1328.18
 ; Syntax: RPZ
-; Number of entries: 28672
+; Number of entries: 28670
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -8076,8 +8076,6 @@ guessfinland.com CNAME .
 *.guessfinland.com CNAME .
 guesso.com CNAME .
 *.guesso.com CNAME .
-guestrsrevation.com CNAME .
-*.guestrsrevation.com CNAME .
 guidehue.com CNAME .
 *.guidehue.com CNAME .
 gul-store.com CNAME .
