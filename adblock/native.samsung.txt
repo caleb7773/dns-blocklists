@@ -1,16 +1,4 @@
-[Adblock Plus]
-! Title: HaGeZi's Samsung Tracker DNS Blocklist
-! Description: Blocks Samsung native broadband tracker that track your activity.
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-! Expires: 1 day
-! Last modified: 09 Jan 2026 18:10 UTC
-! Version: 2026.0109.1810.09
-! Syntax: AdBlock
-! Number of entries: 196
-!
+
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
 0.0.0.0 samsungcard.data.adobedc.net
