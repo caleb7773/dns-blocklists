@@ -1,16 +1,4 @@
-[Adblock Plus]
-! Title: HaGeZi's Social Networks DNS Blocklist
-! Description: Blocks access to social networks (Facebook, Instagram, TikTok, X (formerly Twitter), Snapchat, ...)
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
-! Expires: 1 day
-! Last modified: 09 Jan 2026 18:01 UTC
-! Version: 2026.0109.1801.26
-! Syntax: AdBlock
-! Number of entries: 886
-!
+
 0.0.0.0 2ch.org
 0.0.0.0 4cdn.org
 0.0.0.0 4chan.org
